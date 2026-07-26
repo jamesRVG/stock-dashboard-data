@@ -2,18 +2,6 @@
   "date": "2026-07-26",
   "discoveries": [
     {
-      "ticker": "NUE",
-      "name": "Nucor Corporation",
-      "category": "Commodities",
-      "sector": "Basic Materials",
-      "total": 6.9,
-      "fund": 6.2,
-      "tech": 5.6,
-      "macro": 9.0,
-      "signal": "Buy",
-      "price": 241.14999389648438
-    },
-    {
       "ticker": "HAL",
       "name": "Halliburton Company",
       "category": "Commodities",
@@ -23,7 +11,8 @@
       "tech": 5.0,
       "macro": 10,
       "signal": "Buy",
-      "price": 32.709999084472656
+      "price": 32.709999084472656,
+      "business_summary": "Halliburton Company provides products and services to the energy industry worldwide."
     },
     {
       "ticker": "OXY",
@@ -35,7 +24,8 @@
       "tech": 5.8,
       "macro": 10,
       "signal": "Buy",
-      "price": 57.599998474121094
+      "price": 57.599998474121094,
+      "business_summary": "Occidental Petroleum Corporation, together with its subsidiaries, engages in the acquisition, exploration, and development of oil and gas properties in the United States and..."
     },
     {
       "ticker": "MPC",
@@ -47,19 +37,8 @@
       "tech": 5.8,
       "macro": 10,
       "signal": "Buy",
-      "price": 312.2699890136719
-    },
-    {
-      "ticker": "VALE",
-      "name": "VALE S.A.",
-      "category": "Commodities",
-      "sector": "Basic Materials",
-      "total": 6.7,
-      "fund": 5.5,
-      "tech": 6.0,
-      "macro": 9.0,
-      "signal": "Buy",
-      "price": 14.829999923706055
+      "price": 309.239990234375,
+      "business_summary": "Marathon Petroleum Corporation, together with its subsidiaries, operates as an integrated downstream energy company in the United States."
     },
     {
       "ticker": "CVX",
@@ -68,154 +47,63 @@
       "sector": "Energy",
       "total": 6.7,
       "fund": 5.1,
-      "tech": 5.8,
+      "tech": 5.6,
       "macro": 10,
       "signal": "Buy",
-      "price": 194.4199981689453
+      "price": 194.7899932861328,
+      "business_summary": "Chevron Corporation, through its subsidiaries, engages in the integrated energy and chemicals operations in the United States and internationally."
     },
     {
       "ticker": "XOM",
       "name": "ExxonMobil Holdings Corporation",
       "category": "Commodities",
       "sector": "Energy",
-      "total": 6.7,
+      "total": 6.6,
       "fund": 4.9,
-      "tech": 5.8,
+      "tech": 5.6,
       "macro": 10,
       "signal": "Buy",
-      "price": 156.88999938964844
+      "price": 156.94000244140625,
+      "business_summary": "ExxonMobil Holdings Corporation engages in the exploration and production of crude oil and natural gas in the United States, Canada, and internationally."
     },
     {
       "ticker": "PSX",
       "name": "Phillips 66",
       "category": "Commodities",
       "sector": "Energy",
-      "total": 6.7,
+      "total": 6.6,
       "fund": 4.9,
-      "tech": 5.8,
+      "tech": 5.6,
       "macro": 10,
       "signal": "Buy",
-      "price": 206.97999572753906
+      "price": 206.77000427246094,
+      "business_summary": "Phillips 66 operates as an integrated downstream energy provider in the United States, the United Kingdom, Germany, and internationally."
     },
     {
       "ticker": "LNG",
-      "name": "Cheniere Energy, Inc.",
+      "name": "Cheniere Energy Inc",
       "category": "Commodities",
       "sector": "Energy",
-      "total": 6.7,
-      "fund": 5.1,
-      "tech": 5.8,
+      "total": 6.2,
+      "fund": 4.2,
+      "tech": 5.4,
       "macro": 10,
-      "signal": "Buy",
-      "price": 271.989990234375
+      "signal": "Hold",
+      "price": 269.7200012207031,
+      "business_summary": "Cheniere Energy, Inc., an energy infrastructure company, primarily engages in the liquefied natural gas (LNG) related businesses in the United States."
     },
     {
-      "ticker": "GS",
-      "name": "Goldman Sachs Group, Inc. (The)",
-      "category": "Core Mainstream",
-      "sector": "Financial Services",
-      "total": 6.6,
-      "fund": 7.2,
-      "tech": 5.2,
-      "macro": 7.0,
-      "signal": "Buy",
-      "price": 1074.719970703125
-    },
-    {
-      "ticker": "V",
-      "name": "Visa Inc.",
-      "category": "Core Mainstream",
-      "sector": "Financial Services",
-      "total": 6.5,
-      "fund": 6.9,
-      "tech": 5.0,
-      "macro": 7.0,
-      "signal": "Buy",
-      "price": 351.6000061035156
-    },
-    {
-      "ticker": "C",
-      "name": "Citigroup, Inc.",
-      "category": "Core Mainstream",
-      "sector": "Financial Services",
-      "total": 6.5,
+      "ticker": "NGD",
+      "name": "New Gold Inc",
+      "category": "Precious Metals",
+      "sector": "Metals & Mining",
+      "total": 6.2,
       "fund": 6.8,
-      "tech": 5.3,
-      "macro": 7.0,
-      "signal": "Buy",
-      "price": 131.8800048828125
-    },
-    {
-      "ticker": "SLB",
-      "name": "SLB Limited",
-      "category": "Commodities",
-      "sector": "Energy",
-      "total": 6.5,
-      "fund": 5.0,
-      "tech": 5.1,
-      "macro": 10,
-      "signal": "Buy",
-      "price": 47.220001220703125
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corporation",
-      "category": "Tech",
-      "sector": "Technology",
-      "total": 6.5,
-      "fund": 7.7,
-      "tech": 4.8,
-      "macro": 6.0,
-      "signal": "Buy",
-      "price": 120.04000091552734
-    },
-    {
-      "ticker": "BAC",
-      "name": "Bank of America Corporation",
-      "category": "Core Mainstream",
-      "sector": "Financial Services",
-      "total": 6.4,
-      "fund": 6.7,
-      "tech": 5.2,
+      "tech": null,
       "macro": 7.0,
       "signal": "Hold",
-      "price": 61.279998779296875
-    },
-    {
-      "ticker": "MS",
-      "name": "Morgan Stanley",
-      "category": "Core Mainstream",
-      "sector": "Financial Services",
-      "total": 6.3,
-      "fund": 6.6,
-      "tech": 5.1,
-      "macro": 7.0,
-      "signal": "Hold",
-      "price": 215.17999267578125
-    },
-    {
-      "ticker": "ECL",
-      "name": "Ecolab Inc.",
-      "category": "Environmental",
-      "sector": "Basic Materials",
-      "total": 6.2,
-      "fund": 5.0,
-      "tech": 5.2,
-      "macro": 9.0,
-      "signal": "Hold",
-      "price": 263.1400146484375
-    },
-    {
-      "ticker": "HASI",
-      "name": "HA Sustainable Infrastructure C",
-      "category": "Green Energy",
-      "sector": "Financial Services",
-      "total": 6.2,
-      "fund": 5.3,
-      "tech": 5.1,
-      "macro": 8.5,
-      "signal": "Hold",
-      "price": 38.349998474121094
+      "price": null,
+      "business_summary": null
     },
     {
       "ticker": "ILF",
@@ -227,43 +115,21 @@
       "tech": 5.4,
       "macro": 5.5,
       "signal": "Hold",
-      "price": 34.84000015258789
+      "price": 34.63999938964844,
+      "business_summary": "The fund generally invests at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are..."
     },
     {
-      "ticker": "LRCX",
-      "name": "Lam Research Corporation",
+      "ticker": "ORCL",
+      "name": "Oracle Corp",
       "category": "Tech",
       "sector": "Technology",
       "total": 6.1,
-      "fund": 6.7,
-      "tech": 5.3,
+      "fund": 6.9,
+      "tech": 4.8,
       "macro": 6.0,
       "signal": "Hold",
-      "price": 319.7799987792969
-    },
-    {
-      "ticker": "ORA",
-      "name": "Ormat Technologies, Inc.",
-      "category": "Green Energy",
-      "sector": "Utilities",
-      "total": 6.1,
-      "fund": 4.0,
-      "tech": 5.8,
-      "macro": 9.5,
-      "signal": "Hold",
-      "price": 103.83999633789062
-    },
-    {
-      "ticker": "CWEN",
-      "name": "Clearway Energy, Inc.",
-      "category": "Green Energy",
-      "sector": "Utilities",
-      "total": 6.1,
-      "fund": 4.3,
-      "tech": 5.2,
-      "macro": 9.5,
-      "signal": "Hold",
-      "price": 33.56999969482422
+      "price": 114.98999786376953,
+      "business_summary": "Oracle Corporation offers products and services that build, run and support enterprise information technology frameworks worldwide."
     },
     {
       "ticker": "WPC",
@@ -275,79 +141,47 @@
       "tech": 5.1,
       "macro": 8.0,
       "signal": "Hold",
-      "price": 75.19999694824219
+      "price": 75.19999694824219,
+      "business_summary": "W."
     },
     {
-      "ticker": "MA",
-      "name": "Mastercard Incorporated",
+      "ticker": "PFF",
+      "name": "iShares Preferred and Income Se",
+      "category": "Fixed Income",
+      "sector": "N/A",
+      "total": 6.1,
+      "fund": 7.4,
+      "tech": 4.9,
+      "macro": 5.0,
+      "signal": "Hold",
+      "price": 30.15999984741211,
+      "business_summary": "The fund may invest at least 80% of its assets in the component securities of its underlying index and and may invest up to 20% of its assets in certain futures, options and swap..."
+    },
+    {
+      "ticker": "V",
+      "name": "Visa Inc",
       "category": "Core Mainstream",
       "sector": "Financial Services",
       "total": 6.0,
-      "fund": 6.2,
-      "tech": 4.5,
+      "fund": 5.9,
+      "tech": 4.8,
       "macro": 7.0,
       "signal": "Hold",
-      "price": 530.2899780273438
+      "price": 355.739990234375,
+      "business_summary": "Visa Inc."
     },
     {
-      "ticker": "TREX",
-      "name": "Trex Company, Inc.",
-      "category": "Environmental",
-      "sector": "Industrials",
+      "ticker": "CWEN",
+      "name": "Clearway Energy Inc",
+      "category": "Green Energy",
+      "sector": "Utilities",
       "total": 6.0,
-      "fund": 4.9,
-      "tech": 5.6,
-      "macro": 8.0,
-      "signal": "Hold",
-      "price": 42.380001068115234
-    },
-    {
-      "ticker": "XYL",
-      "name": "Xylem Inc.",
-      "category": "Environmental",
-      "sector": "Industrials",
-      "total": 6.0,
-      "fund": 5.3,
+      "fund": 4.4,
       "tech": 4.8,
-      "macro": 8.0,
+      "macro": 9.5,
       "signal": "Hold",
-      "price": 116.87000274658203
-    },
-    {
-      "ticker": "QCOM",
-      "name": "QUALCOMM Incorporated",
-      "category": "Tech",
-      "sector": "Technology",
-      "total": 6.0,
-      "fund": 7.4,
-      "tech": 4.8,
-      "macro": 5.0,
-      "signal": "Hold",
-      "price": 171.11000061035156
-    },
-    {
-      "ticker": "TXN",
-      "name": "Texas Instruments Incorporated",
-      "category": "Tech",
-      "sector": "Technology",
-      "total": 6.0,
-      "fund": 7.0,
-      "tech": 5.2,
-      "macro": 5.0,
-      "signal": "Hold",
-      "price": 284.989990234375
-    },
-    {
-      "ticker": "DELL",
-      "name": "Dell Technologies Inc.",
-      "category": "Tech",
-      "sector": "Technology",
-      "total": 6.0,
-      "fund": 6.4,
-      "tech": 5.2,
-      "macro": 6.0,
-      "signal": "Hold",
-      "price": 439.3399963378906
+      "price": 32.09000015258789,
+      "business_summary": "Clearway Energy, Inc."
     },
     {
       "ticker": "MCHI",
@@ -356,22 +190,11 @@
       "sector": "N/A",
       "total": 6.0,
       "fund": 7.2,
-      "tech": 4.3,
+      "tech": 4.5,
       "macro": 5.5,
       "signal": "Hold",
-      "price": 53.349998474121094
-    },
-    {
-      "ticker": "EWI",
-      "name": "iShares MSCI Italy ETF",
-      "category": "International",
-      "sector": "N/A",
-      "total": 6.0,
-      "fund": 6.8,
-      "tech": 5.1,
-      "macro": 5.5,
-      "signal": "Hold",
-      "price": 59.720001220703125
+      "price": 53.33000183105469,
+      "business_summary": "The fund generally will invest at least 80% of its assets in the component securities of the underlying index and in investments that have economic characteristics that are..."
     }
   ]
 }

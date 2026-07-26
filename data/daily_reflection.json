@@ -1,20 +1,7 @@
 {
   "date": "2026-07-26",
   "movers_up": [],
-  "movers_down": [
-    {
-      "ticker": "PPTA",
-      "delta": -2.9,
-      "now": 3.9,
-      "signal": "Risky"
-    },
-    {
-      "ticker": "NAK",
-      "delta": -2.1,
-      "now": 4.0,
-      "signal": "Caution"
-    }
-  ],
+  "movers_down": [],
   "signal_changes": [
     {
       "ticker": "DRD",
@@ -54,12 +41,27 @@
     {
       "ticker": "EXK",
       "from": "Hold",
-      "to": "Buy"
+      "to": "Strong Buy"
     },
     {
       "ticker": "SBSW",
       "from": "Hold",
-      "to": "Buy"
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "AMSC",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "SCCO",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "BHP",
+      "from": "Buy",
+      "to": "Hold"
     },
     {
       "ticker": "SIL",
@@ -67,20 +69,40 @@
       "to": "Buy"
     },
     {
-      "ticker": "NAK",
-      "from": "Hold",
-      "to": "Caution"
+      "ticker": "FCX",
+      "from": "Buy",
+      "to": "Hold"
     },
     {
-      "ticker": "PPTA",
+      "ticker": "NLY",
       "from": "Buy",
-      "to": "Risky"
+      "to": "Hold"
+    },
+    {
+      "ticker": "DBC",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "WDC",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "CTVA",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "VICI",
+      "from": "Hold",
+      "to": "Buy"
     }
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.126,
+  "bearish_tech_pct": 0.067,
   "market_pullback": false,
-  "resilient_hold_count": 81,
-  "short_reflection": "Downgraded: PPTA (-2.9), NAK (-2.1). Signal changes: DRD (Buy to Strong Buy), OR (Buy to Strong Buy), AEM (Buy to Strong Buy), FNV (Buy to Strong Buy)."
+  "resilient_hold_count": 85,
+  "short_reflection": "Signal changes: DRD (Buy to Strong Buy), OR (Buy to Strong Buy), AEM (Buy to Strong Buy), FNV (Buy to Strong Buy)."
 }
