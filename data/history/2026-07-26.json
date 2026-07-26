@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "refreshed": "2026-07-26 19:20",
+  "refreshed": "2026-07-26 19:40",
   "spy_price": 7412.0,
   "vix": 18.7,
   "picks": [
@@ -52,17 +52,17 @@
     {
       "ticker": "B",
       "signal": "Strong Buy",
-      "total": 8.8,
-      "fund": 8.6,
-      "tech": 4.0,
+      "total": 8.6,
+      "fund": 8.0,
+      "tech": 5.0,
       "macro": 10,
-      "price": 37.15999984741211,
+      "price": 37.11,
       "sector": "Basic Materials",
       "cat": "PrecMet",
-      "rsi": 44.62,
+      "rsi": 48.97,
       "peg": 2.04,
-      "upside_pct": 0.4345,
-      "macd": "Bullish"
+      "upside_pct": null,
+      "macd": "Bullish Cross"
     },
     {
       "ticker": "WPM",
@@ -155,6 +155,21 @@
       "macd": "Bullish Cross"
     },
     {
+      "ticker": "OR",
+      "signal": "Strong Buy",
+      "total": 8.3,
+      "fund": 7.7,
+      "tech": 3.5,
+      "macro": 10,
+      "price": 29.2,
+      "sector": "Basic Materials",
+      "cat": "PrecMet",
+      "rsi": 40.33,
+      "peg": null,
+      "upside_pct": null,
+      "macd": "Bullish Cross"
+    },
+    {
       "ticker": "SSRM",
       "signal": "Strong Buy",
       "total": 8.3,
@@ -170,17 +185,17 @@
       "macd": "Bearish"
     },
     {
-      "ticker": "OR",
+      "ticker": "AEM",
       "signal": "Strong Buy",
-      "total": 8.3,
-      "fund": 7.7,
+      "total": 8.2,
+      "fund": 7.5,
       "tech": 3.5,
       "macro": 10,
-      "price": 29.2,
+      "price": 145.13,
       "sector": "Basic Materials",
       "cat": "PrecMet",
-      "rsi": 40.33,
-      "peg": null,
+      "rsi": 42.93,
+      "peg": 28.15,
       "upside_pct": null,
       "macd": "Bullish Cross"
     },
@@ -215,21 +230,6 @@
       "macd": "Bullish"
     },
     {
-      "ticker": "AEM",
-      "signal": "Strong Buy",
-      "total": 8.2,
-      "fund": 7.5,
-      "tech": 3.5,
-      "macro": 10,
-      "price": 145.13,
-      "sector": "Basic Materials",
-      "cat": "PrecMet",
-      "rsi": 42.93,
-      "peg": 28.15,
-      "upside_pct": null,
-      "macd": "Bullish Cross"
-    },
-    {
       "ticker": "CDE",
       "signal": "Strong Buy",
       "total": 8.1,
@@ -241,6 +241,21 @@
       "cat": "PrecMet",
       "rsi": 43.89,
       "peg": 3.75,
+      "upside_pct": null,
+      "macd": "Bullish"
+    },
+    {
+      "ticker": "HL",
+      "signal": "Strong Buy",
+      "total": 7.7,
+      "fund": 6.3,
+      "tech": 3.9,
+      "macro": 10,
+      "price": 15.14,
+      "sector": "Basic Materials",
+      "cat": "PrecMet",
+      "rsi": 46.69,
+      "peg": 5.64,
       "upside_pct": null,
       "macd": "Bullish"
     },
@@ -260,17 +275,17 @@
       "macd": "Bullish Cross"
     },
     {
-      "ticker": "HL",
+      "ticker": "WGX.TO",
       "signal": "Strong Buy",
-      "total": 7.7,
-      "fund": 6.3,
-      "tech": 3.9,
+      "total": 7.6,
+      "fund": 5.9,
+      "tech": 4.3,
       "macro": 10,
-      "price": 15.14,
+      "price": 4.550000190734863,
       "sector": "Basic Materials",
       "cat": "PrecMet",
-      "rsi": 46.69,
-      "peg": 5.64,
+      "rsi": 38.82,
+      "peg": null,
       "upside_pct": null,
       "macd": "Bullish"
     },
@@ -288,21 +303,6 @@
       "peg": 2.25,
       "upside_pct": null,
       "macd": "Bullish Cross"
-    },
-    {
-      "ticker": "WGX.TO",
-      "signal": "Strong Buy",
-      "total": 7.6,
-      "fund": 5.9,
-      "tech": 4.3,
-      "macro": 10,
-      "price": 4.550000190734863,
-      "sector": "Basic Materials",
-      "cat": "PrecMet",
-      "rsi": 38.82,
-      "peg": null,
-      "upside_pct": null,
-      "macd": "Bullish"
     },
     {
       "ticker": "EXK",
@@ -470,21 +470,6 @@
       "macd": "Bullish Cross"
     },
     {
-      "ticker": "BHP",
-      "signal": "Buy",
-      "total": 6.7,
-      "fund": 5.4,
-      "tech": 6.4,
-      "macro": 9.0,
-      "price": 83.72,
-      "sector": "Basic Materials",
-      "cat": "Commod",
-      "rsi": 51.38,
-      "peg": 5.95,
-      "upside_pct": null,
-      "macd": "Bullish Cross"
-    },
-    {
       "ticker": "VIVO",
       "signal": "Buy",
       "total": 6.7,
@@ -500,6 +485,36 @@
       "macd": "Bearish"
     },
     {
+      "ticker": "BHP",
+      "signal": "Buy",
+      "total": 6.7,
+      "fund": 5.4,
+      "tech": 6.4,
+      "macro": 9.0,
+      "price": 83.72,
+      "sector": "Basic Materials",
+      "cat": "Commod",
+      "rsi": 51.38,
+      "peg": 5.95,
+      "upside_pct": null,
+      "macd": "Bullish Cross"
+    },
+    {
+      "ticker": "SERV",
+      "signal": "Buy",
+      "total": 6.6,
+      "fund": 6.2,
+      "tech": 4.0,
+      "macro": 9.5,
+      "price": 5.039999961853027,
+      "sector": "Industrials",
+      "cat": "Enviro / Tech / GreenE",
+      "rsi": 24.5,
+      "peg": null,
+      "upside_pct": 2.6607,
+      "macd": "Bearish Cross"
+    },
+    {
       "ticker": "NVDA",
       "signal": "Buy",
       "total": 6.6,
@@ -513,6 +528,36 @@
       "peg": 0.56,
       "upside_pct": null,
       "macd": "Bullish Cross"
+    },
+    {
+      "ticker": "SIL",
+      "signal": "Buy",
+      "total": 6.6,
+      "fund": 6.8,
+      "tech": 4.3,
+      "macro": 7.0,
+      "price": 75.44,
+      "sector": "N/A",
+      "cat": "PrecMet",
+      "rsi": 45.72,
+      "peg": null,
+      "upside_pct": null,
+      "macd": "Bullish Cross"
+    },
+    {
+      "ticker": "SILJ",
+      "signal": "Buy",
+      "total": 6.6,
+      "fund": 6.8,
+      "tech": 3.9,
+      "macro": 7.0,
+      "price": 24.77,
+      "sector": "N/A",
+      "cat": "PrecMet",
+      "rsi": 44.57,
+      "peg": null,
+      "upside_pct": null,
+      "macd": "Bullish"
     },
     {
       "ticker": "FCX",
@@ -557,51 +602,6 @@
       "rsi": 47.14,
       "peg": 0.12,
       "upside_pct": null,
-      "macd": "Bearish Cross"
-    },
-    {
-      "ticker": "SIL",
-      "signal": "Buy",
-      "total": 6.6,
-      "fund": 6.8,
-      "tech": 4.3,
-      "macro": 7.0,
-      "price": 75.44,
-      "sector": "N/A",
-      "cat": "PrecMet",
-      "rsi": 45.72,
-      "peg": null,
-      "upside_pct": null,
-      "macd": "Bullish Cross"
-    },
-    {
-      "ticker": "SILJ",
-      "signal": "Buy",
-      "total": 6.6,
-      "fund": 6.8,
-      "tech": 3.9,
-      "macro": 7.0,
-      "price": 24.77,
-      "sector": "N/A",
-      "cat": "PrecMet",
-      "rsi": 44.57,
-      "peg": null,
-      "upside_pct": null,
-      "macd": "Bullish"
-    },
-    {
-      "ticker": "SERV",
-      "signal": "Buy",
-      "total": 6.6,
-      "fund": 6.2,
-      "tech": 4.0,
-      "macro": 9.5,
-      "price": 5.039999961853027,
-      "sector": "Industrials",
-      "cat": "Enviro / Tech / GreenE",
-      "rsi": 24.5,
-      "peg": null,
-      "upside_pct": 2.6607,
       "macd": "Bearish Cross"
     },
     {
@@ -740,19 +740,19 @@
       "macd": "Bullish"
     },
     {
-      "ticker": "TSM",
+      "ticker": "CRM",
       "signal": "Hold",
       "total": 6.2,
-      "fund": 7.8,
-      "tech": 4.6,
-      "macro": 5.0,
-      "price": 403.41,
+      "fund": 7.3,
+      "tech": 4.3,
+      "macro": 6.0,
+      "price": 156.92999267578125,
       "sector": "Technology",
-      "cat": "Tech",
-      "rsi": 42.4,
-      "peg": 1.01,
-      "upside_pct": null,
-      "macd": "Bearish Cross"
+      "cat": "Core",
+      "rsi": 41.13,
+      "peg": 0.71,
+      "upside_pct": 0.5526,
+      "macd": "Bullish"
     }
   ]
 }
