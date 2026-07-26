@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-26",
+  "movers_up": [],
+  "movers_down": [
+    {
+      "ticker": "PPTA",
+      "delta": -2.9,
+      "now": 3.9,
+      "signal": "Risky"
+    },
+    {
+      "ticker": "NAK",
+      "delta": -2.1,
+      "now": 4.0,
+      "signal": "Caution"
+    }
+  ],
+  "signal_changes": [
+    {
+      "ticker": "FNV",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "DRD",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "AG",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "OR",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "AEM",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "CDE",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "PPTA",
+      "from": "Buy",
+      "to": "Risky"
+    },
+    {
+      "ticker": "HL",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "EXK",
+      "from": "Hold",
+      "to": "Buy"
+    },
+    {
+      "ticker": "SIL",
+      "from": "Hold",
+      "to": "Buy"
+    },
+    {
+      "ticker": "SBSW",
+      "from": "Hold",
+      "to": "Buy"
+    },
+    {
+      "ticker": "NAK",
+      "from": "Hold",
+      "to": "Caution"
+    }
+  ],
+  "generated": "rule_based",
+  "market_context": "Normal conditions",
+  "bearish_tech_pct": 0.126,
+  "market_pullback": false,
+  "resilient_hold_count": 81,
+  "short_reflection": "Downgraded: PPTA (-2.9), NAK (-2.1). Signal changes: FNV (Buy to Strong Buy), DRD (Buy to Strong Buy), AG (Buy to Strong Buy), OR (Buy to Strong Buy)."
+}
