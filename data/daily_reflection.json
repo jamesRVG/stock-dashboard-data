@@ -1,108 +1,28 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "movers_up": [],
   "movers_down": [],
   "signal_changes": [
     {
-      "ticker": "DRD",
-      "from": "Buy",
-      "to": "Strong Buy"
-    },
-    {
-      "ticker": "OR",
-      "from": "Buy",
-      "to": "Strong Buy"
-    },
-    {
-      "ticker": "AEM",
-      "from": "Buy",
-      "to": "Strong Buy"
-    },
-    {
-      "ticker": "FNV",
-      "from": "Buy",
-      "to": "Strong Buy"
-    },
-    {
-      "ticker": "AG",
-      "from": "Buy",
-      "to": "Strong Buy"
-    },
-    {
-      "ticker": "CDE",
-      "from": "Buy",
-      "to": "Strong Buy"
-    },
-    {
-      "ticker": "HL",
-      "from": "Buy",
-      "to": "Strong Buy"
-    },
-    {
-      "ticker": "EXK",
-      "from": "Hold",
-      "to": "Strong Buy"
-    },
-    {
-      "ticker": "SBSW",
-      "from": "Hold",
-      "to": "Strong Buy"
-    },
-    {
       "ticker": "AMSC",
-      "from": "Buy",
-      "to": "Strong Buy"
-    },
-    {
-      "ticker": "SCCO",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "BHP",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "SIL",
-      "from": "Hold",
+      "from": "Strong Buy",
       "to": "Buy"
     },
     {
-      "ticker": "FCX",
-      "from": "Buy",
-      "to": "Hold"
+      "ticker": "EXK",
+      "from": "Strong Buy",
+      "to": "Buy"
     },
     {
-      "ticker": "NLY",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "DBC",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "WDC",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "CTVA",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "VICI",
-      "from": "Hold",
+      "ticker": "SBSW",
+      "from": "Strong Buy",
       "to": "Buy"
     }
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.067,
+  "bearish_tech_pct": 0.108,
   "market_pullback": false,
-  "resilient_hold_count": 85,
-  "short_reflection": "Signal changes: DRD (Buy to Strong Buy), OR (Buy to Strong Buy), AEM (Buy to Strong Buy), FNV (Buy to Strong Buy)."
+  "resilient_hold_count": 83,
+  "short_reflection": "Signal changes: AMSC (Strong Buy to Buy), EXK (Strong Buy to Buy), SBSW (Strong Buy to Buy)."
 }
