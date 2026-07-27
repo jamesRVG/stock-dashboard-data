@@ -1,9 +1,9 @@
 {
-  "refreshed": "2026-07-27 18:17",
+  "refreshed": "2026-07-27 20:53",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "avg_score": 5.3,
-  "avg_score_prev": 5.4,
+  "avg_score_prev": 5.3,
   "stats": {
     "strong_buys": 20,
     "buys": 38,
@@ -117,23 +117,23 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7400.9,
-        "chg_pct": -0.0085
+        "price": 7413.2,
+        "chg_pct": -0.0068
       },
       {
         "name": "NASDAQ",
-        "price": 27953.1,
-        "chg_pct": -0.0162
+        "price": 28039.2,
+        "chg_pct": -0.0131
       },
       {
         "name": "DOW",
-        "price": 52102.5,
-        "chg_pct": -0.0014
+        "price": 52210.1,
+        "chg_pct": 0.0007
       },
       {
         "name": "Russell 2K",
-        "price": 2940.2,
-        "chg_pct": -0.0015
+        "price": 2948.0,
+        "chg_pct": 0.0012
       }
     ],
     "vix": {
@@ -142,30 +142,30 @@
       "label": "Normal"
     },
     "dxy": {
-      "price": 101.5,
-      "chg_pct": 0.0018
+      "price": 101.53,
+      "chg_pct": 0.0021
     },
     "yields": [
       {
         "name": "3-Mo T-Bill",
-        "rate": 3.95
+        "rate": 3.96
       },
       {
         "name": "2-Year",
-        "rate": 4.37
+        "rate": 4.33
       },
       {
         "name": "10-Year",
-        "rate": 4.71
+        "rate": 4.69
       },
       {
         "name": "30-Year",
-        "rate": 5.17
+        "rate": 5.16
       }
     ],
     "curve_spread": {
       "label": "10Y minus 2Y",
-      "value": 0.34
+      "value": 0.36
     },
     "curve_status": "NORMAL",
     "fred": {
@@ -362,18 +362,18 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1372,
-        "chg_pct": -0.0012
+        "price": 1.1368,
+        "chg_pct": -0.0016
       },
       {
         "name": "USD/JPY",
-        "price": 163.701,
-        "chg_pct": 0.0
+        "price": 163.745,
+        "chg_pct": 0.0003
       },
       {
         "name": "GBP/USD",
-        "price": 1.329,
-        "chg_pct": -0.0022
+        "price": 1.3286,
+        "chg_pct": -0.0025
       },
       {
         "name": "USD/CNY",
@@ -382,48 +382,43 @@
       },
       {
         "name": "AUD/USD",
-        "price": 0.6988,
-        "chg_pct": 0.0013
+        "price": 0.6989,
+        "chg_pct": 0.0014
       },
       {
         "name": "USD/BRL",
-        "price": 5.1051,
-        "chg_pct": 0.0036
+        "price": 5.1128,
+        "chg_pct": 0.0051
       }
     ],
-    "bitcoin": {
-      "price": 64779.0,
-      "chg_pct": -0.0086
-    },
-    "breakeven_note": "TIP/IEF premium indicates market inflation expectations",
     "global_watch": [
       {
         "ticker": "ES=F",
         "label": "S&P 500 Futures",
         "region": "US Futures",
-        "price": 7436.5,
-        "chg_pct": -0.0071
+        "price": 7452.75,
+        "chg_pct": -0.005
       },
       {
         "ticker": "NQ=F",
         "label": "NASDAQ Futures",
         "region": "US Futures",
-        "price": 28110.75,
-        "chg_pct": -0.0137
+        "price": 28211.25,
+        "chg_pct": -0.0101
       },
       {
         "ticker": "YM=F",
         "label": "Dow Futures",
         "region": "US Futures",
-        "price": 52299,
-        "chg_pct": 0.0
+        "price": 52403,
+        "chg_pct": 0.002
       },
       {
         "ticker": "RTY=F",
         "label": "Russell 2000 Fut",
         "region": "US Futures",
-        "price": 2954.5,
-        "chg_pct": -0.0003
+        "price": 2962.4,
+        "chg_pct": 0.0023
       },
       {
         "ticker": "^VIX",
@@ -445,73 +440,9 @@
         "region": "Commodities",
         "price": 4079.09,
         "chg_pct": 0.0064
-      },
-      {
-        "ticker": "^N225",
-        "label": "Nikkei 225",
-        "region": "Asia",
-        "price": 64931.19,
-        "chg_pct": null
-      },
-      {
-        "ticker": "^HSI",
-        "label": "Hang Seng",
-        "region": "Asia",
-        "price": 25207.18,
-        "chg_pct": null
-      },
-      {
-        "ticker": "000001.SS",
-        "label": "Shanghai Composite",
-        "region": "Asia",
-        "price": 3858.25,
-        "chg_pct": null
-      },
-      {
-        "ticker": "^GDAXI",
-        "label": "DAX (Germany)",
-        "region": "Europe",
-        "price": 25361.03,
-        "chg_pct": null
-      },
-      {
-        "ticker": "^FTSE",
-        "label": "FTSE 100 (UK)",
-        "region": "Europe",
-        "price": 10781.75,
-        "chg_pct": null
       }
     ],
-    "econ_history": {
-      "10Y Treasury Yield": {
-        "current": 4.65,
-        "val_1mo": 4.49,
-        "val_3mo": 4.25,
-        "val_6mo": 4.17,
-        "val_1yr": null
-      },
-      "VIX Fear Index": {
-        "current": 19.19,
-        "val_1mo": 19.49,
-        "val_3mo": 19.5,
-        "val_6mo": 16.75,
-        "val_1yr": null
-      },
-      "DXY Dollar Index": {
-        "current": 101.49,
-        "val_1mo": 101.41,
-        "val_3mo": 98.05,
-        "val_6mo": 99.13,
-        "val_1yr": null
-      },
-      "S&P 500 (SPY)": {
-        "current": 737.09,
-        "val_1mo": 733.58,
-        "val_3mo": 706.9,
-        "val_6mo": 690.1,
-        "val_1yr": null
-      }
-    },
+    "econ_history": {},
     "cb_news": [
       {
         "source": "Federal Reserve",
@@ -566,129 +497,6 @@
         "title": "PRA fines HDI Global SE \u00a34,165,000 for inaccurate reporting of FSCS Liabilities and FSCS Fee Tariff data",
         "url": "https://www.bankofengland.co.uk/news/2026/july/pra-fines-hdi-global-se-4165000-for-inaccurate-reporting",
         "date": "Mon, 20 Jul 2026 10:00:00 +0100"
-      }
-    ],
-    "sector_etfs": [
-      {
-        "symbol": "XLK",
-        "name": "Technology",
-        "price": 173.71,
-        "rsi": 41.0,
-        "macd": "Bearish Cross",
-        "vs50": -0.0257,
-        "vs200": 0.1006,
-        "trend": "Below MA50",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLV",
-        "name": "Healthcare",
-        "price": 163.94,
-        "rsi": 62.5,
-        "macd": "Bearish",
-        "vs50": 0.049,
-        "vs200": 0.0866,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLF",
-        "name": "Financials",
-        "price": 56.73,
-        "rsi": 66.6,
-        "macd": "Bearish",
-        "vs50": 0.0452,
-        "vs200": 0.0778,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLY",
-        "name": "Consumer Cyclical",
-        "price": 110.72,
-        "rsi": 37.8,
-        "macd": "Bearish Cross",
-        "vs50": -0.0424,
-        "vs200": -0.0418,
-        "trend": "Below MA50",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLP",
-        "name": "Consumer Defensive",
-        "price": 85.3,
-        "rsi": 54.8,
-        "macd": "Bullish",
-        "vs50": 0.0143,
-        "vs200": 0.0296,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLI",
-        "name": "Industrials",
-        "price": 182.04,
-        "rsi": 55.7,
-        "macd": "Bearish",
-        "vs50": 0.0211,
-        "vs200": 0.0853,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLE",
-        "name": "Energy",
-        "price": 58.66,
-        "rsi": 61.4,
-        "macd": "Bullish Cross",
-        "vs50": 0.0352,
-        "vs200": 0.1009,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLB",
-        "name": "Basic Materials",
-        "price": 51.25,
-        "rsi": 53.0,
-        "macd": "Bullish",
-        "vs50": 0.0059,
-        "vs200": 0.0399,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLC",
-        "name": "Communication",
-        "price": 107.87,
-        "rsi": 43.2,
-        "macd": "Bearish Cross",
-        "vs50": -0.0287,
-        "vs200": -0.0392,
-        "trend": "Below MA50",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLRE",
-        "name": "Real Estate",
-        "price": 45.7,
-        "rsi": 59.4,
-        "macd": "Bullish",
-        "vs50": 0.0262,
-        "vs200": 0.0602,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLU",
-        "name": "Utilities",
-        "price": 45.58,
-        "rsi": 51.9,
-        "macd": "Bullish",
-        "vs50": 0.0065,
-        "vs200": 0.0241,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
       }
     ]
   },
