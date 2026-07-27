@@ -1,5 +1,5 @@
 {
-  "refreshed": "2026-07-27 16:06",
+  "refreshed": "2026-07-27 16:39",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "avg_score": 5.4,
@@ -117,23 +117,23 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7393.2,
-        "chg_pct": -0.0095
+        "price": 7414.3,
+        "chg_pct": -0.0067
       },
       {
         "name": "NASDAQ",
-        "price": 27872.6,
-        "chg_pct": -0.019
+        "price": 27902.1,
+        "chg_pct": -0.018
       },
       {
         "name": "DOW",
-        "price": 52040.3,
-        "chg_pct": -0.0026
+        "price": 52172.2,
+        "chg_pct": -0.0
       },
       {
         "name": "Russell 2K",
-        "price": 2934.8,
-        "chg_pct": -0.0033
+        "price": 2948.0,
+        "chg_pct": 0.0012
       }
     ],
     "vix": {
@@ -142,17 +142,34 @@
       "label": "Normal"
     },
     "dxy": {
-      "price": 101.46,
-      "chg_pct": 0.0014
+      "price": 101.39,
+      "chg_pct": 0.0008
     },
     "yields": [
       {
+        "name": "3-Mo T-Bill",
+        "rate": 3.95
+      },
+      {
         "name": "2-Year",
         "rate": 4.37
+      },
+      {
+        "name": "10-Year",
+        "rate": 4.71
+      },
+      {
+        "name": "30-Year",
+        "rate": 5.17
       }
     ],
+    "curve_spread": {
+      "label": "10Y minus 2Y",
+      "value": 0.34
+    },
+    "curve_status": "NORMAL",
     "fred": {
-      "fed_funds": null,
+      "fed_funds": 3.63,
       "cpi_yoy": null,
       "unemployment": 4.2
     },
@@ -345,18 +362,18 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1374,
-        "chg_pct": -0.0011
+        "price": 1.1384,
+        "chg_pct": -0.0002
       },
       {
         "name": "USD/JPY",
-        "price": 163.71,
-        "chg_pct": 0.0001
+        "price": 163.597,
+        "chg_pct": -0.0006
       },
       {
         "name": "GBP/USD",
-        "price": 1.3301,
-        "chg_pct": -0.0014
+        "price": 1.331,
+        "chg_pct": -0.0007
       },
       {
         "name": "USD/CNY",
@@ -365,16 +382,44 @@
       },
       {
         "name": "AUD/USD",
-        "price": 0.6991,
-        "chg_pct": 0.0018
+        "price": 0.6998,
+        "chg_pct": 0.0027
       },
       {
         "name": "USD/BRL",
-        "price": 5.1026,
-        "chg_pct": 0.0031
+        "price": 5.0991,
+        "chg_pct": 0.0024
       }
     ],
     "global_watch": [
+      {
+        "ticker": "ES=F",
+        "label": "S&P 500 Futures",
+        "region": "US Futures",
+        "price": 7447.75,
+        "chg_pct": -0.0056
+      },
+      {
+        "ticker": "NQ=F",
+        "label": "NASDAQ Futures",
+        "region": "US Futures",
+        "price": 28166.25,
+        "chg_pct": -0.0117
+      },
+      {
+        "ticker": "YM=F",
+        "label": "Dow Futures",
+        "region": "US Futures",
+        "price": 52336,
+        "chg_pct": 0.0007
+      },
+      {
+        "ticker": "RTY=F",
+        "label": "Russell 2000 Fut",
+        "region": "US Futures",
+        "price": 2955.5,
+        "chg_pct": 0.0
+      },
       {
         "ticker": "^VIX",
         "label": "VIX Fear Index",
