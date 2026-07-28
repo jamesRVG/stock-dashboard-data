@@ -17,6 +17,16 @@
   ],
   "signal_changes": [
     {
+      "ticker": "EXK",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "SBSW",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
       "ticker": "WPM",
       "from": "Strong Buy",
       "to": "Buy"
@@ -50,16 +60,6 @@
       "ticker": "AR",
       "from": "Strong Buy",
       "to": "Buy"
-    },
-    {
-      "ticker": "EXK",
-      "from": "Buy",
-      "to": "Strong Buy"
-    },
-    {
-      "ticker": "SBSW",
-      "from": "Buy",
-      "to": "Strong Buy"
     },
     {
       "ticker": "AMSC",
@@ -97,5 +97,5 @@
   "bearish_tech_pct": 0.063,
   "market_pullback": false,
   "resilient_hold_count": 84,
-  "short_reflection": "Downgraded: AG (-1.9), WPM (-1.6). Signal changes: WPM (Strong Buy to Buy), RGLD (Strong Buy to Buy), OR (Strong Buy to Buy), FNV (Strong Buy to Buy)."
+  "short_reflection": "Downgraded: AG (-1.9), WPM (-1.6). Signal changes: EXK (Buy to Strong Buy), SBSW (Buy to Strong Buy), WPM (Strong Buy to Buy), RGLD (Strong Buy to Buy)."
 }
