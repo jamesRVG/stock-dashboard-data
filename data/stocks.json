@@ -1,5 +1,5 @@
 {
-  "refreshed": "2026-07-28 12:30",
+  "refreshed": "2026-07-28 15:59",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "avg_score": 5.3,
@@ -117,33 +117,33 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7413.2,
-        "chg_pct": -0.0068
+        "price": 7445.5,
+        "chg_pct": 0.0068
       },
       {
         "name": "NASDAQ",
-        "price": 28039.2,
-        "chg_pct": -0.0131
+        "price": 27847.4,
+        "chg_pct": 0.0013
       },
       {
         "name": "DOW",
-        "price": 52210.1,
-        "chg_pct": 0.0007
+        "price": 52841.1,
+        "chg_pct": 0.0066
       },
       {
         "name": "Russell 2K",
-        "price": 2948.0,
-        "chg_pct": 0.0012
+        "price": 2951.6,
+        "chg_pct": 0.0017
       }
     ],
     "vix": {
-      "price": 18.6,
-      "prev": 18.6,
+      "price": 18.7,
+      "prev": 18.7,
       "label": "Normal"
     },
     "dxy": {
-      "price": 101.57,
-      "chg_pct": 0.0005
+      "price": 101.3,
+      "chg_pct": -0.0022
     },
     "yields": [
       {
@@ -362,18 +362,18 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1363,
-        "chg_pct": -0.0006
+        "price": 1.14,
+        "chg_pct": 0.0026
       },
       {
         "name": "USD/JPY",
-        "price": 163.877,
-        "chg_pct": 0.001
+        "price": 163.684,
+        "chg_pct": -0.0002
       },
       {
         "name": "GBP/USD",
-        "price": 1.3284,
-        "chg_pct": -0.0003
+        "price": 1.3307,
+        "chg_pct": 0.0014
       },
       {
         "name": "USD/CNY",
@@ -382,49 +382,21 @@
       },
       {
         "name": "AUD/USD",
-        "price": 0.6969,
-        "chg_pct": -0.0028
+        "price": 0.6981,
+        "chg_pct": -0.0011
       },
       {
         "name": "USD/BRL",
-        "price": 5.1221,
-        "chg_pct": 0.002
+        "price": 5.1117,
+        "chg_pct": -0.0
       }
     ],
     "global_watch": [
       {
-        "ticker": "ES=F",
-        "label": "S&P 500 Futures",
-        "region": "US Futures",
-        "price": 7449.5,
-        "chg_pct": -0.0005
-      },
-      {
-        "ticker": "NQ=F",
-        "label": "NASDAQ Futures",
-        "region": "US Futures",
-        "price": 27958,
-        "chg_pct": -0.009
-      },
-      {
-        "ticker": "YM=F",
-        "label": "Dow Futures",
-        "region": "US Futures",
-        "price": 52774,
-        "chg_pct": 0.007
-      },
-      {
-        "ticker": "RTY=F",
-        "label": "Russell 2000 Fut",
-        "region": "US Futures",
-        "price": 2959.8,
-        "chg_pct": -0.0006
-      },
-      {
         "ticker": "^VIX",
         "label": "VIX Fear Index",
         "region": "Risk",
-        "price": 18.6,
+        "price": 18.7,
         "chg_pct": 0.0
       },
       {
