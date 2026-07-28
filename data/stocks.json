@@ -1,5 +1,5 @@
 {
-  "refreshed": "2026-07-28 08:05",
+  "refreshed": "2026-07-28 12:30",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "avg_score": 5.3,
@@ -138,12 +138,12 @@
     ],
     "vix": {
       "price": 18.6,
-      "prev": 18.7,
+      "prev": 18.6,
       "label": "Normal"
     },
     "dxy": {
-      "price": 101.54,
-      "chg_pct": 0.0002
+      "price": 101.57,
+      "chg_pct": 0.0005
     },
     "yields": [
       {
@@ -362,23 +362,23 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1366,
-        "chg_pct": -0.0004
+        "price": 1.1363,
+        "chg_pct": -0.0006
       },
       {
         "name": "USD/JPY",
-        "price": 163.782,
-        "chg_pct": 0.0004
+        "price": 163.877,
+        "chg_pct": 0.001
       },
       {
         "name": "GBP/USD",
-        "price": 1.3297,
-        "chg_pct": 0.0007
+        "price": 1.3284,
+        "chg_pct": -0.0003
       },
       {
         "name": "USD/CNY",
-        "price": 6.7673,
-        "chg_pct": 0.0003
+        "price": 6.7705,
+        "chg_pct": 0.0008
       },
       {
         "name": "AUD/USD",
@@ -387,50 +387,45 @@
       },
       {
         "name": "USD/BRL",
-        "price": 5.1141,
-        "chg_pct": 0.0004
+        "price": 5.1221,
+        "chg_pct": 0.002
       }
     ],
-    "bitcoin": {
-      "price": 63454.0,
-      "chg_pct": -0.0043
-    },
-    "breakeven_note": "TIP/IEF premium indicates market inflation expectations",
     "global_watch": [
       {
         "ticker": "ES=F",
         "label": "S&P 500 Futures",
         "region": "US Futures",
-        "price": 7436.5,
-        "chg_pct": -0.0022
+        "price": 7449.5,
+        "chg_pct": -0.0005
       },
       {
         "ticker": "NQ=F",
         "label": "NASDAQ Futures",
         "region": "US Futures",
-        "price": 27944,
-        "chg_pct": -0.0094
+        "price": 27958,
+        "chg_pct": -0.009
       },
       {
         "ticker": "YM=F",
         "label": "Dow Futures",
         "region": "US Futures",
-        "price": 52463,
-        "chg_pct": 0.0011
+        "price": 52774,
+        "chg_pct": 0.007
       },
       {
         "ticker": "RTY=F",
         "label": "Russell 2000 Fut",
         "region": "US Futures",
-        "price": 2957.2,
-        "chg_pct": -0.0015
+        "price": 2959.8,
+        "chg_pct": -0.0006
       },
       {
         "ticker": "^VIX",
         "label": "VIX Fear Index",
         "region": "Risk",
         "price": 18.6,
-        "chg_pct": -0.0053
+        "chg_pct": 0.0
       },
       {
         "ticker": "CL=F",
@@ -445,73 +440,9 @@
         "region": "Commodities",
         "price": 4067.46,
         "chg_pct": -0.0023
-      },
-      {
-        "ticker": "^N225",
-        "label": "Nikkei 225",
-        "region": "Asia",
-        "price": 62364.92,
-        "chg_pct": -0.0395
-      },
-      {
-        "ticker": "^HSI",
-        "label": "Hang Seng",
-        "region": "Asia",
-        "price": 25301.99,
-        "chg_pct": 0.0038
-      },
-      {
-        "ticker": "000001.SS",
-        "label": "Shanghai Composite",
-        "region": "Asia",
-        "price": 3813.31,
-        "chg_pct": -0.0116
-      },
-      {
-        "ticker": "^GDAXI",
-        "label": "DAX (Germany)",
-        "region": "Europe",
-        "price": 25488.58,
-        "chg_pct": 0.005
-      },
-      {
-        "ticker": "^FTSE",
-        "label": "FTSE 100 (UK)",
-        "region": "Europe",
-        "price": 10799.3,
-        "chg_pct": 0.0016
       }
     ],
-    "econ_history": {
-      "10Y Treasury Yield": {
-        "current": 4.64,
-        "val_1mo": 4.49,
-        "val_3mo": 4.25,
-        "val_6mo": 4.17,
-        "val_1yr": null
-      },
-      "VIX Fear Index": {
-        "current": 19.12,
-        "val_1mo": 18.63,
-        "val_3mo": 18.92,
-        "val_6mo": 15.84,
-        "val_1yr": null
-      },
-      "DXY Dollar Index": {
-        "current": 101.54,
-        "val_1mo": 101.61,
-        "val_3mo": 98.41,
-        "val_6mo": 99.13,
-        "val_1yr": null
-      },
-      "S&P 500 (SPY)": {
-        "current": 739.09,
-        "val_1mo": 733.24,
-        "val_3mo": 702.27,
-        "val_6mo": 686.71,
-        "val_1yr": null
-      }
-    },
+    "econ_history": {},
     "cb_news": [
       {
         "source": "Federal Reserve",
