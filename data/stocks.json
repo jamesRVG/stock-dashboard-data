@@ -1,9 +1,9 @@
 {
-  "refreshed": "2026-07-29 08:13",
+  "refreshed": "2026-07-29 13:18",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "avg_score": 5.1,
-  "avg_score_prev": 5.3,
+  "avg_score_prev": 5.1,
   "stats": {
     "strong_buys": 6,
     "buys": 26,
@@ -154,12 +154,12 @@
     ],
     "vix": {
       "price": 18.7,
-      "prev": 18.2,
+      "prev": 18.7,
       "label": "Normal"
     },
     "dxy": {
-      "price": 101.33,
-      "chg_pct": -0.001
+      "price": 101.46,
+      "chg_pct": 0.0004
     },
     "yields": [
       {
@@ -378,13 +378,13 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1397,
-        "chg_pct": 0.0007
+        "price": 1.1379,
+        "chg_pct": -0.0009
       },
       {
         "name": "USD/JPY",
-        "price": 163.667,
-        "chg_pct": -0.0009
+        "price": 163.772,
+        "chg_pct": -0.0003
       },
       {
         "name": "GBP/USD",
@@ -398,55 +398,22 @@
       },
       {
         "name": "AUD/USD",
-        "price": 0.6946,
-        "chg_pct": -0.004
+        "price": 0.6941,
+        "chg_pct": -0.0046
       },
       {
         "name": "USD/BRL",
-        "price": 5.1287,
-        "chg_pct": 0.0005
+        "price": 5.1135,
+        "chg_pct": -0.0025
       }
     ],
-    "bitcoin": {
-      "price": 64344.0,
-      "chg_pct": 0.0074
-    },
-    "breakeven_note": "TIP/IEF premium indicates market inflation expectations",
     "global_watch": [
-      {
-        "ticker": "ES=F",
-        "label": "S&P 500 Futures",
-        "region": "US Futures",
-        "price": 7479.75,
-        "chg_pct": 0.0021
-      },
-      {
-        "ticker": "NQ=F",
-        "label": "NASDAQ Futures",
-        "region": "US Futures",
-        "price": 27901.75,
-        "chg_pct": -0.0022
-      },
-      {
-        "ticker": "YM=F",
-        "label": "Dow Futures",
-        "region": "US Futures",
-        "price": 52986,
-        "chg_pct": 0.0013
-      },
-      {
-        "ticker": "RTY=F",
-        "label": "Russell 2000 Fut",
-        "region": "US Futures",
-        "price": 2968.8,
-        "chg_pct": 0.0006
-      },
       {
         "ticker": "^VIX",
         "label": "VIX Fear Index",
         "region": "Risk",
         "price": 18.7,
-        "chg_pct": 0.0275
+        "chg_pct": 0.0
       },
       {
         "ticker": "CL=F",
@@ -461,73 +428,9 @@
         "region": "Commodities",
         "price": 4021.93,
         "chg_pct": -0.0016
-      },
-      {
-        "ticker": "^N225",
-        "label": "Nikkei 225",
-        "region": "Asia",
-        "price": 61434.19,
-        "chg_pct": -0.0149
-      },
-      {
-        "ticker": "^HSI",
-        "label": "Hang Seng",
-        "region": "Asia",
-        "price": 25783.61,
-        "chg_pct": 0.0187
-      },
-      {
-        "ticker": "000001.SS",
-        "label": "Shanghai Composite",
-        "region": "Asia",
-        "price": 3828.47,
-        "chg_pct": 0.004
-      },
-      {
-        "ticker": "^GDAXI",
-        "label": "DAX (Germany)",
-        "region": "Europe",
-        "price": 25499.3,
-        "chg_pct": 0.0014
-      },
-      {
-        "ticker": "^FTSE",
-        "label": "FTSE 100 (UK)",
-        "region": "Europe",
-        "price": 10927.71,
-        "chg_pct": 0.0052
       }
     ],
-    "econ_history": {
-      "10Y Treasury Yield": {
-        "current": 4.6,
-        "val_1mo": 4.39,
-        "val_3mo": 4.29,
-        "val_6mo": 4.16,
-        "val_1yr": null
-      },
-      "VIX Fear Index": {
-        "current": 18.24,
-        "val_1mo": 18.41,
-        "val_3mo": 18.71,
-        "val_6mo": 20.09,
-        "val_1yr": 15.98
-      },
-      "DXY Dollar Index": {
-        "current": 101.32,
-        "val_1mo": 101.43,
-        "val_3mo": 98.59,
-        "val_6mo": 99.32,
-        "val_1yr": null
-      },
-      "S&P 500 (SPY)": {
-        "current": 740.86,
-        "val_1mo": 734.3,
-        "val_3mo": 709.38,
-        "val_6mo": 688.58,
-        "val_1yr": null
-      }
-    },
+    "econ_history": {},
     "cb_news": [
       {
         "source": "Federal Reserve",
@@ -582,30 +485,6 @@
         "title": "PRA fines HDI Global SE \u00a34,165,000 for inaccurate reporting of FSCS Liabilities and FSCS Fee Tariff data",
         "url": "https://www.bankofengland.co.uk/news/2026/july/pra-fines-hdi-global-se-4165000-for-inaccurate-reporting",
         "date": "Mon, 20 Jul 2026 10:00:00 +0100"
-      }
-    ],
-    "sector_etfs": [
-      {
-        "symbol": "XLK",
-        "name": "Technology",
-        "price": 171.09,
-        "rsi": 38.2,
-        "macd": "Bearish Cross",
-        "vs50": -0.039,
-        "vs200": 0.0831,
-        "trend": "Below MA50",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLV",
-        "name": "Healthcare",
-        "price": 167.26,
-        "rsi": 67.9,
-        "macd": "Bullish",
-        "vs50": 0.0675,
-        "vs200": 0.1074,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
       }
     ]
   },
