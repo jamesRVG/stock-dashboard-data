@@ -1,101 +1,12 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "movers_up": [],
-  "movers_down": [
-    {
-      "ticker": "AG",
-      "delta": -1.9,
-      "now": 6.3,
-      "signal": "Hold"
-    },
-    {
-      "ticker": "WPM",
-      "delta": -1.6,
-      "now": 7.0,
-      "signal": "Buy"
-    }
-  ],
-  "signal_changes": [
-    {
-      "ticker": "EXK",
-      "from": "Buy",
-      "to": "Strong Buy"
-    },
-    {
-      "ticker": "SBSW",
-      "from": "Buy",
-      "to": "Strong Buy"
-    },
-    {
-      "ticker": "WPM",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "RGLD",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "OR",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "FNV",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "AG",
-      "from": "Strong Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "CDE",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "AR",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "AMSC",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "MU",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "NVDA",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "STX",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "NLY",
-      "from": "Hold",
-      "to": "Buy"
-    },
-    {
-      "ticker": "SCCO",
-      "from": "Hold",
-      "to": "Buy"
-    }
-  ],
+  "movers_down": [],
+  "signal_changes": [],
   "generated": "rule_based",
   "market_context": "Normal conditions",
   "bearish_tech_pct": 0.063,
   "market_pullback": false,
   "resilient_hold_count": 84,
-  "short_reflection": "Downgraded: AG (-1.9), WPM (-1.6). Signal changes: EXK (Buy to Strong Buy), SBSW (Buy to Strong Buy), WPM (Strong Buy to Buy), RGLD (Strong Buy to Buy)."
+  "short_reflection": "No major score moves vs prior session."
 }
