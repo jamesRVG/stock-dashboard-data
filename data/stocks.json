@@ -1,5 +1,5 @@
 {
-  "refreshed": "2026-07-30 18:05",
+  "refreshed": "2026-07-30 20:38",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "avg_score": 5.1,
@@ -133,34 +133,61 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7424.4,
-        "chg_pct": 0.0046
+        "price": 7437.6,
+        "chg_pct": 0.0064
       },
       {
         "name": "NASDAQ",
-        "price": 28056.7,
-        "chg_pct": 0.0109
+        "price": 28106.3,
+        "chg_pct": 0.0126
       },
       {
         "name": "DOW",
-        "price": 52146.4,
-        "chg_pct": 0.0006
+        "price": 52208.1,
+        "chg_pct": 0.0018
       },
       {
         "name": "Russell 2K",
-        "price": 2933.7,
-        "chg_pct": 0.0051
+        "price": 2946.1,
+        "chg_pct": 0.0093
       }
     ],
-    "dxy": {
-      "price": 99.9,
-      "chg_pct": -0.0091
+    "vix": {
+      "price": 20.7,
+      "prev": 20.7,
+      "label": "Elevated"
     },
-    "yields": [],
+    "dxy": {
+      "price": 99.99,
+      "chg_pct": -0.0083
+    },
+    "yields": [
+      {
+        "name": "3-Mo T-Bill",
+        "rate": 3.83
+      },
+      {
+        "name": "2-Year",
+        "rate": 4.22
+      },
+      {
+        "name": "10-Year",
+        "rate": 4.67
+      },
+      {
+        "name": "30-Year",
+        "rate": 5.2
+      }
+    ],
+    "curve_spread": {
+      "label": "10Y minus 2Y",
+      "value": 0.45
+    },
+    "curve_status": "NORMAL",
     "fred": {
-      "fed_funds": null,
+      "fed_funds": 3.63,
       "cpi_yoy": null,
-      "unemployment": null
+      "unemployment": 4.2
     },
     "commodities": [
       {
@@ -351,18 +378,18 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1532,
-        "chg_pct": 0.0062
+        "price": 1.1527,
+        "chg_pct": 0.0058
       },
       {
         "name": "USD/JPY",
-        "price": 158.987,
-        "chg_pct": -0.027
+        "price": 159.539,
+        "chg_pct": -0.0236
       },
       {
         "name": "GBP/USD",
-        "price": 1.3472,
-        "chg_pct": 0.0084
+        "price": 1.3466,
+        "chg_pct": 0.0079
       },
       {
         "name": "USD/CNY",
@@ -376,38 +403,50 @@
       },
       {
         "name": "USD/BRL",
-        "price": 5.0699,
-        "chg_pct": -0.0092
+        "price": 5.0614,
+        "chg_pct": -0.0109
       }
     ],
+    "bitcoin": {
+      "price": 64726.0,
+      "chg_pct": 0.0128
+    },
+    "breakeven_note": "TIP/IEF premium indicates market inflation expectations",
     "global_watch": [
       {
         "ticker": "ES=F",
         "label": "S&P 500 Futures",
         "region": "US Futures",
-        "price": 7457.25,
-        "chg_pct": 0.0163
+        "price": 7489.5,
+        "chg_pct": 0.0206
       },
       {
         "ticker": "NQ=F",
         "label": "NASDAQ Futures",
         "region": "US Futures",
-        "price": 28203.5,
-        "chg_pct": 0.0368
+        "price": 28349.25,
+        "chg_pct": 0.0422
       },
       {
         "ticker": "YM=F",
         "label": "Dow Futures",
         "region": "US Futures",
-        "price": 52317,
-        "chg_pct": 0.0108
+        "price": 52443,
+        "chg_pct": 0.0132
       },
       {
         "ticker": "RTY=F",
         "label": "Russell 2000 Fut",
         "region": "US Futures",
-        "price": 2943.2,
-        "chg_pct": 0.0126
+        "price": 2953.2,
+        "chg_pct": 0.016
+      },
+      {
+        "ticker": "^VIX",
+        "label": "VIX Fear Index",
+        "region": "Risk",
+        "price": 20.7,
+        "chg_pct": 0.0
       },
       {
         "ticker": "CL=F",
@@ -422,9 +461,73 @@
         "region": "Commodities",
         "price": 4082.3,
         "chg_pct": 0.0035
+      },
+      {
+        "ticker": "^N225",
+        "label": "Nikkei 225",
+        "region": "Asia",
+        "price": 61434.19,
+        "chg_pct": null
+      },
+      {
+        "ticker": "^HSI",
+        "label": "Hang Seng",
+        "region": "Asia",
+        "price": 25807.92,
+        "chg_pct": null
+      },
+      {
+        "ticker": "000001.SS",
+        "label": "Shanghai Composite",
+        "region": "Asia",
+        "price": null,
+        "chg_pct": null
+      },
+      {
+        "ticker": "^GDAXI",
+        "label": "DAX (Germany)",
+        "region": "Europe",
+        "price": 25612.03,
+        "chg_pct": 0.006
+      },
+      {
+        "ticker": "^FTSE",
+        "label": "FTSE 100 (UK)",
+        "region": "Europe",
+        "price": 10897.27,
+        "chg_pct": -0.001
       }
     ],
-    "econ_history": {},
+    "econ_history": {
+      "10Y Treasury Yield": {
+        "current": 4.66,
+        "val_1mo": 4.37,
+        "val_3mo": 4.31,
+        "val_6mo": 4.3,
+        "val_1yr": null
+      },
+      "VIX Fear Index": {
+        "current": 17.09,
+        "val_1mo": 17.65,
+        "val_3mo": 18.02,
+        "val_6mo": 16.9,
+        "val_1yr": 15.48
+      },
+      "DXY Dollar Index": {
+        "current": 99.97,
+        "val_1mo": 101.11,
+        "val_3mo": 98.51,
+        "val_6mo": 98.64,
+        "val_1yr": null
+      },
+      "S&P 500 (SPY)": {
+        "current": 741.69,
+        "val_1mo": 741.0,
+        "val_3mo": 712.11,
+        "val_6mo": 674.0,
+        "val_1yr": null
+      }
+    },
     "cb_news": [
       {
         "source": "Federal Reserve",
