@@ -1,5 +1,5 @@
 {
-  "refreshed": "2026-07-31 08:20",
+  "refreshed": "2026-07-31 13:16",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "avg_score": 5.1,
@@ -158,8 +158,8 @@
       "label": "Elevated"
     },
     "dxy": {
-      "price": 100.19,
-      "chg_pct": 0.0017
+      "price": 100.36,
+      "chg_pct": 0.0033
     },
     "yields": [
       {
@@ -378,36 +378,64 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.151,
-        "chg_pct": -0.0013
+        "price": 1.1488,
+        "chg_pct": -0.0032
       },
       {
         "name": "USD/JPY",
-        "price": 160.423,
+        "price": 160.417,
         "chg_pct": 0.0052
       },
       {
         "name": "GBP/USD",
-        "price": 1.3443,
-        "chg_pct": -0.0014
+        "price": 1.3415,
+        "chg_pct": -0.0035
       },
       {
         "name": "USD/CNY",
-        "price": 6.747,
-        "chg_pct": -0.0011
+        "price": 6.7504,
+        "chg_pct": -0.0006
       },
       {
         "name": "AUD/USD",
-        "price": 0.7028,
-        "chg_pct": 0.0004
+        "price": 0.7013,
+        "chg_pct": -0.0017
       },
       {
         "name": "USD/BRL",
-        "price": 5.061,
-        "chg_pct": 0.0
+        "price": 5.0762,
+        "chg_pct": 0.003
       }
     ],
     "global_watch": [
+      {
+        "ticker": "ES=F",
+        "label": "S&P 500 Futures",
+        "region": "US Futures",
+        "price": 7486.5,
+        "chg_pct": 0.0009
+      },
+      {
+        "ticker": "NQ=F",
+        "label": "NASDAQ Futures",
+        "region": "US Futures",
+        "price": 28495.25,
+        "chg_pct": 0.0063
+      },
+      {
+        "ticker": "YM=F",
+        "label": "Dow Futures",
+        "region": "US Futures",
+        "price": 52580,
+        "chg_pct": 0.0035
+      },
+      {
+        "ticker": "RTY=F",
+        "label": "Russell 2000 Fut",
+        "region": "US Futures",
+        "price": 2961.7,
+        "chg_pct": 0.0026
+      },
       {
         "ticker": "^VIX",
         "label": "VIX Fear Index",
