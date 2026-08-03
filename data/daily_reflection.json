@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "movers_up": [],
   "movers_down": [],
   "signal_changes": [
     {
-      "ticker": "SPG",
-      "from": "Buy",
-      "to": "Hold"
+      "ticker": "B",
+      "from": "Strong Buy",
+      "to": "Buy"
     }
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.059,
+  "bearish_tech_pct": 0.055,
   "market_pullback": false,
-  "resilient_hold_count": 72,
-  "short_reflection": "Signal changes: SPG (Buy to Hold)."
+  "resilient_hold_count": 71,
+  "short_reflection": "Signal changes: B (Strong Buy to Buy)."
 }
