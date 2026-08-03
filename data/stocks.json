@@ -1,5 +1,5 @@
 {
-  "refreshed": "2026-08-03 18:36",
+  "refreshed": "2026-08-03 20:43",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "avg_score": 5.1,
@@ -133,23 +133,23 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7605.6,
-        "chg_pct": 0.0134
+        "price": 7600.5,
+        "chg_pct": 0.0128
       },
       {
         "name": "NASDAQ",
-        "price": 28808.9,
-        "chg_pct": 0.0188
+        "price": 28776.8,
+        "chg_pct": 0.0176
       },
       {
         "name": "DOW",
-        "price": 53132.1,
-        "chg_pct": 0.0071
+        "price": 53178.4,
+        "chg_pct": 0.0079
       },
       {
         "name": "Russell 2K",
-        "price": 2979.7,
-        "chg_pct": 0.0151
+        "price": 2981.9,
+        "chg_pct": 0.0159
       }
     ],
     "vix": {
@@ -158,30 +158,30 @@
       "label": "Normal"
     },
     "dxy": {
-      "price": 99.94,
-      "chg_pct": 0.0025
+      "price": 99.96,
+      "chg_pct": 0.0027
     },
     "yields": [
       {
         "name": "3-Mo T-Bill",
-        "rate": 3.82
+        "rate": 3.83
       },
       {
         "name": "2-Year",
-        "rate": 4.23
+        "rate": 4.28
       },
       {
         "name": "10-Year",
-        "rate": 4.68
+        "rate": 4.75
       },
       {
         "name": "30-Year",
-        "rate": 5.21
+        "rate": 5.27
       }
     ],
     "curve_spread": {
       "label": "10Y minus 2Y",
-      "value": 0.45
+      "value": 0.47
     },
     "curve_status": "NORMAL",
     "fred": {
@@ -379,67 +379,62 @@
       {
         "name": "EUR/USD",
         "price": 1.1509,
-        "chg_pct": -0.0023
+        "chg_pct": -0.0024
       },
       {
         "name": "USD/JPY",
-        "price": 156.866,
-        "chg_pct": -0.0017
+        "price": 157.107,
+        "chg_pct": -0.0001
       },
       {
         "name": "GBP/USD",
-        "price": 1.3426,
-        "chg_pct": -0.004
+        "price": 1.3431,
+        "chg_pct": -0.0036
       },
       {
         "name": "USD/CNY",
-        "price": 6.7523,
-        "chg_pct": 0.0003
+        "price": 6.7518,
+        "chg_pct": 0.0002
       },
       {
         "name": "AUD/USD",
-        "price": 0.6996,
-        "chg_pct": -0.0035
+        "price": 0.6999,
+        "chg_pct": -0.0031
       },
       {
         "name": "USD/BRL",
-        "price": 5.0879,
-        "chg_pct": 0.0018
+        "price": 5.0803,
+        "chg_pct": 0.0003
       }
     ],
-    "bitcoin": {
-      "price": 63821.0,
-      "chg_pct": 0.0053
-    },
-    "breakeven_note": "TIP/IEF premium indicates market inflation expectations",
     "global_watch": [
       {
         "ticker": "ES=F",
         "label": "S&P 500 Futures",
         "region": "US Futures",
-        "price": 7632,
-        "chg_pct": 0.0109
+        "price": 7633.75,
+        "chg_pct": 0.0111
       },
       {
         "ticker": "NQ=F",
         "label": "NASDAQ Futures",
         "region": "US Futures",
-        "price": 28922,
-        "chg_pct": 0.0125
+        "price": 28917.75,
+        "chg_pct": 0.0123
       },
       {
         "ticker": "YM=F",
         "label": "Dow Futures",
         "region": "US Futures",
-        "price": 53277,
-        "chg_pct": 0.0094
+        "price": 53394,
+        "chg_pct": 0.0116
       },
       {
         "ticker": "RTY=F",
         "label": "Russell 2000 Fut",
         "region": "US Futures",
-        "price": 2989.3,
-        "chg_pct": 0.0133
+        "price": 2992.4,
+        "chg_pct": 0.0144
       },
       {
         "ticker": "^VIX",
@@ -461,73 +456,9 @@
         "region": "Commodities",
         "price": 4035.97,
         "chg_pct": -0.0018
-      },
-      {
-        "ticker": "^N225",
-        "label": "Nikkei 225",
-        "region": "Asia",
-        "price": 64362.02,
-        "chg_pct": null
-      },
-      {
-        "ticker": "^HSI",
-        "label": "Hang Seng",
-        "region": "Asia",
-        "price": 25884.43,
-        "chg_pct": null
-      },
-      {
-        "ticker": "000001.SS",
-        "label": "Shanghai Composite",
-        "region": "Asia",
-        "price": null,
-        "chg_pct": null
-      },
-      {
-        "ticker": "^GDAXI",
-        "label": "DAX (Germany)",
-        "region": "Europe",
-        "price": 26001.31,
-        "chg_pct": 0.0145
-      },
-      {
-        "ticker": "^FTSE",
-        "label": "FTSE 100 (UK)",
-        "region": "Europe",
-        "price": 10857.7,
-        "chg_pct": -0.001
       }
     ],
-    "econ_history": {
-      "10Y Treasury Yield": {
-        "current": 4.68,
-        "val_1mo": 4.47,
-        "val_3mo": 4.35,
-        "val_6mo": 4.25,
-        "val_1yr": null
-      },
-      "VIX Fear Index": {
-        "current": 15.75,
-        "val_1mo": 16.59,
-        "val_3mo": 18.81,
-        "val_6mo": 16.09,
-        "val_1yr": null
-      },
-      "DXY Dollar Index": {
-        "current": 99.95,
-        "val_1mo": 101.39,
-        "val_3mo": 98.62,
-        "val_6mo": 98.36,
-        "val_1yr": null
-      },
-      "S&P 500 (SPY)": {
-        "current": 757.52,
-        "val_1mo": 745.76,
-        "val_3mo": 709.86,
-        "val_6mo": 685.34,
-        "val_1yr": null
-      }
-    },
+    "econ_history": {},
     "cb_news": [
       {
         "source": "Federal Reserve",
@@ -582,129 +513,6 @@
         "title": "Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes",
         "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026",
         "date": "Thu, 30 Jul 2026 12:00:00 +0100"
-      }
-    ],
-    "sector_etfs": [
-      {
-        "symbol": "XLK",
-        "name": "Technology",
-        "price": 178.68,
-        "rsi": 50.3,
-        "macd": "Bearish",
-        "vs50": 0.0068,
-        "vs200": 0.1266,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLV",
-        "name": "Healthcare",
-        "price": 162.1,
-        "rsi": 53.9,
-        "macd": "Bearish Cross",
-        "vs50": 0.0279,
-        "vs200": 0.0698,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLF",
-        "name": "Financials",
-        "price": 57.24,
-        "rsi": 64.3,
-        "macd": "Bearish",
-        "vs50": 0.0448,
-        "vs200": 0.0832,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLY",
-        "name": "Consumer Cyclical",
-        "price": 117.95,
-        "rsi": 58.5,
-        "macd": "Bullish Cross",
-        "vs50": 0.0223,
-        "vs200": 0.0214,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLP",
-        "name": "Consumer Defensive",
-        "price": 84.89,
-        "rsi": 50.7,
-        "macd": "Bullish",
-        "vs50": 0.0055,
-        "vs200": 0.0229,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLI",
-        "name": "Industrials",
-        "price": 182.52,
-        "rsi": 55.5,
-        "macd": "Bearish",
-        "vs50": 0.0218,
-        "vs200": 0.0842,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLE",
-        "name": "Energy",
-        "price": 58.7,
-        "rsi": 57.4,
-        "macd": "Bullish",
-        "vs50": 0.0293,
-        "vs200": 0.0963,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLB",
-        "name": "Basic Materials",
-        "price": 50.83,
-        "rsi": 48.4,
-        "macd": "Bullish",
-        "vs50": -0.004,
-        "vs200": 0.0291,
-        "trend": "Below MA50",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLC",
-        "name": "Communication",
-        "price": 111.22,
-        "rsi": 54.3,
-        "macd": "Bullish",
-        "vs50": 0.0048,
-        "vs200": -0.008,
-        "trend": "Above MA50",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLRE",
-        "name": "Real Estate",
-        "price": 45.13,
-        "rsi": 51.0,
-        "macd": "Bearish",
-        "vs50": 0.0095,
-        "vs200": 0.0442,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLU",
-        "name": "Utilities",
-        "price": 44.29,
-        "rsi": 39.8,
-        "macd": "Bearish",
-        "vs50": -0.0198,
-        "vs200": -0.0051,
-        "trend": "Below MA50",
-        "vol_ratio": null
       }
     ]
   },
