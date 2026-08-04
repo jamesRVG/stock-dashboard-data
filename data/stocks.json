@@ -1,5 +1,5 @@
 {
-  "refreshed": "2026-08-04 18:23",
+  "refreshed": "2026-08-04 20:54",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "avg_score": 5.1,
@@ -133,23 +133,23 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7742.1,
-        "chg_pct": 0.0146
+        "price": 7736.5,
+        "chg_pct": 0.0139
       },
       {
         "name": "NASDAQ",
-        "price": 29718.4,
-        "chg_pct": 0.0209
+        "price": 29733.2,
+        "chg_pct": 0.0214
       },
       {
         "name": "DOW",
-        "price": 54194.1,
-        "chg_pct": 0.0103
+        "price": 54085.9,
+        "chg_pct": 0.0083
       },
       {
         "name": "Russell 2K",
-        "price": 3038.7,
-        "chg_pct": 0.0162
+        "price": 3037.0,
+        "chg_pct": 0.0157
       }
     ],
     "vix": {
@@ -158,30 +158,30 @@
       "label": "Normal"
     },
     "dxy": {
-      "price": 99.93,
-      "chg_pct": -0.0004
+      "price": 99.87,
+      "chg_pct": -0.0011
     },
     "yields": [
       {
         "name": "3-Mo T-Bill",
-        "rate": 3.83
+        "rate": 3.91
       },
       {
         "name": "2-Year",
-        "rate": 4.28
+        "rate": 4.25
       },
       {
         "name": "10-Year",
-        "rate": 4.75
+        "rate": 4.7
       },
       {
         "name": "30-Year",
-        "rate": 5.27
+        "rate": 5.23
       }
     ],
     "curve_spread": {
       "label": "10Y minus 2Y",
-      "value": 0.47
+      "value": 0.45
     },
     "curve_status": "NORMAL",
     "fred": {
@@ -378,18 +378,18 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1523,
-        "chg_pct": 0.0013
+        "price": 1.1532,
+        "chg_pct": 0.0021
       },
       {
         "name": "USD/JPY",
-        "price": 157.666,
-        "chg_pct": 0.003
+        "price": 157.735,
+        "chg_pct": 0.0035
       },
       {
         "name": "GBP/USD",
-        "price": 1.3441,
-        "chg_pct": 0.0012
+        "price": 1.3451,
+        "chg_pct": 0.0019
       },
       {
         "name": "USD/CNY",
@@ -398,16 +398,44 @@
       },
       {
         "name": "AUD/USD",
-        "price": 0.7039,
-        "chg_pct": 0.006
+        "price": 0.7046,
+        "chg_pct": 0.0071
       },
       {
         "name": "USD/BRL",
-        "price": 5.1322,
-        "chg_pct": 0.0084
+        "price": 5.1268,
+        "chg_pct": 0.0073
       }
     ],
     "global_watch": [
+      {
+        "ticker": "ES=F",
+        "label": "S&P 500 Futures",
+        "region": "US Futures",
+        "price": 7770.75,
+        "chg_pct": 0.0183
+      },
+      {
+        "ticker": "NQ=F",
+        "label": "NASDAQ Futures",
+        "region": "US Futures",
+        "price": 29805.25,
+        "chg_pct": 0.0303
+      },
+      {
+        "ticker": "YM=F",
+        "label": "Dow Futures",
+        "region": "US Futures",
+        "price": 54367,
+        "chg_pct": 0.0185
+      },
+      {
+        "ticker": "RTY=F",
+        "label": "Russell 2000 Fut",
+        "region": "US Futures",
+        "price": 3048.1,
+        "chg_pct": 0.0186
+      },
       {
         "ticker": "^VIX",
         "label": "VIX Fear Index",
@@ -434,21 +462,21 @@
     "cb_news": [
       {
         "source": "Federal Reserve",
-        "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"\u2014bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
-        "date": "Fri, 31 Jul 2026 14:00:00 GMT"
+        "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
+        "date": "Tue, 4 Aug 2026 20:30:00 GMT"
       },
       {
         "source": "Federal Reserve",
-        "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-        "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
-        "date": "Fri, 31 Jul 2026 14:00:00 GMT"
+        "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
+        "date": "Tue, 4 Aug 2026 20:30:00 GMT"
       },
       {
         "source": "Federal Reserve",
-        "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-        "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
-        "date": "Thu, 30 Jul 2026 15:00:00 GMT"
+        "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
+        "date": "Tue, 4 Aug 2026 20:30:00 GMT"
       },
       {
         "source": "ECB",
