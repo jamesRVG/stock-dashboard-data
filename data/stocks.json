@@ -1,5 +1,5 @@
 {
-  "refreshed": "2026-08-04 06:31",
+  "refreshed": "2026-08-04 13:19",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "avg_score": 5.1,
@@ -158,8 +158,8 @@
       "label": "Normal"
     },
     "dxy": {
-      "price": 100.03,
-      "chg_pct": 0.0006
+      "price": 99.98,
+      "chg_pct": 0.0001
     },
     "yields": [
       {
@@ -378,36 +378,64 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1506,
-        "chg_pct": -0.0002
+        "price": 1.1512,
+        "chg_pct": 0.0004
       },
       {
         "name": "USD/JPY",
-        "price": 157.671,
-        "chg_pct": 0.0031
+        "price": 157.53,
+        "chg_pct": 0.0022
       },
       {
         "name": "GBP/USD",
-        "price": 1.3427,
-        "chg_pct": 0.0001
+        "price": 1.344,
+        "chg_pct": 0.0011
       },
       {
         "name": "USD/CNY",
-        "price": 6.7514,
-        "chg_pct": -0.0001
+        "price": 6.7535,
+        "chg_pct": 0.0003
       },
       {
         "name": "AUD/USD",
-        "price": 0.7015,
-        "chg_pct": 0.0026
+        "price": 0.7032,
+        "chg_pct": 0.005
       },
       {
         "name": "USD/BRL",
-        "price": 5.0894,
-        "chg_pct": 0.0
+        "price": 5.0952,
+        "chg_pct": 0.0011
       }
     ],
     "global_watch": [
+      {
+        "ticker": "ES=F",
+        "label": "S&P 500 Futures",
+        "region": "US Futures",
+        "price": 7654,
+        "chg_pct": 0.003
+      },
+      {
+        "ticker": "NQ=F",
+        "label": "NASDAQ Futures",
+        "region": "US Futures",
+        "price": 29220.75,
+        "chg_pct": 0.0101
+      },
+      {
+        "ticker": "YM=F",
+        "label": "Dow Futures",
+        "region": "US Futures",
+        "price": 53979,
+        "chg_pct": 0.0112
+      },
+      {
+        "ticker": "RTY=F",
+        "label": "Russell 2000 Fut",
+        "region": "US Futures",
+        "price": 3004.8,
+        "chg_pct": 0.0041
+      },
       {
         "ticker": "^VIX",
         "label": "VIX Fear Index",
