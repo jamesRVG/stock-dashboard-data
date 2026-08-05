@@ -1,5 +1,5 @@
 {
-  "refreshed": "2026-08-05 06:18",
+  "refreshed": "2026-08-05 13:11",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "avg_score": 5.1,
@@ -158,8 +158,8 @@
       "label": "Normal"
     },
     "dxy": {
-      "price": 99.84,
-      "chg_pct": -0.0003
+      "price": 99.74,
+      "chg_pct": -0.0013
     },
     "yields": [
       {
@@ -378,69 +378,36 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1535,
-        "chg_pct": 0.0005
+        "price": 1.1546,
+        "chg_pct": 0.0014
       },
       {
         "name": "USD/JPY",
-        "price": 157.684,
-        "chg_pct": -0.0001
+        "price": 157.566,
+        "chg_pct": -0.0009
       },
       {
         "name": "GBP/USD",
-        "price": 1.3457,
-        "chg_pct": 0.0008
+        "price": 1.3472,
+        "chg_pct": 0.0019
       },
       {
         "name": "USD/CNY",
-        "price": 6.7471,
-        "chg_pct": -0.0001
+        "price": 6.7492,
+        "chg_pct": 0.0002
       },
       {
         "name": "AUD/USD",
-        "price": 0.7047,
-        "chg_pct": 0.0004
+        "price": 0.7048,
+        "chg_pct": 0.0005
       },
       {
         "name": "USD/BRL",
-        "price": 5.1272,
-        "chg_pct": 0.0007
+        "price": 5.1192,
+        "chg_pct": -0.0009
       }
     ],
-    "bitcoin": {
-      "price": 64263.0,
-      "chg_pct": null
-    },
-    "breakeven_note": "TIP/IEF premium indicates market inflation expectations",
     "global_watch": [
-      {
-        "ticker": "ES=F",
-        "label": "S&P 500 Futures",
-        "region": "US Futures",
-        "price": 7797.5,
-        "chg_pct": 0.0033
-      },
-      {
-        "ticker": "NQ=F",
-        "label": "NASDAQ Futures",
-        "region": "US Futures",
-        "price": 29964,
-        "chg_pct": 0.0063
-      },
-      {
-        "ticker": "YM=F",
-        "label": "Dow Futures",
-        "region": "US Futures",
-        "price": 54458,
-        "chg_pct": 0.0016
-      },
-      {
-        "ticker": "RTY=F",
-        "label": "Russell 2000 Fut",
-        "region": "US Futures",
-        "price": 3055.7,
-        "chg_pct": 0.0022
-      },
       {
         "ticker": "^VIX",
         "label": "VIX Fear Index",
@@ -461,73 +428,9 @@
         "region": "Commodities",
         "price": 4172.15,
         "chg_pct": 0.0233
-      },
-      {
-        "ticker": "^N225",
-        "label": "Nikkei 225",
-        "region": "Asia",
-        "price": 66268.64,
-        "chg_pct": 0.0361
-      },
-      {
-        "ticker": "^HSI",
-        "label": "Hang Seng",
-        "region": "Asia",
-        "price": 25930.18,
-        "chg_pct": 0.003
-      },
-      {
-        "ticker": "000001.SS",
-        "label": "Shanghai Composite",
-        "region": "Asia",
-        "price": 3881.54,
-        "chg_pct": 0.0155
-      },
-      {
-        "ticker": "^GDAXI",
-        "label": "DAX (Germany)",
-        "region": "Europe",
-        "price": 26202.35,
-        "chg_pct": 0.0077
-      },
-      {
-        "ticker": "^FTSE",
-        "label": "FTSE 100 (UK)",
-        "region": "Europe",
-        "price": 10879.4,
-        "chg_pct": 0.002
       }
     ],
-    "econ_history": {
-      "10Y Treasury Yield": {
-        "current": 4.63,
-        "val_1mo": 4.49,
-        "val_3mo": 4.42,
-        "val_6mo": 4.24,
-        "val_1yr": null
-      },
-      "VIX Fear Index": {
-        "current": 16.5,
-        "val_1mo": 16.15,
-        "val_3mo": 16.89,
-        "val_6mo": 16.15,
-        "val_1yr": 17.52
-      },
-      "DXY Dollar Index": {
-        "current": 99.83,
-        "val_1mo": 100.85,
-        "val_3mo": 98.08,
-        "val_6mo": 97.04,
-        "val_1yr": null
-      },
-      "S&P 500 (SPY)": {
-        "current": 771.33,
-        "val_1mo": 744.78,
-        "val_3mo": 709.75,
-        "val_6mo": 685.59,
-        "val_1yr": null
-      }
-    },
+    "econ_history": {},
     "cb_news": [
       {
         "source": "Federal Reserve",
@@ -567,6 +470,12 @@
       },
       {
         "source": "Bank of England",
+        "title": "Artificial Intelligence Consortium minutes \u2013 June 2026",
+        "url": "https://www.bankofengland.co.uk/minutes/2026/june/ai-consortium-minutes-3-june-2026",
+        "date": "Wed, 05 Aug 2026 11:51:26 +0100"
+      },
+      {
+        "source": "Bank of England",
         "title": "Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)",
         "url": "https://www.bankofengland.co.uk/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc",
         "date": "Mon, 03 Aug 2026 10:00:00 +0100"
@@ -576,12 +485,6 @@
         "title": "Minutes of the Meeting of the Court of Directors held on 4 June 2026",
         "url": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-4-june-2026",
         "date": "Thu, 30 Jul 2026 14:00:00 +0100"
-      },
-      {
-        "source": "Bank of England",
-        "title": "Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes",
-        "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026",
-        "date": "Thu, 30 Jul 2026 12:00:00 +0100"
       }
     ]
   },
