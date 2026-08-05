@@ -1,5 +1,5 @@
 {
-  "refreshed": "2026-08-05 13:11",
+  "refreshed": "2026-08-05 15:55",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "avg_score": 5.1,
@@ -133,33 +133,33 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7736.5,
-        "chg_pct": 0.0139
+        "price": 7744.4,
+        "chg_pct": -0.0035
       },
       {
         "name": "NASDAQ",
-        "price": 29733.2,
-        "chg_pct": 0.0214
+        "price": 29703.5,
+        "chg_pct": -0.0054
       },
       {
         "name": "DOW",
-        "price": 54085.9,
-        "chg_pct": 0.0083
+        "price": 54529.3,
+        "chg_pct": 0.0048
       },
       {
         "name": "Russell 2K",
-        "price": 3037.0,
-        "chg_pct": 0.0157
+        "price": 3026.1,
+        "chg_pct": -0.0041
       }
     ],
     "vix": {
-      "price": 15.9,
-      "prev": 15.9,
+      "price": 16.5,
+      "prev": 16.5,
       "label": "Normal"
     },
     "dxy": {
-      "price": 99.74,
-      "chg_pct": -0.0013
+      "price": 99.75,
+      "chg_pct": -0.0012
     },
     "yields": [
       {
@@ -378,18 +378,18 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1546,
-        "chg_pct": 0.0014
+        "price": 1.1544,
+        "chg_pct": 0.0013
       },
       {
         "name": "USD/JPY",
-        "price": 157.566,
-        "chg_pct": -0.0009
+        "price": 157.636,
+        "chg_pct": -0.0004
       },
       {
         "name": "GBP/USD",
-        "price": 1.3472,
-        "chg_pct": 0.0019
+        "price": 1.3457,
+        "chg_pct": 0.0008
       },
       {
         "name": "USD/CNY",
@@ -398,13 +398,13 @@
       },
       {
         "name": "AUD/USD",
-        "price": 0.7048,
-        "chg_pct": 0.0005
+        "price": 0.7051,
+        "chg_pct": 0.0009
       },
       {
         "name": "USD/BRL",
-        "price": 5.1192,
-        "chg_pct": -0.0009
+        "price": 5.1173,
+        "chg_pct": -0.0012
       }
     ],
     "global_watch": [
@@ -412,7 +412,7 @@
         "ticker": "^VIX",
         "label": "VIX Fear Index",
         "region": "Risk",
-        "price": 15.9,
+        "price": 16.5,
         "chg_pct": 0.0
       },
       {
