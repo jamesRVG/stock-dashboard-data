@@ -1,5 +1,5 @@
 {
-  "refreshed": "2026-08-05 15:55",
+  "refreshed": "2026-08-05 20:45",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "avg_score": 5.1,
@@ -133,23 +133,23 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7744.4,
-        "chg_pct": -0.0035
+        "price": 7723.6,
+        "chg_pct": -0.0062
       },
       {
         "name": "NASDAQ",
-        "price": 29703.5,
-        "chg_pct": -0.0054
+        "price": 29487.8,
+        "chg_pct": -0.0126
       },
       {
         "name": "DOW",
-        "price": 54529.3,
-        "chg_pct": 0.0048
+        "price": 54349.1,
+        "chg_pct": 0.0015
       },
       {
         "name": "Russell 2K",
-        "price": 3026.1,
-        "chg_pct": -0.0041
+        "price": 3019.2,
+        "chg_pct": -0.0063
       }
     ],
     "vix": {
@@ -158,30 +158,30 @@
       "label": "Normal"
     },
     "dxy": {
-      "price": 99.75,
-      "chg_pct": -0.0012
+      "price": 99.69,
+      "chg_pct": -0.0018
     },
     "yields": [
       {
         "name": "3-Mo T-Bill",
-        "rate": 3.91
+        "rate": 3.89
       },
       {
         "name": "2-Year",
-        "rate": 4.25
+        "rate": 4.2
       },
       {
         "name": "10-Year",
-        "rate": 4.7
+        "rate": 4.63
       },
       {
         "name": "30-Year",
-        "rate": 5.23
+        "rate": 5.18
       }
     ],
     "curve_spread": {
       "label": "10Y minus 2Y",
-      "value": 0.45
+      "value": 0.43
     },
     "curve_status": "NORMAL",
     "fred": {
@@ -378,18 +378,18 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1544,
-        "chg_pct": 0.0013
+        "price": 1.1553,
+        "chg_pct": 0.002
       },
       {
         "name": "USD/JPY",
-        "price": 157.636,
-        "chg_pct": -0.0004
+        "price": 157.763,
+        "chg_pct": 0.0004
       },
       {
         "name": "GBP/USD",
-        "price": 1.3457,
-        "chg_pct": 0.0008
+        "price": 1.3467,
+        "chg_pct": 0.0016
       },
       {
         "name": "USD/CNY",
@@ -398,13 +398,13 @@
       },
       {
         "name": "AUD/USD",
-        "price": 0.7051,
-        "chg_pct": 0.0009
+        "price": 0.7057,
+        "chg_pct": 0.0018
       },
       {
         "name": "USD/BRL",
-        "price": 5.1173,
-        "chg_pct": -0.0012
+        "price": 5.1185,
+        "chg_pct": -0.001
       }
     ],
     "global_watch": [
