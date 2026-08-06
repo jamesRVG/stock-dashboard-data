@@ -1,57 +1,12 @@
 {
-  "date": "2026-08-05",
-  "movers_up": [
-    {
-      "ticker": "AMSC",
-      "delta": 1.5,
-      "now": 7.5,
-      "signal": "Strong Buy"
-    }
-  ],
-  "movers_down": [
-    {
-      "ticker": "AA",
-      "delta": -1.8,
-      "now": 5.4,
-      "signal": "Caution"
-    }
-  ],
-  "signal_changes": [
-    {
-      "ticker": "AA",
-      "from": "Buy",
-      "to": "Caution"
-    },
-    {
-      "ticker": "NEE",
-      "from": "Hold",
-      "to": "Buy"
-    },
-    {
-      "ticker": "HL",
-      "from": "Hold",
-      "to": "Buy"
-    },
-    {
-      "ticker": "AG",
-      "from": "Hold",
-      "to": "Buy"
-    },
-    {
-      "ticker": "VFF",
-      "from": "Hold",
-      "to": "Caution"
-    },
-    {
-      "ticker": "AMSC",
-      "from": "Hold",
-      "to": "Strong Buy"
-    }
-  ],
+  "date": "2026-08-06",
+  "movers_up": [],
+  "movers_down": [],
+  "signal_changes": [],
   "generated": "rule_based",
   "market_context": "Normal conditions",
   "bearish_tech_pct": 0.014,
   "market_pullback": false,
   "resilient_hold_count": 71,
-  "short_reflection": "Upgraded: AMSC (+1.5). Downgraded: AA (-1.8). Signal changes: AA (Buy to Caution), NEE (Hold to Buy), HL (Hold to Buy), AG (Hold to Buy)."
+  "short_reflection": "No major score moves vs prior session."
 }
