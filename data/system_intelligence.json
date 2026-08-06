@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T01:34:10.209373",
+  "generated_at": "2026-08-06T01:45:10.871042",
   "history_snapshots": 21,
   "signal_accuracy": {
     "1d": {
@@ -54,8 +54,8 @@
       },
       "Risky": {
         "win_pct": 0.0,
-        "avg_return": -0.1996,
-        "n": 3
+        "avg_return": -0.2129,
+        "n": 2
       },
       "Strong Buy": {
         "win_pct": 0.815,
@@ -67,8 +67,8 @@
   },
   "sell_signal_accuracy": {
     "20d": {
-      "accuracy": 0.75,
-      "n": 12
+      "accuracy": 0.727,
+      "n": 11
     }
   },
   "category_performance": {
@@ -203,9 +203,9 @@
         "n": 5
       },
       "Core": {
-        "avg_return": 0.0681,
-        "win_pct": 0.755,
-        "n": 49
+        "avg_return": 0.0731,
+        "win_pct": 0.771,
+        "n": 48
       },
       "Tech": {
         "avg_return": 0.006,
@@ -263,7 +263,7 @@
   "score_correlation": {
     "1d": 0.302,
     "5d": 0.266,
-    "20d": 0.212
+    "20d": 0.193
   },
   "factor_analysis": {
     "macd": {
@@ -303,9 +303,9 @@
           "n": 2
         },
         "bearish": {
-          "avg_return": 0.0448,
-          "win_pct": 0.682,
-          "n": 148
+          "avg_return": 0.0463,
+          "win_pct": 0.687,
+          "n": 147
         }
       },
       "60d": {}
@@ -352,9 +352,9 @@
           "n": 57
         },
         "neutral": {
-          "avg_return": 0.0559,
-          "win_pct": 0.711,
-          "n": 325
+          "avg_return": 0.0566,
+          "win_pct": 0.713,
+          "n": 324
         },
         "overbought": {
           "avg_return": -0.0188,
@@ -429,12 +429,11 @@
     "score_correlation": {
       "1d": 0.302,
       "5d": 0.266,
-      "20d": 0.212
+      "20d": 0.193
     }
   },
   "statistical_insights": [
     "Meta-learner has 21 daily snapshots; accuracy estimates are becoming reliable.",
-    "Signal ordering correct over 20d: Strong Buy ahead of Risky by 27.7%.",
     "RSI overbought stocks outperforming oversold over 1d. Momentum may be dominant; consider reducing the oversold RSI buy signal weight.",
     "RSI oversold (<35) outperforming overbought (>65) by 7.7% over 5d. Confirm mean-reversion scoring is working.",
     "MACD bullish signal predicting 0.7% edge over bearish over 1d. Technical scoring is working.",

@@ -21,29 +21,19 @@
       "signal": "Risky"
     },
     {
-      "ticker": "EEM",
-      "delta": -3.1,
-      "now": 2.9,
-      "signal": "Risky"
-    },
-    {
       "ticker": "SIL",
       "delta": -3.0,
       "now": 3.7,
       "signal": "Risky"
+    },
+    {
+      "ticker": "EEM",
+      "delta": -3.0,
+      "now": 3.0,
+      "signal": "Risky"
     }
   ],
   "signal_changes": [
-    {
-      "ticker": "AMSC",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "AR",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
     {
       "ticker": "NEM",
       "from": "Buy",
@@ -65,9 +55,34 @@
       "to": "Strong Buy"
     },
     {
-      "ticker": "SIL",
-      "from": "Buy",
-      "to": "Risky"
+      "ticker": "AR",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
+      "ticker": "AMSC",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
+      "ticker": "STX",
+      "from": "Hold",
+      "to": "Buy"
+    },
+    {
+      "ticker": "WDC",
+      "from": "Hold",
+      "to": "Buy"
+    },
+    {
+      "ticker": "AMT",
+      "from": "Hold",
+      "to": "Buy"
+    },
+    {
+      "ticker": "GOOGL",
+      "from": "Hold",
+      "to": "Buy"
     },
     {
       "ticker": "NEE",
@@ -80,14 +95,9 @@
       "to": "Hold"
     },
     {
-      "ticker": "WDC",
-      "from": "Hold",
-      "to": "Buy"
-    },
-    {
-      "ticker": "GOOGL",
-      "from": "Hold",
-      "to": "Buy"
+      "ticker": "SIL",
+      "from": "Buy",
+      "to": "Risky"
     },
     {
       "ticker": "TIP",
@@ -95,14 +105,9 @@
       "to": "Risky"
     },
     {
-      "ticker": "STX",
+      "ticker": "EEM",
       "from": "Hold",
-      "to": "Buy"
-    },
-    {
-      "ticker": "AMT",
-      "from": "Hold",
-      "to": "Buy"
+      "to": "Risky"
     },
     {
       "ticker": "FXI",
@@ -113,17 +118,12 @@
       "ticker": "DBC",
       "from": "Hold",
       "to": "Risky"
-    },
-    {
-      "ticker": "EEM",
-      "from": "Hold",
-      "to": "Risky"
     }
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.023,
+  "bearish_tech_pct": 0.014,
   "market_pullback": false,
   "resilient_hold_count": 61,
-  "short_reflection": "Downgraded: DBC (-3.4), TIP (-3.3), FXI (-3.2). Signal changes: AMSC (Strong Buy to Buy), AR (Strong Buy to Buy), NEM (Buy to Strong Buy), B (Buy to Strong Buy)."
+  "short_reflection": "Downgraded: DBC (-3.4), TIP (-3.3), FXI (-3.2). Signal changes: NEM (Buy to Strong Buy), B (Buy to Strong Buy), AEM (Buy to Strong Buy), AU (Buy to Strong Buy)."
 }
