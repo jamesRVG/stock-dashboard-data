@@ -1,12 +1,129 @@
 {
   "date": "2026-08-06",
   "movers_up": [],
-  "movers_down": [],
-  "signal_changes": [],
+  "movers_down": [
+    {
+      "ticker": "DBC",
+      "delta": -3.4,
+      "now": 2.6,
+      "signal": "Risky"
+    },
+    {
+      "ticker": "TIP",
+      "delta": -3.3,
+      "now": 3.1,
+      "signal": "Risky"
+    },
+    {
+      "ticker": "FXI",
+      "delta": -3.2,
+      "now": 2.9,
+      "signal": "Risky"
+    },
+    {
+      "ticker": "EEM",
+      "delta": -3.1,
+      "now": 2.9,
+      "signal": "Risky"
+    },
+    {
+      "ticker": "SIL",
+      "delta": -3.0,
+      "now": 3.7,
+      "signal": "Risky"
+    }
+  ],
+  "signal_changes": [
+    {
+      "ticker": "AMSC",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
+      "ticker": "AR",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
+      "ticker": "NEM",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "B",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "AEM",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "AU",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "SIL",
+      "from": "Buy",
+      "to": "Risky"
+    },
+    {
+      "ticker": "NEE",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "META",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "WDC",
+      "from": "Hold",
+      "to": "Buy"
+    },
+    {
+      "ticker": "GOOGL",
+      "from": "Hold",
+      "to": "Buy"
+    },
+    {
+      "ticker": "TIP",
+      "from": "Hold",
+      "to": "Risky"
+    },
+    {
+      "ticker": "STX",
+      "from": "Hold",
+      "to": "Buy"
+    },
+    {
+      "ticker": "AMT",
+      "from": "Hold",
+      "to": "Buy"
+    },
+    {
+      "ticker": "FXI",
+      "from": "Hold",
+      "to": "Risky"
+    },
+    {
+      "ticker": "DBC",
+      "from": "Hold",
+      "to": "Risky"
+    },
+    {
+      "ticker": "EEM",
+      "from": "Hold",
+      "to": "Risky"
+    }
+  ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.014,
+  "bearish_tech_pct": 0.023,
   "market_pullback": false,
-  "resilient_hold_count": 72,
-  "short_reflection": "No major score moves vs prior session."
+  "resilient_hold_count": 61,
+  "short_reflection": "Downgraded: DBC (-3.4), TIP (-3.3), FXI (-3.2). Signal changes: AMSC (Strong Buy to Buy), AR (Strong Buy to Buy), NEM (Buy to Strong Buy), B (Buy to Strong Buy)."
 }
