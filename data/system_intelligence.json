@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-06T01:13:58.779875",
+  "generated_at": "2026-08-06T01:28:24.151459",
   "history_snapshots": 21,
   "signal_accuracy": {
     "1d": {
       "Strong Buy": {
-        "win_pct": 0.421,
-        "avg_return": 0.0199,
-        "n": 19
+        "win_pct": 0.0,
+        "avg_return": -0.007,
+        "n": 7
       },
       "Buy": {
         "win_pct": 0.632,
@@ -21,9 +21,9 @@
     },
     "5d": {
       "Strong Buy": {
-        "win_pct": 0.866,
-        "avg_return": 0.0288,
-        "n": 67
+        "win_pct": 0.897,
+        "avg_return": 0.0272,
+        "n": 39
       },
       "Buy": {
         "win_pct": 0.835,
@@ -58,9 +58,9 @@
         "n": 3
       },
       "Strong Buy": {
-        "win_pct": 0.812,
-        "avg_return": 0.0284,
-        "n": 64
+        "win_pct": 0.817,
+        "avg_return": 0.0292,
+        "n": 60
       }
     },
     "60d": {}
@@ -73,15 +73,15 @@
   },
   "category_performance": {
     "1d": {
-      "PrecMet": {
-        "avg_return": 0.0356,
-        "win_pct": 0.667,
-        "n": 60
-      },
       "Commod": {
         "avg_return": 0.0142,
         "win_pct": 0.364,
         "n": 11
+      },
+      "PrecMet": {
+        "avg_return": 0.0356,
+        "win_pct": 0.667,
+        "n": 48
       },
       "REIT": {
         "avg_return": 0.001,
@@ -126,9 +126,9 @@
     },
     "5d": {
       "PrecMet": {
-        "avg_return": 0.0449,
-        "win_pct": 0.965,
-        "n": 144
+        "avg_return": 0.0482,
+        "win_pct": 1.0,
+        "n": 116
       },
       "Commod": {
         "avg_return": 0.0529,
@@ -218,9 +218,9 @@
         "n": 2
       },
       "PrecMet": {
-        "avg_return": 0.0497,
-        "win_pct": 0.907,
-        "n": 118
+        "avg_return": 0.0509,
+        "win_pct": 0.912,
+        "n": 114
       },
       "CleanMat": {
         "avg_return": 0.0297,
@@ -261,17 +261,17 @@
     "60d": {}
   },
   "score_correlation": {
-    "1d": 0.042,
-    "5d": -0.11,
-    "20d": 0.075
+    "1d": -0.066,
+    "5d": -0.092,
+    "20d": 0.083
   },
   "factor_analysis": {
     "macd": {
       "1d": {
         "bullish": {
-          "avg_return": 0.0208,
-          "win_pct": 0.505,
-          "n": 111
+          "avg_return": 0.019,
+          "win_pct": 0.485,
+          "n": 99
         },
         "bearish": {
           "avg_return": 0.0315,
@@ -281,9 +281,9 @@
       },
       "5d": {
         "bullish": {
-          "avg_return": 0.0371,
-          "win_pct": 0.814,
-          "n": 253
+          "avg_return": 0.0378,
+          "win_pct": 0.813,
+          "n": 225
         },
         "bearish": {
           "avg_return": 0.056,
@@ -293,9 +293,9 @@
       },
       "20d": {
         "bullish": {
-          "avg_return": 0.0401,
-          "win_pct": 0.724,
-          "n": 257
+          "avg_return": 0.0405,
+          "win_pct": 0.723,
+          "n": 253
         },
         "neutral": {
           "avg_return": 0.1979,
@@ -318,9 +318,9 @@
           "n": 4
         },
         "neutral": {
-          "avg_return": 0.0261,
-          "win_pct": 0.595,
-          "n": 131
+          "avg_return": 0.0251,
+          "win_pct": 0.588,
+          "n": 119
         },
         "overbought": {
           "avg_return": 0.0053,
@@ -335,9 +335,9 @@
           "n": 37
         },
         "neutral": {
-          "avg_return": 0.042,
-          "win_pct": 0.844,
-          "n": 289
+          "avg_return": 0.0432,
+          "win_pct": 0.847,
+          "n": 261
         },
         "overbought": {
           "avg_return": -0.0041,
@@ -352,9 +352,9 @@
           "n": 57
         },
         "neutral": {
-          "avg_return": 0.0358,
+          "avg_return": 0.0361,
           "win_pct": 0.725,
-          "n": 324
+          "n": 320
         },
         "overbought": {
           "avg_return": -0.0278,
@@ -367,14 +367,9 @@
     "peg": {
       "1d": {
         "low": {
-          "avg_return": 0.0326,
-          "win_pct": 0.5,
-          "n": 8
-        },
-        "mid": {
-          "avg_return": 0.0177,
-          "win_pct": 0.667,
-          "n": 3
+          "avg_return": 0.0,
+          "win_pct": 0.0,
+          "n": 2
         },
         "high": {
           "avg_return": 0.0347,
@@ -384,14 +379,14 @@
       },
       "5d": {
         "low": {
-          "avg_return": 0.0399,
-          "win_pct": 0.861,
-          "n": 36
+          "avg_return": 0.0371,
+          "win_pct": 0.773,
+          "n": 22
         },
         "mid": {
-          "avg_return": 0.0273,
-          "win_pct": 0.741,
-          "n": 27
+          "avg_return": 0.0356,
+          "win_pct": 0.9,
+          "n": 20
         },
         "high": {
           "avg_return": 0.0426,
@@ -401,14 +396,14 @@
       },
       "20d": {
         "low": {
-          "avg_return": 0.0245,
-          "win_pct": 0.67,
-          "n": 112
+          "avg_return": 0.0247,
+          "win_pct": 0.664,
+          "n": 110
         },
         "mid": {
-          "avg_return": 0.0292,
-          "win_pct": 0.62,
-          "n": 92
+          "avg_return": 0.0297,
+          "win_pct": 0.626,
+          "n": 91
         },
         "high": {
           "avg_return": 0.0515,
@@ -432,15 +427,15 @@
     },
     "basis": "Score-to-return correlation is weak (<0.10) over 20 days; composite weighting may need review.",
     "score_correlation": {
-      "1d": 0.042,
-      "5d": -0.11,
-      "20d": 0.075
+      "1d": -0.066,
+      "5d": -0.092,
+      "20d": 0.083
     }
   },
   "statistical_insights": [
     "Meta-learner has 21 daily snapshots; accuracy estimates are becoming reliable.",
     "Strong Buy underperforming Buy over 5d. Fundamental overweighting may be suppressing technical upside.",
-    "Signal ordering correct over 20d: Strong Buy ahead of Risky by 23.3%.",
+    "Signal ordering correct over 20d: Strong Buy ahead of Risky by 23.4%.",
     "Strong Buy underperforming Buy over 20d. Fundamental overweighting may be suppressing technical upside.",
     "RSI oversold (<35) outperforming overbought (>65) by 7.9% over 5d. Confirm mean-reversion scoring is working.",
     "Top 5d categories: Enviro / Tech / GreenE (+18.7%), Tech (+7.7%), Core (+7.1%).",
