@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "refreshed": "2026-08-07 21:24",
+  "refreshed": "2026-08-07 22:15",
   "spy_price": 7757.6,
   "vix": 15.2,
   "picks": [
@@ -50,6 +50,21 @@
       "macd": "Bullish"
     },
     {
+      "ticker": "AMSC",
+      "signal": "Strong Buy",
+      "total": 7.8,
+      "fund": 8.4,
+      "tech": 5.1,
+      "macro": 9.0,
+      "price": 32.765,
+      "sector": "Industrials",
+      "cat": "Tech",
+      "rsi": 46.53,
+      "peg": 0.74,
+      "upside_pct": 0.9075,
+      "macd": "Bullish Cross"
+    },
+    {
       "ticker": "WGXRF",
       "signal": "Strong Buy",
       "total": 7.6,
@@ -65,26 +80,11 @@
       "macd": "Bullish"
     },
     {
-      "ticker": "EQT",
-      "signal": "Strong Buy",
-      "total": 7.5,
-      "fund": 7.5,
-      "tech": 4.5,
-      "macro": 10,
-      "price": 51.69,
-      "sector": "Energy",
-      "cat": "Commod",
-      "rsi": 48.37,
-      "peg": null,
-      "upside_pct": 0.3093,
-      "macd": "Bullish"
-    },
-    {
       "ticker": "NEM",
       "signal": "Strong Buy",
       "total": 7.5,
       "fund": 8.5,
-      "tech": 4.9,
+      "tech": 5.2,
       "macro": 7.0,
       "price": 112.98,
       "sector": "Metals & Mining",
@@ -125,19 +125,19 @@
       "macd": "Bullish Cross"
     },
     {
-      "ticker": "AMSC",
+      "ticker": "EQT",
       "signal": "Strong Buy",
       "total": 7.5,
-      "fund": 8.4,
-      "tech": 5.1,
-      "macro": 8.0,
-      "price": 32.765,
-      "sector": "Industrials",
-      "cat": "Tech",
-      "rsi": 46.53,
-      "peg": 0.74,
-      "upside_pct": 0.9075,
-      "macd": "Bullish Cross"
+      "fund": 7.5,
+      "tech": 4.5,
+      "macro": 10,
+      "price": 51.69,
+      "sector": "Energy",
+      "cat": "Commod",
+      "rsi": 48.37,
+      "peg": null,
+      "upside_pct": 0.3093,
+      "macd": "Bullish"
     },
     {
       "ticker": "AR",
@@ -260,21 +260,6 @@
       "macd": "Bullish Cross"
     },
     {
-      "ticker": "OR",
-      "signal": "Buy",
-      "total": 6.9,
-      "fund": 7.3,
-      "tech": 4.9,
-      "macro": 7.0,
-      "price": 33.08,
-      "sector": "Metals & Mining",
-      "cat": "PrecMet",
-      "rsi": 64.34,
-      "peg": null,
-      "upside_pct": 0.2621,
-      "macd": "Bullish Cross"
-    },
-    {
       "ticker": "CEG",
       "signal": "Buy",
       "total": 6.9,
@@ -287,6 +272,21 @@
       "rsi": 54.86,
       "peg": null,
       "upside_pct": null,
+      "macd": "Bullish Cross"
+    },
+    {
+      "ticker": "OR",
+      "signal": "Buy",
+      "total": 6.9,
+      "fund": 7.3,
+      "tech": 4.9,
+      "macro": 7.0,
+      "price": 33.08,
+      "sector": "Metals & Mining",
+      "cat": "PrecMet",
+      "rsi": 64.34,
+      "peg": null,
+      "upside_pct": 0.2621,
       "macd": "Bullish Cross"
     },
     {
@@ -365,21 +365,6 @@
       "macd": "Bullish Cross"
     },
     {
-      "ticker": "SILJ",
-      "signal": "Buy",
-      "total": 6.6,
-      "fund": 6.5,
-      "tech": 5.4,
-      "macro": 7.0,
-      "price": 29.14,
-      "sector": "N/A",
-      "cat": "PrecMet",
-      "rsi": 65.09,
-      "peg": null,
-      "upside_pct": null,
-      "macd": "Bullish Cross"
-    },
-    {
       "ticker": "HL",
       "signal": "Buy",
       "total": 6.6,
@@ -390,6 +375,21 @@
       "sector": "Metals & Mining",
       "cat": "PrecMet",
       "rsi": 59.38,
+      "peg": null,
+      "upside_pct": null,
+      "macd": "Bullish Cross"
+    },
+    {
+      "ticker": "SILJ",
+      "signal": "Buy",
+      "total": 6.6,
+      "fund": 6.5,
+      "tech": 5.4,
+      "macro": 7.0,
+      "price": 29.14,
+      "sector": "N/A",
+      "cat": "PrecMet",
+      "rsi": 65.09,
       "peg": null,
       "upside_pct": null,
       "macd": "Bullish Cross"
@@ -408,6 +408,21 @@
       "peg": null,
       "upside_pct": 0.7181,
       "macd": "Bullish Cross"
+    },
+    {
+      "ticker": "WDC",
+      "signal": "Hold",
+      "total": 6.4,
+      "fund": 7.3,
+      "tech": 5.2,
+      "macro": 6.0,
+      "price": 434.3,
+      "sector": "Technology",
+      "cat": "Tech",
+      "rsi": 38.44,
+      "peg": null,
+      "upside_pct": null,
+      "macd": "Bearish Cross"
     },
     {
       "ticker": "AMT",
@@ -440,21 +455,6 @@
       "macd": "Bullish Cross"
     },
     {
-      "ticker": "WDC",
-      "signal": "Hold",
-      "total": 6.4,
-      "fund": 7.3,
-      "tech": 5.2,
-      "macro": 6.0,
-      "price": 434.3,
-      "sector": "Technology",
-      "cat": "Tech",
-      "rsi": 38.44,
-      "peg": null,
-      "upside_pct": null,
-      "macd": "Bearish Cross"
-    },
-    {
       "ticker": "NVDA",
       "signal": "Hold",
       "total": 6.3,
@@ -485,36 +485,6 @@
       "macd": "Bearish Cross"
     },
     {
-      "ticker": "NEE",
-      "signal": "Hold",
-      "total": 6.2,
-      "fund": 5.4,
-      "tech": 3.8,
-      "macro": 9.5,
-      "price": 84.65,
-      "sector": "Utilities",
-      "cat": "GreenE",
-      "rsi": 34.89,
-      "peg": null,
-      "upside_pct": 0.1695,
-      "macd": "Bearish Cross"
-    },
-    {
-      "ticker": "SCCO",
-      "signal": "Hold",
-      "total": 6.2,
-      "fund": 7.2,
-      "tech": 6.0,
-      "macro": 5.0,
-      "price": 199.06,
-      "sector": "Metals & Mining",
-      "cat": "Commod",
-      "rsi": 61.85,
-      "peg": null,
-      "upside_pct": null,
-      "macd": "Bullish Cross"
-    },
-    {
       "ticker": "TSM",
       "signal": "Hold",
       "total": 6.2,
@@ -528,6 +498,21 @@
       "peg": null,
       "upside_pct": null,
       "macd": "Bullish Cross"
+    },
+    {
+      "ticker": "NEE",
+      "signal": "Hold",
+      "total": 6.2,
+      "fund": 5.4,
+      "tech": 3.8,
+      "macro": 9.5,
+      "price": 84.65,
+      "sector": "Utilities",
+      "cat": "GreenE",
+      "rsi": 34.89,
+      "peg": null,
+      "upside_pct": 0.1695,
+      "macd": "Bearish Cross"
     },
     {
       "ticker": "CRBN",
@@ -575,6 +560,21 @@
       "macd": "Bullish Cross"
     },
     {
+      "ticker": "SCCO",
+      "signal": "Hold",
+      "total": 6.2,
+      "fund": 7.2,
+      "tech": 6.0,
+      "macro": 5.0,
+      "price": 199.06,
+      "sector": "Metals & Mining",
+      "cat": "Commod",
+      "rsi": 61.85,
+      "peg": null,
+      "upside_pct": null,
+      "macd": "Bullish Cross"
+    },
+    {
       "ticker": "GE",
       "signal": "Hold",
       "total": 6.1,
@@ -605,31 +605,31 @@
       "macd": "Bullish Cross"
     },
     {
-      "ticker": "META",
-      "signal": "Hold",
-      "total": 6.0,
-      "fund": 7.5,
-      "tech": 3.4,
-      "macro": 6.0,
-      "price": 592.1,
-      "sector": "Communication Services",
-      "cat": "Tech",
-      "rsi": 47.67,
-      "peg": 0.83,
-      "upside_pct": 0.2826,
-      "macd": "Bearish Cross"
-    },
-    {
       "ticker": "ADSK",
       "signal": "Hold",
-      "total": 6.0,
+      "total": 6.1,
       "fund": 6.7,
-      "tech": 4.9,
+      "tech": 5.2,
       "macro": 6.0,
       "price": 249.08,
       "sector": "Technology",
       "cat": "Tech",
       "rsi": 69.03,
+      "peg": null,
+      "upside_pct": null,
+      "macd": "Bullish Cross"
+    },
+    {
+      "ticker": "SGDJ",
+      "signal": "Hold",
+      "total": 6.0,
+      "fund": 7.0,
+      "tech": 5.4,
+      "macro": 5.0,
+      "price": 91.63,
+      "sector": "N/A",
+      "cat": "Commod",
+      "rsi": 69.75,
       "peg": null,
       "upside_pct": null,
       "macd": "Bullish Cross"
@@ -648,6 +648,21 @@
       "peg": null,
       "upside_pct": null,
       "macd": "Bullish Cross"
+    },
+    {
+      "ticker": "ICLN",
+      "signal": "Hold",
+      "total": 6.0,
+      "fund": 6.2,
+      "tech": 5.1,
+      "macro": 6.5,
+      "price": 18.3,
+      "sector": "N/A",
+      "cat": "GreenE",
+      "rsi": 46.85,
+      "peg": null,
+      "upside_pct": null,
+      "macd": "Bullish"
     },
     {
       "ticker": "KCCA",
@@ -684,12 +699,27 @@
       "signal": "Hold",
       "total": 6.0,
       "fund": 4.8,
-      "tech": 5.6,
+      "tech": 5.9,
       "macro": 8.0,
       "price": 328.4,
       "sector": "Real Estate",
       "cat": "REIT",
       "rsi": 56.73,
+      "peg": null,
+      "upside_pct": null,
+      "macd": "Bullish Cross"
+    },
+    {
+      "ticker": "IEMG",
+      "signal": "Hold",
+      "total": 6.0,
+      "fund": 6.5,
+      "tech": 5.6,
+      "macro": 5.5,
+      "price": 79.99,
+      "sector": "N/A",
+      "cat": "Intl",
+      "rsi": 53.36,
       "peg": null,
       "upside_pct": null,
       "macd": "Bullish Cross"
@@ -720,36 +750,6 @@
       "sector": "N/A",
       "cat": "Core",
       "rsi": 57.65,
-      "peg": null,
-      "upside_pct": null,
-      "macd": "Bullish"
-    },
-    {
-      "ticker": "PLTR",
-      "signal": "Hold",
-      "total": 6.0,
-      "fund": 6.5,
-      "tech": 5.2,
-      "macro": 6.0,
-      "price": 172.01,
-      "sector": "Technology",
-      "cat": "Tech",
-      "rsi": 72.83,
-      "peg": null,
-      "upside_pct": null,
-      "macd": "Bullish Cross"
-    },
-    {
-      "ticker": "ICLN",
-      "signal": "Hold",
-      "total": 6.0,
-      "fund": 6.2,
-      "tech": 5.1,
-      "macro": 6.5,
-      "price": 18.3,
-      "sector": "N/A",
-      "cat": "GreenE",
-      "rsi": 46.85,
       "peg": null,
       "upside_pct": null,
       "macd": "Bullish"
