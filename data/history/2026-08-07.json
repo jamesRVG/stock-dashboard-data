@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "refreshed": "2026-08-07 22:23",
+  "refreshed": "2026-08-07 22:48",
   "spy_price": 7757.6,
   "vix": 15.2,
   "picks": [
@@ -78,6 +78,21 @@
       "peg": null,
       "upside_pct": null,
       "macd": "Bullish"
+    },
+    {
+      "ticker": "PSX",
+      "signal": "Strong Buy",
+      "total": 7.6,
+      "fund": 7.1,
+      "tech": 5.5,
+      "macro": 10,
+      "price": 203.91,
+      "sector": "Energy",
+      "cat": "Core",
+      "rsi": 55.98,
+      "peg": 1.19,
+      "upside_pct": 0.0508,
+      "macd": "Bearish Cross"
     },
     {
       "ticker": "NEM",
@@ -197,6 +212,36 @@
       "rsi": 57.57,
       "peg": null,
       "upside_pct": 0.4285,
+      "macd": "Bullish Cross"
+    },
+    {
+      "ticker": "LNG",
+      "signal": "Buy",
+      "total": 7.2,
+      "fund": 6.4,
+      "tech": 5.2,
+      "macro": 10,
+      "price": 256.14,
+      "sector": "Energy",
+      "cat": "Core",
+      "rsi": 49.44,
+      "peg": 9.46,
+      "upside_pct": 0.1906,
+      "macd": "Bearish Cross"
+    },
+    {
+      "ticker": "C",
+      "signal": "Buy",
+      "total": 7.2,
+      "fund": 6.7,
+      "tech": 6.0,
+      "macro": 9.0,
+      "price": 135.0,
+      "sector": "Financial Services",
+      "cat": "Core",
+      "rsi": 50.91,
+      "peg": 0.74,
+      "upside_pct": 0.1444,
       "macd": "Bullish Cross"
     },
     {
@@ -407,6 +452,21 @@
       "rsi": 47.63,
       "peg": null,
       "upside_pct": 0.7181,
+      "macd": "Bullish Cross"
+    },
+    {
+      "ticker": "LRCX",
+      "signal": "Buy",
+      "total": 6.5,
+      "fund": 7.3,
+      "tech": 5.8,
+      "macro": 6.0,
+      "price": 311.35,
+      "sector": "Technology",
+      "cat": "Core",
+      "rsi": 48.72,
+      "peg": 1.43,
+      "upside_pct": 0.1824,
       "macd": "Bullish Cross"
     },
     {
@@ -693,66 +753,6 @@
       "peg": null,
       "upside_pct": null,
       "macd": "Bullish Cross"
-    },
-    {
-      "ticker": "PSA",
-      "signal": "Hold",
-      "total": 6.0,
-      "fund": 4.8,
-      "tech": 5.9,
-      "macro": 8.0,
-      "price": 328.4,
-      "sector": "Real Estate",
-      "cat": "REIT",
-      "rsi": 56.73,
-      "peg": null,
-      "upside_pct": null,
-      "macd": "Bullish Cross"
-    },
-    {
-      "ticker": "IEMG",
-      "signal": "Hold",
-      "total": 6.0,
-      "fund": 6.5,
-      "tech": 5.6,
-      "macro": 5.5,
-      "price": 79.99,
-      "sector": "N/A",
-      "cat": "Intl",
-      "rsi": 53.36,
-      "peg": null,
-      "upside_pct": null,
-      "macd": "Bullish Cross"
-    },
-    {
-      "ticker": "EWZ",
-      "signal": "Hold",
-      "total": 6.0,
-      "fund": 7.2,
-      "tech": 4.3,
-      "macro": 5.5,
-      "price": 35.34,
-      "sector": "N/A",
-      "cat": "Intl",
-      "rsi": 46.15,
-      "peg": null,
-      "upside_pct": null,
-      "macd": "Bearish"
-    },
-    {
-      "ticker": "AVUV",
-      "signal": "Hold",
-      "total": 6.0,
-      "fund": 6.9,
-      "tech": 5.6,
-      "macro": 5.0,
-      "price": 126.88,
-      "sector": "N/A",
-      "cat": "Core",
-      "rsi": 57.65,
-      "peg": null,
-      "upside_pct": null,
-      "macd": "Bullish"
     }
   ]
 }
