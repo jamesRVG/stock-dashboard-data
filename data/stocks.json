@@ -1,6 +1,6 @@
 {
-  "refreshed": "2026-08-06 13:09",
-  "refreshed_utc": "2026-08-06T13:09:13Z",
+  "refreshed": "2026-08-07 01:47",
+  "refreshed_utc": "2026-08-07T01:47:28Z",
   "mood": "NEUTRAL",
   "mood_color": "#ca8a04",
   "avg_score": 5.0,
@@ -31,9 +31,9 @@
     5.1,
     5.1,
     5.1,
-    5.1,
     4.91,
     4.93,
+    4.99,
     4.99,
     4.99,
     4.99
@@ -167,33 +167,33 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7723.6,
-        "chg_pct": -0.0062
+        "price": 7710.0,
+        "chg_pct": -0.0005
       },
       {
         "name": "NASDAQ",
-        "price": 29487.8,
-        "chg_pct": -0.0126
+        "price": 29373.3,
+        "chg_pct": 0.0051
       },
       {
         "name": "DOW",
-        "price": 54349.1,
-        "chg_pct": 0.0015
+        "price": 53885.1,
+        "chg_pct": -0.01
       },
       {
         "name": "Russell 2K",
-        "price": 3019.2,
-        "chg_pct": -0.0063
+        "price": 3001.5,
+        "chg_pct": -0.0049
       }
     ],
     "vix": {
-      "price": 16.5,
-      "prev": 16.5,
+      "price": 15.8,
+      "prev": 15.8,
       "label": "Normal"
     },
     "dxy": {
-      "price": 99.77,
-      "chg_pct": 0.0011
+      "price": 99.93,
+      "chg_pct": -0.0002
     },
     "yields": [
       {
@@ -202,7 +202,7 @@
       },
       {
         "name": "2-Year",
-        "rate": 4.2
+        "rate": 4.18
       },
       {
         "name": "10-Year",
@@ -210,12 +210,12 @@
       },
       {
         "name": "30-Year",
-        "rate": 5.18
+        "rate": 5.17
       }
     ],
     "curve_spread": {
       "label": "10Y minus 2Y",
-      "value": 0.43
+      "value": 0.45
     },
     "curve_status": "NORMAL",
     "fred": {
@@ -227,8 +227,8 @@
       {
         "name": "Gold",
         "unit": "$/oz",
-        "price": 4266.95,
-        "chg_pct": 0.0046,
+        "price": 4253.86,
+        "chg_pct": 0.0032,
         "chg_1mo": -0.0143,
         "chg_3mo": -0.1531,
         "chg_6mo": -0.113,
@@ -238,8 +238,8 @@
       {
         "name": "Silver",
         "unit": "$/oz",
-        "price": 62.14,
-        "chg_pct": 0.0013,
+        "price": 61.99,
+        "chg_pct": 0.0078,
         "chg_1mo": -0.0502,
         "chg_3mo": -0.2632,
         "chg_6mo": -0.3141,
@@ -249,8 +249,8 @@
       {
         "name": "Platinum",
         "unit": "$/oz",
-        "price": 1750.4,
-        "chg_pct": 0.0085,
+        "price": 1739.22,
+        "chg_pct": 0.0075,
         "chg_1mo": -0.0342,
         "chg_3mo": -0.2253,
         "chg_6mo": -0.3127,
@@ -260,8 +260,8 @@
       {
         "name": "Palladium",
         "unit": "$/oz",
-        "price": 1374.39,
-        "chg_pct": 0.0088,
+        "price": 1363.78,
+        "chg_pct": -0.0038,
         "chg_1mo": 0.0186,
         "chg_3mo": -0.1962,
         "chg_6mo": -0.3403,
@@ -271,8 +271,8 @@
       {
         "name": "WTI Crude",
         "unit": "$/bbl",
-        "price": 74.97,
-        "chg_pct": -0.0023,
+        "price": 77.81,
+        "chg_pct": -0.0046,
         "chg_1mo": 0.2199,
         "chg_3mo": -0.0033,
         "chg_6mo": 0.4605,
@@ -282,8 +282,8 @@
       {
         "name": "Brent",
         "unit": "$/bbl",
-        "price": 79.31,
-        "chg_pct": 0.0032,
+        "price": 83.15,
+        "chg_pct": -0.0018,
         "chg_1mo": 0.2556,
         "chg_3mo": 0.0136,
         "chg_6mo": 0.4782,
@@ -293,8 +293,8 @@
       {
         "name": "Nat Gas",
         "unit": "$/MMBtu",
-        "price": 2.67,
-        "chg_pct": -0.0007,
+        "price": 2.62,
+        "chg_pct": -0.0046,
         "chg_1mo": -0.0823,
         "chg_3mo": 0.074,
         "chg_6mo": -0.1553,
@@ -304,7 +304,7 @@
       {
         "name": "Copper",
         "unit": "$/lb",
-        "price": 6.75,
+        "price": 6.72,
         "chg_pct": 0.0004,
         "chg_1mo": 0.0353,
         "chg_3mo": 0.0533,
@@ -315,8 +315,8 @@
       {
         "name": "Wheat",
         "unit": "$/bu",
-        "price": 642.75,
-        "chg_pct": -0.0016,
+        "price": 629,
+        "chg_pct": -0.0032,
         "chg_1mo": 0.1555,
         "chg_3mo": 0.1357,
         "chg_6mo": 0.3281,
@@ -326,8 +326,8 @@
       {
         "name": "Corn",
         "unit": "$/bu",
-        "price": 436.5,
-        "chg_pct": -0.0011,
+        "price": 439.75,
+        "chg_pct": 0.0017,
         "chg_1mo": 0.1891,
         "chg_3mo": 0.078,
         "chg_6mo": 0.1608,
@@ -337,7 +337,7 @@
       {
         "name": "Soybeans",
         "unit": "$/bu",
-        "price": 1175,
+        "price": 1177.5,
         "chg_pct": -0.0002,
         "chg_1mo": 0.1222,
         "chg_3mo": 0.0753,
@@ -348,8 +348,8 @@
       {
         "name": "Coffee",
         "unit": "$/lb",
-        "price": 326.25,
-        "chg_pct": 0.0026,
+        "price": 321.65,
+        "chg_pct": -0.0164,
         "chg_1mo": 0.0358,
         "chg_3mo": 0.0207,
         "chg_6mo": -0.1721,
@@ -361,8 +361,8 @@
       {
         "name": "Gold",
         "unit": "$/oz",
-        "price": 4266.95,
-        "chg_pct": 0.0046,
+        "price": 4253.86,
+        "chg_pct": 0.0032,
         "chg_1mo": -0.0143,
         "chg_3mo": -0.1531,
         "chg_6mo": -0.113,
@@ -372,8 +372,8 @@
       {
         "name": "Silver",
         "unit": "$/oz",
-        "price": 62.14,
-        "chg_pct": 0.0013,
+        "price": 61.99,
+        "chg_pct": 0.0078,
         "chg_1mo": -0.0502,
         "chg_3mo": -0.2632,
         "chg_6mo": -0.3141,
@@ -383,8 +383,8 @@
       {
         "name": "Platinum",
         "unit": "$/oz",
-        "price": 1750.4,
-        "chg_pct": 0.0085,
+        "price": 1739.22,
+        "chg_pct": 0.0075,
         "chg_1mo": -0.0342,
         "chg_3mo": -0.2253,
         "chg_6mo": -0.3127,
@@ -394,8 +394,8 @@
       {
         "name": "Palladium",
         "unit": "$/oz",
-        "price": 1374.39,
-        "chg_pct": 0.0088,
+        "price": 1363.78,
+        "chg_pct": -0.0038,
         "chg_1mo": 0.0186,
         "chg_3mo": -0.1962,
         "chg_6mo": -0.3403,
@@ -404,92 +404,64 @@
       }
     ],
     "pm_drivers": {
-      "gold_silver_ratio": 68.7,
-      "copper_gold_ratio": 1.582,
+      "gold_silver_ratio": 68.6,
+      "copper_gold_ratio": 1.58,
       "central_bank_demand": "Strong",
       "cb_demand_note": "EM central banks (China, India, Turkey, Poland) net buyers; de-dollarization driver"
     },
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.154,
-        "chg_pct": -0.001
+        "price": 1.1524,
+        "chg_pct": 0.0003
       },
       {
         "name": "USD/JPY",
-        "price": 157.91,
-        "chg_pct": 0.0014
+        "price": 158.254,
+        "chg_pct": -0.0012
       },
       {
         "name": "GBP/USD",
-        "price": 1.347,
-        "chg_pct": 0.0004
+        "price": 1.3454,
+        "chg_pct": 0.0002
       },
       {
         "name": "USD/CNY",
-        "price": 6.7483,
+        "price": 6.7474,
         "chg_pct": -0.0001
       },
       {
         "name": "AUD/USD",
-        "price": 0.7038,
-        "chg_pct": -0.002
+        "price": 0.7029,
+        "chg_pct": 0.0003
       },
       {
         "name": "USD/BRL",
-        "price": 5.1115,
-        "chg_pct": -0.0015
+        "price": 5.1099,
+        "chg_pct": 0.0004
       }
     ],
     "global_watch": [
       {
-        "ticker": "ES=F",
-        "label": "S&P 500 Futures",
-        "region": "US Futures",
-        "price": 7753.25,
-        "chg_pct": -0.0005
-      },
-      {
-        "ticker": "NQ=F",
-        "label": "NASDAQ Futures",
-        "region": "US Futures",
-        "price": 29393.5,
-        "chg_pct": -0.006
-      },
-      {
-        "ticker": "YM=F",
-        "label": "Dow Futures",
-        "region": "US Futures",
-        "price": 54588,
-        "chg_pct": 0.0006
-      },
-      {
-        "ticker": "RTY=F",
-        "label": "Russell 2000 Fut",
-        "region": "US Futures",
-        "price": 3024.6,
-        "chg_pct": -0.0013
-      },
-      {
         "ticker": "^VIX",
         "label": "VIX Fear Index",
         "region": "Risk",
-        "price": 16.5,
+        "price": 15.8,
         "chg_pct": 0.0
       },
       {
         "ticker": "CL=F",
         "label": "Crude Oil",
         "region": "Commodities",
-        "price": 74.97,
-        "chg_pct": -0.0023
+        "price": 77.81,
+        "chg_pct": -0.0046
       },
       {
         "ticker": "GC=F",
         "label": "Gold Futures",
         "region": "Commodities",
-        "price": 4266.95,
-        "chg_pct": 0.0046
+        "price": 4253.86,
+        "chg_pct": 0.0032
       }
     ],
     "econ_history": {},
