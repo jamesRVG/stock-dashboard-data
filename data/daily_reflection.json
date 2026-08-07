@@ -4,6 +4,16 @@
   "movers_down": [],
   "signal_changes": [
     {
+      "ticker": "NEM",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
+      "ticker": "AEM",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
       "ticker": "B",
       "from": "Strong Buy",
       "to": "Buy"
@@ -31,8 +41,8 @@
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.014,
+  "bearish_tech_pct": 0.009,
   "market_pullback": false,
   "resilient_hold_count": 61,
-  "short_reflection": "Signal changes: B (Strong Buy to Buy), AU (Strong Buy to Buy), WDC (Buy to Hold), AMT (Buy to Hold)."
+  "short_reflection": "Signal changes: NEM (Strong Buy to Buy), AEM (Strong Buy to Buy), B (Strong Buy to Buy), AU (Strong Buy to Buy)."
 }
