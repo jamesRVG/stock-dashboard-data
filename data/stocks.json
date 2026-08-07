@@ -1,13 +1,12 @@
 {
-  "refreshed": "2026-08-07 04:46",
-  "refreshed_utc": "2026-08-07T04:46:18Z",
+  "refreshed": "2026-08-07 09:48",
+  "refreshed_utc": "2026-08-07T09:48:03Z",
   "mood": "NEUTRAL",
   "mood_color": "#ca8a04",
   "avg_score": 5.0,
   "avg_score_exact": 4.98,
-  "avg_score_prev": 4.99,
+  "avg_score_prev": 4.98,
   "avg_score_series": [
-    5.1,
     5.1,
     5.1,
     5.1,
@@ -36,7 +35,8 @@
     4.99,
     4.99,
     4.99,
-    4.99
+    4.99,
+    4.98
   ],
   "stats": {
     "strong_buys": 7,
@@ -192,8 +192,8 @@
       "label": "Normal"
     },
     "dxy": {
-      "price": 99.95,
-      "chg_pct": 0.0001
+      "price": 99.91,
+      "chg_pct": -0.0003
     },
     "yields": [
       {
@@ -412,36 +412,64 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1523,
-        "chg_pct": 0.0002
+        "price": 1.1528,
+        "chg_pct": 0.0007
       },
       {
         "name": "USD/JPY",
-        "price": 158.398,
-        "chg_pct": -0.0003
+        "price": 158.334,
+        "chg_pct": -0.0007
       },
       {
         "name": "GBP/USD",
-        "price": 1.3454,
-        "chg_pct": 0.0002
+        "price": 1.344,
+        "chg_pct": -0.0008
       },
       {
         "name": "USD/CNY",
-        "price": 6.7462,
-        "chg_pct": -0.0003
-      },
-      {
-        "name": "AUD/USD",
-        "price": 0.7026,
+        "price": 6.7469,
         "chg_pct": -0.0002
       },
       {
+        "name": "AUD/USD",
+        "price": 0.7041,
+        "chg_pct": 0.0019
+      },
+      {
         "name": "USD/BRL",
-        "price": 5.1099,
-        "chg_pct": 0.0004
+        "price": 5.1122,
+        "chg_pct": 0.0008
       }
     ],
     "global_watch": [
+      {
+        "ticker": "ES=F",
+        "label": "S&P 500 Futures",
+        "region": "US Futures",
+        "price": 7748,
+        "chg_pct": 0.0017
+      },
+      {
+        "ticker": "NQ=F",
+        "label": "NASDAQ Futures",
+        "region": "US Futures",
+        "price": 29640.25,
+        "chg_pct": 0.0043
+      },
+      {
+        "ticker": "YM=F",
+        "label": "Dow Futures",
+        "region": "US Futures",
+        "price": 54013,
+        "chg_pct": -0.0005
+      },
+      {
+        "ticker": "RTY=F",
+        "label": "Russell 2000 Fut",
+        "region": "US Futures",
+        "price": 3016.2,
+        "chg_pct": 0.0026
+      },
       {
         "ticker": "^VIX",
         "label": "VIX Fear Index",
@@ -486,6 +514,12 @@
       },
       {
         "source": "ECB",
+        "title": "ECB publishes consolidated banking data for end-March 2026",
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
+        "date": "Fri, 07 Aug 2026 10:00:00 +0200"
+      },
+      {
+        "source": "ECB",
         "title": "Digital euro app to incorporate highest accessibility standards",
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
         "date": "Thu, 30 Jul 2026 10:00:00 +0200"
@@ -495,12 +529,6 @@
         "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
         "date": "Wed, 29 Jul 2026 10:00:00 +0200"
-      },
-      {
-        "source": "ECB",
-        "title": "Philip R. Lane: Outlook for the euro area economy",
-        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
-        "date": "Fri, 24 Jul 2026 17:30:00 +0200"
       },
       {
         "source": "Bank of England",
