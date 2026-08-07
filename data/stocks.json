@@ -1,13 +1,12 @@
 {
-  "refreshed": "2026-08-07 09:48",
-  "refreshed_utc": "2026-08-07T09:48:03Z",
+  "refreshed": "2026-08-07 11:13",
+  "refreshed_utc": "2026-08-07T11:13:43Z",
   "mood": "NEUTRAL",
   "mood_color": "#ca8a04",
   "avg_score": 5.0,
   "avg_score_exact": 4.98,
   "avg_score_prev": 4.98,
   "avg_score_series": [
-    5.1,
     5.1,
     5.1,
     5.1,
@@ -36,6 +35,7 @@
     4.99,
     4.99,
     4.99,
+    4.98,
     4.98
   ],
   "stats": {
@@ -192,8 +192,8 @@
       "label": "Normal"
     },
     "dxy": {
-      "price": 99.91,
-      "chg_pct": -0.0003
+      "price": 99.9,
+      "chg_pct": -0.0005
     },
     "yields": [
       {
@@ -412,33 +412,33 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1528,
-        "chg_pct": 0.0007
+        "price": 1.153,
+        "chg_pct": 0.0008
       },
       {
         "name": "USD/JPY",
-        "price": 158.334,
-        "chg_pct": -0.0007
+        "price": 158.288,
+        "chg_pct": -0.001
       },
       {
         "name": "GBP/USD",
-        "price": 1.344,
-        "chg_pct": -0.0008
+        "price": 1.3442,
+        "chg_pct": -0.0007
       },
       {
         "name": "USD/CNY",
-        "price": 6.7469,
-        "chg_pct": -0.0002
+        "price": 6.7482,
+        "chg_pct": -0.0
       },
       {
         "name": "AUD/USD",
-        "price": 0.7041,
-        "chg_pct": 0.0019
+        "price": 0.7038,
+        "chg_pct": 0.0015
       },
       {
         "name": "USD/BRL",
-        "price": 5.1122,
-        "chg_pct": 0.0008
+        "price": 5.1083,
+        "chg_pct": 0.0001
       }
     ],
     "global_watch": [
@@ -446,29 +446,29 @@
         "ticker": "ES=F",
         "label": "S&P 500 Futures",
         "region": "US Futures",
-        "price": 7748,
-        "chg_pct": 0.0017
+        "price": 7750.25,
+        "chg_pct": 0.002
       },
       {
         "ticker": "NQ=F",
         "label": "NASDAQ Futures",
         "region": "US Futures",
-        "price": 29640.25,
-        "chg_pct": 0.0043
+        "price": 29633.75,
+        "chg_pct": 0.004
       },
       {
         "ticker": "YM=F",
         "label": "Dow Futures",
         "region": "US Futures",
-        "price": 54013,
-        "chg_pct": -0.0005
+        "price": 54059,
+        "chg_pct": 0.0004
       },
       {
         "ticker": "RTY=F",
         "label": "Russell 2000 Fut",
         "region": "US Futures",
-        "price": 3016.2,
-        "chg_pct": 0.0026
+        "price": 3018.1,
+        "chg_pct": 0.0032
       },
       {
         "ticker": "^VIX",
