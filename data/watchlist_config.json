@@ -1163,7 +1163,8 @@
     "TECL": 1,
     "BUG": 1,
     "WELL": 1,
-    "SPG": 1
+    "SPG": 1,
+    "SPY": 1
   },
   "watch": {
     "TDC": {
@@ -1199,7 +1200,9 @@
         "rev_growth": 0.9552238805970149,
         "mom12": 24.5
       },
-      "ret_since_entry": 0.0
+      "ret_since_entry": 0.0,
+      "verified": true,
+      "verified_pe": 5.9986
     },
     "FSM": {
       "first_seen": "2026-08-06",
@@ -1515,7 +1518,9 @@
         "rev_growth": 24.34706370123114,
         "mom12": 103.23974082073434
       },
-      "ret_since_entry": 0.0
+      "ret_since_entry": 0.0,
+      "verified": true,
+      "verified_pe": 25.3771
     },
     "DLO": {
       "first_seen": "2026-08-08",
@@ -1550,7 +1555,9 @@
         "rev_growth": 46.598540967925075,
         "mom12": 37.45229007633586
       },
-      "ret_since_entry": 0.0
+      "ret_since_entry": 0.0,
+      "verified": true,
+      "verified_pe": 22.1108
     },
     "CRUS": {
       "first_seen": "2026-08-08",
@@ -1839,7 +1846,9 @@
         "rev_growth": 8.85130441721467,
         "mom12": 21.96774193548388
       },
-      "ret_since_entry": 0.0
+      "ret_since_entry": 0.0,
+      "verified": true,
+      "verified_pe": 14.7611
     },
     "SLDE": {
       "first_seen": "2026-08-08",
@@ -1874,7 +1883,9 @@
         "rev_growth": 41.43171092857332,
         "mom12": 14.46370530877572
       },
-      "ret_since_entry": 0.0
+      "ret_since_entry": 0.0,
+      "verified": true,
+      "verified_pe": 4.4412
     },
     "FLOC": {
       "first_seen": "2026-08-06",
@@ -2032,7 +2043,9 @@
         "rev_growth": 15.569807837135292,
         "mom12": -12.748710390567432
       },
-      "ret_since_entry": 0.0
+      "ret_since_entry": 0.0,
+      "verified": true,
+      "verified_pe": 16.6813
     },
     "BFH": {
       "first_seen": "2026-08-07",
@@ -2108,7 +2121,9 @@
         "rev_growth": 43.059308548441535,
         "mom12": -18.81406067276605
       },
-      "ret_since_entry": 0.0
+      "ret_since_entry": 0.0,
+      "verified": true,
+      "verified_pe": 40.4901
     },
     "FTNT": {
       "first_seen": "2026-08-08",
@@ -2180,7 +2195,9 @@
         "rev_growth": 12.564813010630607,
         "mom12": -38.49912739965095
       },
-      "ret_since_entry": 0.0
+      "ret_since_entry": 0.0,
+      "verified": true,
+      "verified_pe": 11.768
     },
     "PRG": {
       "first_seen": "2026-08-07",
@@ -2293,7 +2310,9 @@
         "rev_growth": 5.785034874068857,
         "mom12": 79.62616822429906
       },
-      "ret_since_entry": 0.0
+      "ret_since_entry": 0.0,
+      "verified": true,
+      "verified_pe": 29.566
     },
     "FSLR": {
       "first_seen": "2026-08-08",
@@ -3526,13 +3545,13 @@
     }
   },
   "_promote_streak": {
-    "FSM": 3,
-    "CGAU": 3,
-    "ERO": 3,
-    "AUGO": 3,
+    "FSM": 4,
+    "CGAU": 4,
+    "ERO": 4,
+    "AUGO": 4,
     "ARIS": 0,
-    "CVE": 15,
-    "CNX": 14,
+    "CVE": 16,
+    "CNX": 15,
     "DSVSF": 0,
     "AYA": 0,
     "FLOC": 0,
@@ -3544,7 +3563,7 @@
     "RRC": 0,
     "SM": 0,
     "CHRD": 0,
-    "DAVE": 11,
+    "DAVE": 12,
     "SYF": 0,
     "ZION": 0,
     "BFH": 0,
@@ -3553,7 +3572,7 @@
     "EZPW": 0,
     "FFBC": 0,
     "QNST": 0,
-    "CRUS": 3,
+    "CRUS": 4,
     "OII": 0,
     "FSLR": 0,
     "QCOM": 0,
@@ -3565,14 +3584,14 @@
     "KMT": 0,
     "EPAC": 0,
     "STRL": 0,
-    "TDC": 0,
-    "YOU": 1,
-    "ADBE": 1,
-    "ADEA": 0,
-    "DLO": 0,
-    "QLYS": 1,
-    "RAMP": 0,
-    "SLDE": 0,
+    "TDC": 1,
+    "YOU": 2,
+    "ADBE": 2,
+    "ADEA": 1,
+    "DLO": 1,
+    "QLYS": 2,
+    "RAMP": 1,
+    "SLDE": 1,
     "FRSH": 0,
     "SEZL": 0,
     "FTNT": 0,
@@ -3848,6 +3867,7 @@
     "TECL": "2026-08-08",
     "BUG": "2026-08-08",
     "WELL": "2026-08-08",
-    "SPG": "2026-08-08"
+    "SPG": "2026-08-08",
+    "SPY": "2026-08-08"
   }
 }
