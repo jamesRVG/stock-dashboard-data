@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T04:26:48.444020",
+  "generated_at": "2026-08-08T04:38:02.825547",
   "history_snapshots": 23,
   "signal_accuracy": {
     "1d": {
@@ -38,19 +38,19 @@
     },
     "20d": {
       "Buy": {
-        "win_pct": 0.738,
-        "avg_return": 0.0827,
-        "n": 279
+        "win_pct": 0.753,
+        "avg_return": 0.0871,
+        "n": 271
       },
       "Hold": {
-        "win_pct": 0.624,
-        "avg_return": 0.0536,
-        "n": 117
+        "win_pct": 0.648,
+        "avg_return": 0.0616,
+        "n": 108
       },
       "Caution": {
-        "win_pct": 0.444,
-        "avg_return": 0.0298,
-        "n": 9
+        "win_pct": 0.375,
+        "avg_return": 0.0327,
+        "n": 8
       },
       "Strong Buy": {
         "win_pct": 0.848,
@@ -62,8 +62,8 @@
   },
   "sell_signal_accuracy": {
     "20d": {
-      "accuracy": 0.6,
-      "n": 10
+      "accuracy": 0.625,
+      "n": 8
     }
   },
   "category_performance": {
@@ -163,14 +163,14 @@
     },
     "20d": {
       "Commod": {
-        "avg_return": 0.1337,
-        "win_pct": 0.861,
-        "n": 72
+        "avg_return": 0.1345,
+        "win_pct": 0.859,
+        "n": 71
       },
       "GreenE": {
-        "avg_return": -0.02,
-        "win_pct": 0.25,
-        "n": 52
+        "avg_return": -0.0231,
+        "win_pct": 0.205,
+        "n": 44
       },
       "Infl-Idx": {
         "avg_return": -0.0072,
@@ -202,11 +202,6 @@
         "win_pct": 0.645,
         "n": 31
       },
-      "Susty": {
-        "avg_return": -0.1229,
-        "win_pct": 0.0,
-        "n": 8
-      },
       "Intl": {
         "avg_return": -0.0076,
         "win_pct": 0.222,
@@ -233,7 +228,7 @@
   "score_correlation": {
     "1d": 0.337,
     "5d": 0.41,
-    "20d": 0.25
+    "20d": 0.235
   },
   "factor_analysis": {
     "macd": {
@@ -263,9 +258,9 @@
       },
       "20d": {
         "bullish": {
-          "avg_return": 0.099,
-          "win_pct": 0.744,
-          "n": 328
+          "avg_return": 0.1058,
+          "win_pct": 0.765,
+          "n": 315
         },
         "neutral": {
           "avg_return": 0.1999,
@@ -273,9 +268,9 @@
           "n": 2
         },
         "bearish": {
-          "avg_return": 0.058,
-          "win_pct": 0.69,
-          "n": 168
+          "avg_return": 0.0608,
+          "win_pct": 0.698,
+          "n": 162
         }
       },
       "60d": {}
@@ -317,19 +312,19 @@
       },
       "20d": {
         "oversold": {
-          "avg_return": 0.1518,
-          "win_pct": 0.878,
-          "n": 74
+          "avg_return": 0.1634,
+          "win_pct": 0.913,
+          "n": 69
         },
         "neutral": {
-          "avg_return": 0.0807,
-          "win_pct": 0.735,
-          "n": 393
+          "avg_return": 0.085,
+          "win_pct": 0.748,
+          "n": 381
         },
         "overbought": {
-          "avg_return": -0.0109,
-          "win_pct": 0.226,
-          "n": 31
+          "avg_return": -0.0022,
+          "win_pct": 0.241,
+          "n": 29
         }
       },
       "60d": {}
@@ -361,14 +356,14 @@
       },
       "20d": {
         "low": {
-          "avg_return": 0.053,
-          "win_pct": 0.591,
-          "n": 132
+          "avg_return": 0.0545,
+          "win_pct": 0.594,
+          "n": 128
         },
         "mid": {
-          "avg_return": 0.0624,
-          "win_pct": 0.703,
-          "n": 111
+          "avg_return": 0.0767,
+          "win_pct": 0.755,
+          "n": 102
         },
         "high": {
           "avg_return": 0.1012,
@@ -394,7 +389,7 @@
     "score_correlation": {
       "1d": 0.337,
       "5d": 0.41,
-      "20d": 0.25
+      "20d": 0.235
     }
   },
   "statistical_insights": [
@@ -406,13 +401,13 @@
     "MACD bullish signal predicting 5.0% edge over bearish over 5d. Technical scoring is working.",
     "Top 5d categories: PrecMet (+18.9%), Core (+8.0%), AltMed (+5.4%).",
     "Underperforming 5d: Intl (-1.1%), REIT (-0.9%).",
-    "Top 20d categories: Core / Tech (+29.6%), PrecMet (+17.9%), Commod (+13.4%).",
-    "Underperforming 20d: Susty (-12.3%), GreenE (-2.0%).",
+    "Top 20d categories: Core / Tech (+29.6%), PrecMet (+17.9%), Commod (+13.5%).",
+    "Underperforming 20d: GreenE (-2.3%), Intl (-0.8%).",
     "Weight adjustment suggested: Fund 45%->40%, Tech 25%->28%, Macro 30%->32%. Basis: Strong Buy underperforming Buy over 5d; consider reducing fund_weight slightly."
   ],
   "claude_synthesis": {
     "strategic_insights": [
-      "Claude synthesis unavailable: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CdpeYjA4fSEkGg17TTNsV'}"
+      "Claude synthesis unavailable: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CdpfQSTNP9DbCk4UsumaN'}"
     ],
     "model_health": "unknown"
   }
