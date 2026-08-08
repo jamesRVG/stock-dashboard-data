@@ -629,6 +629,8 @@
     "QBTS": 1,
     "RGTI": 1,
     "BTDR": 1,
+    "ROBO": 1,
+    "NET": 1,
     "VIVO": 1,
     "BEP": 1,
     "NIO": 1,
@@ -637,6 +639,7 @@
     "XIFR": 1,
     "NEE": 1,
     "LEU": 1,
+    "BE": 1,
     "VNQ": 1,
     "O": 1,
     "PLD": 1,
@@ -649,6 +652,7 @@
     "WM": 1,
     "RSG": 1,
     "CLH": 1,
+    "ENPH": 1,
     "TLRY": 1,
     "CGC": 1,
     "CRON": 1,
@@ -673,13 +677,39 @@
     "DUK": 1,
     "SO": 1,
     "LNG": 1,
+    "BRK-B": 1,
+    "V": 1,
+    "XOM": 1,
+    "BAC": 1,
+    "ABBV": 1,
+    "UNH": 1,
+    "HD": 1,
+    "RTX": 1,
+    "PANW": 1,
+    "COP": 1,
+    "EQNR": 1,
+    "VLO": 1,
+    "MPC": 1,
     "PSX": 1,
+    "SU": 1,
+    "DLR": 1,
+    "VTR": 1,
+    "KORU": 1,
+    "SPHY": 1,
+    "TMF": 1,
+    "REMX": 1,
     "EWS": 1,
+    "ARXS": 1,
+    "QTEC": 1,
     "HALO": 1,
-    "URGN": 1,
+    "AMGN": 1,
+    "TECL": 1,
+    "XLK": 1,
     "MRVI": 1,
+    "LQDA": 1,
     "ACAD": 1,
     "PBF": 1,
+    "BUG": 1,
     "EPOL": 1
   },
   "history": [
@@ -1028,12 +1058,14 @@
     "NAK": 1,
     "NUGT": 1,
     "UAMY": 1,
+    "COMB": 1,
     "PPTA": 1,
     "MARA": 1,
     "QUBT": 1,
     "QBTS": 1,
     "RGTI": 1,
     "BTDR": 1,
+    "ROBO": 1,
     "SMCI": 1,
     "VIVO": 1,
     "BEP": 1,
@@ -1047,6 +1079,7 @@
     "BE": 1,
     "FCEL": 1,
     "WAVE": 1,
+    "VNQ": 1,
     "O": 1,
     "AMT": 1,
     "PLD": 1,
@@ -1057,7 +1090,6 @@
     "LQD": 1,
     "HYG": 1,
     "SHY": 1,
-    "EMB": 1,
     "BNDX": 1,
     "VCIT": 1,
     "JNK": 1,
@@ -1100,103 +1132,40 @@
     "EXC": 1,
     "SO": 1,
     "AA": 1,
-    "SPY": 1,
-    "CEG": 1,
+    "BRK-B": 1,
+    "WMT": 1,
+    "COST": 1,
+    "HD": 1,
+    "CRH": 1,
+    "DLR": 1,
+    "VTR": 1,
+    "IRM": 1,
+    "EXR": 1,
+    "SGOV": 1,
+    "VTEB": 1,
+    "SPHY": 1,
+    "SPIB": 1,
     "INDA": 1,
-    "ORCL": 1,
-    "MRVI": 1
+    "USFR": 1,
+    "SPTL": 1,
+    "MUB": 1,
+    "TMF": 1,
+    "VCLT": 1,
+    "PYLD": 1,
+    "ECAT": 1,
+    "EAGG": 1,
+    "REMX": 1,
+    "TIPX": 1,
+    "SPIP": 1,
+    "WIW": 1,
+    "TDTT": 1,
+    "PDBA": 1,
+    "REXC": 1,
+    "ACES": 1,
+    "TECL": 1,
+    "BUG": 1
   },
   "watch": {
-    "IAG": {
-      "first_seen": "2026-08-06",
-      "entry_price": 15.89,
-      "sector": "Metals & Mining",
-      "industry": "Precious Metals",
-      "name": "IAG",
-      "track": [
-        {
-          "date": "2026-08-06",
-          "price": 15.89
-        },
-        {
-          "date": "2026-08-07",
-          "price": 18.32
-        },
-        {
-          "date": "2026-08-08",
-          "price": 18.32
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "NYSE",
-      "otc": false,
-      "scores": {
-        "hybrid": 8.8,
-        "pe_heavy": 9.1
-      },
-      "gates": {
-        "E": true,
-        "E2": true
-      },
-      "metrics": {
-        "pe": 9.530040017844897,
-        "roe": 29.2690164322499,
-        "roic": 24.1725261258871,
-        "gross_margin": 49.3379704485021,
-        "pfcf": 6.9276320532258415,
-        "de": 0.12272644598035701,
-        "rev_growth": 75.39857422013338,
-        "mom12": 131.31313131313132
-      },
-      "ret_since_entry": 0.1529,
-      "verified": true,
-      "verified_pe": 9.2259
-    },
-    "SU": {
-      "first_seen": "2026-08-06",
-      "entry_price": 62.82,
-      "sector": "Energy",
-      "industry": "Integrated Oil",
-      "name": "SU",
-      "track": [
-        {
-          "date": "2026-08-06",
-          "price": 62.82
-        },
-        {
-          "date": "2026-08-07",
-          "price": 60.1
-        },
-        {
-          "date": "2026-08-08",
-          "price": 60.1
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "NYSE",
-      "otc": false,
-      "scores": {
-        "hybrid": 8.24,
-        "pe_heavy": 8.26
-      },
-      "gates": {
-        "E": true,
-        "E2": true
-      },
-      "metrics": {
-        "pe": 11.388042017744274,
-        "roe": 19.2510485966596,
-        "roic": 15.091118098522502,
-        "gross_margin": 46.66348482438,
-        "pfcf": 9.746337381268871,
-        "de": 0.304798289143118,
-        "rev_growth": 9.025994590555362,
-        "mom12": 52.46067985794013
-      },
-      "ret_since_entry": -0.0433,
-      "verified": true,
-      "verified_pe": 16.4398
-    },
     "FSM": {
       "first_seen": "2026-08-06",
       "entry_price": 9.6,
@@ -1221,8 +1190,8 @@
       "exchange": "NYSE",
       "otc": false,
       "scores": {
-        "hybrid": 8.12,
-        "pe_heavy": 8.75
+        "hybrid": 8.27,
+        "pe_heavy": 8.86
       },
       "gates": {
         "E": true,
@@ -1266,8 +1235,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 7.91,
-        "pe_heavy": 7.59
+        "hybrid": 7.97,
+        "pe_heavy": 7.71
       },
       "gates": {
         "E": true,
@@ -1286,51 +1255,6 @@
       "ret_since_entry": 0.1273,
       "verified": true,
       "verified_pe": 20.2678
-    },
-    "CGAU": {
-      "first_seen": "2026-08-06",
-      "entry_price": 19.46,
-      "sector": "Metals & Mining",
-      "industry": "Precious Metals",
-      "name": "CGAU",
-      "track": [
-        {
-          "date": "2026-08-06",
-          "price": 19.46
-        },
-        {
-          "date": "2026-08-07",
-          "price": 21.24
-        },
-        {
-          "date": "2026-08-08",
-          "price": 21.24
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "NYSE",
-      "otc": false,
-      "scores": {
-        "hybrid": 7.87,
-        "pe_heavy": 8.5
-      },
-      "gates": {
-        "E": true,
-        "E2": true
-      },
-      "metrics": {
-        "pe": 6.95877261404524,
-        "roe": 32.593378769211,
-        "roic": 32.174957198048,
-        "gross_margin": 32.7363576320396,
-        "pfcf": 32.62948141796212,
-        "de": 0.0211141762855162,
-        "rev_growth": 36.2340457551393,
-        "mom12": 191.35802469135803
-      },
-      "ret_since_entry": 0.0915,
-      "verified": true,
-      "verified_pe": 6.0928
     },
     "ERO": {
       "first_seen": "2026-08-06",
@@ -1356,8 +1280,8 @@
       "exchange": "NYSE",
       "otc": false,
       "scores": {
-        "hybrid": 7.83,
-        "pe_heavy": 8.3
+        "hybrid": 7.94,
+        "pe_heavy": 8.39
       },
       "gates": {
         "E": true,
@@ -1376,6 +1300,51 @@
       "ret_since_entry": 0.1275,
       "verified": true,
       "verified_pe": 11.1017
+    },
+    "CGAU": {
+      "first_seen": "2026-08-06",
+      "entry_price": 19.46,
+      "sector": "Metals & Mining",
+      "industry": "Precious Metals",
+      "name": "CGAU",
+      "track": [
+        {
+          "date": "2026-08-06",
+          "price": 19.46
+        },
+        {
+          "date": "2026-08-07",
+          "price": 21.24
+        },
+        {
+          "date": "2026-08-08",
+          "price": 21.24
+        }
+      ],
+      "last_seen": "2026-08-08",
+      "exchange": "NYSE",
+      "otc": false,
+      "scores": {
+        "hybrid": 7.89,
+        "pe_heavy": 8.52
+      },
+      "gates": {
+        "E": true,
+        "E2": true
+      },
+      "metrics": {
+        "pe": 6.95877261404524,
+        "roe": 32.593378769211,
+        "roic": 32.174957198048,
+        "gross_margin": 32.7363576320396,
+        "pfcf": 32.62948141796212,
+        "de": 0.0211141762855162,
+        "rev_growth": 36.2340457551393,
+        "mom12": 191.35802469135803
+      },
+      "ret_since_entry": 0.0915,
+      "verified": true,
+      "verified_pe": 6.0928
     },
     "CVE": {
       "first_seen": "2026-08-06",
@@ -1539,6 +1508,43 @@
       },
       "ret_since_entry": 0
     },
+    "CRUS": {
+      "first_seen": "2026-08-08",
+      "entry_price": 124.92,
+      "sector": "Semiconductors",
+      "industry": "Semiconductors",
+      "name": "CRUS",
+      "track": [
+        {
+          "date": "2026-08-08",
+          "price": 124.92
+        }
+      ],
+      "last_seen": "2026-08-08",
+      "exchange": "NASDAQ",
+      "otc": false,
+      "scores": {
+        "hybrid": 7.49,
+        "pe_heavy": 8.02
+      },
+      "gates": {
+        "E": true,
+        "E2": true
+      },
+      "metrics": {
+        "pe": 15.284473265630735,
+        "roe": 20.9040361313439,
+        "roic": 19.7987303966763,
+        "gross_margin": 52.78471873277301,
+        "pfcf": 11.431417404588693,
+        "de": 0.0595962507497267,
+        "rev_growth": 6.246076991773799,
+        "mom12": 24.98249124562281
+      },
+      "ret_since_entry": 0.0,
+      "verified": true,
+      "verified_pe": 14.9969
+    },
     "DSVSF": {
       "first_seen": "2026-08-06",
       "entry_price": 7.47,
@@ -1563,8 +1569,8 @@
       "exchange": "OTC",
       "otc": true,
       "scores": {
-        "hybrid": 7.36,
-        "pe_heavy": 6.79
+        "hybrid": 7.45,
+        "pe_heavy": 6.89
       },
       "gates": {
         "E": false,
@@ -1583,6 +1589,51 @@
       "ret_since_entry": 0.0509,
       "verified": true,
       "verified_pe": 31.1573
+    },
+    "ARIS": {
+      "first_seen": "2026-08-06",
+      "entry_price": 15.63,
+      "sector": "Metals & Mining",
+      "industry": "Precious Metals",
+      "name": "ARIS",
+      "track": [
+        {
+          "date": "2026-08-06",
+          "price": 15.63
+        },
+        {
+          "date": "2026-08-07",
+          "price": 17.4
+        },
+        {
+          "date": "2026-08-08",
+          "price": 17.4
+        }
+      ],
+      "last_seen": "2026-08-08",
+      "exchange": "NYSE",
+      "otc": false,
+      "scores": {
+        "hybrid": 7.36,
+        "pe_heavy": 7.91
+      },
+      "gates": {
+        "E": true,
+        "E2": false
+      },
+      "metrics": {
+        "pe": 13.021394600341969,
+        "roe": 20.8350537039755,
+        "roic": 15.4379945166629,
+        "gross_margin": 51.2390961704136,
+        "pfcf": 35.41374168763285,
+        "de": 0.286522671041064,
+        "rev_growth": 86.19708216790585,
+        "mom12": 116.14906832298132
+      },
+      "ret_since_entry": 0.1132,
+      "verified": true,
+      "verified_pe": 18.7483
     },
     "CNX": {
       "first_seen": "2026-08-06",
@@ -1629,133 +1680,6 @@
       "verified": true,
       "verified_pe": 5.4756
     },
-    "CRUS": {
-      "first_seen": "2026-08-08",
-      "entry_price": 124.92,
-      "sector": "Semiconductors",
-      "industry": "Semiconductors",
-      "name": "CRUS",
-      "track": [
-        {
-          "date": "2026-08-08",
-          "price": 124.92
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "NASDAQ",
-      "otc": false,
-      "scores": {
-        "hybrid": 7.25,
-        "pe_heavy": 7.77
-      },
-      "gates": {
-        "E": true,
-        "E2": true
-      },
-      "metrics": {
-        "pe": 15.284473265630735,
-        "roe": 20.9040361313439,
-        "roic": 19.7987303966763,
-        "gross_margin": 52.78471873277301,
-        "pfcf": 11.431417404588693,
-        "de": 0.0595962507497267,
-        "rev_growth": 6.246076991773799,
-        "mom12": 24.98249124562281
-      },
-      "ret_since_entry": 0.0,
-      "verified": true,
-      "verified_pe": 14.9969
-    },
-    "ARIS": {
-      "first_seen": "2026-08-06",
-      "entry_price": 15.63,
-      "sector": "Metals & Mining",
-      "industry": "Precious Metals",
-      "name": "ARIS",
-      "track": [
-        {
-          "date": "2026-08-06",
-          "price": 15.63
-        },
-        {
-          "date": "2026-08-07",
-          "price": 17.4
-        },
-        {
-          "date": "2026-08-08",
-          "price": 17.4
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "NYSE",
-      "otc": false,
-      "scores": {
-        "hybrid": 7.22,
-        "pe_heavy": 7.76
-      },
-      "gates": {
-        "E": true,
-        "E2": false
-      },
-      "metrics": {
-        "pe": 13.021394600341969,
-        "roe": 20.8350537039755,
-        "roic": 15.4379945166629,
-        "gross_margin": 51.2390961704136,
-        "pfcf": 35.41374168763285,
-        "de": 0.286522671041064,
-        "rev_growth": 86.19708216790585,
-        "mom12": 116.14906832298132
-      },
-      "ret_since_entry": 0.1132,
-      "verified": true,
-      "verified_pe": 18.7483
-    },
-    "CNQ": {
-      "first_seen": "2026-08-06",
-      "entry_price": 44.75,
-      "sector": "Energy",
-      "industry": "Integrated Oil",
-      "name": "CNQ",
-      "track": [
-        {
-          "date": "2026-08-06",
-          "price": 44.75
-        },
-        {
-          "date": "2026-08-07",
-          "price": 45.51
-        },
-        {
-          "date": "2026-08-08",
-          "price": 45.51
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "NYSE",
-      "otc": false,
-      "scores": {
-        "hybrid": 7.21,
-        "pe_heavy": 7.55
-      },
-      "gates": {
-        "E": true,
-        "E2": true
-      },
-      "metrics": {
-        "pe": 11.497329769792687,
-        "roe": 26.6851317910414,
-        "roic": 19.1809659021369,
-        "gross_margin": 29.364759602471104,
-        "pfcf": 13.748952853514792,
-        "de": 0.431297546798872,
-        "rev_growth": 12.69234155170864,
-        "mom12": 43.06821754165357
-      },
-      "ret_since_entry": 0.017,
-      "verified": true,
-      "verified_pe": 13.4657
-    },
     "AYA": {
       "first_seen": "2026-08-06",
       "entry_price": 25.07,
@@ -1780,8 +1704,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 7.13,
-        "pe_heavy": 6.22
+        "hybrid": 7.24,
+        "pe_heavy": 6.38
       },
       "gates": {
         "E": false,
@@ -1845,6 +1769,43 @@
       "ret_since_entry": 0.0516,
       "verified": true,
       "verified_pe": 44.3596
+    },
+    "FSLR": {
+      "first_seen": "2026-08-08",
+      "entry_price": 250.05,
+      "sector": "Semiconductors",
+      "industry": "Semiconductors",
+      "name": "FSLR",
+      "track": [
+        {
+          "date": "2026-08-08",
+          "price": 250.05
+        }
+      ],
+      "last_seen": "2026-08-08",
+      "exchange": "NASDAQ",
+      "otc": false,
+      "scores": {
+        "hybrid": 7.04,
+        "pe_heavy": 7.65
+      },
+      "gates": {
+        "E": true,
+        "E2": true
+      },
+      "metrics": {
+        "pe": 15.414822395107699,
+        "roe": 18.5091772344458,
+        "roic": 17.9864949907601,
+        "gross_margin": 44.0024499490617,
+        "pfcf": 17.95749977168478,
+        "de": 0.018798802907424198,
+        "rev_growth": 23.82062868645269,
+        "mom12": 33.31023084715041
+      },
+      "ret_since_entry": 0.0,
+      "verified": true,
+      "verified_pe": 16.3493
     },
     "ZION": {
       "first_seen": "2026-08-07",
@@ -1965,84 +1926,6 @@
       "verified": true,
       "verified_pe": 7.3874
     },
-    "PRG": {
-      "first_seen": "2026-08-07",
-      "entry_price": 42.85,
-      "sector": "Financial Services",
-      "industry": "Finance/Rental/Leasing",
-      "name": "PRG",
-      "track": [
-        {
-          "date": "2026-08-07",
-          "price": 42.85
-        },
-        {
-          "date": "2026-08-08",
-          "price": 42.85
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "NYSE",
-      "otc": false,
-      "scores": {
-        "hybrid": 6.76,
-        "pe_heavy": 7.02
-      },
-      "gates": {
-        "E": true,
-        "E2": true
-      },
-      "metrics": {
-        "pe": 11.876385809312639,
-        "roe": 17.1818023314584,
-        "roic": 8.54327600979605,
-        "gross_margin": 35.6489897924951,
-        "pfcf": 5.476133689738908,
-        "de": 1.10147763677453,
-        "rev_growth": 4.5217328457924175,
-        "mom12": 34.4524631314716
-      },
-      "ret_since_entry": 0,
-      "verified": true,
-      "verified_pe": 11.6369
-    },
-    "FSLR": {
-      "first_seen": "2026-08-08",
-      "entry_price": 250.05,
-      "sector": "Semiconductors",
-      "industry": "Semiconductors",
-      "name": "FSLR",
-      "track": [
-        {
-          "date": "2026-08-08",
-          "price": 250.05
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "NASDAQ",
-      "otc": false,
-      "scores": {
-        "hybrid": 6.76,
-        "pe_heavy": 7.36
-      },
-      "gates": {
-        "E": true,
-        "E2": true
-      },
-      "metrics": {
-        "pe": 15.414822395107699,
-        "roe": 18.5091772344458,
-        "roic": 17.9864949907601,
-        "gross_margin": 44.0024499490617,
-        "pfcf": 17.95749977168478,
-        "de": 0.018798802907424198,
-        "rev_growth": 23.82062868645269,
-        "mom12": 33.31023084715041
-      },
-      "ret_since_entry": 0.0,
-      "verified": true,
-      "verified_pe": 16.3493
-    },
     "QCOM": {
       "first_seen": "2026-08-08",
       "entry_price": 167.86,
@@ -2059,8 +1942,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 6.68,
-        "pe_heavy": 7.0
+        "hybrid": 6.91,
+        "pe_heavy": 7.25
       },
       "gates": {
         "E": true,
@@ -2104,8 +1987,8 @@
       "exchange": "NYSE",
       "otc": false,
       "scores": {
-        "hybrid": 6.64,
-        "pe_heavy": 6.98
+        "hybrid": 6.8,
+        "pe_heavy": 7.18
       },
       "gates": {
         "E": true,
@@ -2125,42 +2008,83 @@
       "verified": true,
       "verified_pe": 17.2469
     },
-    "AGI": {
-      "first_seen": "2026-08-08",
-      "entry_price": 33.15,
-      "sector": "Metals & Mining",
-      "industry": "Precious Metals",
-      "name": "AGI",
+    "PRG": {
+      "first_seen": "2026-08-07",
+      "entry_price": 42.85,
+      "sector": "Financial Services",
+      "industry": "Finance/Rental/Leasing",
+      "name": "PRG",
       "track": [
         {
+          "date": "2026-08-07",
+          "price": 42.85
+        },
+        {
           "date": "2026-08-08",
-          "price": 33.15
+          "price": 42.85
         }
       ],
       "last_seen": "2026-08-08",
       "exchange": "NYSE",
       "otc": false,
       "scores": {
-        "hybrid": 6.59,
-        "pe_heavy": 7.49
+        "hybrid": 6.76,
+        "pe_heavy": 7.02
       },
       "gates": {
         "E": true,
-        "E2": false
+        "E2": true
       },
       "metrics": {
-        "pe": 12.241477715857688,
-        "roe": 27.203874936437,
-        "roic": 25.785287443160005,
-        "gross_margin": 60.123117744244105,
-        "pfcf": 45.226438141680624,
-        "de": 0.0450165456096901,
-        "rev_growth": 40.40638795794529,
-        "mom12": 24.717832957110613
+        "pe": 11.876385809312639,
+        "roe": 17.1818023314584,
+        "roic": 8.54327600979605,
+        "gross_margin": 35.6489897924951,
+        "pfcf": 5.476133689738908,
+        "de": 1.10147763677453,
+        "rev_growth": 4.5217328457924175,
+        "mom12": 34.4524631314716
+      },
+      "ret_since_entry": 0,
+      "verified": true,
+      "verified_pe": 11.6369
+    },
+    "PLAB": {
+      "first_seen": "2026-08-08",
+      "entry_price": 32.65,
+      "sector": "Semiconductors",
+      "industry": "Electronic Production Equipment",
+      "name": "PLAB",
+      "track": [
+        {
+          "date": "2026-08-08",
+          "price": 32.65
+        }
+      ],
+      "last_seen": "2026-08-08",
+      "exchange": "NASDAQ",
+      "otc": false,
+      "scores": {
+        "hybrid": 6.68,
+        "pe_heavy": 7.55
+      },
+      "gates": {
+        "E": true,
+        "E2": true
+      },
+      "metrics": {
+        "pe": 11.957079030249762,
+        "roe": 13.582276265172903,
+        "roic": 13.559859542156502,
+        "gross_margin": 33.7735870966244,
+        "pfcf": 19.909115207755946,
+        "de": 0.00311299093655589,
+        "rev_growth": 0.5168417096395415,
+        "mom12": 61.79385530227948
       },
       "ret_since_entry": 0.0,
       "verified": true,
-      "verified_pe": 12.2674
+      "verified_pe": 12.1961
     },
     "WFRD": {
       "first_seen": "2026-08-06",
@@ -2207,42 +2131,46 @@
       "verified": true,
       "verified_pe": 17.514
     },
-    "PLAB": {
-      "first_seen": "2026-08-08",
-      "entry_price": 32.65,
-      "sector": "Semiconductors",
-      "industry": "Electronic Production Equipment",
-      "name": "PLAB",
+    "GPRE": {
+      "first_seen": "2026-08-07",
+      "entry_price": 14.96,
+      "sector": "Basic Materials",
+      "industry": "Chemicals: Specialty",
+      "name": "GPRE",
       "track": [
         {
+          "date": "2026-08-07",
+          "price": 14.65
+        },
+        {
           "date": "2026-08-08",
-          "price": 32.65
+          "price": 14.65
         }
       ],
       "last_seen": "2026-08-08",
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 6.56,
-        "pe_heavy": 7.45
+        "hybrid": 6.58,
+        "pe_heavy": 7.54
       },
       "gates": {
-        "E": true,
-        "E2": true
+        "E": false,
+        "E2": false
       },
       "metrics": {
-        "pe": 11.957079030249762,
-        "roe": 13.582276265172903,
-        "roic": 13.559859542156502,
-        "gross_margin": 33.7735870966244,
-        "pfcf": 19.909115207755946,
-        "de": 0.00311299093655589,
-        "rev_growth": 0.5168417096395415,
-        "mom12": 61.79385530227948
+        "pe": 9.502497243302848,
+        "roe": 15.444759686850901,
+        "roic": 9.90989766549408,
+        "gross_margin": 11.7729307994537,
+        "pfcf": 10.467789973953929,
+        "de": 0.630661636400003,
+        "rev_growth": -21.509563806896367,
+        "mom12": 101.73505921233821
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": -0.0207,
       "verified": true,
-      "verified_pe": 12.1961
+      "verified_pe": 83.2809
     },
     "EXE": {
       "first_seen": "2026-08-06",
@@ -2289,46 +2217,42 @@
       "verified": true,
       "verified_pe": 7.6552
     },
-    "GPRE": {
-      "first_seen": "2026-08-07",
-      "entry_price": 14.96,
-      "sector": "Basic Materials",
-      "industry": "Chemicals: Specialty",
-      "name": "GPRE",
+    "QNST": {
+      "first_seen": "2026-08-08",
+      "entry_price": 21.08,
+      "sector": "Media",
+      "industry": "Advertising/Marketing Services",
+      "name": "QNST",
       "track": [
         {
-          "date": "2026-08-07",
-          "price": 14.65
-        },
-        {
           "date": "2026-08-08",
-          "price": 14.65
+          "price": 21.08
         }
       ],
       "last_seen": "2026-08-08",
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 6.51,
-        "pe_heavy": 7.49
+        "hybrid": 6.54,
+        "pe_heavy": 7.47
       },
       "gates": {
-        "E": false,
+        "E": true,
         "E2": false
       },
       "metrics": {
-        "pe": 9.502497243302848,
-        "roe": 15.444759686850901,
-        "roic": 9.90989766549408,
-        "gross_margin": 11.7729307994537,
-        "pfcf": 10.467789973953929,
-        "de": 0.630661636400003,
-        "rev_growth": -21.509563806896367,
-        "mom12": 101.73505921233821
+        "pe": 15.044247787610619,
+        "roe": 28.6474496417085,
+        "roic": 25.0175925398392,
+        "gross_margin": 11.270591909173,
+        "pfcf": 9.57541672874405,
+        "de": 0.23183799041758998,
+        "rev_growth": 18.286457757122314,
+        "mom12": 23.27485380116957
       },
-      "ret_since_entry": -0.0207,
+      "ret_since_entry": 0.0,
       "verified": true,
-      "verified_pe": 83.2809
+      "verified_pe": 18.1402
     },
     "EZPW": {
       "first_seen": "2026-08-07",
@@ -2568,51 +2492,6 @@
       },
       "ret_since_entry": 0
     },
-    "TTE": {
-      "first_seen": "2026-08-06",
-      "entry_price": 84.74,
-      "sector": "Energy",
-      "industry": "Integrated Oil",
-      "name": "TTE",
-      "track": [
-        {
-          "date": "2026-08-06",
-          "price": 84.74
-        },
-        {
-          "date": "2026-08-07",
-          "price": 85.83
-        },
-        {
-          "date": "2026-08-08",
-          "price": 85.83
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "NYSE",
-      "otc": false,
-      "scores": {
-        "hybrid": 6.34,
-        "pe_heavy": 7.06
-      },
-      "gates": {
-        "E": false,
-        "E2": false
-      },
-      "metrics": {
-        "pe": 10.818770288285636,
-        "roe": 14.447619030805,
-        "roic": 10.3482887719219,
-        "gross_margin": 14.2327707568733,
-        "pfcf": 11.914945679239173,
-        "de": 0.488349635536726,
-        "rev_growth": -5.225619512138107,
-        "mom12": 40.6127129750983
-      },
-      "ret_since_entry": 0.0129,
-      "verified": true,
-      "verified_pe": 10.7223
-    },
     "GGG": {
       "first_seen": "2026-08-08",
       "entry_price": 83.54,
@@ -2734,16 +2613,16 @@
       "verified": true,
       "verified_pe": null
     },
-    "QNST": {
+    "NXPI": {
       "first_seen": "2026-08-08",
-      "entry_price": 21.08,
-      "sector": "Media",
-      "industry": "Advertising/Marketing Services",
-      "name": "QNST",
+      "entry_price": 239.71,
+      "sector": "Semiconductors",
+      "industry": "Semiconductors",
+      "name": "NXPI",
       "track": [
         {
           "date": "2026-08-08",
-          "price": 21.08
+          "price": 239.71
         }
       ],
       "last_seen": "2026-08-08",
@@ -2751,25 +2630,25 @@
       "otc": false,
       "scores": {
         "hybrid": 6.32,
-        "pe_heavy": 7.22
+        "pe_heavy": 6.73
       },
       "gates": {
         "E": true,
-        "E2": false
+        "E2": true
       },
       "metrics": {
-        "pe": 15.044247787610619,
-        "roe": 28.6474496417085,
-        "roic": 25.0175925398392,
-        "gross_margin": 11.270591909173,
-        "pfcf": 9.57541672874405,
-        "de": 0.23183799041758998,
-        "rev_growth": 18.286457757122314,
-        "mom12": 23.27485380116957
+        "pe": 20.458133838577805,
+        "roe": 28.376573826936802,
+        "roic": 14.7189788245396,
+        "gross_margin": 55.14599924155979,
+        "pfcf": 21.46924326866617,
+        "de": 0.9628914817089181,
+        "rev_growth": 8.76918000341079,
+        "mom12": 14.82563709522898
       },
       "ret_since_entry": 0.0,
       "verified": true,
-      "verified_pe": 18.1402
+      "verified_pe": 19.6459
     },
     "SM": {
       "first_seen": "2026-08-06",
@@ -2886,43 +2765,6 @@
       },
       "ret_since_entry": 0
     },
-    "KLAC": {
-      "first_seen": "2026-08-08",
-      "entry_price": 198.11,
-      "sector": "Semiconductors",
-      "industry": "Semiconductors",
-      "name": "KLAC",
-      "track": [
-        {
-          "date": "2026-08-08",
-          "price": 198.11
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "NASDAQ",
-      "otc": false,
-      "scores": {
-        "hybrid": 6.27,
-        "pe_heavy": 5.4
-      },
-      "gates": {
-        "E": false,
-        "E2": false
-      },
-      "metrics": {
-        "pe": 53.96475170929694,
-        "roe": 87.4959530524195,
-        "roic": 42.0564809358276,
-        "gross_margin": 60.21932077800059,
-        "pfcf": null,
-        "de": 0.9271782507220679,
-        "rev_growth": 11.740404072996807,
-        "mom12": 117.1306444541868
-      },
-      "ret_since_entry": 0.0,
-      "verified": true,
-      "verified_pe": 53.2107
-    },
     "RRC": {
       "first_seen": "2026-08-06",
       "entry_price": 38.14,
@@ -3005,6 +2847,43 @@
       "verified": true,
       "verified_pe": 48.1367
     },
+    "VRT": {
+      "first_seen": "2026-08-08",
+      "entry_price": 272.4,
+      "sector": "Semiconductors",
+      "industry": "Electronic Production Equipment",
+      "name": "VRT",
+      "track": [
+        {
+          "date": "2026-08-08",
+          "price": 272.4
+        }
+      ],
+      "last_seen": "2026-08-08",
+      "exchange": "NYSE",
+      "otc": false,
+      "scores": {
+        "hybrid": 6.16,
+        "pe_heavy": 5.22
+      },
+      "gates": {
+        "E": false,
+        "E2": false
+      },
+      "metrics": {
+        "pe": 61.637326333891465,
+        "roe": 43.942661423316,
+        "roic": 24.3210604656388,
+        "gross_margin": 35.7277257047284,
+        "pfcf": 36.5158988150727,
+        "de": 0.7016562972927529,
+        "rev_growth": 26.23268088849791,
+        "mom12": 93.19148936170211
+      },
+      "ret_since_entry": 0.0,
+      "verified": true,
+      "verified_pe": 56.1701
+    },
     "HTGC": {
       "first_seen": "2026-08-07",
       "entry_price": 17.25,
@@ -3046,42 +2925,124 @@
       "verified": true,
       "verified_pe": 8.4254
     },
-    "NXPI": {
+    "RMBS": {
       "first_seen": "2026-08-08",
-      "entry_price": 239.71,
+      "entry_price": 101.52,
       "sector": "Semiconductors",
       "industry": "Semiconductors",
-      "name": "NXPI",
+      "name": "RMBS",
       "track": [
         {
           "date": "2026-08-08",
-          "price": 239.71
+          "price": 101.52
         }
       ],
       "last_seen": "2026-08-08",
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 6.08,
-        "pe_heavy": 6.48
+        "hybrid": 6.13,
+        "pe_heavy": 5.68
       },
       "gates": {
-        "E": true,
-        "E2": true
+        "E": false,
+        "E2": false
       },
       "metrics": {
-        "pe": 20.458133838577805,
-        "roe": 28.376573826936802,
-        "roic": 14.7189788245396,
-        "gross_margin": 55.14599924155979,
-        "pfcf": 21.46924326866617,
-        "de": 0.9628914817089181,
-        "rev_growth": 8.76918000341079,
-        "mom12": 14.82563709522898
+        "pe": 46.468622694191424,
+        "roe": 17.7893959079491,
+        "roic": 17.5437569170771,
+        "gross_margin": 74.4578762473044,
+        "pfcf": 37.27399148680455,
+        "de": 0.0148657595255612,
+        "rev_growth": 17.171969114840245,
+        "mom12": 38.68852459016392
       },
       "ret_since_entry": 0.0,
       "verified": true,
-      "verified_pe": 19.6459
+      "verified_pe": 46.2177
+    },
+    "SIRI": {
+      "first_seen": "2026-08-08",
+      "entry_price": 29.91,
+      "sector": "Media",
+      "industry": "Broadcasting",
+      "name": "SIRI",
+      "track": [
+        {
+          "date": "2026-08-08",
+          "price": 29.91
+        }
+      ],
+      "last_seen": "2026-08-08",
+      "exchange": "NASDAQ",
+      "otc": false,
+      "scores": {
+        "hybrid": 6.12,
+        "pe_heavy": 7.14
+      },
+      "gates": {
+        "E": false,
+        "E2": false
+      },
+      "metrics": {
+        "pe": 11.781156451867023,
+        "roe": 7.57412746912252,
+        "roic": 4.10965301452389,
+        "gross_margin": 40.4045100546321,
+        "pfcf": 6.603757262750161,
+        "de": 0.7940040309035941,
+        "rev_growth": 0.44366608289550497,
+        "mom12": 41.21813031161473
+      },
+      "ret_since_entry": 0.0,
+      "verified": true,
+      "verified_pe": 11.4469
+    },
+    "ASM": {
+      "first_seen": "2026-08-06",
+      "entry_price": 6.48,
+      "sector": "Metals & Mining",
+      "industry": "Precious Metals",
+      "name": "ASM",
+      "track": [
+        {
+          "date": "2026-08-06",
+          "price": 6.48
+        },
+        {
+          "date": "2026-08-07",
+          "price": 6.88
+        },
+        {
+          "date": "2026-08-08",
+          "price": 6.88
+        }
+      ],
+      "last_seen": "2026-08-08",
+      "exchange": "AMEX",
+      "otc": false,
+      "scores": {
+        "hybrid": 6.07,
+        "pe_heavy": 5.97
+      },
+      "gates": {
+        "E": true,
+        "E2": false
+      },
+      "metrics": {
+        "pe": 30.970583887337657,
+        "roe": 17.7427326172693,
+        "roic": 17.4267205080021,
+        "gross_margin": 53.4525333596617,
+        "pfcf": 94.84403428948895,
+        "de": 0.0302985188439793,
+        "rev_growth": 62.61669401043027,
+        "mom12": 86.95652173913044
+      },
+      "ret_since_entry": 0.0617,
+      "verified": true,
+      "verified_pe": 29.4096
     },
     "UMBF": {
       "first_seen": "2026-08-07",
@@ -3196,199 +3157,6 @@
       "verified": true,
       "verified_pe": 24.1869
     },
-    "VRT": {
-      "first_seen": "2026-08-08",
-      "entry_price": 272.4,
-      "sector": "Semiconductors",
-      "industry": "Electronic Production Equipment",
-      "name": "VRT",
-      "track": [
-        {
-          "date": "2026-08-08",
-          "price": 272.4
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "NYSE",
-      "otc": false,
-      "scores": {
-        "hybrid": 6.04,
-        "pe_heavy": 5.1
-      },
-      "gates": {
-        "E": false,
-        "E2": false
-      },
-      "metrics": {
-        "pe": 61.637326333891465,
-        "roe": 43.942661423316,
-        "roic": 24.3210604656388,
-        "gross_margin": 35.7277257047284,
-        "pfcf": 36.5158988150727,
-        "de": 0.7016562972927529,
-        "rev_growth": 26.23268088849791,
-        "mom12": 93.19148936170211
-      },
-      "ret_since_entry": 0.0,
-      "verified": true,
-      "verified_pe": 56.1701
-    },
-    "RMBS": {
-      "first_seen": "2026-08-08",
-      "entry_price": 101.52,
-      "sector": "Semiconductors",
-      "industry": "Semiconductors",
-      "name": "RMBS",
-      "track": [
-        {
-          "date": "2026-08-08",
-          "price": 101.52
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "NASDAQ",
-      "otc": false,
-      "scores": {
-        "hybrid": 5.96,
-        "pe_heavy": 5.49
-      },
-      "gates": {
-        "E": false,
-        "E2": false
-      },
-      "metrics": {
-        "pe": 46.468622694191424,
-        "roe": 17.7893959079491,
-        "roic": 17.5437569170771,
-        "gross_margin": 74.4578762473044,
-        "pfcf": 37.27399148680455,
-        "de": 0.0148657595255612,
-        "rev_growth": 17.171969114840245,
-        "mom12": 38.68852459016392
-      },
-      "ret_since_entry": 0.0,
-      "verified": true,
-      "verified_pe": 46.2177
-    },
-    "SIRI": {
-      "first_seen": "2026-08-08",
-      "entry_price": 29.91,
-      "sector": "Media",
-      "industry": "Broadcasting",
-      "name": "SIRI",
-      "track": [
-        {
-          "date": "2026-08-08",
-          "price": 29.91
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "NASDAQ",
-      "otc": false,
-      "scores": {
-        "hybrid": 5.91,
-        "pe_heavy": 6.97
-      },
-      "gates": {
-        "E": false,
-        "E2": false
-      },
-      "metrics": {
-        "pe": 11.781156451867023,
-        "roe": 7.57412746912252,
-        "roic": 4.10965301452389,
-        "gross_margin": 40.4045100546321,
-        "pfcf": 6.603757262750161,
-        "de": 0.7940040309035941,
-        "rev_growth": 0.44366608289550497,
-        "mom12": 41.21813031161473
-      },
-      "ret_since_entry": 0.0,
-      "verified": true,
-      "verified_pe": 11.4469
-    },
-    "ASM": {
-      "first_seen": "2026-08-06",
-      "entry_price": 6.48,
-      "sector": "Metals & Mining",
-      "industry": "Precious Metals",
-      "name": "ASM",
-      "track": [
-        {
-          "date": "2026-08-06",
-          "price": 6.48
-        },
-        {
-          "date": "2026-08-07",
-          "price": 6.88
-        },
-        {
-          "date": "2026-08-08",
-          "price": 6.88
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "AMEX",
-      "otc": false,
-      "scores": {
-        "hybrid": 5.89,
-        "pe_heavy": 5.76
-      },
-      "gates": {
-        "E": true,
-        "E2": false
-      },
-      "metrics": {
-        "pe": 30.970583887337657,
-        "roe": 17.7427326172693,
-        "roic": 17.4267205080021,
-        "gross_margin": 53.4525333596617,
-        "pfcf": 94.84403428948895,
-        "de": 0.0302985188439793,
-        "rev_growth": 62.61669401043027,
-        "mom12": 86.95652173913044
-      },
-      "ret_since_entry": 0.0617,
-      "verified": true,
-      "verified_pe": 29.4096
-    },
-    "TXN": {
-      "first_seen": "2026-08-08",
-      "entry_price": 286.08,
-      "sector": "Semiconductors",
-      "industry": "Semiconductors",
-      "name": "TXN",
-      "track": [
-        {
-          "date": "2026-08-08",
-          "price": 286.08
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "NASDAQ",
-      "otc": false,
-      "scores": {
-        "hybrid": 5.81,
-        "pe_heavy": 5.46
-      },
-      "gates": {
-        "E": false,
-        "E2": false
-      },
-      "metrics": {
-        "pe": 43.52151887179955,
-        "roe": 34.9723917465853,
-        "roic": 19.6134037420953,
-        "gross_margin": 58.3251940574719,
-        "pfcf": 49.14913165266106,
-        "de": 0.780363192091964,
-        "rev_growth": 16.659670164917543,
-        "mom12": 49.9685468651709
-      },
-      "ret_since_entry": 0.0,
-      "verified": true,
-      "verified_pe": 43.0216
-    },
     "ALAB": {
       "first_seen": "2026-08-08",
       "entry_price": 334.17,
@@ -3405,8 +3173,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 5.81,
-        "pe_heavy": 4.47
+        "hybrid": 5.92,
+        "pe_heavy": 4.58
       },
       "gates": {
         "E": false,
@@ -3442,8 +3210,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 5.69,
-        "pe_heavy": 4.53
+        "hybrid": 5.78,
+        "pe_heavy": 4.62
       },
       "gates": {
         "E": false,
@@ -3479,8 +3247,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 5.65,
-        "pe_heavy": 4.56
+        "hybrid": 5.77,
+        "pe_heavy": 4.68
       },
       "gates": {
         "E": false,
@@ -3497,8 +3265,80 @@
         "mom12": 185.90849673202615
       },
       "ret_since_entry": 0.0,
+      "verified": false
+    },
+    "TEL": {
+      "first_seen": "2026-08-08",
+      "entry_price": 216.33,
+      "sector": "Semiconductors",
+      "industry": "Semiconductors",
+      "name": "TEL",
+      "track": [
+        {
+          "date": "2026-08-08",
+          "price": 216.33
+        }
+      ],
+      "last_seen": "2026-08-08",
+      "exchange": "NYSE",
+      "otc": false,
+      "scores": {
+        "hybrid": 5.75,
+        "pe_heavy": 6.32
+      },
+      "gates": {
+        "E": true,
+        "E2": true
+      },
+      "metrics": {
+        "pe": 21.206120788526952,
+        "roe": 23.5532836461544,
+        "roic": 16.7652695608699,
+        "gross_margin": 36.8543629023911,
+        "pfcf": 19.120570135746608,
+        "de": 0.425184961497811,
+        "rev_growth": 16.53096918159339,
+        "mom12": 7.1789536266349625
+      },
+      "ret_since_entry": 0.0,
+      "verified": false
+    },
+    "QRVO": {
+      "first_seen": "2026-08-08",
+      "entry_price": 99.08,
+      "sector": "Semiconductors",
+      "industry": "Semiconductors",
+      "name": "QRVO",
+      "track": [
+        {
+          "date": "2026-08-08",
+          "price": 99.08
+        }
+      ],
+      "last_seen": "2026-08-08",
+      "exchange": "NASDAQ",
+      "otc": false,
+      "scores": {
+        "hybrid": 5.74,
+        "pe_heavy": 6.1
+      },
+      "gates": {
+        "E": false,
+        "E2": false
+      },
+      "metrics": {
+        "pe": 22.98999930389586,
+        "roe": 11.5558647177867,
+        "roic": 7.978090464071739,
+        "gross_margin": 48.4736045815459,
+        "pfcf": 13.631531559272558,
+        "de": 0.446189937858681,
+        "rev_growth": -0.1792347356041147,
+        "mom12": 16.29107981220657
+      },
+      "ret_since_entry": 0.0,
       "verified": true,
-      "verified_pe": 75.8094
+      "verified_pe": 21.0677
     },
     "MTSI": {
       "first_seen": "2026-08-08",
@@ -3516,8 +3356,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 5.61,
-        "pe_heavy": 4.4
+        "hybrid": 5.72,
+        "pe_heavy": 4.51
       },
       "gates": {
         "E": false,
@@ -3536,14 +3376,192 @@
       "ret_since_entry": 0.0,
       "verified": true,
       "verified_pe": 134.8488
+    },
+    "TECK": {
+      "first_seen": "2026-08-08",
+      "entry_price": 66.47,
+      "sector": "Metals & Mining",
+      "industry": "Other Metals/Minerals",
+      "name": "TECK",
+      "track": [
+        {
+          "date": "2026-08-08",
+          "price": 66.47
+        }
+      ],
+      "last_seen": "2026-08-08",
+      "exchange": "NYSE",
+      "otc": false,
+      "scores": {
+        "hybrid": 5.71,
+        "pe_heavy": 6.25
+      },
+      "gates": {
+        "E": true,
+        "E2": false
+      },
+      "metrics": {
+        "pe": 18.55072276094144,
+        "roe": 9.61249855697079,
+        "roic": 7.133474213261751,
+        "gross_margin": 33.9646915874491,
+        "pfcf": 28.829626623376623,
+        "de": 0.354895991882293,
+        "rev_growth": 34.6793800134315,
+        "mom12": 100.75505889459377
+      },
+      "ret_since_entry": 0.0,
+      "verified": false
+    },
+    "MPWR": {
+      "first_seen": "2026-08-08",
+      "entry_price": 1401.54,
+      "sector": "Semiconductors",
+      "industry": "Semiconductors",
+      "name": "MPWR",
+      "track": [
+        {
+          "date": "2026-08-08",
+          "price": 1401.54
+        }
+      ],
+      "last_seen": "2026-08-08",
+      "exchange": "NASDAQ",
+      "otc": false,
+      "scores": {
+        "hybrid": 5.7,
+        "pe_heavy": 4.69
+      },
+      "gates": {
+        "E": false,
+        "E2": false
+      },
+      "metrics": {
+        "pe": 85.88709677419354,
+        "roe": 21.896125408565,
+        "roic": 21.7919895957156,
+        "gross_margin": 55.1953190160695,
+        "pfcf": 117.90862131684248,
+        "de": 0.00486057486938521,
+        "rev_growth": 28.666321791005352,
+        "mom12": 71.69423006247703
+      },
+      "ret_since_entry": 0.0,
+      "verified": false
+    },
+    "FOX": {
+      "first_seen": "2026-08-08",
+      "entry_price": 57.03,
+      "sector": "Media",
+      "industry": "Broadcasting",
+      "name": "FOX",
+      "track": [
+        {
+          "date": "2026-08-08",
+          "price": 57.03
+        }
+      ],
+      "last_seen": "2026-08-08",
+      "exchange": "NASDAQ",
+      "otc": false,
+      "scores": {
+        "hybrid": 5.66,
+        "pe_heavy": 6.76
+      },
+      "gates": {
+        "E": true,
+        "E2": true
+      },
+      "metrics": {
+        "pe": 14.872864780284262,
+        "roe": 14.285714285714302,
+        "roic": 8.74484261878195,
+        "gross_margin": 34.2344972556347,
+        "pfcf": 16.627275204359673,
+        "de": 0.6508427932576539,
+        "rev_growth": 5.067484662576687,
+        "mom12": 14.633165829145732
+      },
+      "ret_since_entry": 0.0,
+      "verified": false
+    },
+    "CRS": {
+      "first_seen": "2026-08-08",
+      "entry_price": 570.66,
+      "sector": "Metals & Mining",
+      "industry": "Other Metals/Minerals",
+      "name": "CRS",
+      "track": [
+        {
+          "date": "2026-08-08",
+          "price": 570.66
+        }
+      ],
+      "last_seen": "2026-08-08",
+      "exchange": "NYSE",
+      "otc": false,
+      "scores": {
+        "hybrid": 5.65,
+        "pe_heavy": 5.02
+      },
+      "gates": {
+        "E": false,
+        "E2": false
+      },
+      "metrics": {
+        "pe": 54.21741691527163,
+        "roe": 25.742478005152403,
+        "roic": 19.1343305152106,
+        "gross_margin": 34.1207349081365,
+        "pfcf": 79.07019597019045,
+        "de": 0.310064643562579,
+        "rev_growth": 8.588509262799345,
+        "mom12": 123.77945962903415
+      },
+      "ret_since_entry": 0.0,
+      "verified": false
+    },
+    "PPG": {
+      "first_seen": "2026-08-08",
+      "entry_price": 119.72,
+      "sector": "Basic Materials",
+      "industry": "Industrial Specialties",
+      "name": "PPG",
+      "track": [
+        {
+          "date": "2026-08-08",
+          "price": 119.72
+        }
+      ],
+      "last_seen": "2026-08-08",
+      "exchange": "NYSE",
+      "otc": false,
+      "scores": {
+        "hybrid": 5.65,
+        "pe_heavy": 6.5
+      },
+      "gates": {
+        "E": true,
+        "E2": true
+      },
+      "metrics": {
+        "pe": 17.190528839940843,
+        "roe": 19.563046192259705,
+        "roic": 10.7894102661204,
+        "gross_margin": 37.458132878631,
+        "pfcf": 19.051391613361762,
+        "de": 0.883453748667535,
+        "rev_growth": 1.4706791077056172,
+        "mom12": 11.284625395054842
+      },
+      "ret_since_entry": 0.0,
+      "verified": false
     }
   },
   "_promote_streak": {
-    "IAG": 2,
     "FSM": 2,
     "CGAU": 2,
     "ERO": 2,
-    "SU": 14,
     "AUGO": 2,
     "ARIS": 2,
     "CVE": 14,
@@ -3560,9 +3578,7 @@
     "RRC": 0,
     "ASM": 0,
     "SM": 0,
-    "CNQ": 7,
     "CHRD": 0,
-    "TTE": 0,
     "DAVE": 10,
     "SYF": 0,
     "ZION": 0,
@@ -3577,12 +3593,11 @@
     "QNST": 0,
     "CRUS": 2,
     "OII": 0,
-    "FSLR": 0,
+    "FSLR": 1,
     "QCOM": 0,
     "PLAB": 0,
     "FIX": 0,
     "NXPI": 0,
-    "KLAC": 0,
     "TTC": 0,
     "ECG": 0,
     "GGG": 0,
@@ -3590,15 +3605,20 @@
     "EPAC": 0,
     "STRL": 0,
     "VRT": 0,
-    "TXN": 0,
     "KLIC": 0,
     "VLTO": 0,
     "ALAB": 0,
-    "AGI": 0,
     "RMBS": 0,
     "FORM": 0,
     "MRVL": 0,
-    "MTSI": 0
+    "TEL": 0,
+    "QRVO": 0,
+    "MTSI": 0,
+    "TECK": 0,
+    "MPWR": 0,
+    "FOX": 0,
+    "CRS": 0,
+    "PPG": 0
   },
   "promoted": [
     {
@@ -3653,6 +3673,8 @@
     "QBTS": "2026-08-08",
     "RGTI": "2026-08-08",
     "BTDR": "2026-08-08",
+    "ROBO": "2026-08-08",
+    "NET": "2026-08-08",
     "VIVO": "2026-08-08",
     "BEP": "2026-08-08",
     "NIO": "2026-08-08",
@@ -3661,6 +3683,7 @@
     "XIFR": "2026-08-08",
     "NEE": "2026-08-08",
     "LEU": "2026-08-08",
+    "BE": "2026-08-08",
     "VNQ": "2026-08-08",
     "O": "2026-08-08",
     "PLD": "2026-08-08",
@@ -3673,6 +3696,7 @@
     "WM": "2026-08-08",
     "RSG": "2026-08-08",
     "CLH": "2026-08-08",
+    "ENPH": "2026-08-08",
     "TLRY": "2026-08-08",
     "CGC": "2026-08-08",
     "CRON": "2026-08-08",
@@ -3697,13 +3721,39 @@
     "DUK": "2026-08-08",
     "SO": "2026-08-08",
     "LNG": "2026-08-08",
+    "BRK-B": "2026-08-08",
+    "V": "2026-08-08",
+    "XOM": "2026-08-08",
+    "BAC": "2026-08-08",
+    "ABBV": "2026-08-08",
+    "UNH": "2026-08-08",
+    "HD": "2026-08-08",
+    "RTX": "2026-08-08",
+    "PANW": "2026-08-08",
+    "COP": "2026-08-08",
+    "EQNR": "2026-08-08",
+    "VLO": "2026-08-08",
+    "MPC": "2026-08-08",
     "PSX": "2026-08-08",
+    "SU": "2026-08-08",
+    "DLR": "2026-08-08",
+    "VTR": "2026-08-08",
+    "KORU": "2026-08-08",
+    "SPHY": "2026-08-08",
+    "TMF": "2026-08-08",
+    "REMX": "2026-08-08",
     "EWS": "2026-08-08",
+    "ARXS": "2026-08-08",
+    "QTEC": "2026-08-08",
     "HALO": "2026-08-08",
-    "URGN": "2026-08-08",
+    "AMGN": "2026-08-08",
+    "TECL": "2026-08-08",
+    "XLK": "2026-08-08",
     "MRVI": "2026-08-08",
+    "LQDA": "2026-08-08",
     "ACAD": "2026-08-08",
     "PBF": "2026-08-08",
+    "BUG": "2026-08-08",
     "EPOL": "2026-08-08"
   },
   "_weak_streak_day": {
@@ -3726,12 +3776,14 @@
     "NAK": "2026-08-08",
     "NUGT": "2026-08-08",
     "UAMY": "2026-08-08",
+    "COMB": "2026-08-08",
     "PPTA": "2026-08-08",
     "MARA": "2026-08-08",
     "QUBT": "2026-08-08",
     "QBTS": "2026-08-08",
     "RGTI": "2026-08-08",
     "BTDR": "2026-08-08",
+    "ROBO": "2026-08-08",
     "SMCI": "2026-08-08",
     "VIVO": "2026-08-08",
     "BEP": "2026-08-08",
@@ -3745,6 +3797,7 @@
     "BE": "2026-08-08",
     "FCEL": "2026-08-08",
     "WAVE": "2026-08-08",
+    "VNQ": "2026-08-08",
     "O": "2026-08-08",
     "AMT": "2026-08-08",
     "PLD": "2026-08-08",
@@ -3755,7 +3808,6 @@
     "LQD": "2026-08-08",
     "HYG": "2026-08-08",
     "SHY": "2026-08-08",
-    "EMB": "2026-08-08",
     "BNDX": "2026-08-08",
     "VCIT": "2026-08-08",
     "JNK": "2026-08-08",
@@ -3798,10 +3850,37 @@
     "EXC": "2026-08-08",
     "SO": "2026-08-08",
     "AA": "2026-08-08",
-    "SPY": "2026-08-08",
-    "CEG": "2026-08-08",
+    "BRK-B": "2026-08-08",
+    "WMT": "2026-08-08",
+    "COST": "2026-08-08",
+    "HD": "2026-08-08",
+    "CRH": "2026-08-08",
+    "DLR": "2026-08-08",
+    "VTR": "2026-08-08",
+    "IRM": "2026-08-08",
+    "EXR": "2026-08-08",
+    "SGOV": "2026-08-08",
+    "VTEB": "2026-08-08",
+    "SPHY": "2026-08-08",
+    "SPIB": "2026-08-08",
     "INDA": "2026-08-08",
-    "ORCL": "2026-08-08",
-    "MRVI": "2026-08-08"
+    "USFR": "2026-08-08",
+    "SPTL": "2026-08-08",
+    "MUB": "2026-08-08",
+    "TMF": "2026-08-08",
+    "VCLT": "2026-08-08",
+    "PYLD": "2026-08-08",
+    "ECAT": "2026-08-08",
+    "EAGG": "2026-08-08",
+    "REMX": "2026-08-08",
+    "TIPX": "2026-08-08",
+    "SPIP": "2026-08-08",
+    "WIW": "2026-08-08",
+    "TDTT": "2026-08-08",
+    "PDBA": "2026-08-08",
+    "REXC": "2026-08-08",
+    "ACES": "2026-08-08",
+    "TECL": "2026-08-08",
+    "BUG": "2026-08-08"
   }
 }
