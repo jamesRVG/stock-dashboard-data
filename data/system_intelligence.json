@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:59:37.722160",
+  "generated_at": "2026-08-08T16:45:25.046962",
   "history_snapshots": 23,
   "signal_accuracy": {
     "1d": {
@@ -14,9 +14,9 @@
         "n": 43
       },
       "Hold": {
-        "win_pct": 0.342,
-        "avg_return": -0.0009,
-        "n": 38
+        "win_pct": 0.359,
+        "avg_return": -0.0003,
+        "n": 39
       }
     },
     "5d": {
@@ -99,9 +99,9 @@
         "n": 4
       },
       "GreenE": {
-        "avg_return": 0.0012,
-        "win_pct": 0.333,
-        "n": 3
+        "avg_return": 0.0067,
+        "win_pct": 0.5,
+        "n": 4
       }
     },
     "5d": {
@@ -181,7 +181,7 @@
     "60d": {}
   },
   "score_correlation": {
-    "1d": 0.4,
+    "1d": 0.398,
     "5d": 0.367,
     "20d": 0.289
   },
@@ -189,9 +189,9 @@
     "macd": {
       "1d": {
         "bullish": {
-          "avg_return": 0.0333,
-          "win_pct": 0.5,
-          "n": 88
+          "avg_return": 0.0332,
+          "win_pct": 0.506,
+          "n": 89
         },
         "bearish": {
           "avg_return": -0.0048,
@@ -228,9 +228,9 @@
     "rsi": {
       "1d": {
         "neutral": {
-          "avg_return": 0.0355,
-          "win_pct": 0.532,
-          "n": 79
+          "avg_return": 0.0353,
+          "win_pct": 0.537,
+          "n": 80
         },
         "overbought": {
           "avg_return": 0.0045,
@@ -332,7 +332,7 @@
     },
     "basis": "Score-to-return correlation is strong (0.289) over 20 days; current weights performing well. Strong Buy underperforming Buy over 5d; consider reducing fund_weight slightly.",
     "score_correlation": {
-      "1d": 0.4,
+      "1d": 0.398,
       "5d": 0.367,
       "20d": 0.289
     }
@@ -350,7 +350,7 @@
   ],
   "claude_synthesis": {
     "strategic_insights": [
-      "Claude synthesis unavailable: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CdqZNyfq2XRLtSBoa3DSk'}"
+      "Claude synthesis unavailable: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CdqcsVjDmm7qFJA4TY1YC'}"
     ],
     "model_health": "unknown"
   }

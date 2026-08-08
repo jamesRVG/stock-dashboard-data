@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-08",
+  "refreshed": "2026-08-08 16:45",
+  "recent_days": 5,
+  "min_delta": 0.6,
+  "macro_pairs": [
+    {
+      "pair": "S&P vs Gold",
+      "baseline": 0.719,
+      "recent": -0.608,
+      "delta": -1.327,
+      "flip": true,
+      "n_base": 12,
+      "n_recent": 5
+    },
+    {
+      "pair": "Oil vs S&P",
+      "baseline": -0.353,
+      "recent": 0.472,
+      "delta": 0.825,
+      "flip": false,
+      "n_base": 12,
+      "n_recent": 5
+    }
+  ],
+  "ticker_pairs": [
+    {
+      "pair": "GOOGL / NEE",
+      "baseline": -0.815,
+      "recent": 0.881,
+      "delta": 1.696,
+      "n_base": 11,
+      "n_recent": 4
+    },
+    {
+      "pair": "EWZ / CEG",
+      "baseline": 0.668,
+      "recent": -0.96,
+      "delta": -1.628,
+      "n_base": 13,
+      "n_recent": 3
+    },
+    {
+      "pair": "SSRM / WDC",
+      "baseline": 0.712,
+      "recent": -0.786,
+      "delta": -1.498,
+      "n_base": 13,
+      "n_recent": 4
+    },
+    {
+      "pair": "RGLD / WDC",
+      "baseline": 0.616,
+      "recent": -0.801,
+      "delta": -1.417,
+      "n_base": 15,
+      "n_recent": 4
+    },
+    {
+      "pair": "NEM / WDC",
+      "baseline": 0.625,
+      "recent": -0.79,
+      "delta": -1.415,
+      "n_base": 13,
+      "n_recent": 4
+    },
+    {
+      "pair": "AU / AEM",
+      "baseline": -0.426,
+      "recent": 0.988,
+      "delta": 1.414,
+      "n_base": 13,
+      "n_recent": 5
+    },
+    {
+      "pair": "PAAS / AEM",
+      "baseline": -0.406,
+      "recent": 0.984,
+      "delta": 1.39,
+      "n_base": 13,
+      "n_recent": 5
+    },
+    {
+      "pair": "FNV / WDC",
+      "baseline": 0.55,
+      "recent": -0.822,
+      "delta": -1.372,
+      "n_base": 15,
+      "n_recent": 4
+    },
+    {
+      "pair": "TSM / EWZ",
+      "baseline": 0.382,
+      "recent": -0.989,
+      "delta": -1.371,
+      "n_base": 11,
+      "n_recent": 3
+    },
+    {
+      "pair": "MU / EWZ",
+      "baseline": 0.353,
+      "recent": -0.999,
+      "delta": -1.352,
+      "n_base": 13,
+      "n_recent": 3
+    },
+    {
+      "pair": "EWZ / WDC",
+      "baseline": 0.732,
+      "recent": -0.611,
+      "delta": -1.343,
+      "n_base": 13,
+      "n_recent": 3
+    },
+    {
+      "pair": "PAAS / DRD",
+      "baseline": -0.51,
+      "recent": 0.823,
+      "delta": 1.333,
+      "n_base": 13,
+      "n_recent": 4
+    }
+  ],
+  "note": "5-day window against a 12-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 12
+}
