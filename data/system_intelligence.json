@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T16:52:53.868755",
+  "generated_at": "2026-08-08T17:27:03.113575",
   "history_snapshots": 23,
   "signal_accuracy": {
     "1d": {
@@ -38,14 +38,14 @@
     },
     "20d": {
       "Buy": {
-        "win_pct": 0.906,
-        "avg_return": 0.1092,
-        "n": 149
+        "win_pct": 0.907,
+        "avg_return": 0.1114,
+        "n": 151
       },
       "Hold": {
-        "win_pct": 0.719,
-        "avg_return": 0.0777,
-        "n": 64
+        "win_pct": 0.723,
+        "avg_return": 0.0804,
+        "n": 65
       },
       "Caution": {
         "win_pct": 0.429,
@@ -153,9 +153,9 @@
         "n": 34
       },
       "Tech": {
-        "avg_return": 0.0183,
-        "win_pct": 0.577,
-        "n": 52
+        "avg_return": 0.0319,
+        "win_pct": 0.6,
+        "n": 55
       },
       "PrecMet": {
         "avg_return": 0.1778,
@@ -183,7 +183,7 @@
   "score_correlation": {
     "1d": 0.398,
     "5d": 0.367,
-    "20d": 0.289
+    "20d": 0.27
   },
   "factor_analysis": {
     "macd": {
@@ -218,9 +218,9 @@
           "n": 212
         },
         "bearish": {
-          "avg_return": 0.0956,
-          "win_pct": 0.819,
-          "n": 94
+          "avg_return": 0.101,
+          "win_pct": 0.825,
+          "n": 97
         }
       },
       "60d": {}
@@ -257,9 +257,9 @@
       },
       "20d": {
         "oversold": {
-          "avg_return": 0.1622,
+          "avg_return": 0.1713,
           "win_pct": 1.0,
-          "n": 32
+          "n": 35
         },
         "neutral": {
           "avg_return": 0.1119,
@@ -330,11 +330,11 @@
       "tech": 0.28,
       "macro": 0.32
     },
-    "basis": "Score-to-return correlation is strong (0.289) over 20 days; current weights performing well. Strong Buy underperforming Buy over 5d; consider reducing fund_weight slightly.",
+    "basis": "Score-to-return correlation is strong (0.27) over 20 days; current weights performing well. Strong Buy underperforming Buy over 5d; consider reducing fund_weight slightly.",
     "score_correlation": {
       "1d": 0.398,
       "5d": 0.367,
-      "20d": 0.289
+      "20d": 0.27
     }
   },
   "statistical_insights": [
@@ -346,11 +346,11 @@
     "Underperforming 5d: REIT (-2.1%), Intl (-1.4%).",
     "Top 20d categories: Core / Tech (+29.6%), PrecMet (+17.8%), Core (+9.7%).",
     "Underperforming 20d: REIT (-1.4%), Intl (-0.8%).",
-    "Weight adjustment suggested: Fund 45%->40%, Tech 25%->28%, Macro 30%->32%. Basis: Score-to-return correlation is strong (0.289) over 20 days; current weights performing well. Strong Buy underperforming Buy over 5d; consider reducing fund_weight slightly."
+    "Weight adjustment suggested: Fund 45%->40%, Tech 25%->28%, Macro 30%->32%. Basis: Score-to-return correlation is strong (0.27) over 20 days; current weights performing well. Strong Buy underperforming Buy over 5d; consider reducing fund_weight slightly."
   ],
   "claude_synthesis": {
     "strategic_insights": [
-      "Claude synthesis unavailable: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CdqdSabqMDMcD8Fxq5SaG'}"
+      "Claude synthesis unavailable: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011Cdqg3cMxqKhD9tLmSpB87'}"
     ],
     "model_health": "unknown"
   }
