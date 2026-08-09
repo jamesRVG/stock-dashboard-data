@@ -1,34 +1,61 @@
 {
-  "date": "2026-08-08",
-  "refreshed": "2026-08-08 18:44",
+  "date": "2026-08-09",
+  "refreshed": "2026-08-09 15:57",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs Gold",
-      "baseline": 0.624,
-      "recent": -0.608,
-      "delta": -1.232,
+      "baseline": 0.664,
+      "recent": -0.753,
+      "delta": -1.417,
       "flip": true,
-      "n_base": 11,
+      "n_base": 12,
       "n_recent": 5
     },
     {
-      "pair": "Gold vs 10Y yield",
-      "baseline": 0.068,
-      "recent": -0.6,
-      "delta": -0.668,
+      "pair": "S&P vs VIX",
+      "baseline": 0.062,
+      "recent": -0.998,
+      "delta": -1.06,
       "flip": false,
-      "n_base": 11,
+      "n_base": 12,
+      "n_recent": 5
+    },
+    {
+      "pair": "Copper vs S&P",
+      "baseline": 0.665,
+      "recent": -0.242,
+      "delta": -0.907,
+      "flip": false,
+      "n_base": 12,
       "n_recent": 5
     },
     {
       "pair": "S&P vs 10Y yield",
-      "baseline": 0.482,
-      "recent": -0.158,
-      "delta": -0.64,
+      "baseline": 0.116,
+      "recent": 0.925,
+      "delta": 0.809,
       "flip": false,
-      "n_base": 11,
+      "n_base": 12,
+      "n_recent": 5
+    },
+    {
+      "pair": "Oil vs S&P",
+      "baseline": 0.033,
+      "recent": 0.84,
+      "delta": 0.807,
+      "flip": false,
+      "n_base": 12,
+      "n_recent": 5
+    },
+    {
+      "pair": "Gold vs 10Y yield",
+      "baseline": -0.093,
+      "recent": -0.756,
+      "delta": -0.663,
+      "flip": false,
+      "n_base": 12,
       "n_recent": 5
     }
   ],
@@ -130,6 +157,6 @@
       "n_recent": 4
     }
   ],
-  "note": "5-day window against a 11-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 11
+  "note": "5-day window against a 12-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 12
 }
