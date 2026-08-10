@@ -1,32 +1,14 @@
 {
   "date": "2026-08-10",
-  "refreshed": "2026-08-10 18:51",
+  "refreshed": "2026-08-10 19:32",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs VIX",
       "baseline": 0.095,
-      "recent": -0.872,
-      "delta": -0.967,
-      "flip": false,
-      "n_base": 12,
-      "n_recent": 5
-    },
-    {
-      "pair": "Copper vs S&P",
-      "baseline": 0.64,
-      "recent": -0.207,
-      "delta": -0.847,
-      "flip": false,
-      "n_base": 12,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs 10Y yield",
-      "baseline": 0.234,
-      "recent": 0.967,
-      "delta": 0.733,
+      "recent": -0.958,
+      "delta": -1.053,
       "flip": false,
       "n_base": 12,
       "n_recent": 5
@@ -34,8 +16,17 @@
     {
       "pair": "Oil vs S&P",
       "baseline": 0.105,
-      "recent": 0.835,
-      "delta": 0.73,
+      "recent": 0.928,
+      "delta": 0.823,
+      "flip": false,
+      "n_base": 12,
+      "n_recent": 5
+    },
+    {
+      "pair": "Copper vs S&P",
+      "baseline": 0.64,
+      "recent": -0.168,
+      "delta": -0.808,
       "flip": false,
       "n_base": 12,
       "n_recent": 5
@@ -43,8 +34,17 @@
     {
       "pair": "S&P vs Gold",
       "baseline": 0.307,
-      "recent": -0.338,
-      "delta": -0.645,
+      "recent": -0.466,
+      "delta": -0.773,
+      "flip": false,
+      "n_base": 12,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs 10Y yield",
+      "baseline": 0.234,
+      "recent": 0.999,
+      "delta": 0.765,
       "flip": false,
       "n_base": 12,
       "n_recent": 5
@@ -132,7 +132,7 @@
       "n_recent": 5
     },
     {
-      "pair": "AEM / EWZ",
+      "pair": "EWZ / AEM",
       "baseline": -0.462,
       "recent": 1.0,
       "delta": 1.462,
@@ -140,7 +140,7 @@
       "n_recent": 3
     },
     {
-      "pair": "HL / EWZ",
+      "pair": "EWZ / HL",
       "baseline": -0.448,
       "recent": 1.0,
       "delta": 1.448,
