@@ -1334,8 +1334,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 8.24,
-        "pe_heavy": 8.31
+        "hybrid": 8.25,
+        "pe_heavy": 8.32
       },
       "gates": {
         "E": true,
@@ -1371,8 +1371,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 8.11,
-        "pe_heavy": 8.83
+        "hybrid": 8.1,
+        "pe_heavy": 8.82
       },
       "gates": {
         "E": true,
@@ -1649,8 +1649,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 7.63,
-        "pe_heavy": 7.34
+        "hybrid": 7.65,
+        "pe_heavy": 7.36
       },
       "gates": {
         "E": true,
@@ -1858,7 +1858,7 @@
       "exchange": "NYSE",
       "otc": false,
       "scores": {
-        "hybrid": 7.55,
+        "hybrid": 7.56,
         "pe_heavy": 8.33
       },
       "gates": {
@@ -1938,8 +1938,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 7.39,
-        "pe_heavy": 8.03
+        "hybrid": 7.4,
+        "pe_heavy": 8.04
       },
       "gates": {
         "E": true,
@@ -2049,8 +2049,8 @@
       "exchange": "NYSE",
       "otc": false,
       "scores": {
-        "hybrid": 7.31,
-        "pe_heavy": 8.06
+        "hybrid": 7.32,
+        "pe_heavy": 8.07
       },
       "gates": {
         "E": true,
@@ -2087,7 +2087,7 @@
       "otc": false,
       "scores": {
         "hybrid": 7.3,
-        "pe_heavy": 7.35
+        "pe_heavy": 7.36
       },
       "gates": {
         "E": true,
@@ -2348,8 +2348,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 7.15,
-        "pe_heavy": 7.44
+        "hybrid": 7.16,
+        "pe_heavy": 7.45
       },
       "gates": {
         "E": true,
@@ -2385,8 +2385,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 7.13,
-        "pe_heavy": 6.49
+        "hybrid": 7.14,
+        "pe_heavy": 6.52
       },
       "gates": {
         "E": true,
@@ -2430,8 +2430,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 7.08,
-        "pe_heavy": 7.83
+        "hybrid": 7.09,
+        "pe_heavy": 7.84
       },
       "gates": {
         "E": true,
@@ -2520,8 +2520,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 7.0,
-        "pe_heavy": 7.57
+        "hybrid": 7.01,
+        "pe_heavy": 7.58
       },
       "gates": {
         "E": true,
@@ -2833,7 +2833,7 @@
       "otc": false,
       "scores": {
         "hybrid": 6.85,
-        "pe_heavy": 7.67
+        "pe_heavy": 7.68
       },
       "gates": {
         "E": true,
@@ -2869,8 +2869,8 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 6.83,
-        "pe_heavy": 6.46
+        "hybrid": 6.84,
+        "pe_heavy": 6.49
       },
       "gates": {
         "E": true,
@@ -3087,6 +3087,43 @@
       "verified": true,
       "verified_pe": 29.566
     },
+    "SIG": {
+      "first_seen": "2026-08-10",
+      "entry_price": 94.87,
+      "sector": "Retail",
+      "industry": "Specialty Stores",
+      "name": "SIG",
+      "track": [
+        {
+          "date": "2026-08-10",
+          "price": 94.48
+        }
+      ],
+      "last_seen": "2026-08-10",
+      "exchange": "NYSE",
+      "otc": false,
+      "scores": {
+        "hybrid": 6.69,
+        "pe_heavy": 7.57
+      },
+      "gates": {
+        "E": true,
+        "E2": true
+      },
+      "metrics": {
+        "pe": 13.248450514625459,
+        "roe": 15.9329140461216,
+        "roic": 10.6421284256851,
+        "gross_margin": 38.7863338021566,
+        "pfcf": 6.720056338028169,
+        "de": 0.644950453299599,
+        "rev_growth": 1.3512309565527278,
+        "mom12": 25.139072847682126
+      },
+      "ret_since_entry": -0.0041,
+      "verified": true,
+      "verified_pe": 12.969
+    },
     "PEGA": {
       "first_seen": "2026-08-08",
       "entry_price": 32.74,
@@ -3123,43 +3160,6 @@
       "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 16.3905
-    },
-    "SIG": {
-      "first_seen": "2026-08-10",
-      "entry_price": 94.87,
-      "sector": "Retail",
-      "industry": "Specialty Stores",
-      "name": "SIG",
-      "track": [
-        {
-          "date": "2026-08-10",
-          "price": 94.48
-        }
-      ],
-      "last_seen": "2026-08-10",
-      "exchange": "NYSE",
-      "otc": false,
-      "scores": {
-        "hybrid": 6.68,
-        "pe_heavy": 7.56
-      },
-      "gates": {
-        "E": true,
-        "E2": true
-      },
-      "metrics": {
-        "pe": 13.248450514625459,
-        "roe": 15.9329140461216,
-        "roic": 10.6421284256851,
-        "gross_margin": 38.7863338021566,
-        "pfcf": 6.720056338028169,
-        "de": 0.644950453299599,
-        "rev_growth": 1.3512309565527278,
-        "mom12": 25.139072847682126
-      },
-      "ret_since_entry": -0.0041,
-      "verified": true,
-      "verified_pe": 12.969
     },
     "HBM": {
       "first_seen": "2026-08-08",
@@ -3223,7 +3223,7 @@
       "otc": false,
       "scores": {
         "hybrid": 6.61,
-        "pe_heavy": 6.72
+        "pe_heavy": 6.74
       },
       "gates": {
         "E": true,
@@ -3341,7 +3341,7 @@
       "exchange": "NASDAQ",
       "otc": false,
       "scores": {
-        "hybrid": 6.57,
+        "hybrid": 6.56,
         "pe_heavy": 7.63
       },
       "gates": {
@@ -3694,11 +3694,11 @@
     }
   },
   "_promote_streak": {
-    "FSM": 16,
-    "CGAU": 16,
-    "ERO": 16,
-    "AUGO": 16,
-    "ARIS": 9,
+    "FSM": 17,
+    "CGAU": 17,
+    "ERO": 17,
+    "AUGO": 17,
+    "ARIS": 10,
     "CVE": 0,
     "CNX": 0,
     "DSVSF": 0,
@@ -3716,10 +3716,10 @@
     "PIPR": 0,
     "EZPW": 0,
     "QNST": 0,
-    "CRUS": 16,
+    "CRUS": 17,
     "OII": 0,
-    "FSLR": 4,
-    "QCOM": 4,
+    "FSLR": 5,
+    "QCOM": 5,
     "PLAB": 0,
     "FIX": 0,
     "TTC": 0,
@@ -3741,14 +3741,14 @@
     "APP": 0,
     "FFIV": 0,
     "HBM": 0,
-    "BVS": 3,
-    "INVA": 4,
-    "LNTH": 4,
-    "ANF": 4,
-    "GMED": 4,
-    "CRI": 4,
-    "ILMN": 4,
-    "REGN": 4,
+    "BVS": 4,
+    "INVA": 5,
+    "LNTH": 5,
+    "ANF": 5,
+    "GMED": 5,
+    "CRI": 5,
+    "ILMN": 5,
+    "REGN": 5,
     "INSP": 0,
     "RPRX": 0,
     "SIG": 0,
