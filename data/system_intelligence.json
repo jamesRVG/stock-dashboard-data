@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T20:25:01.755149",
+  "generated_at": "2026-08-10T21:04:32.954355",
   "history_snapshots": 25,
   "signal_accuracy": {
     "1d": {
@@ -22,12 +22,12 @@
     "5d": {
       "Strong Buy": {
         "win_pct": 0.909,
-        "avg_return": 0.0547,
+        "avg_return": 0.0545,
         "n": 22
       },
       "Buy": {
         "win_pct": 0.957,
-        "avg_return": 0.1356,
+        "avg_return": 0.1355,
         "n": 115
       },
       "Hold": {
@@ -54,7 +54,7 @@
       },
       "Strong Buy": {
         "win_pct": 0.968,
-        "avg_return": 0.153,
+        "avg_return": 0.1529,
         "n": 93
       }
     },
@@ -79,12 +79,12 @@
         "n": 28
       },
       "Commod": {
-        "avg_return": 0.0399,
+        "avg_return": 0.0398,
         "win_pct": 1.0,
         "n": 3
       },
       "Core": {
-        "avg_return": -0.0024,
+        "avg_return": -0.0025,
         "win_pct": 0.385,
         "n": 13
       },
@@ -109,14 +109,14 @@
         "n": 18
       },
       "PrecMet / Commod": {
-        "avg_return": -0.0054,
+        "avg_return": -0.0056,
         "win_pct": 0.667,
         "n": 6
       }
     },
     "5d": {
       "PrecMet": {
-        "avg_return": 0.1722,
+        "avg_return": 0.1721,
         "win_pct": 0.99,
         "n": 100
       },
@@ -158,7 +158,7 @@
     },
     "20d": {
       "Commod": {
-        "avg_return": 0.1118,
+        "avg_return": 0.1116,
         "win_pct": 1.0,
         "n": 70
       },
@@ -188,7 +188,7 @@
         "n": 164
       },
       "REIT": {
-        "avg_return": -0.0139,
+        "avg_return": -0.014,
         "win_pct": 0.357,
         "n": 28
       },
@@ -206,7 +206,7 @@
     "60d": {}
   },
   "score_correlation": {
-    "1d": -0.071,
+    "1d": -0.072,
     "5d": 0.405,
     "20d": 0.325
   },
@@ -214,7 +214,7 @@
     "macd": {
       "1d": {
         "bullish": {
-          "avg_return": -0.0003,
+          "avg_return": -0.0004,
           "win_pct": 0.516,
           "n": 128
         },
@@ -248,7 +248,7 @@
           "n": 2
         },
         "bearish": {
-          "avg_return": 0.0853,
+          "avg_return": 0.0852,
           "win_pct": 0.756,
           "n": 135
         }
@@ -263,7 +263,7 @@
           "n": 80
         },
         "overbought": {
-          "avg_return": 0.0046,
+          "avg_return": 0.0045,
           "win_pct": 0.638,
           "n": 58
         }
@@ -275,7 +275,7 @@
           "n": 5
         },
         "neutral": {
-          "avg_return": 0.0923,
+          "avg_return": 0.0922,
           "win_pct": 0.834,
           "n": 223
         },
@@ -297,7 +297,7 @@
           "n": 350
         },
         "overbought": {
-          "avg_return": -0.0181,
+          "avg_return": -0.0182,
           "win_pct": 0.4,
           "n": 25
         }
@@ -307,7 +307,7 @@
     "peg": {
       "1d": {
         "low": {
-          "avg_return": -0.0039,
+          "avg_return": -0.004,
           "win_pct": 0.534,
           "n": 58
         },
@@ -324,7 +324,7 @@
           "n": 4
         },
         "mid": {
-          "avg_return": 0.1022,
+          "avg_return": 0.1016,
           "win_pct": 1.0,
           "n": 4
         },
@@ -341,7 +341,7 @@
           "n": 79
         },
         "mid": {
-          "avg_return": 0.1196,
+          "avg_return": 0.1195,
           "win_pct": 0.927,
           "n": 82
         },
@@ -367,7 +367,7 @@
     },
     "basis": "Score-to-return correlation is strong (0.325) over 20 days; current weights performing well. Strong Buy underperforming Buy over 5d; consider reducing fund_weight slightly.",
     "score_correlation": {
-      "1d": -0.071,
+      "1d": -0.072,
       "5d": 0.405,
       "20d": 0.325
     }
@@ -385,7 +385,7 @@
   ],
   "claude_synthesis": {
     "strategic_insights": [
-      "Claude synthesis unavailable: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CduhEdzshieCmufsfbP3P'}"
+      "Claude synthesis unavailable: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CdukFRtjjG3jqCLiBy2KD'}"
     ],
     "model_health": "unknown"
   }
