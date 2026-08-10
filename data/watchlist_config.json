@@ -983,6 +983,30 @@
         "ZROZ"
       ],
       "note": "Deliberate list cleanup at James's request: all Risky, the weaker half of Caution, and ETFs below 5.0. Archived rather than deleted, so the existing promotion check keeps re-scoring them and returns any that recover."
+    },
+    {
+      "date": "2026-08-10",
+      "user_requested_added": [
+        "IBB",
+        "XBI",
+        "VHT",
+        "DXJ",
+        "VEA",
+        "VXUS",
+        "ITA",
+        "PPA",
+        "XAR",
+        "PAVE",
+        "GRID",
+        "XLP",
+        "VDC",
+        "KXI",
+        "XLU",
+        "VPU",
+        "BIL",
+        "VGSH"
+      ],
+      "note": "diversification batch 1 of 5; tier A segments first, capped 3 per segment"
     }
   ],
   "protected": [
@@ -3896,6 +3920,114 @@
       "added": "2026-08-08",
       "reason": "Horizon Quantum, quantum software; pre-revenue",
       "requested_by": "James, 2026-08-08: add them for now, if they drop off in the regular cleaning process that is fine"
+    },
+    "IBB": {
+      "cat": "Health",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Healthcare; technical leg 8.6 computed with calc_tech on live data 2026-08-10, 12-month move 50.7%, 30-day average volume 1,576,867",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "XBI": {
+      "cat": "Health",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Healthcare; technical leg 8.4 computed with calc_tech on live data 2026-08-10, 12-month move 83.6%, 30-day average volume 8,548,158",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "VHT": {
+      "cat": "Health",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Healthcare; technical leg 8.2 computed with calc_tech on live data 2026-08-10, 12-month move 31.4%, 30-day average volume 242,266",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "DXJ": {
+      "cat": "Intl",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Developed ex-US; technical leg 8.3 computed with calc_tech on live data 2026-08-10, 12-month move 45.6%, 30-day average volume 347,445",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "VEA": {
+      "cat": "Intl",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Developed ex-US; technical leg 7.4 computed with calc_tech on live data 2026-08-10, 12-month move 25.2%, 30-day average volume 11,174,365",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "VXUS": {
+      "cat": "Intl",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Developed ex-US; technical leg 7.3 computed with calc_tech on live data 2026-08-10, 12-month move 23.5%, 30-day average volume 4,770,870",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "ITA": {
+      "cat": "Industrials",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Industrials/defense; technical leg 7.9 computed with calc_tech on live data 2026-08-10, 12-month move 27.0%, 30-day average volume 671,975",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "PPA": {
+      "cat": "Industrials",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Industrials/defense; technical leg 7.5 computed with calc_tech on live data 2026-08-10, 12-month move 24.7%, 30-day average volume 175,509",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "XAR": {
+      "cat": "Industrials",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Industrials/defense; technical leg 7.4 computed with calc_tech on live data 2026-08-10, 12-month move 32.6%, 30-day average volume 206,890",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "PAVE": {
+      "cat": "Industrials",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Grid/electrification; technical leg 7.7 computed with calc_tech on live data 2026-08-10, 12-month move 27.7%, 30-day average volume 2,020,027",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "GRID": {
+      "cat": "Industrials",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Grid/electrification; technical leg 7.3 computed with calc_tech on live data 2026-08-10, 12-month move 29.8%, 30-day average volume 633,938",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "XLP": {
+      "cat": "Staples",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Consumer staples; technical leg 5.8 computed with calc_tech on live data 2026-08-10, 12-month move 3.2%, 30-day average volume 11,058,986",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "VDC": {
+      "cat": "Staples",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Consumer staples; technical leg 5.5 computed with calc_tech on live data 2026-08-10, 12-month move 3.6%, 30-day average volume 167,007",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "KXI": {
+      "cat": "Staples",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Consumer staples; technical leg 5.4 computed with calc_tech on live data 2026-08-10, 12-month move 4.6%, 30-day average volume 94,482",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "XLU": {
+      "cat": "Utilities",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Utilities; technical leg 4.3 computed with calc_tech on live data 2026-08-10, 12-month move -0.4%, 30-day average volume 19,416,978",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "VPU": {
+      "cat": "Utilities",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Utilities; technical leg 4.1 computed with calc_tech on live data 2026-08-10, 12-month move -0.1%, 30-day average volume 250,692",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "BIL": {
+      "cat": "FixedInc",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Fixed income short; technical leg 4.1 computed with calc_tech on live data 2026-08-10, 12-month move -0.1%, 30-day average volume 10,104,303",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
+    },
+    "VGSH": {
+      "cat": "FixedInc",
+      "added": "2026-08-10",
+      "reason": "diversification batch 1, Fixed income short; technical leg 4.1 computed with calc_tech on live data 2026-08-10, 12-month move -1.0%, 30-day average volume 2,875,921",
+      "requested_by": "James, 2026-08-10: add 15-20 per refresh cycle, ordered by strength or score approximation"
     }
   }
 }
