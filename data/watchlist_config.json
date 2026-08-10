@@ -70,7 +70,13 @@
     "GARP": "International",
     "FLTW": "International",
     "DBEF": "International",
-    "EOG": "Commodities"
+    "EOG": "Commodities",
+    "LPG": "Core",
+    "APH": "Core",
+    "RCRUY": "Core",
+    "GRMN": "Core",
+    "QLYS": "Tech",
+    "CMBT": "Core"
   },
   "archived": [
     {
@@ -1164,7 +1170,7 @@
         "rev_growth": 0.9552238805970149,
         "mom12": 24.5
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 5.9986
     },
@@ -1360,7 +1366,7 @@
         "rev_growth": 19.768912868374407,
         "mom12": 56.61068702290076
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 57.8148
     },
@@ -1442,7 +1448,7 @@
         "rev_growth": 11.490642006990841,
         "mom12": -22.913033368213007
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 14.3098
     },
@@ -1649,7 +1655,7 @@
         "rev_growth": 24.34706370123114,
         "mom12": 103.23974082073434
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 25.3771
     },
@@ -1686,7 +1692,7 @@
         "rev_growth": 46.59854096792642,
         "mom12": 37.45229007633586
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 22.1108
     },
@@ -1788,43 +1794,6 @@
       "verified": true,
       "verified_pe": 18.7483
     },
-    "QLYS": {
-      "first_seen": "2026-08-08",
-      "entry_price": 183.48,
-      "sector": "Technology",
-      "industry": "Packaged Software",
-      "name": "QLYS",
-      "track": [
-        {
-          "date": "2026-08-08",
-          "price": 183.48
-        }
-      ],
-      "last_seen": "2026-08-08",
-      "exchange": "NASDAQ",
-      "otc": false,
-      "scores": {
-        "hybrid": 7.29,
-        "pe_heavy": 6.85
-      },
-      "gates": {
-        "E": true,
-        "E2": true
-      },
-      "metrics": {
-        "pe": 31.780783953717975,
-        "roe": 38.5922887919357,
-        "roic": 35.50442937284,
-        "gross_margin": 83.5564414038301,
-        "pfcf": 20.471925773274684,
-        "de": 0.0949783271050811,
-        "rev_growth": 10.713629893070873,
-        "mom12": 40.09315110330609
-      },
-      "ret_since_entry": 0.0,
-      "verified": true,
-      "verified_pe": 30.4472
-    },
     "CNX": {
       "first_seen": "2026-08-06",
       "entry_price": 34.54,
@@ -1903,7 +1872,7 @@
         "rev_growth": 8.85130441721467,
         "mom12": 21.96774193548388
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 14.7611
     },
@@ -1993,7 +1962,7 @@
         "rev_growth": 41.43171092857332,
         "mom12": 14.46370530877572
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 4.4412
     },
@@ -2243,7 +2212,7 @@
         "rev_growth": 15.569807837135292,
         "mom12": -12.748710390567432
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 16.6813
     },
@@ -2321,7 +2290,7 @@
         "rev_growth": 43.059308548441535,
         "mom12": -18.81406067276605
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 40.4901
     },
@@ -2358,7 +2327,7 @@
         "rev_growth": 18.768046198267566,
         "mom12": 114.85868102288019
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 56.4219
     },
@@ -2395,7 +2364,7 @@
         "rev_growth": 12.564813010630607,
         "mom12": -38.49912739965095
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 11.768
     },
@@ -2473,7 +2442,7 @@
         "rev_growth": 15.239640126352697,
         "mom12": 32.77459197176886
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 23.8164
     },
@@ -2510,7 +2479,7 @@
         "rev_growth": 5.785034874068857,
         "mom12": 79.62616822429906
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 29.566
     },
@@ -2637,7 +2606,7 @@
         "rev_growth": 3.5996479766113274,
         "mom12": -43.63918058185574
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 16.3905
     },
@@ -2764,7 +2733,7 @@
         "rev_growth": 19.498312687248834,
         "mom12": -31.883790638690332
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 13.1123
     },
@@ -2895,7 +2864,7 @@
         "rev_growth": 28.517033702316745,
         "mom12": -12.699811202013843
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 29.3983
     },
@@ -3094,7 +3063,7 @@
         "rev_growth": 9.411847165429723,
         "mom12": 24.102325581395355
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 32.4315
     },
@@ -3242,7 +3211,7 @@
         "rev_growth": 8.442863676589955,
         "mom12": -6.812070510905292
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 21.2885
     },
@@ -3365,7 +3334,7 @@
         "rev_growth": 18.877470355731223,
         "mom12": -18.534750613246114
       },
-      "ret_since_entry": 0.0,
+      "ret_since_entry": 0,
       "verified": true,
       "verified_pe": 35.5469
     },
@@ -3619,7 +3588,6 @@
     "ADBE": 0,
     "ADEA": 0,
     "DLO": 0,
-    "QLYS": 0,
     "RAMP": 0,
     "SLDE": 0,
     "FRSH": 0,
@@ -3671,6 +3639,42 @@
     {
       "ticker": "ORCL",
       "date": "2026-08-08",
+      "category": "Core",
+      "via": "dashboard"
+    },
+    {
+      "ticker": "LPG",
+      "date": "2026-08-10",
+      "category": "Core",
+      "via": "dashboard"
+    },
+    {
+      "ticker": "APH",
+      "date": "2026-08-10",
+      "category": "Core",
+      "via": "dashboard"
+    },
+    {
+      "ticker": "RCRUY",
+      "date": "2026-08-10",
+      "category": "Core",
+      "via": "dashboard"
+    },
+    {
+      "ticker": "GRMN",
+      "date": "2026-08-10",
+      "category": "Core",
+      "via": "dashboard"
+    },
+    {
+      "ticker": "QLYS",
+      "date": "2026-08-10",
+      "category": "Tech",
+      "via": "dashboard"
+    },
+    {
+      "ticker": "CMBT",
+      "date": "2026-08-10",
       "category": "Core",
       "via": "dashboard"
     }
