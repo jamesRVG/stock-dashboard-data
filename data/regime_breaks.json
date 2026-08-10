@@ -1,14 +1,14 @@
 {
   "date": "2026-08-10",
-  "refreshed": "2026-08-10 19:49",
+  "refreshed": "2026-08-10 20:08",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs VIX",
       "baseline": 0.095,
-      "recent": -0.934,
-      "delta": -1.029,
+      "recent": -0.927,
+      "delta": -1.022,
       "flip": false,
       "n_base": 12,
       "n_recent": 5
@@ -16,8 +16,8 @@
     {
       "pair": "Copper vs S&P",
       "baseline": 0.64,
-      "recent": -0.182,
-      "delta": -0.822,
+      "recent": -0.185,
+      "delta": -0.825,
       "flip": false,
       "n_base": 12,
       "n_recent": 5
@@ -25,8 +25,8 @@
     {
       "pair": "Oil vs S&P",
       "baseline": 0.105,
-      "recent": 0.902,
-      "delta": 0.797,
+      "recent": 0.894,
+      "delta": 0.789,
       "flip": false,
       "n_base": 12,
       "n_recent": 5
@@ -34,8 +34,8 @@
     {
       "pair": "S&P vs 10Y yield",
       "baseline": 0.234,
-      "recent": 0.994,
-      "delta": 0.76,
+      "recent": 0.991,
+      "delta": 0.757,
       "flip": false,
       "n_base": 12,
       "n_recent": 5
@@ -43,8 +43,8 @@
     {
       "pair": "S&P vs Gold",
       "baseline": 0.307,
-      "recent": -0.425,
-      "delta": -0.732,
+      "recent": -0.415,
+      "delta": -0.722,
       "flip": false,
       "n_base": 12,
       "n_recent": 5
