@@ -3417,10 +3417,10 @@
     "shortName": "Ishares MSCI India ETF",
     "longName": "iShares MSCI India ETF",
     "quoteType": "ETF",
-    "trailingPE": 22.699862,
+    "trailingPE": 23.00691,
     "dividendYield": 0.0,
     "exchange": "BTS",
-    "_cached_at": "2026-08-03"
+    "_cached_at": "2026-08-11"
   },
   "GRWG": {
     "shortName": "GrowGeneration Corp",
@@ -3531,38 +3531,34 @@
   },
   "BND": {
     "shortName": "Vanguard Total Bond Market ETF",
-    "longName": "Vanguard Total Bond Market Index Fund",
     "quoteType": "ETF",
-    "dividendYield": 3.95,
+    "dividendYield": 4.03,
     "exchange": "NGM",
-    "_cached_at": "2026-08-03"
+    "_cached_at": "2026-08-11"
   },
   "IEF": {
     "shortName": "iShares 7-10 Year Treasury Bond",
-    "longName": "iShares 7-10 Year Treasury Bond ETF",
     "quoteType": "ETF",
-    "priceToBook": 0.7921354,
-    "dividendYield": 3.88,
+    "dividendYield": 3.96,
     "exchange": "NGM",
-    "_cached_at": "2026-08-03"
+    "_cached_at": "2026-08-11"
   },
   "TLT": {
     "shortName": "iShares 20+ Year Treasury Bond ",
     "longName": "iShares 20+ Year Treasury Bond ETF",
     "quoteType": "ETF",
-    "forwardPE": -4109.85,
-    "priceToBook": 0.55215794,
-    "dividendYield": 4.53,
+    "forwardPE": -4109.5,
+    "priceToBook": 0.55211097,
+    "dividendYield": 4.75,
     "exchange": "NGM",
-    "_cached_at": "2026-08-03"
+    "_cached_at": "2026-08-11"
   },
   "EMB": {
     "shortName": "iShares J.P. Morgan USD Emergin",
-    "longName": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
     "quoteType": "ETF",
-    "dividendYield": 5.02,
+    "dividendYield": 5.15,
     "exchange": "NGM",
-    "_cached_at": "2026-08-03"
+    "_cached_at": "2026-08-11"
   },
   "BNDX": {
     "shortName": "Vanguard Total International Bo",
@@ -3576,9 +3572,9 @@
     "shortName": "Vanguard Intermediate-Term Corp",
     "longName": "Vanguard Intermediate-Term Corporate Bond Index Fund ETF Shares",
     "quoteType": "ETF",
-    "dividendYield": 4.78,
+    "dividendYield": 4.88,
     "exchange": "NGM",
-    "_cached_at": "2026-08-03"
+    "_cached_at": "2026-08-11"
   },
   "TLRY": {
     "shortName": "Tilray Brands Inc",
@@ -3644,9 +3640,9 @@
     "shortName": "Pimco 15  Year U.S. TIPS Index ",
     "longName": "PIMCO 15+ Year U.S. TIPS Index Exchange-Traded Fund",
     "quoteType": "ETF",
-    "dividendYield": 5.23,
+    "dividendYield": 6.36,
     "exchange": "PCX",
-    "_cached_at": "2026-08-03"
+    "_cached_at": "2026-08-11"
   },
   "ZROZ": {
     "shortName": "PIMCO 25  Year Zero Coupon U.S.",
@@ -7481,6 +7477,614 @@
     "grossMargins": 0.3638,
     "currentRatio": 1.5878,
     "trailingEps": 2.178,
+    "_cached_at": "2026-08-11"
+  },
+  "IBB": {
+    "shortName": "iShares Biotechnology ETF",
+    "quoteType": "ETF",
+    "trailingPE": 25.9084,
+    "dividendYield": 0.22,
+    "exchange": "NGM",
+    "_cached_at": "2026-08-11"
+  },
+  "XBI": {
+    "shortName": "State Street SPDR S&P Biotech E",
+    "longName": "State Street SPDR S&P Biotech ETF",
+    "quoteType": "ETF",
+    "dividendYield": 0.39,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "VHT": {
+    "shortName": "Vanguard Health Care ETF",
+    "quoteType": "ETF",
+    "dividendYield": 1.55,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "OIH": {
+    "shortName": "VanEck Oil Services ETF",
+    "quoteType": "ETF",
+    "trailingPE": 21.645075,
+    "dividendYield": 1.26,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "XES": {
+    "shortName": "State Street SPDR S&P Oil & Gas",
+    "longName": "State Street SPDR S&P Oil & Gas Equipment & Services ETF",
+    "quoteType": "ETF",
+    "trailingPE": 21.643454,
+    "priceToBook": 2.708696,
+    "dividendYield": 1.17,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "XAR": {
+    "shortName": "State Street SPDR S&P Aerospace",
+    "longName": "State Street SPDR S&P Aerospace & Defense ETF",
+    "quoteType": "ETF",
+    "trailingPE": 40.270134,
+    "dividendYield": 0.31,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "VDE": {
+    "shortName": "Vanguard Energy ETF",
+    "longName": "Vanguard Energy Index Fund ETF Shares",
+    "quoteType": "ETF",
+    "trailingPE": 22.596317,
+    "priceToBook": 3.0651314,
+    "dividendYield": 2.4,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "IEO": {
+    "shortName": "iShares U.S. Oil & Gas Explorat",
+    "longName": "iShares U.S. Oil & Gas Exploration & Production ETF",
+    "quoteType": "ETF",
+    "trailingPE": 15.379419,
+    "dividendYield": 1.85,
+    "exchange": "BTS",
+    "_cached_at": "2026-08-11"
+  },
+  "XOP": {
+    "shortName": "State Street SPDR S&P Oil & Gas",
+    "longName": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
+    "quoteType": "ETF",
+    "trailingPE": 11.989675,
+    "forwardPE": -17837.0,
+    "priceToBook": 1.8437891,
+    "dividendYield": 1.83,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "ITA": {
+    "shortName": "iShares U.S. Aerospace & Defens",
+    "longName": "iShares U.S. Aerospace & Defense ETF",
+    "quoteType": "ETF",
+    "trailingPE": 38.52278,
+    "dividendYield": 0.44,
+    "exchange": "BTS",
+    "_cached_at": "2026-08-11"
+  },
+  "PAVE": {
+    "shortName": "Global X U.S. Infrastructure De",
+    "longName": "Global X U.S. Infrastructure Development ETF",
+    "quoteType": "ETF",
+    "trailingPE": 30.942225,
+    "dividendYield": 0.77,
+    "exchange": "BTS",
+    "_cached_at": "2026-08-11"
+  },
+  "XLV": {
+    "shortName": "State Street Health Care Select",
+    "quoteType": "ETF",
+    "trailingPE": 29.944332,
+    "dividendYield": 1.56,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "XLE": {
+    "shortName": "State Street Energy Select Sect",
+    "longName": "State Street Energy Select Sector SPDR ETF",
+    "quoteType": "ETF",
+    "trailingPE": 20.538666,
+    "priceToBook": 1.1691451,
+    "dividendYield": 2.55,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "FENY": {
+    "shortName": "Fidelity MSCI Energy Index ETF",
+    "longName": "Fidelity MSCI Energy Index ETF",
+    "quoteType": "ETF",
+    "trailingPE": 20.31554,
+    "dividendYield": 2.35,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "IXC": {
+    "shortName": "iShares Global Energy ETF",
+    "longName": "iShares Global Energy ETF",
+    "quoteType": "ETF",
+    "trailingPE": 17.391857,
+    "priceToBook": 2.0912888,
+    "dividendYield": 2.82,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "PPA": {
+    "shortName": "Invesco Aerospace & Defense ETF",
+    "longName": "Invesco Aerospace & Defense ETF",
+    "quoteType": "ETF",
+    "trailingPE": 35.103306,
+    "priceToBook": 2.4537761,
+    "dividendYield": 0.37,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "XLI": {
+    "shortName": "State Street Industrial Select ",
+    "longName": "State Street Industrial Select Sector SPDR ETF",
+    "quoteType": "ETF",
+    "trailingPE": 30.787512,
+    "priceToBook": 1.8875403,
+    "dividendYield": 1.15,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "AIQ": {
+    "shortName": "Global X Artificial Intelligenc",
+    "longName": "Global X Artificial Intelligence & Technology ETF",
+    "quoteType": "ETF",
+    "trailingPE": 27.510569,
+    "dividendYield": 0.08,
+    "exchange": "NGM",
+    "_cached_at": "2026-08-11"
+  },
+  "GRID": {
+    "shortName": "First Trust NASDAQ Clean Edge S",
+    "longName": "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund",
+    "quoteType": "ETF",
+    "trailingPE": 33.779945,
+    "dividendYield": 0.8,
+    "exchange": "NGM",
+    "_cached_at": "2026-08-11"
+  },
+  "VIS": {
+    "shortName": "Vanguard Industrials ETF",
+    "longName": "Vanguard Industrials Index Fund ETF Shares",
+    "quoteType": "ETF",
+    "trailingPE": 30.97346,
+    "priceToBook": 1.8997482,
+    "dividendYield": 0.9,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "FCG": {
+    "shortName": "First Trust Natural Gas ETF",
+    "longName": "First Trust Natural Gas ETF",
+    "quoteType": "ETF",
+    "trailingPE": 11.575527,
+    "dividendYield": 2.17,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "ENFR": {
+    "shortName": "Alerian Energy Infrastructure E",
+    "longName": "Alerian Energy Infrastructure ETF",
+    "quoteType": "ETF",
+    "trailingPE": 21.534985,
+    "dividendYield": 3.91,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "IGPT": {
+    "shortName": "Invesco AI and Next Gen Softwar",
+    "longName": "Invesco AI and Next Gen Software ETF",
+    "quoteType": "ETF",
+    "trailingPE": 29.717737,
+    "dividendYield": 0.01,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "CHAT": {
+    "shortName": "Roundhill Generative AI & Techn",
+    "longName": "Roundhill Generative AI & Technology ETF",
+    "quoteType": "ETF",
+    "trailingPE": 30.252634,
+    "dividendYield": 2.02,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "PSI": {
+    "shortName": "Invesco Semiconductors ETF",
+    "quoteType": "ETF",
+    "trailingPE": 41.55902,
+    "dividendYield": 0.04,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "SOXX": {
+    "shortName": "iShares PHLX SOX Semiconductor ",
+    "longName": "iShares Semiconductor ETF",
+    "quoteType": "ETF",
+    "trailingPE": 42.852303,
+    "priceToBook": 1.2596323,
+    "dividendYield": 0.29,
+    "exchange": "NGM",
+    "_cached_at": "2026-08-11"
+  },
+  "AIS": {
+    "shortName": "VistaShares Artificial Intellig",
+    "longName": "VistaShares Artificial Intelligence Supercycle ETF",
+    "quoteType": "ETF",
+    "trailingPE": 34.5711,
+    "dividendYield": 0.0,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "FTXL": {
+    "shortName": "First Trust Nasdaq Semiconducto",
+    "longName": "First Trust Nasdaq Semiconductor ETF",
+    "quoteType": "ETF",
+    "trailingPE": 42.11433,
+    "dividendYield": 0.11,
+    "exchange": "NGM",
+    "_cached_at": "2026-08-11"
+  },
+  "AMLP": {
+    "shortName": "Alerian MLP ETF",
+    "longName": "Alerian MLP ETF",
+    "quoteType": "ETF",
+    "trailingPE": 16.181034,
+    "dividendYield": 7.28,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "MLPA": {
+    "shortName": "Global X MLP ETF",
+    "longName": "Global X MLP ETF",
+    "quoteType": "ETF",
+    "trailingPE": 15.429259,
+    "dividendYield": 6.96,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "MLPX": {
+    "shortName": "Global X MLP & Energy Infrastru",
+    "longName": "Global X MLP & Energy Infrastructure ETF",
+    "quoteType": "ETF",
+    "trailingPE": 21.20704,
+    "dividendYield": 4.04,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "UPRO": {
+    "shortName": "ProShares UltraPro S&P 500",
+    "longName": "ProShares UltraPro S&P500",
+    "quoteType": "ETF",
+    "trailingPE": 27.502949,
+    "dividendYield": 0.77,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "XLU": {
+    "shortName": "State Street Utilities Select S",
+    "longName": "State Street Utilities Select Sector SPDR ETF",
+    "quoteType": "ETF",
+    "trailingPE": 19.859507,
+    "priceToBook": 0.6818253,
+    "dividendYield": 2.7,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "VB": {
+    "shortName": "Vanguard Morningstar Small-Cap ",
+    "longName": "Vanguard Morningstar Small-Cap ETF",
+    "quoteType": "ETF",
+    "trailingPE": 21.957151,
+    "priceToBook": 2.1740613,
+    "dividendYield": 1.22,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "QTUM": {
+    "shortName": "Defiance Quantum ETF",
+    "longName": "Defiance Quantum ETF",
+    "quoteType": "ETF",
+    "trailingPE": 30.666988,
+    "dividendYield": 0.83,
+    "exchange": "NGM",
+    "_cached_at": "2026-08-11"
+  },
+  "VPU": {
+    "shortName": "Vanguard Utilities ETF",
+    "quoteType": "ETF",
+    "dividendYield": 2.7,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "IJR": {
+    "shortName": "iShares Core S&P Small-Cap ETF",
+    "longName": "iShares Core S&P Small-Cap ETF",
+    "quoteType": "ETF",
+    "trailingPE": 19.118444,
+    "priceToBook": 1.3588793,
+    "dividendYield": 1.13,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "EMXC": {
+    "shortName": "iShares MSCI Emerging Markets e",
+    "longName": "iShares MSCI Emerging Markets ex China ETF",
+    "quoteType": "ETF",
+    "trailingPE": 18.944925,
+    "dividendYield": 2.07,
+    "exchange": "NGM",
+    "_cached_at": "2026-08-11"
+  },
+  "FRDM": {
+    "shortName": "Freedom 100 Emerging Markets ET",
+    "longName": "Freedom 100 Emerging Markets ETF",
+    "quoteType": "ETF",
+    "trailingPE": 16.41824,
+    "dividendYield": 1.65,
+    "exchange": "BTS",
+    "_cached_at": "2026-08-11"
+  },
+  "IJH": {
+    "shortName": "iShares Core S&P Mid-Cap ETF",
+    "longName": "iShares Core S&P Mid-Cap ETF",
+    "quoteType": "ETF",
+    "trailingPE": 21.93783,
+    "priceToBook": 0.29893026,
+    "dividendYield": 1.18,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "CPER": {
+    "shortName": "United States Copper Index Fund",
+    "longName": "United States Copper Index Fund, LP",
+    "quoteType": "ETF",
+    "trailingPE": 4.656171,
+    "priceToBook": 1.3439369,
+    "dividendYield": 0.0,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "TQQQ": {
+    "shortName": "ProShares UltraPro QQQ",
+    "longName": "ProShares UltraPro QQQ",
+    "quoteType": "ETF",
+    "trailingPE": 33.28495,
+    "dividendYield": 0.58,
+    "exchange": "NGM",
+    "_cached_at": "2026-08-11"
+  },
+  "VYM": {
+    "shortName": "Vanguard High Dividend Yield ET",
+    "quoteType": "ETF",
+    "dividendYield": 2.24,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "VIG": {
+    "shortName": "Vanguard Div Appreciation ETF",
+    "longName": "Vanguard Dividend Appreciation Index Fund ETF Shares",
+    "quoteType": "ETF",
+    "trailingPE": 27.336185,
+    "dividendYield": 1.5,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "VYMI": {
+    "shortName": "Vanguard International High Div",
+    "longName": "Vanguard International High Dividend Yield Index Fund ETF Shares",
+    "quoteType": "ETF",
+    "trailingPE": 15.0812845,
+    "dividendYield": 3.49,
+    "exchange": "NGM",
+    "_cached_at": "2026-08-11"
+  },
+  "DGRW": {
+    "shortName": "WisdomTree U.S. Quality Dividen",
+    "longName": "WisdomTree U.S. Quality Dividend Growth Fund",
+    "quoteType": "ETF",
+    "trailingPE": 25.509905,
+    "dividendYield": 1.28,
+    "exchange": "NGM",
+    "_cached_at": "2026-08-11"
+  },
+  "IHI": {
+    "shortName": "iShares U.S. Medical Devices ET",
+    "longName": "iShares U.S. Medical Devices ETF",
+    "quoteType": "ETF",
+    "trailingPE": 32.49867,
+    "dividendYield": 0.46,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "XLP": {
+    "shortName": "State Street Consumer Staples S",
+    "longName": "State Street Consumer Staples Select Sector SPDR ETF",
+    "quoteType": "ETF",
+    "trailingPE": 26.018627,
+    "priceToBook": 1.2422078,
+    "dividendYield": 2.58,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "VDC": {
+    "shortName": "Vanguard Consumer Staples ETF",
+    "longName": "Vanguard Consumer Staples Index Fund ETF Shares",
+    "quoteType": "ETF",
+    "trailingPE": 25.500853,
+    "dividendYield": 2.08,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "KXI": {
+    "shortName": "iShares Global Consumer Staples",
+    "quoteType": "ETF",
+    "trailingPE": 23.589247,
+    "dividendYield": 2.32,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "SCHY": {
+    "shortName": "Schwab International Dividend E",
+    "longName": "Schwab International Dividend Equity ETF",
+    "quoteType": "ETF",
+    "trailingPE": 15.837297,
+    "dividendYield": 3.33,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "IDV": {
+    "shortName": "iShares International Select Di",
+    "longName": "iShares International Select Dividend ETF",
+    "quoteType": "ETF",
+    "trailingPE": 12.344205,
+    "dividendYield": 5.14,
+    "exchange": "BTS",
+    "_cached_at": "2026-08-11"
+  },
+  "VO": {
+    "shortName": "Vanguard Morningstar Mid-Cap ET",
+    "longName": "Vanguard Morningstar Mid-Cap ETF",
+    "quoteType": "ETF",
+    "trailingPE": 24.279781,
+    "priceToBook": 0.5440818,
+    "dividendYield": 1.32,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "HDV": {
+    "shortName": "iShares Core High Dividend ETF",
+    "quoteType": "ETF",
+    "trailingPE": 21.934408,
+    "dividendYield": 3.07,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "DVY": {
+    "shortName": "iShares Select Dividend ETF",
+    "longName": "iShares Select Dividend ETF",
+    "quoteType": "ETF",
+    "trailingPE": 16.006533,
+    "priceToBook": 1.3734667,
+    "dividendYield": 3.26,
+    "exchange": "NGM",
+    "_cached_at": "2026-08-11"
+  },
+  "SPYD": {
+    "shortName": "State Street SPDR Portfolio S&P",
+    "longName": "State Street SPDR Portfolio S&P 500 High Dividend ETF",
+    "quoteType": "ETF",
+    "trailingPE": 18.276604,
+    "dividendYield": 4.1,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "SCHH": {
+    "shortName": "Schwab U.S. REIT ETF",
+    "longName": "Schwab U.S. REIT ETF",
+    "quoteType": "ETF",
+    "trailingPE": 29.789131,
+    "dividendYield": 2.72,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "VOX": {
+    "shortName": "Vanguard Communication Services",
+    "quoteType": "ETF",
+    "dividendYield": 1.08,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "XLRE": {
+    "shortName": "State Street Real Estate Select",
+    "longName": "State Street Real Estate Select Sector SPDR ETF",
+    "quoteType": "ETF",
+    "trailingPE": 31.955868,
+    "dividendYield": 3.12,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "XLC": {
+    "shortName": "State Street Communication Serv",
+    "longName": "State Street Communication Services Select Sector SPDR ETF",
+    "quoteType": "ETF",
+    "trailingPE": 16.10942,
+    "dividendYield": 1.32,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "URNM": {
+    "shortName": "Sprott Uranium Miners ETF",
+    "longName": "Sprott Uranium Miners ETF",
+    "quoteType": "ETF",
+    "trailingPE": 11.35531,
+    "dividendYield": 3.58,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "VGSH": {
+    "shortName": "Vanguard Short-Term Treasury ET",
+    "longName": "Vanguard Short-Term Treasury Index Fund ETF Shares",
+    "quoteType": "ETF",
+    "dividendYield": 3.85,
+    "exchange": "NGM",
+    "_cached_at": "2026-08-11"
+  },
+  "VGIT": {
+    "shortName": "Vanguard Intermediate-Term Trea",
+    "longName": "Vanguard Intermediate-Term Treasury Index Fund ETF Shares",
+    "quoteType": "ETF",
+    "dividendYield": 3.89,
+    "exchange": "NGM",
+    "_cached_at": "2026-08-11"
+  },
+  "VCR": {
+    "shortName": "Vanguard Consumer Discretion ET",
+    "quoteType": "ETF",
+    "dividendYield": 0.73,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "URA": {
+    "shortName": "Global X Uranium ETF",
+    "quoteType": "ETF",
+    "trailingPE": 29.838263,
+    "dividendYield": 5.3,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "XLY": {
+    "shortName": "State Street Consumer Discretio",
+    "quoteType": "ETF",
+    "trailingPE": 27.139301,
+    "dividendYield": 0.78,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "NLR": {
+    "shortName": "VanEck Uranium and Nuclear ETF",
+    "quoteType": "ETF",
+    "trailingPE": 22.137304,
+    "dividendYield": 2.95,
+    "exchange": "PCX",
+    "_cached_at": "2026-08-11"
+  },
+  "VNQI": {
+    "shortName": "Vanguard Global ex-U.S. Real Es",
+    "longName": "Vanguard Global ex-U.S. Real Estate Index Fund ETF Shares",
+    "quoteType": "ETF",
+    "trailingPE": 12.680728,
+    "dividendYield": 4.68,
+    "exchange": "NGM",
     "_cached_at": "2026-08-11"
   }
 }
