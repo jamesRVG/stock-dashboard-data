@@ -1,23 +1,23 @@
 {
-  "refreshed": "2026-08-11 16:12",
-  "refreshed_utc": "2026-08-11T16:12:37Z",
+  "refreshed": "2026-08-11 18:44",
+  "refreshed_utc": "2026-08-11T18:44:14Z",
   "mood": "BULLISH",
   "mood_color": "#16a34a",
   "sentiment_net": 9,
   "sentiment_signals": [
     {
       "signal": "S&P vs its 200-day average",
-      "value": "+9.7%",
+      "value": "+9.4%",
       "reading": "above trend"
     },
     {
       "signal": "S&P position in its 52-week range",
-      "value": "97%",
+      "value": "95%",
       "reading": "upper half"
     },
     {
       "signal": "Breadth: equal weight vs cap weight",
-      "value": "+3.8pp",
+      "value": "+4.2pp",
       "reading": "broad participation"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "signal": "Small caps vs large caps",
-      "value": "+1.9pp",
+      "value": "+2.2pp",
       "reading": "risk-seeking"
     },
     {
       "signal": "Gold vs stocks",
-      "value": "-11.2pp",
+      "value": "-11.3pp",
       "reading": "stocks preferred"
     },
     {
@@ -53,9 +53,8 @@
   ],
   "avg_score": 6.3,
   "avg_score_exact": 6.31,
-  "avg_score_prev": 6.4,
+  "avg_score_prev": 6.31,
   "avg_score_series": [
-    4.97,
     4.98,
     4.99,
     5.03,
@@ -84,10 +83,10 @@
     6.28,
     6.28,
     6.28,
-    6.4
+    6.4,
+    6.31
   ],
   "avg_score_dates": [
-    "2026-08-07",
     "2026-08-07",
     "2026-08-07",
     "2026-08-07",
@@ -116,6 +115,7 @@
     "2026-08-10",
     "2026-08-11",
     "2026-08-11",
+    "2026-08-11",
     "2026-08-11"
   ],
   "sentiment_series": [
@@ -129,7 +129,6 @@
     null,
     null,
     null,
-    null,
     7,
     7,
     7,
@@ -148,6 +147,7 @@
     7,
     7,
     7,
+    9,
     9
   ],
   "mood_series": [
@@ -161,7 +161,6 @@
     null,
     null,
     null,
-    null,
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
@@ -180,6 +179,7 @@
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
+    "BULLISH",
     "BULLISH"
   ],
   "stats": {
@@ -291,18 +291,18 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7742.6,
-        "chg_pct": -0.0032
+        "price": 7717.3,
+        "chg_pct": -0.0065
       },
       {
         "name": "NASDAQ",
-        "price": 29573.3,
-        "chg_pct": -0.0041
+        "price": 29473.3,
+        "chg_pct": -0.0075
       },
       {
         "name": "DOW",
-        "price": 53933.7,
-        "chg_pct": -0.0005
+        "price": 53832.8,
+        "chg_pct": -0.0024
       }
     ],
     "vix": {
@@ -311,8 +311,8 @@
       "label": "Normal"
     },
     "dxy": {
-      "price": 99.81,
-      "chg_pct": 0.0001
+      "price": 99.83,
+      "chg_pct": 0.0003
     },
     "yields": [
       {
@@ -587,30 +587,30 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1542,
-        "chg_pct": 0.0001,
-        "chg_1mo": 0.0099,
-        "chg_3mo": -0.0166,
-        "chg_6mo": -0.0278,
-        "chg_1yr": -0.0087
+        "price": 1.154,
+        "chg_pct": -0.0001,
+        "chg_1mo": 0.0097,
+        "chg_3mo": -0.0168,
+        "chg_6mo": -0.028,
+        "chg_1yr": -0.0089
       },
       {
         "name": "USD/JPY",
-        "price": 159.26,
-        "chg_pct": 0.0002,
-        "chg_1mo": -0.0189,
-        "chg_3mo": 0.0108,
-        "chg_6mo": 0.0394,
-        "chg_1yr": 0.0796
+        "price": 159.29,
+        "chg_pct": 0.0004,
+        "chg_1mo": -0.0187,
+        "chg_3mo": 0.011,
+        "chg_6mo": 0.0396,
+        "chg_1yr": 0.0798
       },
       {
         "name": "GBP/USD",
-        "price": 1.3511,
-        "chg_pct": 0.0003,
-        "chg_1mo": 0.0081,
-        "chg_3mo": -0.0018,
-        "chg_6mo": -0.0083,
-        "chg_1yr": 0.0046
+        "price": 1.3501,
+        "chg_pct": -0.0004,
+        "chg_1mo": 0.0073,
+        "chg_3mo": -0.0025,
+        "chg_6mo": -0.009,
+        "chg_1yr": 0.0039
       },
       {
         "name": "USD/CNY",
@@ -623,48 +623,48 @@
       },
       {
         "name": "AUD/USD",
-        "price": 0.7059,
-        "chg_pct": 0.0008,
-        "chg_1mo": 0.0175,
-        "chg_3mo": -0.0247,
-        "chg_6mo": -0.0088,
-        "chg_1yr": 0.0821
+        "price": 0.7056,
+        "chg_pct": 0.0004,
+        "chg_1mo": 0.0171,
+        "chg_3mo": -0.0251,
+        "chg_6mo": -0.0092,
+        "chg_1yr": 0.0816
       },
       {
         "name": "USD/BRL",
-        "price": 5.1618,
-        "chg_pct": 0.0108,
-        "chg_1mo": 0.0113,
-        "chg_3mo": 0.0555,
-        "chg_6mo": -0.0041,
-        "chg_1yr": -0.05
+        "price": 5.1717,
+        "chg_pct": 0.0127,
+        "chg_1mo": 0.0133,
+        "chg_3mo": 0.0575,
+        "chg_6mo": -0.0022,
+        "chg_1yr": -0.0481
       },
       {
         "name": "USD/CAD",
-        "price": 1.3926,
-        "chg_pct": -0.0007,
-        "chg_1mo": -0.0172,
-        "chg_3mo": 0.0169,
-        "chg_6mo": 0.026,
-        "chg_1yr": 0.0123
+        "price": 1.3917,
+        "chg_pct": -0.0013,
+        "chg_1mo": -0.0177,
+        "chg_3mo": 0.0163,
+        "chg_6mo": 0.0254,
+        "chg_1yr": 0.0117
       },
       {
         "name": "USD/CHF",
-        "price": 0.8111,
-        "chg_pct": 0.0018,
-        "chg_1mo": 0.0054,
-        "chg_3mo": 0.0395,
-        "chg_6mo": 0.0516,
-        "chg_1yr": 0.0045
+        "price": 0.8109,
+        "chg_pct": 0.0015,
+        "chg_1mo": 0.0052,
+        "chg_3mo": 0.0392,
+        "chg_6mo": 0.0514,
+        "chg_1yr": 0.0042
       },
       {
         "name": "USD/MXN",
-        "price": 17.1138,
-        "chg_pct": -0.0012,
-        "chg_1mo": -0.023,
-        "chg_3mo": -0.0063,
-        "chg_6mo": -0.0035,
-        "chg_1yr": -0.0771
+        "price": 17.091,
+        "chg_pct": -0.0026,
+        "chg_1mo": -0.0243,
+        "chg_3mo": -0.0077,
+        "chg_6mo": -0.0048,
+        "chg_1yr": -0.0784
       }
     ],
     "global_watch": [
@@ -691,12 +691,26 @@
       }
     ],
     "econ_history": {
+      "10Y Treasury Yield": {
+        "current": 4.65,
+        "val_1mo": 4.56,
+        "val_3mo": 4.38,
+        "val_6mo": 4.22,
+        "val_1yr": 4.23
+      },
       "VIX Fear Index": {
         "current": 15.46,
         "val_1mo": 15.03,
         "val_3mo": 18.38,
         "val_6mo": 17.36,
         "val_1yr": 16.25
+      },
+      "Dollar (broad, Fed)": {
+        "current": 119.06,
+        "val_1mo": 121.13,
+        "val_3mo": 118.04,
+        "val_6mo": 118.24,
+        "val_1yr": 120.5
       },
       "S&P 500": {
         "current": 7753.11,
@@ -838,7 +852,7 @@
         },
         {
           "name": "Dollar, 20-day change",
-          "value": -1.63,
+          "value": -1.66,
           "vote": 1,
           "detail": "a weaker dollar loosens global financial conditions"
         }
@@ -852,11 +866,11 @@
     }
   },
   "breadth": {
-    "ratio": 0.285476,
-    "range_pos": 52.2,
+    "ratio": 0.285775,
+    "range_pos": 53.3,
     "range_low": 0.271859,
     "range_high": 0.297948,
-    "chg_20d_pct": -0.17,
+    "chg_20d_pct": -0.06,
     "regime": "FLAT",
     "stance": "wait",
     "guidance": "No wave. Mid-range, sideways. Neither broadening nor narrowing has the wind.",
@@ -1056,7 +1070,7 @@
       },
       {
         "contract": "ZQX2026",
-        "implied": 3.82
+        "implied": 3.825
       },
       {
         "contract": "ZQZ2026",
@@ -1080,220 +1094,16 @@
       },
       {
         "contract": "ZQK2027",
-        "implied": 4.06
+        "implied": 4.055
       },
       {
         "contract": "ZQM2027",
-        "implied": 4.075
+        "implied": 4.07
       }
     ],
     "sessions": 2
   },
-  "cot": {
-    "as_of": "2026-08-04",
-    "markets": [
-      {
-        "market": "Gold",
-        "net_pct_oi": 53.2,
-        "percentile": 88.0,
-        "weeks": 160,
-        "low": 16.4,
-        "high": 57.7,
-        "chg_1w": 5.9,
-        "state": "CROWDED LONG",
-        "note": "Specs heavily long. Marginal buyer scarce; setbacks sharper.",
-        "report_date": "2026-08-04",
-        "series": [
-          51.4,
-          48.5,
-          48.3,
-          50.6,
-          51.4,
-          51.6,
-          50.4,
-          51.2,
-          47.8,
-          42.0,
-          37.4,
-          44.8,
-          44.9,
-          45.0,
-          44.6,
-          47.3,
-          52.0,
-          51.8,
-          49.7,
-          48.9,
-          48.0,
-          46.6,
-          47.6,
-          46.4,
-          42.0,
-          40.4,
-          39.6,
-          39.3,
-          37.9,
-          39.1,
-          39.4,
-          38.9,
-          41.7,
-          45.2,
-          44.0,
-          44.9,
-          44.8,
-          43.2,
-          44.4,
-          45.6,
-          42.1,
-          43.6,
-          54.0,
-          52.2,
-          53.1,
-          51.5,
-          52.5,
-          52.2,
-          48.7,
-          48.0,
-          47.3,
-          53.2
-        ]
-      },
-      {
-        "market": "Silver",
-        "net_pct_oi": 19.9,
-        "percentile": 19.0,
-        "weeks": 160,
-        "low": 5.7,
-        "high": 42.2,
-        "chg_1w": -0.9,
-        "state": "LIGHT",
-        "note": "Specs underweight vs their own history. Little crowding risk.",
-        "report_date": "2026-08-04",
-        "series": [
-          28.3,
-          29.4,
-          29.3,
-          35.3,
-          34.4,
-          31.6,
-          31.5,
-          30.4,
-          27.8,
-          25.0,
-          22.0,
-          23.5,
-          21.4,
-          20.7,
-          22.2,
-          22.3,
-          25.5,
-          28.9,
-          23.8,
-          23.0,
-          19.1,
-          19.1,
-          21.2,
-          16.6,
-          15.1,
-          18.1,
-          17.2,
-          18.3,
-          17.7,
-          20.6,
-          21.3,
-          19.1,
-          21.8,
-          20.8,
-          20.3,
-          20.1,
-          20.5,
-          23.9,
-          24.6,
-          25.2,
-          24.5,
-          21.8,
-          23.3,
-          21.5,
-          22.8,
-          21.8,
-          25.1,
-          26.7,
-          23.9,
-          22.1,
-          20.8,
-          19.9
-        ]
-      },
-      {
-        "market": "Copper",
-        "net_pct_oi": 26.6,
-        "percentile": 94.0,
-        "weeks": 160,
-        "low": -13.3,
-        "high": 29.4,
-        "chg_1w": 2.1,
-        "state": "CROWDED LONG",
-        "note": "Specs heavily long. Marginal buyer scarce; setbacks sharper.",
-        "report_date": "2026-08-04",
-        "series": [
-          14.6,
-          13.3,
-          13.8,
-          13.1,
-          13.1,
-          13.7,
-          13.3,
-          14.1,
-          15.6,
-          16.9,
-          15.9,
-          18.0,
-          20.9,
-          20.9,
-          20.7,
-          18.7,
-          22.0,
-          24.9,
-          25.2,
-          25.1,
-          23.0,
-          21.7,
-          19.8,
-          18.9,
-          17.4,
-          17.1,
-          16.9,
-          21.7,
-          22.4,
-          23.5,
-          22.0,
-          20.8,
-          16.9,
-          18.2,
-          17.9,
-          22.4,
-          23.6,
-          27.4,
-          27.0,
-          29.4,
-          29.4,
-          27.4,
-          28.5,
-          27.1,
-          27.8,
-          26.6,
-          25.5,
-          25.6,
-          24.8,
-          27.4,
-          24.5,
-          26.6
-        ]
-      }
-    ],
-    "source": "CFTC Commitments of Traders, large speculators, futures only",
-    "note": "Tuesday positions published the following Friday, so it lags by three days."
-  },
+  "cot": null,
   "instruments": [
     {
       "ticker": "SSRM",
