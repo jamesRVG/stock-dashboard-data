@@ -1,61 +1,61 @@
 {
   "date": "2026-08-12",
-  "refreshed": "2026-08-12 04:24",
+  "refreshed": "2026-08-12 15:49",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Copper vs Gold",
-      "baseline": 0.44,
+      "baseline": 0.422,
       "recent": -0.814,
-      "delta": -1.254,
+      "delta": -1.236,
       "flip": true,
-      "n_base": 11,
+      "n_base": 10,
       "n_recent": 5
     },
     {
       "pair": "Copper vs S&P",
-      "baseline": 0.523,
-      "recent": -0.622,
-      "delta": -1.145,
+      "baseline": 0.52,
+      "recent": -0.571,
+      "delta": -1.091,
       "flip": true,
-      "n_base": 11,
+      "n_base": 10,
       "n_recent": 5
     },
     {
       "pair": "Oil vs S&P",
-      "baseline": 0.057,
-      "recent": -0.995,
-      "delta": -1.052,
+      "baseline": 0.051,
+      "recent": -0.95,
+      "delta": -1.001,
       "flip": false,
-      "n_base": 11,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs 10Y yield",
-      "baseline": 0.208,
-      "recent": -0.809,
-      "delta": -1.017,
-      "flip": false,
-      "n_base": 11,
+      "n_base": 10,
       "n_recent": 5
     },
     {
       "pair": "S&P vs VIX",
-      "baseline": 0.096,
-      "recent": -0.836,
-      "delta": -0.932,
+      "baseline": 0.103,
+      "recent": -0.833,
+      "delta": -0.936,
       "flip": false,
-      "n_base": 11,
+      "n_base": 10,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs 10Y yield",
+      "baseline": 0.196,
+      "recent": -0.685,
+      "delta": -0.881,
+      "flip": false,
+      "n_base": 10,
       "n_recent": 5
     },
     {
       "pair": "Gold vs 10Y yield",
-      "baseline": -0.41,
+      "baseline": -0.499,
       "recent": 0.245,
-      "delta": 0.655,
+      "delta": 0.744,
       "flip": false,
-      "n_base": 11,
+      "n_base": 10,
       "n_recent": 5
     }
   ],
@@ -101,6 +101,6 @@
       "n_recent": 5
     }
   ],
-  "note": "5-day window against a 11-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 11
+  "note": "5-day window against a 10-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 10
 }
