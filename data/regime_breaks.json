@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "refreshed": "2026-08-12 02:49",
+  "refreshed": "2026-08-12 04:11",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -61,100 +61,44 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "CDE / AG",
-      "baseline": 0.936,
-      "recent": -1.0,
-      "delta": -1.936,
-      "n_base": 18,
-      "n_recent": 3
+      "pair": "TSM / GOOGL",
+      "baseline": 0.312,
+      "recent": -0.989,
+      "delta": -1.301,
+      "n_base": 13,
+      "n_recent": 5
     },
     {
-      "pair": "CDE / HL",
-      "baseline": 0.898,
-      "recent": -1.0,
-      "delta": -1.898,
-      "n_base": 18,
-      "n_recent": 3
+      "pair": "MU / GOOGL",
+      "baseline": 0.03,
+      "recent": -0.75,
+      "delta": -0.78,
+      "n_base": 15,
+      "n_recent": 5
     },
     {
-      "pair": "FNV / CDE",
-      "baseline": 0.881,
-      "recent": -1.0,
-      "delta": -1.881,
-      "n_base": 18,
-      "n_recent": 3
+      "pair": "TSM / SSRM",
+      "baseline": 0.296,
+      "recent": 0.991,
+      "delta": 0.695,
+      "n_base": 14,
+      "n_recent": 5
     },
     {
-      "pair": "RGLD / CDE",
-      "baseline": 0.875,
-      "recent": -1.0,
-      "delta": -1.875,
-      "n_base": 18,
-      "n_recent": 3
+      "pair": "NVDA / GOOGL",
+      "baseline": 0.244,
+      "recent": -0.442,
+      "delta": -0.686,
+      "n_base": 13,
+      "n_recent": 5
     },
     {
-      "pair": "CDE / WPM",
-      "baseline": 0.824,
-      "recent": -1.0,
-      "delta": -1.824,
-      "n_base": 18,
-      "n_recent": 3
-    },
-    {
-      "pair": "MU / WPM",
-      "baseline": 0.744,
-      "recent": -1.0,
-      "delta": -1.744,
-      "n_base": 18,
-      "n_recent": 3
-    },
-    {
-      "pair": "NEM / CDE",
-      "baseline": 0.738,
-      "recent": -1.0,
-      "delta": -1.738,
-      "n_base": 16,
-      "n_recent": 3
-    },
-    {
-      "pair": "MU / HL",
-      "baseline": 0.734,
-      "recent": -1.0,
-      "delta": -1.734,
-      "n_base": 18,
-      "n_recent": 3
-    },
-    {
-      "pair": "NVDA / CDE",
-      "baseline": 0.733,
-      "recent": -1.0,
-      "delta": -1.733,
-      "n_base": 16,
-      "n_recent": 3
-    },
-    {
-      "pair": "CDE / AEM",
-      "baseline": 0.727,
-      "recent": -1.0,
-      "delta": -1.727,
-      "n_base": 16,
-      "n_recent": 3
-    },
-    {
-      "pair": "SSRM / CDE",
-      "baseline": 0.721,
-      "recent": -1.0,
-      "delta": -1.721,
-      "n_base": 16,
-      "n_recent": 3
-    },
-    {
-      "pair": "PAAS / CDE",
-      "baseline": 0.685,
-      "recent": -1.0,
-      "delta": -1.685,
-      "n_base": 16,
-      "n_recent": 3
+      "pair": "MU / SSRM",
+      "baseline": 0.297,
+      "recent": 0.907,
+      "delta": 0.61,
+      "n_base": 17,
+      "n_recent": 5
     }
   ],
   "note": "5-day window against a 11-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
