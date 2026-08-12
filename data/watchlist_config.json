@@ -589,7 +589,77 @@
   "PEB": 1,
   "HST": 1,
   "APLE": 1,
-  "LAMR": 1
+  "LAMR": 1,
+  "META": 1,
+  "V": 1,
+  "JNJ": 1,
+  "TCEHY": 1,
+  "MA": 1,
+  "BAC": 1,
+  "ABBV": 1,
+  "UNH": 1,
+  "HSBC": 1,
+  "PG": 1,
+  "PANW": 1,
+  "SBSW": 1,
+  "EQNR": 1,
+  "MPC": 1,
+  "VLO": 1,
+  "PSX": 1,
+  "WELL": 1,
+  "PLD": 1,
+  "DLR": 1,
+  "SPG": 1,
+  "VTR": 1,
+  "EXR": 1,
+  "AVB": 1,
+  "FXI": 1,
+  "SPHY": 1,
+  "TMF": 1,
+  "REMX": 1,
+  "EXC": 1,
+  "DUK": 1,
+  "SO": 1,
+  "LNG": 1,
+  "EXPE": 1,
+  "QTEC": 1,
+  "HALO": 1,
+  "AMGN": 1,
+  "CIBR": 1,
+  "TECL": 1,
+  "XLK": 1,
+  "URGN": 1,
+  "MRVI": 1,
+  "LQDA": 1,
+  "ACAD": 1,
+  "PBF": 1,
+  "BUG": 1,
+  "EPOL": 1,
+  "RCRUY": 1,
+  "GRMN": 1,
+  "CMBT": 1,
+  "IONQ": 1,
+  "QBTS": 1,
+  "RGTI": 1,
+  "XNDU": 1,
+  "ARQQ": 1,
+  "ITA": 1,
+  "PPA": 1,
+  "XAR": 1,
+  "VPU": 1,
+  "VYM": 1,
+  "DGRO": 1,
+  "VIG": 1,
+  "SCHH": 1,
+  "VNQ": 1,
+  "XLRE": 1,
+  "IHI": 1,
+  "UPRO": 1,
+  "PSI": 1,
+  "FTXL": 1,
+  "SOXX": 1,
+  "BBH": 1,
+  "HGRAF": 1
  },
  "history": [
   {
@@ -1179,7 +1249,63 @@
   "DFAR": 1,
   "OPEN": 1,
   "PEB": 1,
-  "APLE": 1
+  "APLE": 1,
+  "HD": 1,
+  "PG": 1,
+  "SBSW": 1,
+  "CRH": 1,
+  "AMT": 1,
+  "EXR": 1,
+  "AVB": 1,
+  "LQD": 1,
+  "FXI": 1,
+  "KWEB": 1,
+  "AGG": 1,
+  "VCIT": 1,
+  "BND": 1,
+  "IEF": 1,
+  "SPHY": 1,
+  "SPIB": 1,
+  "INDA": 1,
+  "EMB": 1,
+  "SPTL": 1,
+  "TMF": 1,
+  "VCLT": 1,
+  "ECAT": 1,
+  "EAGG": 1,
+  "QCLN": 1,
+  "SUSB": 1,
+  "ACES": 1,
+  "SCHP": 1,
+  "VTIP": 1,
+  "TIP": 1,
+  "STIP": 1,
+  "REMX": 1,
+  "TIPX": 1,
+  "SPIP": 1,
+  "WIW": 1,
+  "LTPZ": 1,
+  "REXC": 1,
+  "IXN": 1,
+  "BUG": 1,
+  "IONQ": 1,
+  "QBTS": 1,
+  "RGTI": 1,
+  "QUBT": 1,
+  "XNDU": 1,
+  "ARQQ": 1,
+  "VGSH": 1,
+  "VGIT": 1,
+  "SHY": 1,
+  "VCR": 1,
+  "XLY": 1,
+  "SCHH": 1,
+  "XLRE": 1,
+  "IHI": 1,
+  "TQQQ": 1,
+  "FTXL": 1,
+  "SOXX": 1,
+  "COPJ": 1
  },
  "watch": {
   "TDC": {
@@ -1321,51 +1447,6 @@
    "verified": true,
    "verified_pe": 41.7035
   },
-  "INVA": {
-   "first_seen": "2026-08-10",
-   "entry_price": 20.59,
-   "sector": "Pharmaceuticals",
-   "industry": "Pharmaceuticals: Major",
-   "name": "INVA",
-   "track": [
-    {
-     "date": "2026-08-10",
-     "price": 20.68
-    },
-    {
-     "date": "2026-08-11",
-     "price": 20.75
-    },
-    {
-     "date": "2026-08-12",
-     "price": 21.02
-    }
-   ],
-   "last_seen": "2026-08-12",
-   "exchange": "NASDAQ",
-   "otc": false,
-   "scores": {
-    "hybrid": 7.83,
-    "pe_heavy": 8.67
-   },
-   "gates": {
-    "E": true,
-    "E2": true
-   },
-   "metrics": {
-    "pe": 5.1207093960876024,
-    "roe": 36.6756447235564,
-    "roic": 28.194665652224,
-    "gross_margin": 69.9800351698333,
-    "pfcf": 8.146606454746044,
-    "de": 0.218653457254014,
-    "rev_growth": 18.167638381476397,
-    "mom12": 6.917599186164798
-   },
-   "ret_since_entry": 0.0209,
-   "verified": true,
-   "verified_pe": 2.9509
-  },
   "YOU": {
    "first_seen": "2026-08-08",
    "entry_price": 51.29,
@@ -1402,6 +1483,96 @@
    "ret_since_entry": 0,
    "verified": true,
    "verified_pe": 57.8148
+  },
+  "INVA": {
+   "first_seen": "2026-08-10",
+   "entry_price": 20.59,
+   "sector": "Pharmaceuticals",
+   "industry": "Pharmaceuticals: Major",
+   "name": "INVA",
+   "track": [
+    {
+     "date": "2026-08-10",
+     "price": 20.68
+    },
+    {
+     "date": "2026-08-11",
+     "price": 20.75
+    },
+    {
+     "date": "2026-08-12",
+     "price": 20.81
+    }
+   ],
+   "last_seen": "2026-08-12",
+   "exchange": "NASDAQ",
+   "otc": false,
+   "scores": {
+    "hybrid": 7.77,
+    "pe_heavy": 8.63
+   },
+   "gates": {
+    "E": true,
+    "E2": true
+   },
+   "metrics": {
+    "pe": 5.069551024385491,
+    "roe": 36.6756447235564,
+    "roic": 28.194665652224,
+    "gross_margin": 69.9800351698333,
+    "pfcf": 8.065217903104909,
+    "de": 0.218653457254014,
+    "rev_growth": 18.167638381476397,
+    "mom12": 5.849440488301112
+   },
+   "ret_since_entry": 0.0107,
+   "verified": true,
+   "verified_pe": 2.9509
+  },
+  "LNTH": {
+   "first_seen": "2026-08-10",
+   "entry_price": 100.94,
+   "sector": "Healthcare",
+   "industry": "Medical Specialties",
+   "name": "LNTH",
+   "track": [
+    {
+     "date": "2026-08-10",
+     "price": 100.98
+    },
+    {
+     "date": "2026-08-11",
+     "price": 100.68
+    },
+    {
+     "date": "2026-08-12",
+     "price": 100.73
+    }
+   ],
+   "last_seen": "2026-08-12",
+   "exchange": "NASDAQ",
+   "otc": false,
+   "scores": {
+    "hybrid": 7.63,
+    "pe_heavy": 7.47
+   },
+   "gates": {
+    "E": true,
+    "E2": true
+   },
+   "metrics": {
+    "pe": 24.344442564709865,
+    "roe": 22.2149061491729,
+    "roic": 14.8112182315092,
+    "gross_margin": 60.1433002230271,
+    "pfcf": 17.536215877534286,
+    "de": 0.47642055286794,
+    "rev_growth": 2.3450451878239154,
+    "mom12": 83.07888040712467
+   },
+   "ret_since_entry": -0.0021,
+   "verified": true,
+   "verified_pe": 23.9249
   },
   "ADBE": {
    "first_seen": "2026-08-08",
@@ -1496,51 +1667,6 @@
    "ret_since_entry": 0.1002,
    "verified": true,
    "verified_pe": 6.0928
-  },
-  "LNTH": {
-   "first_seen": "2026-08-10",
-   "entry_price": 100.94,
-   "sector": "Healthcare",
-   "industry": "Medical Specialties",
-   "name": "LNTH",
-   "track": [
-    {
-     "date": "2026-08-10",
-     "price": 100.98
-    },
-    {
-     "date": "2026-08-11",
-     "price": 100.68
-    },
-    {
-     "date": "2026-08-12",
-     "price": 100.66
-    }
-   ],
-   "last_seen": "2026-08-12",
-   "exchange": "NASDAQ",
-   "otc": false,
-   "scores": {
-    "hybrid": 7.58,
-    "pe_heavy": 7.39
-   },
-   "gates": {
-    "E": true,
-    "E2": true
-   },
-   "metrics": {
-    "pe": 24.32752495347657,
-    "roe": 22.2149061491729,
-    "roic": 14.8112182315092,
-    "gross_margin": 60.1433002230271,
-    "pfcf": 17.5240294870704,
-    "de": 0.47642055286794,
-    "rev_growth": 2.3450451878239154,
-    "mom12": 82.95165394402034
-   },
-   "ret_since_entry": -0.0028,
-   "verified": true,
-   "verified_pe": 23.9249
   },
   "SYF": {
    "first_seen": "2026-08-07",
@@ -1763,31 +1889,31 @@
     },
     {
      "date": "2026-08-12",
-     "price": 30.165
+     "price": 30.17
     }
    ],
    "last_seen": "2026-08-12",
    "exchange": "NYSE",
    "otc": false,
    "scores": {
-    "hybrid": 7.54,
-    "pe_heavy": 8.07
+    "hybrid": 7.52,
+    "pe_heavy": 8.05
    },
    "gates": {
     "E": true,
     "E2": false
    },
    "metrics": {
-    "pe": 11.966378463327384,
+    "pe": 11.96836195055817,
     "roe": 20.9433962264151,
     "roic": 15.7586512866016,
     "gross_margin": 18.8058149681588,
-    "pfcf": 10.606818597111811,
+    "pfcf": 10.608576730477816,
     "de": 0.34010760863208395,
     "rev_growth": 0.022146018721279567,
-    "mom12": 108.03448275862068
+    "mom12": 108.0689655172414
    },
-   "ret_since_entry": 0.0878,
+   "ret_since_entry": 0.088,
    "verified": true,
    "verified_pe": 15.4263
   },
@@ -2005,31 +2131,31 @@
     },
     {
      "date": "2026-08-12",
-     "price": 76.185
+     "price": 75.27
     }
    ],
    "last_seen": "2026-08-12",
    "exchange": "NYSE",
    "otc": false,
    "scores": {
-    "hybrid": 7.19,
-    "pe_heavy": 7.05
+    "hybrid": 7.21,
+    "pe_heavy": 7.12
    },
    "gates": {
     "E": true,
     "E2": false
    },
    "metrics": {
-    "pe": 26.548996375801504,
+    "pe": 26.23013660440479,
     "roe": 36.0425544961217,
     "roic": 27.2426019048502,
     "gross_margin": 22.7007743844079,
-    "pfcf": 19.607324871158617,
+    "pfcf": 19.37183622828784,
     "de": 0.37982150498196704,
     "rev_growth": 8.765417818950379,
-    "mom12": 116.61927779357406
+    "mom12": 114.01762866079042
    },
-   "ret_since_entry": 0.0115,
+   "ret_since_entry": -0.0007,
    "verified": true,
    "verified_pe": 24.5253
   },
@@ -2070,51 +2196,6 @@
    "verified": true,
    "verified_pe": 4.4412
   },
-  "OII": {
-   "first_seen": "2026-08-08",
-   "entry_price": 47.97,
-   "sector": "Industrials",
-   "industry": "Industrial Machinery",
-   "name": "OII",
-   "track": [
-    {
-     "date": "2026-08-08",
-     "price": 47.97
-    },
-    {
-     "date": "2026-08-11",
-     "price": 50.76
-    },
-    {
-     "date": "2026-08-12",
-     "price": 50.59
-    }
-   ],
-   "last_seen": "2026-08-12",
-   "exchange": "NYSE",
-   "otc": false,
-   "scores": {
-    "hybrid": 7.17,
-    "pe_heavy": 7.68
-   },
-   "gates": {
-    "E": true,
-    "E2": false
-   },
-   "metrics": {
-    "pe": 14.567076506665899,
-    "roe": 34.8979198162512,
-    "roic": 20.5699719800061,
-    "gross_margin": 19.8203047611752,
-    "pfcf": 21.46359299117579,
-    "de": 0.706227515899931,
-    "rev_growth": 3.8373864990084763,
-    "mom12": 133.56417359187444
-   },
-   "ret_since_entry": 0.0546,
-   "verified": true,
-   "verified_pe": 14.2842
-  },
   "CNX": {
    "first_seen": "2026-08-06",
    "entry_price": 34.54,
@@ -2140,33 +2221,78 @@
     },
     {
      "date": "2026-08-12",
-     "price": 35.69
+     "price": 35.74
     }
    ],
    "last_seen": "2026-08-12",
    "exchange": "NYSE",
    "otc": false,
    "scores": {
-    "hybrid": 7.17,
-    "pe_heavy": 8.1
+    "hybrid": 7.18,
+    "pe_heavy": 8.11
    },
    "gates": {
     "E": true,
     "E2": true
    },
    "metrics": {
-    "pe": 5.967828238913785,
+    "pe": 5.97618888368671,
     "roe": 21.2486692250072,
     "roic": 13.9447682334359,
     "gross_margin": 48.4393947394192,
-    "pfcf": 10.44697275051428,
+    "pfcf": 10.461608464650615,
     "de": 0.491371150266247,
     "rev_growth": 16.211654840991923,
-    "mom12": 24.052832811956893
+    "mom12": 24.226624956551973
    },
-   "ret_since_entry": 0.0333,
+   "ret_since_entry": 0.0347,
    "verified": true,
    "verified_pe": 5.4756
+  },
+  "OII": {
+   "first_seen": "2026-08-08",
+   "entry_price": 47.97,
+   "sector": "Industrials",
+   "industry": "Industrial Machinery",
+   "name": "OII",
+   "track": [
+    {
+     "date": "2026-08-08",
+     "price": 47.97
+    },
+    {
+     "date": "2026-08-11",
+     "price": 50.76
+    },
+    {
+     "date": "2026-08-12",
+     "price": 51.02
+    }
+   ],
+   "last_seen": "2026-08-12",
+   "exchange": "NYSE",
+   "otc": false,
+   "scores": {
+    "hybrid": 7.16,
+    "pe_heavy": 7.66
+   },
+   "gates": {
+    "E": true,
+    "E2": false
+   },
+   "metrics": {
+    "pe": 14.69089233781566,
+    "roe": 34.8979198162512,
+    "roic": 20.5699719800061,
+    "gross_margin": 19.8203047611752,
+    "pfcf": 21.646027167617884,
+    "de": 0.706227515899931,
+    "rev_growth": 3.8373864990084763,
+    "mom12": 135.5493998153278
+   },
+   "ret_since_entry": 0.0636,
+   "verified": true,
+   "verified_pe": 14.2842
   },
   "CRUS": {
    "first_seen": "2026-08-08",
@@ -2193,7 +2319,7 @@
     },
     {
      "date": "2026-08-12",
-     "price": 121.93
+     "price": 121.89
     }
    ],
    "last_seen": "2026-08-12",
@@ -2208,16 +2334,16 @@
     "E2": true
    },
    "metrics": {
-    "pe": 14.918634528324974,
+    "pe": 14.913740364615196,
     "roe": 20.9040361313439,
     "roic": 19.7987303966763,
     "gross_margin": 52.78471873277301,
-    "pfcf": 11.157802786915619,
+    "pfcf": 11.154142390692568,
     "de": 0.0595962507497267,
     "rev_growth": 6.246076991773799,
-    "mom12": 15.529657002084516
+    "mom12": 15.491756679931774
    },
-   "ret_since_entry": -0.0239,
+   "ret_since_entry": -0.0243,
    "verified": true,
    "verified_pe": 14.9969
   },
@@ -2278,51 +2404,6 @@
    "verified": true,
    "verified_pe": 18.7483
   },
-  "ILMN": {
-   "first_seen": "2026-08-10",
-   "entry_price": 192.22,
-   "sector": "Healthcare",
-   "industry": "Medical Specialties",
-   "name": "ILMN",
-   "track": [
-    {
-     "date": "2026-08-10",
-     "price": 191.79
-    },
-    {
-     "date": "2026-08-11",
-     "price": 192.84
-    },
-    {
-     "date": "2026-08-12",
-     "price": 190.785
-    }
-   ],
-   "last_seen": "2026-08-12",
-   "exchange": "NASDAQ",
-   "otc": false,
-   "scores": {
-    "hybrid": 7.05,
-    "pe_heavy": 6.36
-   },
-   "gates": {
-    "E": true,
-    "E2": true
-   },
-   "metrics": {
-    "pe": 35.55507929704243,
-    "roe": 32.3783359497645,
-    "roic": 18.2099106058934,
-    "gross_margin": 66.8075639599555,
-    "pfcf": 31.353496240601505,
-    "de": 0.890415785764623,
-    "rev_growth": 4.974311069593647,
-    "mom12": 101.84617012272535
-   },
-   "ret_since_entry": -0.0075,
-   "verified": true,
-   "verified_pe": 34.9204
-  },
   "GMED": {
    "first_seen": "2026-08-10",
    "entry_price": 85.595,
@@ -2340,33 +2421,78 @@
     },
     {
      "date": "2026-08-12",
-     "price": 84.045
+     "price": 85.67
     }
    ],
    "last_seen": "2026-08-12",
    "exchange": "NYSE",
    "otc": false,
    "scores": {
-    "hybrid": 7.04,
-    "pe_heavy": 7.24
+    "hybrid": 7.09,
+    "pe_heavy": 7.26
    },
    "gates": {
     "E": true,
     "E2": true
    },
    "metrics": {
-    "pe": 21.490487879717705,
+    "pe": 21.906003886672803,
     "roe": 11.8140800058604,
     "roic": 11.5524440127812,
     "gross_margin": 64.8978643113019,
-    "pfcf": 15.281354014743446,
+    "pfcf": 15.576817162746993,
     "de": 0.0234685084919,
     "rev_growth": 19.74036545754915,
-    "mom12": 40.63755020080322
+    "mom12": 43.356760374832675
    },
-   "ret_since_entry": -0.0181,
+   "ret_since_entry": 0.0009,
    "verified": true,
    "verified_pe": 20.7717
+  },
+  "ILMN": {
+   "first_seen": "2026-08-10",
+   "entry_price": 192.22,
+   "sector": "Healthcare",
+   "industry": "Medical Specialties",
+   "name": "ILMN",
+   "track": [
+    {
+     "date": "2026-08-10",
+     "price": 191.79
+    },
+    {
+     "date": "2026-08-11",
+     "price": 192.84
+    },
+    {
+     "date": "2026-08-12",
+     "price": 192.91
+    }
+   ],
+   "last_seen": "2026-08-12",
+   "exchange": "NASDAQ",
+   "otc": false,
+   "scores": {
+    "hybrid": 7.08,
+    "pe_heavy": 6.4
+   },
+   "gates": {
+    "E": true,
+    "E2": true
+   },
+   "metrics": {
+    "pe": 35.95109860414842,
+    "roe": 32.3783359497645,
+    "roic": 18.2099106058934,
+    "gross_margin": 66.8075639599555,
+    "pfcf": 31.702717508055855,
+    "de": 0.890415785764623,
+    "rev_growth": 4.974311069593647,
+    "mom12": 104.09437156157428
+   },
+   "ret_since_entry": 0.0036,
+   "verified": true,
+   "verified_pe": 34.9204
   },
   "REGN": {
    "first_seen": "2026-08-10",
@@ -2385,31 +2511,31 @@
     },
     {
      "date": "2026-08-12",
-     "price": 795.095
+     "price": 797.99
     }
    ],
    "last_seen": "2026-08-12",
    "exchange": "NASDAQ",
    "otc": false,
    "scores": {
-    "hybrid": 7.03,
-    "pe_heavy": 7.33
+    "hybrid": 7.04,
+    "pe_heavy": 7.35
    },
    "gates": {
     "E": true,
     "E2": true
    },
    "metrics": {
-    "pe": 19.64987853130383,
+    "pe": 19.7214251997499,
     "roe": 14.0427540498586,
     "roic": 13.0496518042869,
     "gross_margin": 81.4563525526724,
-    "pfcf": 22.41252792256143,
+    "pfcf": 22.494133602808212,
     "de": 0.08535100941617212,
     "rev_growth": 9.29000576887901,
-    "mom12": 45.106216009052076
+    "mom12": 45.63455852830601
    },
-   "ret_since_entry": -0.0169,
+   "ret_since_entry": -0.0134,
    "verified": true,
    "verified_pe": 18.8976
   },
@@ -2585,59 +2711,6 @@
    "verified": true,
    "verified_pe": 16.6813
   },
-  "FSLR": {
-   "first_seen": "2026-08-08",
-   "entry_price": 250.05,
-   "sector": "Semiconductors",
-   "industry": "Semiconductors",
-   "name": "FSLR",
-   "track": [
-    {
-     "date": "2026-08-08",
-     "price": 250.05
-    },
-    {
-     "date": "2026-08-09",
-     "price": 250.05
-    },
-    {
-     "date": "2026-08-10",
-     "price": 239.33
-    },
-    {
-     "date": "2026-08-11",
-     "price": 240.91
-    },
-    {
-     "date": "2026-08-12",
-     "price": 227.67
-    }
-   ],
-   "last_seen": "2026-08-12",
-   "exchange": "NASDAQ",
-   "otc": false,
-   "scores": {
-    "hybrid": 6.92,
-    "pe_heavy": 7.67
-   },
-   "gates": {
-    "E": true,
-    "E2": true
-   },
-   "metrics": {
-    "pe": 14.03516342609146,
-    "roe": 18.5091772344458,
-    "roic": 17.9864949907601,
-    "gross_margin": 44.0024499490617,
-    "pfcf": 16.35026583891011,
-    "de": 0.018798802907424198,
-    "rev_growth": 23.82062868645269,
-    "mom12": 23.538987465407782
-   },
-   "ret_since_entry": -0.0895,
-   "verified": true,
-   "verified_pe": 16.3493
-  },
   "BFH": {
    "first_seen": "2026-08-07",
    "entry_price": 108.32,
@@ -2716,6 +2789,112 @@
    "verified": true,
    "verified_pe": 40.4901
   },
+  "FSLR": {
+   "first_seen": "2026-08-08",
+   "entry_price": 250.05,
+   "sector": "Semiconductors",
+   "industry": "Semiconductors",
+   "name": "FSLR",
+   "track": [
+    {
+     "date": "2026-08-08",
+     "price": 250.05
+    },
+    {
+     "date": "2026-08-09",
+     "price": 250.05
+    },
+    {
+     "date": "2026-08-10",
+     "price": 239.33
+    },
+    {
+     "date": "2026-08-11",
+     "price": 240.91
+    },
+    {
+     "date": "2026-08-12",
+     "price": 226.77
+    }
+   ],
+   "last_seen": "2026-08-12",
+   "exchange": "NASDAQ",
+   "otc": false,
+   "scores": {
+    "hybrid": 6.89,
+    "pe_heavy": 7.64
+   },
+   "gates": {
+    "E": true,
+    "E2": true
+   },
+   "metrics": {
+    "pe": 13.979681161921906,
+    "roe": 18.5091772344458,
+    "roic": 17.9864949907601,
+    "gross_margin": 44.0024499490617,
+    "pfcf": 16.28563176654652,
+    "de": 0.018798802907424198,
+    "rev_growth": 23.82062868645269,
+    "mom12": 23.05062672961095
+   },
+   "ret_since_entry": -0.0931,
+   "verified": true,
+   "verified_pe": 16.3493
+  },
+  "MGY": {
+   "first_seen": "2026-08-06",
+   "entry_price": 23.72,
+   "sector": "Energy",
+   "industry": "Oil & Gas Production",
+   "name": "MGY",
+   "track": [
+    {
+     "date": "2026-08-06",
+     "price": 23.72
+    },
+    {
+     "date": "2026-08-07",
+     "price": 25.08
+    },
+    {
+     "date": "2026-08-08",
+     "price": 25.08
+    },
+    {
+     "date": "2026-08-11",
+     "price": 26.01
+    },
+    {
+     "date": "2026-08-12",
+     "price": 26.36
+    }
+   ],
+   "last_seen": "2026-08-12",
+   "exchange": "NYSE",
+   "otc": false,
+   "scores": {
+    "hybrid": 6.89,
+    "pe_heavy": 7.74
+   },
+   "gates": {
+    "E": true,
+    "E2": true
+   },
+   "metrics": {
+    "pe": 11.550764646597433,
+    "roe": 20.5377177813271,
+    "roic": 17.2241680147269,
+    "gross_margin": 50.8460798278784,
+    "pfcf": 13.822895779001255,
+    "de": 0.19243347429778201,
+    "rev_growth": 11.351103252384267,
+    "mom12": 12.939160239931446
+   },
+   "ret_since_entry": 0.1113,
+   "verified": true,
+   "verified_pe": 18.2057
+  },
   "FTNT": {
    "first_seen": "2026-08-08",
    "entry_price": 159.64,
@@ -2790,58 +2969,58 @@
    "verified": true,
    "verified_pe": 11.768
   },
-  "MGY": {
+  "WFRD": {
    "first_seen": "2026-08-06",
-   "entry_price": 23.72,
+   "entry_price": 87.53,
    "sector": "Energy",
-   "industry": "Oil & Gas Production",
-   "name": "MGY",
+   "industry": "Oilfield Services/Equipment",
+   "name": "WFRD",
    "track": [
     {
      "date": "2026-08-06",
-     "price": 23.72
+     "price": 87.53
     },
     {
      "date": "2026-08-07",
-     "price": 25.08
+     "price": 86.82
     },
     {
      "date": "2026-08-08",
-     "price": 25.08
+     "price": 86.82
     },
     {
      "date": "2026-08-11",
-     "price": 26.01
+     "price": 94.43
     },
     {
      "date": "2026-08-12",
-     "price": 26.185
+     "price": 92.7
     }
    ],
    "last_seen": "2026-08-12",
-   "exchange": "NYSE",
+   "exchange": "NASDAQ",
    "otc": false,
    "scores": {
-    "hybrid": 6.84,
-    "pe_heavy": 7.71
+    "hybrid": 6.81,
+    "pe_heavy": 7.27
    },
    "gates": {
-    "E": true,
+    "E": false,
     "E2": true
    },
    "metrics": {
-    "pe": 11.474080890407958,
-    "roe": 20.5377177813271,
-    "roic": 17.2241680147269,
-    "gross_margin": 50.8460798278784,
-    "pfcf": 13.731127692456292,
-    "de": 0.19243347429778201,
-    "rev_growth": 11.351103252384267,
-    "mom12": 12.189374464438727
+    "pe": 18.315452551715964,
+    "roe": 22.1952698605215,
+    "roic": 11.2235510579577,
+    "gross_margin": 29.238174968606103,
+    "pfcf": 12.724220532319391,
+    "de": 0.907158836689038,
+    "rev_growth": -7.16922479114047,
+    "mom12": 70.27920646583395
    },
-   "ret_since_entry": 0.1039,
+   "ret_since_entry": 0.0591,
    "verified": true,
-   "verified_pe": 18.2057
+   "verified_pe": 17.514
   },
   "QNST": {
    "first_seen": "2026-08-08",
@@ -2888,59 +3067,6 @@
    "verified": true,
    "verified_pe": 18.1402
   },
-  "WFRD": {
-   "first_seen": "2026-08-06",
-   "entry_price": 87.53,
-   "sector": "Energy",
-   "industry": "Oilfield Services/Equipment",
-   "name": "WFRD",
-   "track": [
-    {
-     "date": "2026-08-06",
-     "price": 87.53
-    },
-    {
-     "date": "2026-08-07",
-     "price": 86.82
-    },
-    {
-     "date": "2026-08-08",
-     "price": 86.82
-    },
-    {
-     "date": "2026-08-11",
-     "price": 94.43
-    },
-    {
-     "date": "2026-08-12",
-     "price": 93.32
-    }
-   ],
-   "last_seen": "2026-08-12",
-   "exchange": "NASDAQ",
-   "otc": false,
-   "scores": {
-    "hybrid": 6.78,
-    "pe_heavy": 7.19
-   },
-   "gates": {
-    "E": false,
-    "E2": true
-   },
-   "metrics": {
-    "pe": 18.43795072412226,
-    "roe": 22.1952698605215,
-    "roic": 11.2235510579577,
-    "gross_margin": 29.238174968606103,
-    "pfcf": 12.809323193916349,
-    "de": 0.907158836689038,
-    "rev_growth": -7.16922479114047,
-    "mom12": 71.41807494489346
-   },
-   "ret_since_entry": 0.0661,
-   "verified": true,
-   "verified_pe": 17.514
-  },
   "QCOM": {
    "first_seen": "2026-08-08",
    "entry_price": 167.86,
@@ -2966,31 +3092,31 @@
     },
     {
      "date": "2026-08-12",
-     "price": 162.255
+     "price": 163.07
     }
    ],
    "last_seen": "2026-08-12",
    "exchange": "NASDAQ",
    "otc": false,
    "scores": {
-    "hybrid": 6.77,
-    "pe_heavy": 7.33
+    "hybrid": 6.8,
+    "pe_heavy": 7.38
    },
    "gates": {
     "E": true,
     "E2": true
    },
    "metrics": {
-    "pe": 18.77864450719874,
+    "pe": 18.872968844034997,
     "roe": 33.7507062533034,
     "roic": 22.4634868261439,
     "gross_margin": 54.227557411273494,
-    "pfcf": 16.652322868663596,
+    "pfcf": 16.73596678187404,
     "de": 0.552100658037458,
     "rev_growth": 1.8748410661858197,
-    "mom12": 9.04600288988206
+    "mom12": 9.593736348667633
    },
-   "ret_since_entry": -0.0334,
+   "ret_since_entry": -0.0285,
    "verified": true,
    "verified_pe": 18.7299
   },
@@ -3034,6 +3160,51 @@
    "ret_since_entry": 0,
    "verified": true,
    "verified_pe": 11.6369
+  },
+  "RPRX": {
+   "first_seen": "2026-08-10",
+   "entry_price": 57.459,
+   "sector": "Pharmaceuticals",
+   "industry": "Pharmaceuticals: Major",
+   "name": "RPRX",
+   "track": [
+    {
+     "date": "2026-08-10",
+     "price": 57.97
+    },
+    {
+     "date": "2026-08-11",
+     "price": 57.79
+    },
+    {
+     "date": "2026-08-12",
+     "price": 59.22
+    }
+   ],
+   "last_seen": "2026-08-12",
+   "exchange": "NASDAQ",
+   "otc": false,
+   "scores": {
+    "hybrid": 6.76,
+    "pe_heavy": 6.36
+   },
+   "gates": {
+    "E": true,
+    "E2": false
+   },
+   "metrics": {
+    "pe": 31.525153047644395,
+    "roe": 12.3634276278808,
+    "roic": 5.66154601292472,
+    "gross_margin": 99.8052845259163,
+    "pfcf": 10.951336739003962,
+    "de": 1.31161046836415,
+    "rev_growth": 9.993311941957025,
+    "mom12": 63.59116022099446
+   },
+   "ret_since_entry": 0.0306,
+   "verified": true,
+   "verified_pe": 40.0563
   },
   "PATH": {
    "first_seen": "2026-08-08",
@@ -3109,51 +3280,6 @@
    "verified": true,
    "verified_pe": 29.566
   },
-  "RPRX": {
-   "first_seen": "2026-08-10",
-   "entry_price": 57.459,
-   "sector": "Pharmaceuticals",
-   "industry": "Pharmaceuticals: Major",
-   "name": "RPRX",
-   "track": [
-    {
-     "date": "2026-08-10",
-     "price": 57.97
-    },
-    {
-     "date": "2026-08-11",
-     "price": 57.79
-    },
-    {
-     "date": "2026-08-12",
-     "price": 58.895
-    }
-   ],
-   "last_seen": "2026-08-12",
-   "exchange": "NASDAQ",
-   "otc": false,
-   "scores": {
-    "hybrid": 6.72,
-    "pe_heavy": 6.33
-   },
-   "gates": {
-    "E": true,
-    "E2": false
-   },
-   "metrics": {
-    "pe": 31.35214266702156,
-    "roe": 12.3634276278808,
-    "roic": 5.66154601292472,
-    "gross_margin": 99.8052845259163,
-    "pfcf": 10.891235684627462,
-    "de": 1.31161046836415,
-    "rev_growth": 9.993311941957025,
-    "mom12": 62.693370165745854
-   },
-   "ret_since_entry": 0.025,
-   "verified": true,
-   "verified_pe": 40.0563
-  },
   "PLAB": {
    "first_seen": "2026-08-08",
    "entry_price": 32.65,
@@ -3179,7 +3305,7 @@
     },
     {
      "date": "2026-08-12",
-     "price": 33.21
+     "price": 33.49
     }
    ],
    "last_seen": "2026-08-12",
@@ -3194,16 +3320,16 @@
     "E2": true
    },
    "metrics": {
-    "pe": 12.162162162162163,
+    "pe": 12.264703728118363,
     "roe": 13.582276265172903,
     "roic": 13.559859542156502,
     "gross_margin": 33.7735870966244,
-    "pfcf": 20.250588546694484,
+    "pfcf": 20.421325216163755,
     "de": 0.00311299093655589,
     "rev_growth": 0.5168417096395415,
-    "mom12": 65.96701649175412
+    "mom12": 67.3663168415792
    },
-   "ret_since_entry": 0.0172,
+   "ret_since_entry": 0.0257,
    "verified": true,
    "verified_pe": 12.1961
   },
@@ -3261,7 +3387,7 @@
     },
     {
      "date": "2026-08-12",
-     "price": 58.27
+     "price": 58.28
     }
    ],
    "last_seen": "2026-08-12",
@@ -3276,16 +3402,16 @@
     "E2": false
    },
    "metrics": {
-    "pe": 12.654736567780049,
+    "pe": 12.656908309082224,
     "roe": 17.9649274043565,
     "roic": 17.2754474548388,
     "gross_margin": 86.1320601462934,
-    "pfcf": 14.402328927244623,
+    "pfcf": 14.404800581428121,
     "de": 0.0352393826415789,
     "rev_growth": 4.345695868628325,
-    "mom12": -26.704402515723263
+    "mom12": -26.69182389937107
    },
-   "ret_since_entry": -0.0235,
+   "ret_since_entry": -0.0233,
    "verified": true,
    "verified_pe": 12.8793
   },
@@ -3302,7 +3428,7 @@
     },
     {
      "date": "2026-08-12",
-     "price": 32.56
+     "price": 32.42
     }
    ],
    "last_seen": "2026-08-12",
@@ -3317,18 +3443,59 @@
     "E2": true
    },
    "metrics": {
-    "pe": 6.418419444499202,
+    "pe": 6.39082181789509,
     "roe": 16.1264226082871,
     "roic": 9.2028773392921,
     "gross_margin": 42.4094697003471,
-    "pfcf": 10.311493018259936,
+    "pfcf": 10.267156131817785,
     "de": 0.900550364776654,
     "rev_growth": 75.39189250000238,
-    "mom12": 25.27895344363218
+    "mom12": 24.740284724894206
    },
-   "ret_since_entry": 0.0015,
+   "ret_since_entry": -0.0028,
    "verified": true,
    "verified_pe": 7.4301
+  },
+  "RRC": {
+   "first_seen": "2026-08-11",
+   "entry_price": 40.67,
+   "sector": "Energy",
+   "industry": "Oil & Gas Production",
+   "name": "RRC",
+   "track": [
+    {
+     "date": "2026-08-11",
+     "price": 40.67
+    },
+    {
+     "date": "2026-08-12",
+     "price": 40.18
+    }
+   ],
+   "last_seen": "2026-08-12",
+   "exchange": "NYSE",
+   "otc": false,
+   "scores": {
+    "hybrid": 6.6,
+    "pe_heavy": 7.56
+   },
+   "gates": {
+    "E": true,
+    "E2": true
+   },
+   "metrics": {
+    "pe": 11.088114358252614,
+    "roe": 19.45296913805,
+    "roic": 15.461548668287401,
+    "gross_margin": 37.9966334856571,
+    "pfcf": 13.948698737243099,
+    "de": 0.21588685232532,
+    "rev_growth": 16.839997427726253,
+    "mom12": 18.037602820211518
+   },
+   "ret_since_entry": -0.012,
+   "verified": true,
+   "verified_pe": 10.8454
   },
   "AYA": {
    "first_seen": "2026-08-06",
@@ -3477,46 +3644,50 @@
    "verified": true,
    "verified_pe": 13.1123
   },
-  "RRC": {
-   "first_seen": "2026-08-11",
-   "entry_price": 40.67,
-   "sector": "Energy",
-   "industry": "Oil & Gas Production",
-   "name": "RRC",
+  "LIVN": {
+   "first_seen": "2026-08-10",
+   "entry_price": 76.1,
+   "sector": "Healthcare",
+   "industry": "Medical Specialties",
+   "name": "LIVN",
    "track": [
     {
+     "date": "2026-08-10",
+     "price": 76.48
+    },
+    {
      "date": "2026-08-11",
-     "price": 40.67
+     "price": 78.58
     },
     {
      "date": "2026-08-12",
-     "price": 40.15
+     "price": 80.78
     }
    ],
    "last_seen": "2026-08-12",
-   "exchange": "NYSE",
+   "exchange": "NASDAQ",
    "otc": false,
    "scores": {
-    "hybrid": 6.58,
-    "pe_heavy": 7.55
+    "hybrid": 6.54,
+    "pe_heavy": 6.7
    },
    "gates": {
     "E": true,
     "E2": true
    },
    "metrics": {
-    "pe": 11.079835527223556,
-    "roe": 19.45296913805,
-    "roic": 15.461548668287401,
-    "gross_margin": 37.9966334856571,
-    "pfcf": 13.938284079151577,
-    "de": 0.21588685232532,
-    "rev_growth": 16.839997427726253,
-    "mom12": 17.949471210340775
+    "pe": 23.96890392261587,
+    "roe": 15.4023366927257,
+    "roic": 11.8613805699014,
+    "gross_margin": 68.2416150072919,
+    "pfcf": 30.649611274063584,
+    "de": 0.26555735134555997,
+    "rev_growth": 12.388232176149222,
+    "mom12": 61.62464985994399
    },
-   "ret_since_entry": -0.0128,
+   "ret_since_entry": 0.0615,
    "verified": true,
-   "verified_pe": 10.8454
+   "verified_pe": 22.1715
   },
   "EXE": {
    "first_seen": "2026-08-06",
@@ -3543,31 +3714,31 @@
     },
     {
      "date": "2026-08-12",
-     "price": 96.975
+     "price": 96.28
     }
    ],
    "last_seen": "2026-08-12",
    "exchange": "NASDAQ",
    "otc": false,
    "scores": {
-    "hybrid": 6.55,
-    "pe_heavy": 7.64
+    "hybrid": 6.53,
+    "pe_heavy": 7.62
    },
    "gates": {
     "E": true,
     "E2": false
    },
    "metrics": {
-    "pe": 8.370521264015606,
+    "pe": 8.31053144933666,
     "roe": 14.892762470881202,
     "roic": 12.0509598301339,
     "gross_margin": 48.6857778130708,
-    "pfcf": 9.335488721728595,
+    "pfcf": 9.268583182552504,
     "de": 0.19206594538897503,
     "rev_growth": 42.486988006336276,
-    "mom12": -0.8232767437103772
+    "mom12": -1.534056044180814
    },
-   "ret_since_entry": 0.0678,
+   "ret_since_entry": 0.0601,
    "verified": true,
    "verified_pe": 7.6552
   },
@@ -3694,51 +3865,6 @@
    "verified": true,
    "verified_pe": 11.9262
   },
-  "LIVN": {
-   "first_seen": "2026-08-10",
-   "entry_price": 76.1,
-   "sector": "Healthcare",
-   "industry": "Medical Specialties",
-   "name": "LIVN",
-   "track": [
-    {
-     "date": "2026-08-10",
-     "price": 76.48
-    },
-    {
-     "date": "2026-08-11",
-     "price": 78.58
-    },
-    {
-     "date": "2026-08-12",
-     "price": 80.88
-    }
-   ],
-   "last_seen": "2026-08-12",
-   "exchange": "NASDAQ",
-   "otc": false,
-   "scores": {
-    "hybrid": 6.49,
-    "pe_heavy": 6.62
-   },
-   "gates": {
-    "E": true,
-    "E2": true
-   },
-   "metrics": {
-    "pe": 23.998575752180876,
-    "roe": 15.4023366927257,
-    "roic": 11.8613805699014,
-    "gross_margin": 68.2416150072919,
-    "pfcf": 30.68755335288763,
-    "de": 0.26555735134555997,
-    "rev_growth": 12.388232176149222,
-    "mom12": 61.824729891956785
-   },
-   "ret_since_entry": 0.0628,
-   "verified": true,
-   "verified_pe": 22.1715
-  },
   "PR": {
    "first_seen": "2026-08-11",
    "entry_price": 21.46,
@@ -3752,33 +3878,70 @@
     },
     {
      "date": "2026-08-12",
-     "price": 21.455
+     "price": 21.45
     }
    ],
    "last_seen": "2026-08-12",
    "exchange": "NYSE",
    "otc": false,
    "scores": {
-    "hybrid": 6.46,
-    "pe_heavy": 7.15
+    "hybrid": 6.48,
+    "pe_heavy": 7.16
    },
    "gates": {
     "E": true,
     "E2": true
    },
    "metrics": {
-    "pe": 14.240674366122395,
+    "pe": 14.237355635205098,
     "roe": 11.5062562472319,
     "roic": 8.71598830323169,
     "gross_margin": 39.1798645540751,
-    "pfcf": 17.20529304127191,
+    "pfcf": 17.201283418097532,
     "de": 0.262461373633838,
     "rev_growth": 12.813302556836337,
-    "mom12": 63.90374331550802
+    "mom12": 63.865546218487395
    },
-   "ret_since_entry": -0.0002,
+   "ret_since_entry": -0.0005,
    "verified": true,
    "verified_pe": 14.3071
+  },
+  "ADMA": {
+   "first_seen": "2026-08-12",
+   "entry_price": 9.78,
+   "sector": "Pharmaceuticals",
+   "industry": "Biotechnology",
+   "name": "ADMA",
+   "track": [
+    {
+     "date": "2026-08-12",
+     "price": 9.78
+    }
+   ],
+   "last_seen": "2026-08-12",
+   "exchange": "NASDAQ",
+   "otc": false,
+   "scores": {
+    "hybrid": 6.47,
+    "pe_heavy": 7.46
+   },
+   "gates": {
+    "E": true,
+    "E2": false
+   },
+   "metrics": {
+    "pe": 13.882185947480481,
+    "roe": 41.8971077438865,
+    "roic": 31.054219026560904,
+    "gross_margin": 64.6664389244058,
+    "pfcf": 19.341595870489144,
+    "de": 0.499350821150002,
+    "rev_growth": 8.035236010409681,
+    "mom12": -40.727272727272734
+   },
+   "ret_since_entry": 0.0,
+   "verified": true,
+   "verified_pe": 13.1243
   },
   "PIPR": {
    "first_seen": "2026-08-07",
@@ -3820,59 +3983,6 @@
    "ret_since_entry": 0,
    "verified": true,
    "verified_pe": 18.7253
-  },
-  "FLOC": {
-   "first_seen": "2026-08-06",
-   "entry_price": 20.72,
-   "sector": "Energy",
-   "industry": "Oilfield Services/Equipment",
-   "name": "FLOC",
-   "track": [
-    {
-     "date": "2026-08-06",
-     "price": 20.72
-    },
-    {
-     "date": "2026-08-07",
-     "price": 21.79
-    },
-    {
-     "date": "2026-08-08",
-     "price": 21.79
-    },
-    {
-     "date": "2026-08-11",
-     "price": 23.26
-    },
-    {
-     "date": "2026-08-12",
-     "price": 23.68
-    }
-   ],
-   "last_seen": "2026-08-12",
-   "exchange": "NYSE",
-   "otc": false,
-   "scores": {
-    "hybrid": 6.4,
-    "pe_heavy": 6.45
-   },
-   "gates": {
-    "E": false,
-    "E2": true
-   },
-   "metrics": {
-    "pe": 28.056872037914694,
-    "roe": 19.2870555736611,
-    "roic": 9.70306421799884,
-    "gross_margin": 33.4852472658543,
-    "pfcf": 5.004249889748642,
-    "de": 0.936995237534472,
-    "rev_growth": null,
-    "mom12": 50.34920634920635
-   },
-   "ret_since_entry": 0.1429,
-   "verified": true,
-   "verified_pe": 44.3596
   }
  },
  "_promote_streak": {
@@ -3881,11 +3991,10 @@
   "ERO": 0,
   "AUGO": 0,
   "ARIS": 0,
-  "CVE": 6,
-  "CNX": 6,
+  "CVE": 7,
+  "CNX": 7,
   "DSVSF": 0,
   "AYA": 0,
-  "FLOC": 0,
   "MGY": 0,
   "GPRE": 0,
   "EXE": 0,
@@ -3898,8 +4007,8 @@
   "PIPR": 0,
   "EZPW": 0,
   "QNST": 0,
-  "CRUS": 3,
-  "OII": 3,
+  "CRUS": 4,
+  "OII": 4,
   "FSLR": 0,
   "QCOM": 0,
   "PLAB": 0,
@@ -3920,22 +4029,23 @@
   "PEGA": 0,
   "PTC": 0,
   "APP": 0,
-  "BVS": 12,
-  "INVA": 13,
-  "LNTH": 13,
-  "ANF": 7,
-  "GMED": 3,
-  "CRI": 7,
-  "ILMN": 13,
-  "REGN": 1,
+  "BVS": 13,
+  "INVA": 14,
+  "LNTH": 14,
+  "ANF": 8,
+  "GMED": 4,
+  "CRI": 8,
+  "ILMN": 14,
+  "REGN": 2,
   "INSP": 0,
   "RPRX": 0,
   "SIG": 0,
   "LIVN": 0,
-  "FTI": 6,
+  "FTI": 7,
   "PR": 0,
   "RRC": 0,
-  "SM": 0
+  "SM": 0,
+  "ADMA": 0
  },
  "promoted": [
   {
@@ -4072,7 +4182,77 @@
   "PEB": "2026-08-12",
   "HST": "2026-08-12",
   "APLE": "2026-08-12",
-  "LAMR": "2026-08-12"
+  "LAMR": "2026-08-12",
+  "META": "2026-08-12",
+  "V": "2026-08-12",
+  "JNJ": "2026-08-12",
+  "TCEHY": "2026-08-12",
+  "MA": "2026-08-12",
+  "BAC": "2026-08-12",
+  "ABBV": "2026-08-12",
+  "UNH": "2026-08-12",
+  "HSBC": "2026-08-12",
+  "PG": "2026-08-12",
+  "PANW": "2026-08-12",
+  "SBSW": "2026-08-12",
+  "EQNR": "2026-08-12",
+  "MPC": "2026-08-12",
+  "VLO": "2026-08-12",
+  "PSX": "2026-08-12",
+  "WELL": "2026-08-12",
+  "PLD": "2026-08-12",
+  "DLR": "2026-08-12",
+  "SPG": "2026-08-12",
+  "VTR": "2026-08-12",
+  "EXR": "2026-08-12",
+  "AVB": "2026-08-12",
+  "FXI": "2026-08-12",
+  "SPHY": "2026-08-12",
+  "TMF": "2026-08-12",
+  "REMX": "2026-08-12",
+  "EXC": "2026-08-12",
+  "DUK": "2026-08-12",
+  "SO": "2026-08-12",
+  "LNG": "2026-08-12",
+  "EXPE": "2026-08-12",
+  "QTEC": "2026-08-12",
+  "HALO": "2026-08-12",
+  "AMGN": "2026-08-12",
+  "CIBR": "2026-08-12",
+  "TECL": "2026-08-12",
+  "XLK": "2026-08-12",
+  "URGN": "2026-08-12",
+  "MRVI": "2026-08-12",
+  "LQDA": "2026-08-12",
+  "ACAD": "2026-08-12",
+  "PBF": "2026-08-12",
+  "BUG": "2026-08-12",
+  "EPOL": "2026-08-12",
+  "RCRUY": "2026-08-12",
+  "GRMN": "2026-08-12",
+  "CMBT": "2026-08-12",
+  "IONQ": "2026-08-12",
+  "QBTS": "2026-08-12",
+  "RGTI": "2026-08-12",
+  "XNDU": "2026-08-12",
+  "ARQQ": "2026-08-12",
+  "ITA": "2026-08-12",
+  "PPA": "2026-08-12",
+  "XAR": "2026-08-12",
+  "VPU": "2026-08-12",
+  "VYM": "2026-08-12",
+  "DGRO": "2026-08-12",
+  "VIG": "2026-08-12",
+  "SCHH": "2026-08-12",
+  "VNQ": "2026-08-12",
+  "XLRE": "2026-08-12",
+  "IHI": "2026-08-12",
+  "UPRO": "2026-08-12",
+  "PSI": "2026-08-12",
+  "FTXL": "2026-08-12",
+  "SOXX": "2026-08-12",
+  "BBH": "2026-08-12",
+  "HGRAF": "2026-08-12"
  },
  "_weak_streak_day": {
   "BABA": "2026-08-08",
@@ -4154,7 +4334,63 @@
   "DFAR": "2026-08-12",
   "OPEN": "2026-08-12",
   "PEB": "2026-08-12",
-  "APLE": "2026-08-12"
+  "APLE": "2026-08-12",
+  "HD": "2026-08-12",
+  "PG": "2026-08-12",
+  "SBSW": "2026-08-12",
+  "CRH": "2026-08-12",
+  "AMT": "2026-08-12",
+  "EXR": "2026-08-12",
+  "AVB": "2026-08-12",
+  "LQD": "2026-08-12",
+  "FXI": "2026-08-12",
+  "KWEB": "2026-08-12",
+  "AGG": "2026-08-12",
+  "VCIT": "2026-08-12",
+  "BND": "2026-08-12",
+  "IEF": "2026-08-12",
+  "SPHY": "2026-08-12",
+  "SPIB": "2026-08-12",
+  "INDA": "2026-08-12",
+  "EMB": "2026-08-12",
+  "SPTL": "2026-08-12",
+  "TMF": "2026-08-12",
+  "VCLT": "2026-08-12",
+  "ECAT": "2026-08-12",
+  "EAGG": "2026-08-12",
+  "QCLN": "2026-08-12",
+  "SUSB": "2026-08-12",
+  "ACES": "2026-08-12",
+  "SCHP": "2026-08-12",
+  "VTIP": "2026-08-12",
+  "TIP": "2026-08-12",
+  "STIP": "2026-08-12",
+  "REMX": "2026-08-12",
+  "TIPX": "2026-08-12",
+  "SPIP": "2026-08-12",
+  "WIW": "2026-08-12",
+  "LTPZ": "2026-08-12",
+  "REXC": "2026-08-12",
+  "IXN": "2026-08-12",
+  "BUG": "2026-08-12",
+  "IONQ": "2026-08-12",
+  "QBTS": "2026-08-12",
+  "RGTI": "2026-08-12",
+  "QUBT": "2026-08-12",
+  "XNDU": "2026-08-12",
+  "ARQQ": "2026-08-12",
+  "VGSH": "2026-08-12",
+  "VGIT": "2026-08-12",
+  "SHY": "2026-08-12",
+  "VCR": "2026-08-12",
+  "XLY": "2026-08-12",
+  "SCHH": "2026-08-12",
+  "XLRE": "2026-08-12",
+  "IHI": "2026-08-12",
+  "TQQQ": "2026-08-12",
+  "FTXL": "2026-08-12",
+  "SOXX": "2026-08-12",
+  "COPJ": "2026-08-12"
  },
  "user_requested": {
   "IONQ": {

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "refreshed": "2026-08-12 15:49",
+  "refreshed": "2026-08-12 23:34",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -16,8 +16,8 @@
     {
       "pair": "Copper vs S&P",
       "baseline": 0.52,
-      "recent": -0.571,
-      "delta": -1.091,
+      "recent": -0.517,
+      "delta": -1.037,
       "flip": true,
       "n_base": 10,
       "n_recent": 5
@@ -25,17 +25,8 @@
     {
       "pair": "Oil vs S&P",
       "baseline": 0.051,
-      "recent": -0.95,
-      "delta": -1.001,
-      "flip": false,
-      "n_base": 10,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs VIX",
-      "baseline": 0.103,
-      "recent": -0.833,
-      "delta": -0.936,
+      "recent": -0.881,
+      "delta": -0.932,
       "flip": false,
       "n_base": 10,
       "n_recent": 5
@@ -43,8 +34,17 @@
     {
       "pair": "S&P vs 10Y yield",
       "baseline": 0.196,
-      "recent": -0.685,
-      "delta": -0.881,
+      "recent": -0.73,
+      "delta": -0.926,
+      "flip": false,
+      "n_base": 10,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs VIX",
+      "baseline": 0.103,
+      "recent": -0.775,
+      "delta": -0.878,
       "flip": false,
       "n_base": 10,
       "n_recent": 5
@@ -52,8 +52,8 @@
     {
       "pair": "Gold vs 10Y yield",
       "baseline": -0.499,
-      "recent": 0.245,
-      "delta": 0.744,
+      "recent": 0.238,
+      "delta": 0.737,
       "flip": false,
       "n_base": 10,
       "n_recent": 5
@@ -63,25 +63,9 @@
     {
       "pair": "TSM / GOOGL",
       "baseline": 0.312,
-      "recent": -0.989,
-      "delta": -1.301,
+      "recent": -0.412,
+      "delta": -0.724,
       "n_base": 13,
-      "n_recent": 5
-    },
-    {
-      "pair": "MU / GOOGL",
-      "baseline": 0.03,
-      "recent": -0.75,
-      "delta": -0.78,
-      "n_base": 15,
-      "n_recent": 5
-    },
-    {
-      "pair": "TSM / SSRM",
-      "baseline": 0.296,
-      "recent": 0.991,
-      "delta": 0.695,
-      "n_base": 14,
       "n_recent": 5
     },
     {
@@ -90,14 +74,6 @@
       "recent": -0.442,
       "delta": -0.686,
       "n_base": 13,
-      "n_recent": 5
-    },
-    {
-      "pair": "MU / SSRM",
-      "baseline": 0.297,
-      "recent": 0.907,
-      "delta": 0.61,
-      "n_base": 17,
       "n_recent": 5
     }
   ],
