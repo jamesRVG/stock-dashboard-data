@@ -1,6 +1,6 @@
 {
-  "refreshed": "2026-08-13 05:32",
-  "refreshed_utc": "2026-08-13T05:32:08Z",
+  "refreshed": "2026-08-13 10:43",
+  "refreshed_utc": "2026-08-13T10:43:16Z",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "sentiment_net": 7,
@@ -22,7 +22,7 @@
     },
     {
       "signal": "Volatility (VIX)",
-      "value": "14.5",
+      "value": "14.6",
       "reading": "calm"
     },
     {
@@ -53,9 +53,8 @@
   ],
   "avg_score": 6.3,
   "avg_score_exact": 6.29,
-  "avg_score_prev": 6.32,
+  "avg_score_prev": 6.29,
   "avg_score_series": [
-    6.15,
     6.14,
     6.12,
     6.09,
@@ -84,10 +83,10 @@
     6.24,
     6.24,
     6.24,
-    6.32
+    6.32,
+    6.29
   ],
   "avg_score_dates": [
-    "2026-08-08",
     "2026-08-08",
     "2026-08-08",
     "2026-08-08",
@@ -116,7 +115,8 @@
     "2026-08-12",
     "2026-08-12",
     "2026-08-12",
-    "2026-08-12"
+    "2026-08-12",
+    "2026-08-13"
   ],
   "sentiment_series": [
     7,
@@ -135,17 +135,17 @@
     7,
     7,
     7,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
     7,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
     7,
     7,
     7
@@ -167,17 +167,17 @@
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
     "CAUTIOUSLY OPTIMISTIC",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC"
@@ -306,8 +306,8 @@
       },
       {
         "name": "Russell 2K (fut)",
-        "price": 3056.9,
-        "chg_pct": 0.0002
+        "price": 3058.5,
+        "chg_pct": 0.0008
       }
     ],
     "vix": {
@@ -316,8 +316,8 @@
       "label": "Normal"
     },
     "dxy": {
-      "price": 99.97,
-      "chg_pct": 0.0001
+      "price": 99.88,
+      "chg_pct": -0.0008
     },
     "yields": [
       {
@@ -592,48 +592,48 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1525,
-        "chg_pct": 0.0002,
-        "chg_1mo": 0.0127,
-        "chg_3mo": -0.0123,
-        "chg_6mo": -0.029,
-        "chg_1yr": -0.0126
+        "price": 1.1538,
+        "chg_pct": 0.0013,
+        "chg_1mo": 0.0138,
+        "chg_3mo": -0.0113,
+        "chg_6mo": -0.028,
+        "chg_1yr": -0.0115
       },
       {
         "name": "USD/JPY",
-        "price": 159.321,
-        "chg_pct": -0.0006,
-        "chg_1mo": -0.0192,
+        "price": 159.334,
+        "chg_pct": -0.0005,
+        "chg_1mo": -0.0191,
         "chg_3mo": 0.0065,
-        "chg_6mo": 0.0432,
-        "chg_1yr": 0.0777
+        "chg_6mo": 0.0433,
+        "chg_1yr": 0.0778
       },
       {
         "name": "GBP/USD",
-        "price": 1.3494,
-        "chg_pct": 0.0002,
-        "chg_1mo": 0.0114,
-        "chg_3mo": 0.007,
-        "chg_6mo": -0.009,
-        "chg_1yr": -0.0001
+        "price": 1.35,
+        "chg_pct": 0.0007,
+        "chg_1mo": 0.0119,
+        "chg_3mo": 0.0075,
+        "chg_6mo": -0.0085,
+        "chg_1yr": 0.0004
       },
       {
         "name": "USD/CNY",
-        "price": 6.7435,
-        "chg_pct": 0.0,
-        "chg_1mo": -0.0052,
-        "chg_3mo": -0.0061,
-        "chg_6mo": -0.0228,
-        "chg_1yr": -0.0605
+        "price": 6.7422,
+        "chg_pct": -0.0002,
+        "chg_1mo": -0.0054,
+        "chg_3mo": -0.0062,
+        "chg_6mo": -0.0229,
+        "chg_1yr": -0.0607
       },
       {
         "name": "AUD/USD",
-        "price": 0.705,
-        "chg_pct": -0.0004,
-        "chg_1mo": 0.0195,
-        "chg_3mo": -0.0235,
-        "chg_6mo": -0.0057,
-        "chg_1yr": 0.08
+        "price": 0.7056,
+        "chg_pct": 0.0005,
+        "chg_1mo": 0.0204,
+        "chg_3mo": -0.0227,
+        "chg_6mo": -0.0048,
+        "chg_1yr": 0.0809
       },
       {
         "name": "USD/BRL",
@@ -646,30 +646,30 @@
       },
       {
         "name": "USD/CAD",
-        "price": 1.3946,
-        "chg_pct": 0.0005,
-        "chg_1mo": -0.0145,
-        "chg_3mo": 0.0168,
-        "chg_6mo": 0.0249,
-        "chg_1yr": 0.0127
+        "price": 1.3937,
+        "chg_pct": -0.0002,
+        "chg_1mo": -0.0151,
+        "chg_3mo": 0.0161,
+        "chg_6mo": 0.0242,
+        "chg_1yr": 0.0121
       },
       {
         "name": "USD/CHF",
-        "price": 0.8138,
-        "chg_pct": 0.0008,
-        "chg_1mo": -0.0007,
-        "chg_3mo": 0.0388,
-        "chg_6mo": 0.0597,
-        "chg_1yr": 0.0097
+        "price": 0.8117,
+        "chg_pct": -0.0017,
+        "chg_1mo": -0.0032,
+        "chg_3mo": 0.0362,
+        "chg_6mo": 0.057,
+        "chg_1yr": 0.0071
       },
       {
         "name": "USD/MXN",
-        "price": 17.0479,
-        "chg_pct": 0.0003,
-        "chg_1mo": -0.0265,
-        "chg_3mo": -0.0088,
-        "chg_6mo": -0.0099,
-        "chg_1yr": -0.083
+        "price": 17.0548,
+        "chg_pct": 0.0007,
+        "chg_1mo": -0.0261,
+        "chg_3mo": -0.0084,
+        "chg_6mo": -0.0095,
+        "chg_1yr": -0.0826
       }
     ],
     "global_watch": [
@@ -746,6 +746,12 @@
       },
       {
         "source": "ECB",
+        "title": "Cash remains most widely accepted payment method in euro area",
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
+        "date": "Thu, 13 Aug 2026 11:00:00 +0200"
+      },
+      {
+        "source": "ECB",
         "title": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html",
         "date": "Tue, 11 Aug 2026 10:30:00 +0200"
@@ -755,12 +761,6 @@
         "title": "ECB publishes consolidated banking data for end-March 2026",
         "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
         "date": "Fri, 07 Aug 2026 10:00:00 +0200"
-      },
-      {
-        "source": "ECB",
-        "title": "Digital euro app to incorporate highest accessibility standards",
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260730~3b3bfbb565.en.html",
-        "date": "Thu, 30 Jul 2026 10:00:00 +0200"
       },
       {
         "source": "Bank of England",
@@ -845,7 +845,7 @@
       "policy_inputs": [
         {
           "name": "Fed Funds futures path",
-          "value": 26.5,
+          "value": 25.8,
           "vote": -1,
           "detail": "bp between the front and far contract; negative prices cuts"
         },
@@ -857,7 +857,7 @@
         },
         {
           "name": "Dollar, 20-day change",
-          "value": -1.44,
+          "value": -1.45,
           "vote": 1,
           "detail": "a weaker dollar loosens global financial conditions"
         }
@@ -875,12 +875,12 @@
     "range_pos": 54.9,
     "range_low": 0.271859,
     "range_high": 0.297948,
-    "chg_20d_pct": 0.8,
+    "chg_20d_pct": 1.43,
     "regime": "BROADENING",
     "stance": "ride",
     "guidance": "Ave stock beating largest. Mkt broadening, wave intact. Stick with it vs awaiting turn.",
     "range_note": "Mid-range gives no edge fr position, trend decides. Size positions normally and follow direction.",
-    "through": "2026-08-12",
+    "through": "2026-08-13",
     "theme": "Market Broadening",
     "theme_effect": "Financial Services+2, Industrials+1, Healthcare+1, Basic Materials+1",
     "sessions": 756,
@@ -1045,27 +1045,27 @@
     "disclaimer": "Flow and timing effects, not valuation. These do not change any score."
   },
   "rate_path": {
-    "front": 3.63,
-    "far": 3.895,
+    "front": 3.632,
+    "far": 3.89,
     "front_contract": "ZQQ2026",
     "far_contract": "ZQF2027",
-    "path_bps": 26.5,
+    "path_bps": 25.8,
     "direction": "rates expected HIGHER",
-    "next_move_odds": 16.0,
-    "d_front_bps": -0.2,
-    "d_far_bps": -1.5,
+    "next_move_odds": 15.0,
+    "d_front_bps": 0.0,
+    "d_far_bps": -2.0,
     "spy_chg_pct": 0.0025046719269103818,
     "verdict": "BUILDING",
     "verdict_note": "Needs about 6 more sessions before the relationship can be measured. It compares daily moves in expected rates against daily moves in stocks.",
     "fed_score": null,
     "corr": null,
-    "today_side": 13.0,
+    "today_side": 17.0,
     "window": 20,
     "pairs": 2,
     "curve": [
       {
         "contract": "ZQQ2026",
-        "implied": 3.63
+        "implied": 3.6325
       },
       {
         "contract": "ZQU2026",
@@ -1073,7 +1073,7 @@
       },
       {
         "contract": "ZQV2026",
-        "implied": 3.72
+        "implied": 3.725
       },
       {
         "contract": "ZQX2026",
@@ -1081,240 +1081,36 @@
       },
       {
         "contract": "ZQZ2026",
-        "implied": 3.86
+        "implied": 3.855
       },
       {
         "contract": "ZQF2027",
-        "implied": 3.895
+        "implied": 3.89
       },
       {
         "contract": "ZQG2027",
-        "implied": 3.93
+        "implied": 3.925
       },
       {
         "contract": "ZQH2027",
-        "implied": 3.96
+        "implied": 3.955
       },
       {
         "contract": "ZQJ2027",
-        "implied": 4
+        "implied": 3.99
       },
       {
         "contract": "ZQK2027",
-        "implied": 4.02
+        "implied": 4.01
       },
       {
         "contract": "ZQM2027",
-        "implied": 4.035
+        "implied": 4.025
       }
     ],
     "sessions": 4
   },
-  "cot": {
-    "as_of": "2026-08-04",
-    "markets": [
-      {
-        "market": "Gold",
-        "net_pct_oi": 53.2,
-        "percentile": 88.0,
-        "weeks": 160,
-        "low": 16.4,
-        "high": 57.7,
-        "chg_1w": 5.9,
-        "state": "CROWDED LONG",
-        "note": "Specs heavily long. Marginal buyer scarce; setbacks sharper.",
-        "report_date": "2026-08-04",
-        "series": [
-          51.4,
-          48.5,
-          48.3,
-          50.6,
-          51.4,
-          51.6,
-          50.4,
-          51.2,
-          47.8,
-          42.0,
-          37.4,
-          44.8,
-          44.9,
-          45.0,
-          44.6,
-          47.3,
-          52.0,
-          51.8,
-          49.7,
-          48.9,
-          48.0,
-          46.6,
-          47.6,
-          46.4,
-          42.0,
-          40.4,
-          39.6,
-          39.3,
-          37.9,
-          39.1,
-          39.4,
-          38.9,
-          41.7,
-          45.2,
-          44.0,
-          44.9,
-          44.8,
-          43.2,
-          44.4,
-          45.6,
-          42.1,
-          43.6,
-          54.0,
-          52.2,
-          53.1,
-          51.5,
-          52.5,
-          52.2,
-          48.7,
-          48.0,
-          47.3,
-          53.2
-        ]
-      },
-      {
-        "market": "Silver",
-        "net_pct_oi": 19.9,
-        "percentile": 19.0,
-        "weeks": 160,
-        "low": 5.7,
-        "high": 42.2,
-        "chg_1w": -0.9,
-        "state": "LIGHT",
-        "note": "Specs underweight vs their own history. Little crowding risk.",
-        "report_date": "2026-08-04",
-        "series": [
-          28.3,
-          29.4,
-          29.3,
-          35.3,
-          34.4,
-          31.6,
-          31.5,
-          30.4,
-          27.8,
-          25.0,
-          22.0,
-          23.5,
-          21.4,
-          20.7,
-          22.2,
-          22.3,
-          25.5,
-          28.9,
-          23.8,
-          23.0,
-          19.1,
-          19.1,
-          21.2,
-          16.6,
-          15.1,
-          18.1,
-          17.2,
-          18.3,
-          17.7,
-          20.6,
-          21.3,
-          19.1,
-          21.8,
-          20.8,
-          20.3,
-          20.1,
-          20.5,
-          23.9,
-          24.6,
-          25.2,
-          24.5,
-          21.8,
-          23.3,
-          21.5,
-          22.8,
-          21.8,
-          25.1,
-          26.7,
-          23.9,
-          22.1,
-          20.8,
-          19.9
-        ]
-      },
-      {
-        "market": "Copper",
-        "net_pct_oi": 26.6,
-        "percentile": 94.0,
-        "weeks": 160,
-        "low": -13.3,
-        "high": 29.4,
-        "chg_1w": 2.1,
-        "state": "CROWDED LONG",
-        "note": "Specs heavily long. Marginal buyer scarce; setbacks sharper.",
-        "report_date": "2026-08-04",
-        "series": [
-          14.6,
-          13.3,
-          13.8,
-          13.1,
-          13.1,
-          13.7,
-          13.3,
-          14.1,
-          15.6,
-          16.9,
-          15.9,
-          18.0,
-          20.9,
-          20.9,
-          20.7,
-          18.7,
-          22.0,
-          24.9,
-          25.2,
-          25.1,
-          23.0,
-          21.7,
-          19.8,
-          18.9,
-          17.4,
-          17.1,
-          16.9,
-          21.7,
-          22.4,
-          23.5,
-          22.0,
-          20.8,
-          16.9,
-          18.2,
-          17.9,
-          22.4,
-          23.6,
-          27.4,
-          27.0,
-          29.4,
-          29.4,
-          27.4,
-          28.5,
-          27.1,
-          27.8,
-          26.6,
-          25.5,
-          25.6,
-          24.8,
-          27.4,
-          24.5,
-          26.6
-        ]
-      }
-    ],
-    "source": "CFTC Commitments of Traders, large speculators, futures only",
-    "note": "Tuesday positions published the following Friday, so it lags by three days."
-  },
+  "cot": null,
   "instruments": [
     {
       "ticker": "ARKG",
