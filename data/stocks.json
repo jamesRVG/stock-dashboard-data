@@ -1,6 +1,6 @@
 {
-  "refreshed": "2026-08-14 09:51",
-  "refreshed_utc": "2026-08-14T09:51:10Z",
+  "refreshed": "2026-08-14 11:15",
+  "refreshed_utc": "2026-08-14T11:15:11Z",
   "mood": "BULLISH",
   "mood_color": "#16a34a",
   "sentiment_net": 9,
@@ -22,7 +22,7 @@
     },
     {
       "signal": "Volatility (VIX)",
-      "value": "14.6",
+      "value": "14.5",
       "reading": "calm"
     },
     {
@@ -55,7 +55,6 @@
   "avg_score_exact": 6.39,
   "avg_score_prev": 6.39,
   "avg_score_series": [
-    6.09,
     6.07,
     6.07,
     6.27,
@@ -84,6 +83,7 @@
     6.29,
     6.29,
     6.41,
+    6.39,
     6.39
   ],
   "avg_score_dates": [
@@ -94,7 +94,6 @@
     "2026-08-10",
     "2026-08-10",
     "2026-08-10",
-    "2026-08-10",
     "2026-08-11",
     "2026-08-11",
     "2026-08-11",
@@ -116,6 +115,7 @@
     "2026-08-13",
     "2026-08-13",
     "2026-08-13",
+    "2026-08-14",
     "2026-08-14"
   ],
   "sentiment_series": [
@@ -128,7 +128,6 @@
     7,
     7,
     7,
-    7,
     9,
     9,
     9,
@@ -145,6 +144,7 @@
     7,
     7,
     7,
+    9,
     9,
     9,
     9,
@@ -160,7 +160,6 @@
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
-    "CAUTIOUSLY OPTIMISTIC",
     "BULLISH",
     "BULLISH",
     "BULLISH",
@@ -177,6 +176,7 @@
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
+    "BULLISH",
     "BULLISH",
     "BULLISH",
     "BULLISH",
@@ -306,8 +306,8 @@
       },
       {
         "name": "Russell 2K (fut)",
-        "price": 3057.2,
-        "chg_pct": -0.0016
+        "price": 3058.8,
+        "chg_pct": -0.0011
       }
     ],
     "vix": {
@@ -316,8 +316,8 @@
       "label": "Low"
     },
     "dxy": {
-      "price": 99.73,
-      "chg_pct": -0.0019
+      "price": 99.7,
+      "chg_pct": -0.0022
     },
     "yields": [
       {
@@ -592,48 +592,48 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1552,
-        "chg_pct": 0.0021,
-        "chg_1mo": 0.0115,
-        "chg_3mo": -0.0101,
-        "chg_6mo": -0.0268,
-        "chg_1yr": -0.013
+        "price": 1.1557,
+        "chg_pct": 0.0026,
+        "chg_1mo": 0.012,
+        "chg_3mo": -0.0096,
+        "chg_6mo": -0.0264,
+        "chg_1yr": -0.0125
       },
       {
         "name": "USD/JPY",
-        "price": 159.134,
-        "chg_pct": -0.0023,
-        "chg_1mo": -0.0188,
-        "chg_3mo": 0.0054,
-        "chg_6mo": 0.0421,
-        "chg_1yr": 0.0806
+        "price": 159.174,
+        "chg_pct": -0.002,
+        "chg_1mo": -0.0186,
+        "chg_3mo": 0.0055,
+        "chg_6mo": 0.0423,
+        "chg_1yr": 0.0808
       },
       {
         "name": "GBP/USD",
-        "price": 1.3522,
-        "chg_pct": 0.0031,
-        "chg_1mo": 0.0102,
-        "chg_3mo": 0.0091,
-        "chg_6mo": -0.007,
-        "chg_1yr": -0.0035
+        "price": 1.353,
+        "chg_pct": 0.0037,
+        "chg_1mo": 0.0108,
+        "chg_3mo": 0.0097,
+        "chg_6mo": -0.0064,
+        "chg_1yr": -0.0029
       },
       {
         "name": "USD/CNY",
-        "price": 6.741,
+        "price": 6.7412,
         "chg_pct": -0.0002,
-        "chg_1mo": -0.0034,
+        "chg_1mo": -0.0033,
         "chg_3mo": -0.0064,
         "chg_6mo": -0.0231,
         "chg_1yr": -0.0603
       },
       {
         "name": "AUD/USD",
-        "price": 0.7074,
-        "chg_pct": 0.0026,
-        "chg_1mo": 0.0147,
-        "chg_3mo": -0.0202,
-        "chg_6mo": -0.0023,
-        "chg_1yr": 0.0813
+        "price": 0.7076,
+        "chg_pct": 0.0028,
+        "chg_1mo": 0.015,
+        "chg_3mo": -0.02,
+        "chg_6mo": -0.002,
+        "chg_1yr": 0.0816
       },
       {
         "name": "USD/BRL",
@@ -646,30 +646,30 @@
       },
       {
         "name": "USD/CAD",
-        "price": 1.389,
-        "chg_pct": -0.0028,
-        "chg_1mo": -0.0121,
-        "chg_3mo": 0.0127,
-        "chg_6mo": 0.0208,
-        "chg_1yr": 0.0094
+        "price": 1.3887,
+        "chg_pct": -0.003,
+        "chg_1mo": -0.0123,
+        "chg_3mo": 0.0125,
+        "chg_6mo": 0.0206,
+        "chg_1yr": 0.0091
       },
       {
         "name": "USD/CHF",
-        "price": 0.8132,
-        "chg_pct": -0.0008,
-        "chg_1mo": 0.0054,
-        "chg_3mo": 0.0381,
-        "chg_6mo": 0.059,
-        "chg_1yr": 0.011
+        "price": 0.8128,
+        "chg_pct": -0.0013,
+        "chg_1mo": 0.0049,
+        "chg_3mo": 0.0376,
+        "chg_6mo": 0.0584,
+        "chg_1yr": 0.0105
       },
       {
         "name": "USD/MXN",
-        "price": 17.006,
-        "chg_pct": -0.0009,
-        "chg_1mo": -0.0228,
-        "chg_3mo": -0.0113,
-        "chg_6mo": -0.0124,
-        "chg_1yr": -0.0864
+        "price": 16.999,
+        "chg_pct": -0.0013,
+        "chg_1mo": -0.0232,
+        "chg_3mo": -0.0117,
+        "chg_6mo": -0.0128,
+        "chg_1yr": -0.0868
       }
     ],
     "global_watch": [
@@ -845,7 +845,7 @@
       "policy_inputs": [
         {
           "name": "Fed Funds futures path",
-          "value": 23.0,
+          "value": 22.5,
           "vote": -1,
           "detail": "bp between the front and far contract; negative prices cuts"
         },
@@ -857,7 +857,7 @@
         },
         {
           "name": "Dollar, 20-day change",
-          "value": -1.08,
+          "value": -1.21,
           "vote": 1,
           "detail": "a weaker dollar loosens global financial conditions"
         }
@@ -1051,20 +1051,20 @@
   },
   "rate_path": {
     "front": 3.63,
-    "far": 3.86,
+    "far": 3.855,
     "front_contract": "ZQQ2026",
     "far_contract": "ZQF2027",
-    "path_bps": 23.0,
+    "path_bps": 22.5,
     "direction": "rates expected HIGHER",
-    "next_move_odds": 16.0,
+    "next_move_odds": 14.0,
     "d_front_bps": -0.2,
-    "d_far_bps": -0.5,
+    "d_far_bps": -1.0,
     "spy_chg_pct": 0.006977436601121032,
     "verdict": "BUILDING",
     "verdict_note": "Needs about 5 more sessions before the relationship can be measured. It compares daily moves in expected rates against daily moves in stocks.",
     "fed_score": null,
     "corr": null,
-    "today_side": 12.0,
+    "today_side": 23.0,
     "window": 20,
     "pairs": 3,
     "curve": [
@@ -1074,7 +1074,7 @@
       },
       {
         "contract": "ZQU2026",
-        "implied": 3.67
+        "implied": 3.665
       },
       {
         "contract": "ZQV2026",
@@ -1082,7 +1082,7 @@
       },
       {
         "contract": "ZQX2026",
-        "implied": 3.765
+        "implied": 3.76
       },
       {
         "contract": "ZQZ2026",
@@ -1090,27 +1090,27 @@
       },
       {
         "contract": "ZQF2027",
-        "implied": 3.86
+        "implied": 3.855
       },
       {
         "contract": "ZQG2027",
-        "implied": 3.895
+        "implied": 3.89
       },
       {
         "contract": "ZQH2027",
-        "implied": 3.925
+        "implied": 3.915
       },
       {
         "contract": "ZQJ2027",
-        "implied": 3.955
+        "implied": 3.945
       },
       {
         "contract": "ZQK2027",
-        "implied": 3.97
+        "implied": 3.965
       },
       {
         "contract": "ZQM2027",
-        "implied": 3.985
+        "implied": 3.975
       }
     ],
     "sessions": 5
