@@ -1,34 +1,43 @@
 {
-  "date": "2026-08-14",
-  "refreshed": "2026-08-14 22:06",
+  "date": "2026-08-15",
+  "refreshed": "2026-08-15 15:08",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Copper vs S&P",
-      "baseline": 0.455,
-      "recent": -0.937,
-      "delta": -1.392,
+      "baseline": 0.437,
+      "recent": -0.866,
+      "delta": -1.303,
       "flip": true,
-      "n_base": 10,
+      "n_base": 11,
       "n_recent": 5
     },
     {
       "pair": "Gold vs 10Y yield",
-      "baseline": -0.575,
-      "recent": 0.634,
-      "delta": 1.209,
+      "baseline": -0.487,
+      "recent": 0.603,
+      "delta": 1.09,
       "flip": true,
-      "n_base": 10,
+      "n_base": 11,
       "n_recent": 5
     },
     {
       "pair": "Gold vs Dollar",
-      "baseline": -0.006,
-      "recent": 0.785,
-      "delta": 0.791,
+      "baseline": -0.101,
+      "recent": 0.844,
+      "delta": 0.945,
       "flip": false,
-      "n_base": 10,
+      "n_base": 11,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs 10Y yield",
+      "baseline": 0.249,
+      "recent": -0.442,
+      "delta": -0.691,
+      "flip": false,
+      "n_base": 11,
       "n_recent": 5
     }
   ],
@@ -36,12 +45,12 @@
     {
       "pair": "TSM / GOOGL",
       "baseline": 0.321,
-      "recent": -0.353,
-      "delta": -0.674,
+      "recent": -0.332,
+      "delta": -0.653,
       "n_base": 15,
       "n_recent": 5
     }
   ],
-  "note": "5-day window against a 10-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 10
+  "note": "5-day window against a 11-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 11
 }
