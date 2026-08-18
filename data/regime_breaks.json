@@ -1,23 +1,14 @@
 {
   "date": "2026-08-18",
-  "refreshed": "2026-08-18 13:29",
+  "refreshed": "2026-08-18 15:27",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "S&P vs VIX",
-      "baseline": -0.387,
-      "recent": 0.946,
-      "delta": 1.333,
-      "flip": false,
-      "n_base": 10,
-      "n_recent": 5
-    },
-    {
       "pair": "Gold vs Dollar",
       "baseline": -0.164,
-      "recent": 0.851,
-      "delta": 1.015,
+      "recent": 0.884,
+      "delta": 1.048,
       "flip": false,
       "n_base": 10,
       "n_recent": 5
@@ -35,59 +26,99 @@
   "ticker_pairs": [
     {
       "pair": "NVDA / NEM",
-      "baseline": 0.712,
-      "recent": -0.884,
-      "delta": -1.596,
-      "n_base": 17,
+      "baseline": 0.678,
+      "recent": -0.964,
+      "delta": -1.642,
+      "n_base": 18,
       "n_recent": 5
     },
     {
       "pair": "NVDA / SSRM",
-      "baseline": 0.668,
-      "recent": -0.91,
-      "delta": -1.578,
-      "n_base": 20,
+      "baseline": 0.655,
+      "recent": -0.968,
+      "delta": -1.623,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
+      "pair": "MU / NVDA",
+      "baseline": 0.616,
+      "recent": -0.953,
+      "delta": -1.569,
+      "n_base": 22,
       "n_recent": 5
     },
     {
       "pair": "NVDA / AU",
-      "baseline": 0.653,
-      "recent": -0.854,
-      "delta": -1.507,
-      "n_base": 17,
+      "baseline": 0.634,
+      "recent": -0.886,
+      "delta": -1.52,
+      "n_base": 18,
       "n_recent": 5
     },
     {
-      "pair": "NVDA / GOOGL",
-      "baseline": 0.202,
-      "recent": 0.999,
-      "delta": 0.797,
-      "n_base": 18,
-      "n_recent": 4
-    },
-    {
       "pair": "MU / GOOGL",
-      "baseline": 0.008,
-      "recent": 0.763,
-      "delta": 0.755,
+      "baseline": 0.02,
+      "recent": -1.0,
+      "delta": -1.02,
       "n_base": 20,
-      "n_recent": 4
+      "n_recent": 3
     },
     {
       "pair": "GOOGL / NEM",
-      "baseline": -0.182,
-      "recent": -0.889,
-      "delta": -0.707,
-      "n_base": 15,
-      "n_recent": 4
+      "baseline": -0.176,
+      "recent": -1.0,
+      "delta": -0.824,
+      "n_base": 16,
+      "n_recent": 3
+    },
+    {
+      "pair": "NVDA / GOOGL",
+      "baseline": 0.201,
+      "recent": 1.0,
+      "delta": 0.799,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "MU / AU",
+      "baseline": 0.234,
+      "recent": 0.985,
+      "delta": 0.751,
+      "n_base": 20,
+      "n_recent": 5
+    },
+    {
+      "pair": "MU / SSRM",
+      "baseline": 0.262,
+      "recent": 0.998,
+      "delta": 0.736,
+      "n_base": 23,
+      "n_recent": 5
+    },
+    {
+      "pair": "TSM / GOOGL",
+      "baseline": 0.267,
+      "recent": 1.0,
+      "delta": 0.733,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "MU / NEM",
+      "baseline": 0.11,
+      "recent": 0.838,
+      "delta": 0.728,
+      "n_base": 20,
+      "n_recent": 5
     },
     {
       "pair": "SSRM / GOOGL",
-      "baseline": -0.362,
-      "recent": -0.966,
-      "delta": -0.604,
-      "n_base": 18,
-      "n_recent": 4
+      "baseline": -0.361,
+      "recent": -1.0,
+      "delta": -0.639,
+      "n_base": 19,
+      "n_recent": 3
     }
   ],
   "note": "5-day window against a 10-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
