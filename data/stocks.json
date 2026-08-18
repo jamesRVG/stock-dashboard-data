@@ -1,6 +1,6 @@
 {
-  "refreshed": "2026-08-18 07:22",
-  "refreshed_utc": "2026-08-18T07:22:13Z",
+  "refreshed": "2026-08-18 08:53",
+  "refreshed_utc": "2026-08-18T08:53:09Z",
   "mood": "BULLISH",
   "mood_color": "#16a34a",
   "sentiment_net": 9,
@@ -22,7 +22,7 @@
     },
     {
       "signal": "Volatility (VIX)",
-      "value": "15.8",
+      "value": "15.9",
       "reading": "calm"
     },
     {
@@ -56,7 +56,6 @@
   "avg_score_prev": 6.59,
   "avg_score_series": [
     6.25,
-    6.25,
     6.28,
     6.24,
     6.24,
@@ -84,10 +83,10 @@
     6.56,
     6.56,
     6.56,
+    6.59,
     6.59
   ],
   "avg_score_dates": [
-    "2026-08-11",
     "2026-08-12",
     "2026-08-12",
     "2026-08-12",
@@ -116,7 +115,8 @@
     "2026-08-17",
     "2026-08-17",
     "2026-08-17",
-    "2026-08-17"
+    "2026-08-17",
+    "2026-08-18"
   ],
   "sentiment_series": [
     9,
@@ -124,13 +124,13 @@
     9,
     9,
     9,
+    7,
+    7,
+    7,
+    7,
+    7,
+    7,
     9,
-    7,
-    7,
-    7,
-    7,
-    7,
-    7,
     9,
     9,
     9,
@@ -156,13 +156,13 @@
     "BULLISH",
     "BULLISH",
     "BULLISH",
+    "CAUTIOUSLY OPTIMISTIC",
+    "CAUTIOUSLY OPTIMISTIC",
+    "CAUTIOUSLY OPTIMISTIC",
+    "CAUTIOUSLY OPTIMISTIC",
+    "CAUTIOUSLY OPTIMISTIC",
+    "CAUTIOUSLY OPTIMISTIC",
     "BULLISH",
-    "CAUTIOUSLY OPTIMISTIC",
-    "CAUTIOUSLY OPTIMISTIC",
-    "CAUTIOUSLY OPTIMISTIC",
-    "CAUTIOUSLY OPTIMISTIC",
-    "CAUTIOUSLY OPTIMISTIC",
-    "CAUTIOUSLY OPTIMISTIC",
     "BULLISH",
     "BULLISH",
     "BULLISH",
@@ -301,8 +301,8 @@
       },
       {
         "name": "Russell 2K (fut)",
-        "price": 3057,
-        "chg_pct": -0.0022
+        "price": 3055.8,
+        "chg_pct": -0.0026
       }
     ],
     "vix": {
@@ -311,8 +311,8 @@
       "label": "Low"
     },
     "dxy": {
-      "price": 99.66,
-      "chg_pct": 0.0012
+      "price": 99.63,
+      "chg_pct": 0.0009
     },
     "yields": [
       {
@@ -587,48 +587,48 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1572,
-        "chg_pct": -0.0005,
-        "chg_1mo": 0.0115,
-        "chg_3mo": -0.003,
-        "chg_6mo": -0.0179,
-        "chg_1yr": -0.0103
+        "price": 1.1575,
+        "chg_pct": -0.0002,
+        "chg_1mo": 0.0118,
+        "chg_3mo": -0.0027,
+        "chg_6mo": -0.0176,
+        "chg_1yr": -0.01
       },
       {
         "name": "USD/JPY",
-        "price": 159.747,
-        "chg_pct": 0.0022,
-        "chg_1mo": -0.016,
-        "chg_3mo": 0.004,
-        "chg_6mo": 0.0322,
-        "chg_1yr": 0.0866
+        "price": 159.645,
+        "chg_pct": 0.0015,
+        "chg_1mo": -0.0166,
+        "chg_3mo": 0.0035,
+        "chg_6mo": 0.0316,
+        "chg_1yr": 0.086
       },
       {
         "name": "GBP/USD",
-        "price": 1.3524,
-        "chg_pct": -0.0014,
-        "chg_1mo": 0.0037,
-        "chg_3mo": 0.0096,
-        "chg_6mo": 0.0025,
-        "chg_1yr": -0.0021
+        "price": 1.3531,
+        "chg_pct": -0.0009,
+        "chg_1mo": 0.0042,
+        "chg_3mo": 0.0102,
+        "chg_6mo": 0.003,
+        "chg_1yr": -0.0015
       },
       {
         "name": "USD/CNY",
-        "price": 6.7423,
+        "price": 6.7419,
         "chg_pct": 0.0004,
-        "chg_1mo": -0.0044,
-        "chg_3mo": -0.0105,
-        "chg_6mo": -0.0239,
-        "chg_1yr": -0.0611
+        "chg_1mo": -0.0045,
+        "chg_3mo": -0.0106,
+        "chg_6mo": -0.024,
+        "chg_1yr": -0.0612
       },
       {
         "name": "AUD/USD",
-        "price": 0.71,
-        "chg_pct": -0.0004,
-        "chg_1mo": 0.0152,
-        "chg_3mo": -0.0011,
-        "chg_6mo": 0.0084,
-        "chg_1yr": 0.0917
+        "price": 0.7103,
+        "chg_pct": 0.0,
+        "chg_1mo": 0.0155,
+        "chg_3mo": -0.0007,
+        "chg_6mo": 0.0088,
+        "chg_1yr": 0.0921
       },
       {
         "name": "USD/BRL",
@@ -641,12 +641,12 @@
       },
       {
         "name": "USD/CAD",
-        "price": 1.3871,
-        "chg_pct": -0.0003,
-        "chg_1mo": -0.012,
-        "chg_3mo": 0.0093,
-        "chg_6mo": 0.013,
-        "chg_1yr": 0.0038
+        "price": 1.3867,
+        "chg_pct": -0.0005,
+        "chg_1mo": -0.0123,
+        "chg_3mo": 0.009,
+        "chg_6mo": 0.0127,
+        "chg_1yr": 0.0035
       },
       {
         "name": "USD/CHF",
@@ -659,48 +659,15 @@
       },
       {
         "name": "USD/MXN",
-        "price": 17.057,
-        "chg_pct": 0.0016,
+        "price": 17.056,
+        "chg_pct": 0.0015,
         "chg_1mo": -0.0206,
         "chg_3mo": -0.0184,
-        "chg_6mo": -0.0083,
+        "chg_6mo": -0.0084,
         "chg_1yr": -0.0875
       }
     ],
-    "bitcoin": {
-      "price": 64263.0,
-      "chg_pct": -0.0038
-    },
-    "breakeven_note": "TIP/IEF premium indicates market inflation expectations",
     "global_watch": [
-      {
-        "ticker": "ES=F",
-        "label": "S&P 500 Futures",
-        "region": "US Futures",
-        "price": 7738.5,
-        "chg_pct": -0.0035
-      },
-      {
-        "ticker": "NQ=F",
-        "label": "NASDAQ Futures",
-        "region": "US Futures",
-        "price": 29870.75,
-        "chg_pct": -0.0069
-      },
-      {
-        "ticker": "YM=F",
-        "label": "Dow Futures",
-        "region": "US Futures",
-        "price": 53475,
-        "chg_pct": -0.0005
-      },
-      {
-        "ticker": "RTY=F",
-        "label": "Russell 2000 Fut",
-        "region": "US Futures",
-        "price": 3057.2,
-        "chg_pct": -0.0021
-      },
       {
         "ticker": "^VIX",
         "label": "VIX Fear Index",
@@ -721,41 +688,6 @@
         "region": "Commodities",
         "price": 4400.61,
         "chg_pct": -0.0036
-      },
-      {
-        "ticker": "^N225",
-        "label": "Nikkei 225",
-        "region": "Asia",
-        "price": 67460.51,
-        "chg_pct": -0.0201
-      },
-      {
-        "ticker": "^HSI",
-        "label": "Hang Seng",
-        "region": "Asia",
-        "price": 25472.81,
-        "chg_pct": 0.0041
-      },
-      {
-        "ticker": "000001.SS",
-        "label": "Shanghai Composite",
-        "region": "Asia",
-        "price": 3990.3,
-        "chg_pct": 0.0027
-      },
-      {
-        "ticker": "^GDAXI",
-        "label": "DAX (Germany)",
-        "region": "Europe",
-        "price": 26238.52,
-        "chg_pct": -0.0016
-      },
-      {
-        "ticker": "^FTSE",
-        "label": "FTSE 100 (UK)",
-        "region": "Europe",
-        "price": 10721.42,
-        "chg_pct": 0.0001
       }
     ],
     "econ_history": {
@@ -844,129 +776,6 @@
         "date": "Wed, 05 Aug 2026 11:51:26 +0100"
       }
     ],
-    "sector_etfs": [
-      {
-        "symbol": "XLK",
-        "name": "Technology",
-        "price": 190.32,
-        "rsi": 60.6,
-        "macd": "Bullish Cross",
-        "vs50": 0.0519,
-        "vs200": 0.1793,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLV",
-        "name": "Healthcare",
-        "price": 167.05,
-        "rsi": 60.7,
-        "macd": "Bullish",
-        "vs50": 0.0399,
-        "vs200": 0.0922,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLF",
-        "name": "Financials",
-        "price": 57.58,
-        "rsi": 58.2,
-        "macd": "Bearish",
-        "vs50": 0.0317,
-        "vs200": 0.0797,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLY",
-        "name": "Consumer Cyclical",
-        "price": 116.75,
-        "rsi": 50.3,
-        "macd": "Bullish",
-        "vs50": 0.003,
-        "vs200": 0.0085,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLP",
-        "name": "Consumer Defensive",
-        "price": 84.68,
-        "rsi": 48.0,
-        "macd": "Bearish",
-        "vs50": -0.0002,
-        "vs200": 0.0177,
-        "trend": "Below MA50",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLI",
-        "name": "Industrials",
-        "price": 186.32,
-        "rsi": 60.4,
-        "macd": "Bullish Cross",
-        "vs50": 0.0294,
-        "vs200": 0.0959,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLE",
-        "name": "Energy",
-        "price": 62.58,
-        "rsi": 69.7,
-        "macd": "Bullish Cross",
-        "vs50": 0.0781,
-        "vs200": 0.1556,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLB",
-        "name": "Basic Materials",
-        "price": 52.24,
-        "rsi": 53.2,
-        "macd": "Bullish",
-        "vs50": 0.0135,
-        "vs200": 0.0513,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLC",
-        "name": "Communication",
-        "price": 110.82,
-        "rsi": 50.6,
-        "macd": "Bullish Cross",
-        "vs50": -0.0013,
-        "vs200": -0.0111,
-        "trend": "Below MA50",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLRE",
-        "name": "Real Estate",
-        "price": 44.83,
-        "rsi": 48.7,
-        "macd": "Bearish",
-        "vs50": 0.0018,
-        "vs200": 0.0334,
-        "trend": "Above MA50+200",
-        "vol_ratio": null
-      },
-      {
-        "symbol": "XLU",
-        "name": "Utilities",
-        "price": 44.18,
-        "rsi": 46.3,
-        "macd": "Bullish",
-        "vs50": -0.0123,
-        "vs200": -0.006,
-        "trend": "Below MA50",
-        "vol_ratio": null
-      }
-    ],
     "regime": {
       "label": "REFLATION",
       "growth": 1.0,
@@ -1043,7 +852,7 @@
         },
         {
           "name": "Dollar, 20-day change",
-          "value": -0.22,
+          "value": -0.14,
           "vote": 1,
           "detail": "a weaker dollar loosens global financial conditions"
         }
@@ -1061,12 +870,12 @@
     "range_pos": 53.2,
     "range_low": 0.271859,
     "range_high": 0.297948,
-    "chg_20d_pct": 0.5,
+    "chg_20d_pct": 0.41,
     "regime": "BROADENING",
     "stance": "ride",
     "guidance": "Ave stock beating largest. Mkt broadening, wave intact. Stick with it vs awaiting turn.",
     "range_note": "Mid-range gives no edge fr position, trend decides. Size positions normally and follow direction.",
-    "through": "2026-08-17",
+    "through": "2026-08-18",
     "theme": "Market Broadening",
     "theme_effect": "Financial Services+2, Industrials+1, Healthcare+1, Basic Materials+1",
     "sessions": 761,
@@ -1237,7 +1046,7 @@
     "far_contract": "ZQF2027",
     "path_bps": 24.3,
     "direction": "rates expected HIGHER",
-    "next_move_odds": 17.0,
+    "next_move_odds": 15.0,
     "d_front_bps": 0.2,
     "d_far_bps": 0.0,
     "spy_chg_pct": -0.004727310199139646,
@@ -1255,7 +1064,7 @@
       },
       {
         "contract": "ZQU2026",
-        "implied": 3.675
+        "implied": 3.67
       },
       {
         "contract": "ZQV2026",
@@ -1263,7 +1072,7 @@
       },
       {
         "contract": "ZQX2026",
-        "implied": 3.775
+        "implied": 3.77
       },
       {
         "contract": "ZQZ2026",
@@ -1291,7 +1100,7 @@
       },
       {
         "contract": "ZQM2027",
-        "implied": 4.02
+        "implied": 4.025
       }
     ],
     "sessions": 9
