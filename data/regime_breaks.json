@@ -1,9 +1,37 @@
 {
-  "date": "2026-08-18",
-  "refreshed": "2026-08-18 21:52",
+  "date": "2026-08-19",
+  "refreshed": "2026-08-19 13:31",
   "recent_days": 5,
   "min_delta": 0.6,
-  "macro_pairs": [],
+  "macro_pairs": [
+    {
+      "pair": "S&P vs 10Y yield",
+      "baseline": 0.105,
+      "recent": -0.948,
+      "delta": -1.053,
+      "flip": false,
+      "n_base": 10,
+      "n_recent": 5
+    },
+    {
+      "pair": "Copper vs Gold",
+      "baseline": 0.137,
+      "recent": 0.858,
+      "delta": 0.721,
+      "flip": false,
+      "n_base": 10,
+      "n_recent": 5
+    },
+    {
+      "pair": "Copper vs S&P",
+      "baseline": -0.512,
+      "recent": 0.088,
+      "delta": 0.6,
+      "flip": false,
+      "n_base": 10,
+      "n_recent": 5
+    }
+  ],
   "ticker_pairs": [
     {
       "pair": "NVDA / NEM",
@@ -86,5 +114,6 @@
       "n_recent": 3
     }
   ],
-  "note": "15 days of daily macro history; needs 16 before a break can be claimed. Accumulating one row per day."
+  "note": "5-day window against a 10-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 10
 }
