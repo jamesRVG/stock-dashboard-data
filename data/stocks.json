@@ -1,53 +1,53 @@
 {
-  "refreshed": "2026-08-19 13:31",
-  "refreshed_utc": "2026-08-19T13:31:24Z",
-  "mood": "BULLISH",
-  "mood_color": "#16a34a",
-  "sentiment_net": 9,
+  "refreshed": "2026-08-19 16:15",
+  "refreshed_utc": "2026-08-19T16:15:44Z",
+  "mood": "CAUTIOUSLY OPTIMISTIC",
+  "mood_color": "#65a30d",
+  "sentiment_net": 7,
   "sentiment_signals": [
     {
       "signal": "S&P vs its 200-day average",
-      "value": "+8.7%",
+      "value": "+9.0%",
       "reading": "above trend"
     },
     {
       "signal": "S&P position in its 52-week range",
-      "value": "92%",
+      "value": "94%",
       "reading": "upper half"
     },
     {
       "signal": "Breadth: equal weight vs cap weight",
-      "value": "+4.5pp",
+      "value": "+5.3pp",
       "reading": "broad participation"
     },
     {
       "signal": "Volatility (VIX)",
-      "value": "15.2",
+      "value": "15.1",
       "reading": "calm"
     },
     {
       "signal": "Credit appetite: high yield vs investment grade",
-      "value": "+1.3pp",
+      "value": "+1.0pp",
       "reading": "risk appetite healthy"
     },
     {
       "signal": "Cyclicals vs defensives",
-      "value": "+0.9pp",
-      "reading": "offence leading"
+      "value": "-1.5pp",
+      "reading": "defence leading"
     },
     {
       "signal": "Small caps vs large caps",
-      "value": "+4.9pp",
+      "value": "+4.1pp",
       "reading": "risk-seeking"
     },
     {
       "signal": "Gold vs stocks",
-      "value": "-7.6pp",
+      "value": "-4.5pp",
       "reading": "stocks preferred"
     },
     {
       "signal": "Sectors above their 200-day average",
-      "value": "8/10",
+      "value": "9/10",
       "reading": "broad uptrend"
     }
   ],
@@ -55,7 +55,6 @@
   "avg_score_exact": 6.47,
   "avg_score_prev": 6.47,
   "avg_score_series": [
-    6.32,
     6.29,
     6.29,
     6.29,
@@ -84,10 +83,10 @@
     6.45,
     6.47,
     6.47,
+    6.47,
     6.47
   ],
   "avg_score_dates": [
-    "2026-08-12",
     "2026-08-13",
     "2026-08-13",
     "2026-08-13",
@@ -116,13 +115,14 @@
     "2026-08-18",
     "2026-08-18",
     "2026-08-19",
+    "2026-08-19",
     "2026-08-19"
   ],
   "sentiment_series": [
     7,
     7,
     7,
-    7,
+    9,
     9,
     9,
     9,
@@ -154,7 +154,7 @@
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
-    "CAUTIOUSLY OPTIMISTIC",
+    "BULLISH",
     "BULLISH",
     "BULLISH",
     "BULLISH",
@@ -286,33 +286,33 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7691.8,
-        "chg_pct": -0.0011
+        "price": 7727.1,
+        "chg_pct": 0.0013
       },
       {
         "name": "NASDAQ",
-        "price": 29491.0,
-        "chg_pct": -0.0035
+        "price": 29498.7,
+        "chg_pct": -0.0028
       },
       {
         "name": "DOW",
-        "price": 53343.4,
-        "chg_pct": -0.0002
+        "price": 53499.6,
+        "chg_pct": 0.0007
       },
       {
         "name": "Russell 2K (fut)",
-        "price": 3050,
-        "chg_pct": 0.008
+        "price": 3048.9,
+        "chg_pct": 0.0076
       }
     ],
     "vix": {
-      "price": 15.2,
-      "prev": 15.2,
+      "price": 15.8,
+      "prev": 15.8,
       "label": "Normal"
     },
     "dxy": {
-      "price": 99.03,
-      "chg_pct": -0.0063
+      "price": 98.87,
+      "chg_pct": -0.008
     },
     "yields": [
       {
@@ -587,84 +587,84 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1644,
-        "chg_pct": 0.0062,
-        "chg_1mo": 0.0186,
-        "chg_3mo": 0.0018,
-        "chg_6mo": -0.0107,
-        "chg_1yr": -0.0013
+        "price": 1.1669,
+        "chg_pct": 0.0083,
+        "chg_1mo": 0.0208,
+        "chg_3mo": 0.004,
+        "chg_6mo": -0.0085,
+        "chg_1yr": 0.0009
       },
       {
         "name": "USD/JPY",
-        "price": 158.514,
-        "chg_pct": -0.0068,
-        "chg_1mo": -0.0238,
-        "chg_3mo": -0.0021,
-        "chg_6mo": 0.0227,
-        "chg_1yr": 0.0725
+        "price": 158.399,
+        "chg_pct": -0.0075,
+        "chg_1mo": -0.0245,
+        "chg_3mo": -0.0027,
+        "chg_6mo": 0.022,
+        "chg_1yr": 0.0718
       },
       {
         "name": "GBP/USD",
-        "price": 1.3612,
-        "chg_pct": 0.0057,
-        "chg_1mo": 0.0118,
-        "chg_3mo": 0.0132,
-        "chg_6mo": 0.0111,
-        "chg_1yr": 0.0078
+        "price": 1.3609,
+        "chg_pct": 0.0055,
+        "chg_1mo": 0.0116,
+        "chg_3mo": 0.013,
+        "chg_6mo": 0.0109,
+        "chg_1yr": 0.0076
       },
       {
         "name": "USD/CNY",
-        "price": 6.7326,
-        "chg_pct": -0.0014,
-        "chg_1mo": -0.0063,
-        "chg_3mo": -0.0099,
-        "chg_6mo": -0.0253,
-        "chg_1yr": -0.0628
+        "price": 6.729,
+        "chg_pct": -0.0019,
+        "chg_1mo": -0.0069,
+        "chg_3mo": -0.0104,
+        "chg_6mo": -0.0258,
+        "chg_1yr": -0.0633
       },
       {
         "name": "AUD/USD",
-        "price": 0.7116,
-        "chg_pct": 0.0044,
-        "chg_1mo": 0.0195,
-        "chg_3mo": -0.0051,
-        "chg_6mo": 0.009,
-        "chg_1yr": 0.0966
+        "price": 0.7126,
+        "chg_pct": 0.0059,
+        "chg_1mo": 0.021,
+        "chg_3mo": -0.0037,
+        "chg_6mo": 0.0105,
+        "chg_1yr": 0.0982
       },
       {
         "name": "USD/BRL",
-        "price": 5.1615,
-        "chg_pct": -0.0099,
-        "chg_1mo": 0.01,
-        "chg_3mo": 0.0333,
-        "chg_6mo": -0.0094,
-        "chg_1yr": -0.0506
+        "price": 5.1654,
+        "chg_pct": -0.0092,
+        "chg_1mo": 0.0107,
+        "chg_3mo": 0.0341,
+        "chg_6mo": -0.0086,
+        "chg_1yr": -0.0499
       },
       {
         "name": "USD/CAD",
-        "price": 1.3837,
-        "chg_pct": -0.0041,
-        "chg_1mo": -0.0131,
-        "chg_3mo": 0.0069,
-        "chg_6mo": 0.0116,
-        "chg_1yr": 0.0024
+        "price": 1.381,
+        "chg_pct": -0.006,
+        "chg_1mo": -0.015,
+        "chg_3mo": 0.005,
+        "chg_6mo": 0.0097,
+        "chg_1yr": 0.0005
       },
       {
         "name": "USD/CHF",
-        "price": 0.8055,
-        "chg_pct": -0.0079,
-        "chg_1mo": -0.0015,
-        "chg_3mo": 0.0243,
-        "chg_6mo": 0.0402,
-        "chg_1yr": -0.0021
+        "price": 0.7992,
+        "chg_pct": -0.0157,
+        "chg_1mo": -0.0093,
+        "chg_3mo": 0.0162,
+        "chg_6mo": 0.032,
+        "chg_1yr": -0.0099
       },
       {
         "name": "USD/MXN",
-        "price": 16.9624,
-        "chg_pct": -0.0052,
-        "chg_1mo": -0.0338,
-        "chg_3mo": -0.0193,
-        "chg_6mo": -0.0167,
-        "chg_1yr": -0.0964
+        "price": 16.9597,
+        "chg_pct": -0.0054,
+        "chg_1mo": -0.0339,
+        "chg_3mo": -0.0195,
+        "chg_6mo": -0.0169,
+        "chg_1yr": -0.0966
       }
     ],
     "global_watch": [
@@ -672,7 +672,7 @@
         "ticker": "^VIX",
         "label": "VIX Fear Index",
         "region": "Risk",
-        "price": 15.2,
+        "price": 15.8,
         "chg_pct": 0.0
       },
       {
@@ -699,10 +699,10 @@
         "val_1yr": 4.34
       },
       "VIX Fear Index": {
-        "current": 15.19,
-        "val_1mo": 18.77,
-        "val_3mo": 17.82,
-        "val_6mo": 21.2,
+        "current": 15.84,
+        "val_1mo": 18.65,
+        "val_3mo": 18.06,
+        "val_6mo": 20.29,
         "val_1yr": 14.99
       },
       "Dollar (broad, Fed)": {
@@ -806,7 +806,7 @@
         },
         {
           "name": "VIX",
-          "value": 15.2,
+          "value": 15.8,
           "vote": 1,
           "detail": "risk appetite below 20"
         },
@@ -840,7 +840,7 @@
       "policy_inputs": [
         {
           "name": "Fed Funds futures path",
-          "value": 23.3,
+          "value": 24.0,
           "vote": -1,
           "detail": "bp between the front and far contract; negative prices cuts"
         },
@@ -852,7 +852,7 @@
         },
         {
           "name": "Dollar, 20-day change",
-          "value": -0.44,
+          "value": -0.84,
           "vote": 1,
           "detail": "a weaker dollar loosens global financial conditions"
         }
@@ -1038,27 +1038,27 @@
     "disclaimer": "Flow and timing effects, not valuation. These do not change any score."
   },
   "rate_path": {
-    "front": 3.632,
-    "far": 3.865,
+    "front": 3.63,
+    "far": 3.87,
     "front_contract": "ZQQ2026",
     "far_contract": "ZQF2027",
-    "path_bps": 23.3,
+    "path_bps": 24.0,
     "direction": "rates expected HIGHER",
-    "next_move_odds": 15.0,
-    "d_front_bps": 0.2,
-    "d_far_bps": -0.5,
+    "next_move_odds": 16.0,
+    "d_front_bps": 0.0,
+    "d_far_bps": 0.0,
     "spy_chg_pct": -0.006755794841264594,
     "verdict": "TRADING THE FED",
     "verdict_note": "Stocks have been rising as expected rates fall. Bad news is being read as good news. Gold and big tech gain most in this regime.",
-    "fed_score": 79.0,
-    "corr": -0.793,
-    "today_side": -11.0,
+    "fed_score": 78.0,
+    "corr": -0.778,
+    "today_side": 0.0,
     "window": 20,
     "pairs": 8,
     "curve": [
       {
         "contract": "ZQQ2026",
-        "implied": 3.6325
+        "implied": 3.63
       },
       {
         "contract": "ZQU2026",
@@ -1066,39 +1066,39 @@
       },
       {
         "contract": "ZQV2026",
-        "implied": 3.72
+        "implied": 3.725
       },
       {
         "contract": "ZQX2026",
-        "implied": 3.765
+        "implied": 3.775
       },
       {
         "contract": "ZQZ2026",
-        "implied": 3.835
+        "implied": 3.84
       },
       {
         "contract": "ZQF2027",
-        "implied": 3.865
+        "implied": 3.87
       },
       {
         "contract": "ZQG2027",
-        "implied": 3.91
+        "implied": 3.915
       },
       {
         "contract": "ZQH2027",
-        "implied": 3.935
+        "implied": 3.945
       },
       {
         "contract": "ZQJ2027",
-        "implied": 3.97
+        "implied": 3.98
       },
       {
         "contract": "ZQK2027",
-        "implied": 3.985
+        "implied": 4
       },
       {
         "contract": "ZQM2027",
-        "implied": 4
+        "implied": 4.015
       }
     ],
     "sessions": 10
