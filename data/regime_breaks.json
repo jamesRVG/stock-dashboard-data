@@ -1,78 +1,50 @@
 {
   "date": "2026-08-20",
-  "refreshed": "2026-08-20 13:35",
+  "refreshed": "2026-08-20 21:58",
   "recent_days": 5,
   "min_delta": 0.6,
-  "macro_pairs": [
-    {
-      "pair": "S&P vs 10Y yield",
-      "baseline": -0.034,
-      "recent": -0.955,
-      "delta": -0.921,
-      "flip": false,
-      "n_base": 10,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs VIX",
-      "baseline": -0.846,
-      "recent": -0.158,
-      "delta": 0.688,
-      "flip": false,
-      "n_base": 10,
-      "n_recent": 5
-    }
-  ],
+  "macro_pairs": [],
   "ticker_pairs": [
     {
       "pair": "NEM / NVDA",
-      "baseline": 0.639,
+      "baseline": 0.676,
       "recent": -1.0,
-      "delta": -1.639,
+      "delta": -1.676,
       "n_base": 19,
       "n_recent": 3
     },
     {
       "pair": "AU / NVDA",
-      "baseline": 0.627,
+      "baseline": 0.616,
       "recent": -1.0,
-      "delta": -1.627,
+      "delta": -1.616,
       "n_base": 19,
       "n_recent": 3
     },
     {
-      "pair": "MU / NEM",
-      "baseline": 0.125,
-      "recent": 1.0,
-      "delta": 0.875,
-      "n_base": 21,
-      "n_recent": 3
-    },
-    {
       "pair": "MU / AU",
-      "baseline": 0.235,
+      "baseline": 0.133,
       "recent": 1.0,
-      "delta": 0.765,
+      "delta": 0.867,
       "n_base": 21,
       "n_recent": 3
     },
     {
-      "pair": "NEM / TSM",
-      "baseline": 0.256,
+      "pair": "TSM / AU",
+      "baseline": 0.179,
       "recent": 1.0,
-      "delta": 0.744,
+      "delta": 0.821,
       "n_base": 18,
       "n_recent": 3
     },
     {
-      "pair": "AU / TSM",
-      "baseline": 0.269,
+      "pair": "MU / NEM",
+      "baseline": 0.221,
       "recent": 1.0,
-      "delta": 0.731,
-      "n_base": 18,
+      "delta": 0.779,
+      "n_base": 21,
       "n_recent": 3
     }
   ],
-  "note": "5-day window against a 10-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 10
+  "note": "15 days of daily macro history; needs 16 before a break can be claimed. Accumulating one row per day."
 }
