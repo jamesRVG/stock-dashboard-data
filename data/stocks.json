@@ -1,53 +1,53 @@
 {
-  "refreshed": "2026-08-20 13:35",
-  "refreshed_utc": "2026-08-20T13:35:09Z",
+  "refreshed": "2026-08-20 16:18",
+  "refreshed_utc": "2026-08-20T16:18:53Z",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "sentiment_net": 7,
   "sentiment_signals": [
     {
       "signal": "S&P vs its 200-day average",
-      "value": "+8.8%",
+      "value": "+8.3%",
       "reading": "above trend"
     },
     {
       "signal": "S&P position in its 52-week range",
-      "value": "93%",
+      "value": "91%",
       "reading": "upper half"
     },
     {
       "signal": "Breadth: equal weight vs cap weight",
-      "value": "+5.3pp",
+      "value": "+5.1pp",
       "reading": "broad participation"
     },
     {
       "signal": "Volatility (VIX)",
-      "value": "15.6",
+      "value": "15.9",
       "reading": "calm"
     },
     {
       "signal": "Credit appetite: high yield vs investment grade",
-      "value": "+1.0pp",
+      "value": "+1.7pp",
       "reading": "risk appetite healthy"
     },
     {
       "signal": "Cyclicals vs defensives",
-      "value": "-1.5pp",
+      "value": "-3.1pp",
       "reading": "defence leading"
     },
     {
       "signal": "Small caps vs large caps",
-      "value": "+4.2pp",
+      "value": "+2.2pp",
       "reading": "risk-seeking"
     },
     {
       "signal": "Gold vs stocks",
-      "value": "-3.9pp",
+      "value": "-2.8pp",
       "reading": "stocks preferred"
     },
     {
       "signal": "Sectors above their 200-day average",
-      "value": "9/10",
+      "value": "8/10",
       "reading": "broad uptrend"
     }
   ],
@@ -55,7 +55,6 @@
   "avg_score_exact": 6.58,
   "avg_score_prev": 6.58,
   "avg_score_series": [
-    6.29,
     6.41,
     6.39,
     6.39,
@@ -84,10 +83,10 @@
     6.47,
     6.58,
     6.58,
+    6.58,
     6.58
   ],
   "avg_score_dates": [
-    "2026-08-13",
     "2026-08-13",
     "2026-08-14",
     "2026-08-14",
@@ -115,6 +114,7 @@
     "2026-08-19",
     "2026-08-19",
     "2026-08-19",
+    "2026-08-20",
     "2026-08-20",
     "2026-08-20"
   ],
@@ -144,7 +144,7 @@
     9,
     9,
     9,
-    9,
+    7,
     7,
     7,
     7,
@@ -176,7 +176,7 @@
     "BULLISH",
     "BULLISH",
     "BULLISH",
-    "BULLISH",
+    "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
@@ -286,33 +286,33 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7708.0,
-        "chg_pct": -0.0011
+        "price": 7676.8,
+        "chg_pct": -0.0018
       },
       {
         "name": "NASDAQ",
-        "price": 29426.0,
-        "chg_pct": -0.0052
+        "price": 29238.9,
+        "chg_pct": -0.0019
       },
       {
         "name": "DOW",
-        "price": 53463.1,
-        "chg_pct": -0.0
+        "price": 53019.0,
+        "chg_pct": -0.0068
       },
       {
         "name": "Russell 2K (fut)",
-        "price": 3015.9,
-        "chg_pct": -0.0084
+        "price": 3002,
+        "chg_pct": -0.013
       }
     ],
     "vix": {
-      "price": 15.8,
-      "prev": 15.8,
-      "label": "Normal"
+      "price": 14.9,
+      "prev": 14.9,
+      "label": "Low"
     },
     "dxy": {
-      "price": 98.77,
-      "chg_pct": -0.0007
+      "price": 98.88,
+      "chg_pct": 0.0005
     },
     "yields": [
       {
@@ -587,84 +587,84 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1686,
-        "chg_pct": 0.0008,
-        "chg_1mo": 0.0241,
-        "chg_3mo": 0.006,
-        "chg_6mo": -0.0072,
-        "chg_1yr": 0.0035
+        "price": 1.1674,
+        "chg_pct": -0.0002,
+        "chg_1mo": 0.023,
+        "chg_3mo": 0.005,
+        "chg_6mo": -0.0082,
+        "chg_1yr": 0.0025
       },
       {
         "name": "USD/JPY",
-        "price": 158.641,
-        "chg_pct": 0.0033,
-        "chg_1mo": -0.0236,
-        "chg_3mo": -0.0019,
-        "chg_6mo": 0.0235,
-        "chg_1yr": 0.075
+        "price": 158.962,
+        "chg_pct": 0.0054,
+        "chg_1mo": -0.0217,
+        "chg_3mo": 0.0001,
+        "chg_6mo": 0.0255,
+        "chg_1yr": 0.0772
       },
       {
         "name": "GBP/USD",
-        "price": 1.364,
-        "chg_pct": 0.0024,
-        "chg_1mo": 0.0162,
-        "chg_3mo": 0.0156,
-        "chg_6mo": 0.0132,
-        "chg_1yr": 0.0114
+        "price": 1.363,
+        "chg_pct": 0.0017,
+        "chg_1mo": 0.0155,
+        "chg_3mo": 0.0148,
+        "chg_6mo": 0.0125,
+        "chg_1yr": 0.0107
       },
       {
         "name": "USD/CNY",
-        "price": 6.7221,
+        "price": 6.722,
         "chg_pct": -0.001,
-        "chg_1mo": -0.0065,
-        "chg_3mo": -0.0117,
-        "chg_6mo": -0.0268,
+        "chg_1mo": -0.0066,
+        "chg_3mo": -0.0118,
+        "chg_6mo": -0.0269,
         "chg_1yr": -0.064
       },
       {
         "name": "AUD/USD",
-        "price": 0.7121,
-        "chg_pct": 0.0,
-        "chg_1mo": 0.0179,
-        "chg_3mo": -0.0037,
-        "chg_6mo": 0.0097,
-        "chg_1yr": 0.1034
+        "price": 0.7115,
+        "chg_pct": -0.0008,
+        "chg_1mo": 0.0171,
+        "chg_3mo": -0.0045,
+        "chg_6mo": 0.0089,
+        "chg_1yr": 0.1025
       },
       {
         "name": "USD/BRL",
-        "price": 5.1942,
-        "chg_pct": 0.003,
-        "chg_1mo": 0.0204,
-        "chg_3mo": 0.038,
-        "chg_6mo": -0.0031,
-        "chg_1yr": -0.0554
+        "price": 5.1842,
+        "chg_pct": 0.001,
+        "chg_1mo": 0.0185,
+        "chg_3mo": 0.0361,
+        "chg_6mo": -0.005,
+        "chg_1yr": -0.0572
       },
       {
         "name": "USD/CAD",
-        "price": 1.3773,
-        "chg_pct": -0.0024,
-        "chg_1mo": -0.0218,
-        "chg_3mo": 0.0001,
-        "chg_6mo": 0.0069,
-        "chg_1yr": -0.0064
+        "price": 1.3786,
+        "chg_pct": -0.0015,
+        "chg_1mo": -0.0209,
+        "chg_3mo": 0.0011,
+        "chg_6mo": 0.0079,
+        "chg_1yr": -0.0055
       },
       {
         "name": "USD/CHF",
-        "price": 0.7984,
-        "chg_pct": 0.0015,
-        "chg_1mo": -0.0144,
-        "chg_3mo": 0.0152,
-        "chg_6mo": 0.031,
-        "chg_1yr": -0.0102
+        "price": 0.8002,
+        "chg_pct": 0.0038,
+        "chg_1mo": -0.0121,
+        "chg_3mo": 0.0175,
+        "chg_6mo": 0.0334,
+        "chg_1yr": -0.0079
       },
       {
         "name": "USD/MXN",
-        "price": 16.9716,
-        "chg_pct": 0.0022,
-        "chg_1mo": -0.025,
-        "chg_3mo": -0.0185,
-        "chg_6mo": -0.0162,
-        "chg_1yr": -0.0965
+        "price": 16.9618,
+        "chg_pct": 0.0016,
+        "chg_1mo": -0.0256,
+        "chg_3mo": -0.019,
+        "chg_6mo": -0.0168,
+        "chg_1yr": -0.0971
       }
     ],
     "global_watch": [
@@ -672,7 +672,7 @@
         "ticker": "^VIX",
         "label": "VIX Fear Index",
         "region": "Risk",
-        "price": 15.8,
+        "price": 14.9,
         "chg_pct": 0.0
       },
       {
@@ -699,11 +699,11 @@
         "val_1yr": 4.34
       },
       "VIX Fear Index": {
-        "current": 15.84,
+        "current": 14.89,
         "val_1mo": 18.65,
-        "val_3mo": 18.06,
-        "val_6mo": 20.29,
-        "val_1yr": 14.99
+        "val_3mo": 17.44,
+        "val_6mo": 19.62,
+        "val_1yr": 15.57
       },
       "Dollar (broad, Fed)": {
         "current": 118.9,
@@ -723,21 +723,21 @@
     "cb_news": [
       {
         "source": "Federal Reserve",
+        "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+        "date": "Thu, 20 Aug 2026 15:00:00 GMT"
+      },
+      {
+        "source": "Federal Reserve",
+        "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+        "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+        "date": "Thu, 20 Aug 2026 15:00:00 GMT"
+      },
+      {
+        "source": "Federal Reserve",
         "title": "Minutes of the Federal Open Market Committee, July 28\u201329, 2026",
         "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
         "date": "Wed, 19 Aug 2026 18:00:00 GMT"
-      },
-      {
-        "source": "Federal Reserve",
-        "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-        "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
-        "date": "Thu, 13 Aug 2026 15:00:00 GMT"
-      },
-      {
-        "source": "Federal Reserve",
-        "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
-        "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
-        "date": "Tue, 4 Aug 2026 20:30:00 GMT"
       },
       {
         "source": "ECB",
@@ -806,7 +806,7 @@
         },
         {
           "name": "VIX",
-          "value": 15.8,
+          "value": 14.9,
           "vote": 1,
           "detail": "risk appetite below 20"
         },
@@ -840,7 +840,7 @@
       "policy_inputs": [
         {
           "name": "Fed Funds futures path",
-          "value": 23.5,
+          "value": 24.0,
           "vote": -1,
           "detail": "bp between the front and far contract; negative prices cuts"
         },
@@ -852,7 +852,7 @@
         },
         {
           "name": "Dollar, 20-day change",
-          "value": -1.0,
+          "value": -0.92,
           "vote": 1,
           "detail": "a weaker dollar loosens global financial conditions"
         }
@@ -1046,20 +1046,20 @@
   },
   "rate_path": {
     "front": 3.63,
-    "far": 3.865,
+    "far": 3.87,
     "front_contract": "ZQQ2026",
     "far_contract": "ZQF2027",
-    "path_bps": 23.5,
+    "path_bps": 24.0,
     "direction": "rates expected HIGHER",
     "next_move_odds": 16.0,
     "d_front_bps": -0.2,
-    "d_far_bps": -0.5,
+    "d_far_bps": 0.0,
     "spy_chg_pct": 0.0020978565378850737,
     "verdict": "TRADING THE FED",
     "verdict_note": "Stocks have been rising as expected rates fall. Bad news is being read as good news. Gold and big tech gain most in this regime.",
-    "fed_score": 73.0,
-    "corr": -0.728,
-    "today_side": 3.0,
+    "fed_score": 72.0,
+    "corr": -0.718,
+    "today_side": -0.0,
     "window": 20,
     "pairs": 9,
     "curve": [
@@ -1077,27 +1077,27 @@
       },
       {
         "contract": "ZQX2026",
-        "implied": 3.765
+        "implied": 3.77
       },
       {
         "contract": "ZQZ2026",
-        "implied": 3.835
+        "implied": 3.84
       },
       {
         "contract": "ZQF2027",
-        "implied": 3.865
+        "implied": 3.87
       },
       {
         "contract": "ZQG2027",
-        "implied": 3.905
+        "implied": 3.91
       },
       {
         "contract": "ZQH2027",
-        "implied": 3.935
+        "implied": 3.94
       },
       {
         "contract": "ZQJ2027",
-        "implied": 3.97
+        "implied": 3.975
       },
       {
         "contract": "ZQK2027",
