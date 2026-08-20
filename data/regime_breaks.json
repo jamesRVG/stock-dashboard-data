@@ -1,40 +1,24 @@
 {
   "date": "2026-08-20",
-  "refreshed": "2026-08-20 21:58",
+  "refreshed": "2026-08-20 23:33",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [],
   "ticker_pairs": [
     {
-      "pair": "NEM / NVDA",
-      "baseline": 0.676,
-      "recent": -1.0,
-      "delta": -1.676,
-      "n_base": 19,
-      "n_recent": 3
-    },
-    {
-      "pair": "AU / NVDA",
+      "pair": "NVDA / AU",
       "baseline": 0.616,
-      "recent": -1.0,
-      "delta": -1.616,
+      "recent": -0.92,
+      "delta": -1.536,
       "n_base": 19,
       "n_recent": 3
     },
     {
-      "pair": "MU / AU",
-      "baseline": 0.133,
-      "recent": 1.0,
-      "delta": 0.867,
-      "n_base": 21,
-      "n_recent": 3
-    },
-    {
-      "pair": "TSM / AU",
-      "baseline": 0.179,
-      "recent": 1.0,
-      "delta": 0.821,
-      "n_base": 18,
+      "pair": "NVDA / NEM",
+      "baseline": 0.676,
+      "recent": -0.615,
+      "delta": -1.291,
+      "n_base": 19,
       "n_recent": 3
     },
     {
@@ -43,6 +27,22 @@
       "recent": 1.0,
       "delta": 0.779,
       "n_base": 21,
+      "n_recent": 3
+    },
+    {
+      "pair": "MU / AU",
+      "baseline": 0.133,
+      "recent": 0.886,
+      "delta": 0.753,
+      "n_base": 21,
+      "n_recent": 3
+    },
+    {
+      "pair": "TSM / AU",
+      "baseline": 0.179,
+      "recent": 0.845,
+      "delta": 0.666,
+      "n_base": 18,
       "n_recent": 3
     }
   ],

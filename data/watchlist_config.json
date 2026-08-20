@@ -299,15 +299,6 @@
    "last_checked": "2026-08-17"
   },
   {
-   "ticker": "PLUG",
-   "category": [
-    "GreenE"
-   ],
-   "reason": "Manual cleanup 2026-08-08: weaker half of the Caution band (score 4.4)",
-   "date_removed": "2026-08-08",
-   "last_checked": "2026-08-17"
-  },
-  {
    "ticker": "LEU",
    "category": [
     "GreenE"
@@ -979,7 +970,6 @@
   "XIFR": 1,
   "NEE": 1,
   "LEU": 1,
-  "BE": 1,
   "O": 1,
   "CCI": 1,
   "IYR": 1,
@@ -993,7 +983,7 @@
   "CRON": 1,
   "SNOW": 1,
   "SEDG": 1,
-  "PLUG": 1,
+  "PLUG": 2,
   "AES": 1,
   "EQR": 1,
   "TIPS": 1,
@@ -1125,7 +1115,8 @@
   "BBH": 1,
   "HGRAF": 1,
   "VTI": 1,
-  "VOO": 1
+  "VOO": 1,
+  "BLDP": 1
  },
  "history": [
   {
@@ -1747,8 +1738,6 @@
   "BLNK": 1,
   "XIFR": 1,
   "LEU": 1,
-  "BE": 1,
-  "FCEL": 1,
   "WAVE": 1,
   "O": 1,
   "CCI": 1,
@@ -1764,7 +1753,7 @@
   "CRON": 1,
   "MJ": 1,
   "SEDG": 1,
-  "PLUG": 1,
+  "PLUG": 2,
   "VICI": 1,
   "EQR": 1,
   "TIPS": 1,
@@ -1869,7 +1858,9 @@
   "SMH": 1,
   "PSI": 1,
   "FTXL": 1,
-  "UFOD": 1
+  "UFOD": 1,
+  "SBSW": 1,
+  "AIQUY": 1
  },
  "watch": {
   "TDC": {
@@ -5411,7 +5402,7 @@
  },
  "_promote_streak": {
   "DSVSF": 0,
-  "MGY": 1,
+  "MGY": 2,
   "GPRE": 0,
   "EXE": 0,
   "WFRD": 0,
@@ -5454,12 +5445,12 @@
   "RPRX": 0,
   "SIG": 0,
   "LIVN": 0,
-  "FTI": 6,
+  "FTI": 7,
   "RRC": 0,
   "SM": 0,
   "ADMA": 0,
   "ASM": 0,
-  "MGTX": 1,
+  "MGTX": 2,
   "HBM": 0,
   "PR": 0,
   "CHRD": 0,
@@ -5667,7 +5658,6 @@
   "XIFR": "2026-08-08",
   "NEE": "2026-08-08",
   "LEU": "2026-08-08",
-  "BE": "2026-08-08",
   "O": "2026-08-08",
   "CCI": "2026-08-08",
   "IYR": "2026-08-08",
@@ -5681,7 +5671,7 @@
   "CRON": "2026-08-08",
   "SNOW": "2026-08-08",
   "SEDG": "2026-08-08",
-  "PLUG": "2026-08-08",
+  "PLUG": "2026-08-20",
   "AES": "2026-08-08",
   "EQR": "2026-08-08",
   "TIPS": "2026-08-08",
@@ -5816,7 +5806,8 @@
   "BBH": "2026-08-20",
   "HGRAF": "2026-08-20",
   "VTI": "2026-08-20",
-  "VOO": "2026-08-20"
+  "VOO": "2026-08-20",
+  "BLDP": "2026-08-20"
  },
  "_weak_streak_day": {
   "BABA": "2026-08-08",
@@ -5851,8 +5842,6 @@
   "BLNK": "2026-08-08",
   "XIFR": "2026-08-08",
   "LEU": "2026-08-08",
-  "BE": "2026-08-08",
-  "FCEL": "2026-08-08",
   "WAVE": "2026-08-08",
   "O": "2026-08-08",
   "CCI": "2026-08-08",
@@ -5868,7 +5857,7 @@
   "CRON": "2026-08-08",
   "MJ": "2026-08-08",
   "SEDG": "2026-08-08",
-  "PLUG": "2026-08-08",
+  "PLUG": "2026-08-20",
   "VICI": "2026-08-08",
   "EQR": "2026-08-08",
   "TIPS": "2026-08-08",
@@ -5973,7 +5962,9 @@
   "SMH": "2026-08-20",
   "PSI": "2026-08-20",
   "FTXL": "2026-08-20",
-  "UFOD": "2026-08-20"
+  "UFOD": "2026-08-20",
+  "SBSW": "2026-08-20",
+  "AIQUY": "2026-08-20"
  },
  "user_requested": {
   "IONQ": {
@@ -6791,6 +6782,42 @@
    "added": "2026-08-17",
    "reason": "lithography, semicap equipment, masks and test; found by a live TradingView industry screen of US-listed semiconductor and semicap names, not from a typed list; KEPT 2026-08-17: scored at or above 7.0, the high end of the Buy band, on the 21:49 UTC run",
    "requested_by": "James, 2026-08-17: 'what are the leading stocks in the AI economy, in memory, lithography and foundry categories... add any strong buys that are not in the dashboard tool into it, any strong buy scores, and the high end of the regular buy scores'. Added so the shipping engine scores them; anything below that bar is removed after the run."
+  },
+  "FCEL": {
+   "cat": "Tech",
+   "added": "2026-08-20",
+   "reason": "FuelCell Energy, Inc.; Electronic Technology; Electronic Equipment/Instruments",
+   "requested_by": "James, 2026-08-20: typed into the dashboard Discovery panel"
+  },
+  "BE": {
+   "cat": "Tech",
+   "added": "2026-08-20",
+   "reason": "Bloom Energy Corporation Class A; Electronic Technology; Electronic Production Equipment",
+   "requested_by": "James, 2026-08-20: typed into the dashboard Discovery panel"
+  },
+  "PLUG": {
+   "cat": "Tech",
+   "added": "2026-08-20",
+   "reason": "Plug Power Inc.; Electronic Technology; Electronic Production Equipment",
+   "requested_by": "James, 2026-08-20: typed into the dashboard Discovery panel"
+  },
+  "BLDP": {
+   "cat": "Industrials",
+   "added": "2026-08-20",
+   "reason": "Ballard Power Systems Inc.; Producer Manufacturing; Electrical Products",
+   "requested_by": "James, 2026-08-20: typed into the dashboard Discovery panel"
+  },
+  "HYDR": {
+   "cat": "Core",
+   "added": "2026-08-20",
+   "reason": "Global X Hydrogen ETF; Miscellaneous; Investment Trusts/Mutual Funds",
+   "requested_by": "James, 2026-08-20: typed into the dashboard Discovery panel"
+  },
+  "AIQUY": {
+   "cat": "Core",
+   "added": "2026-08-20",
+   "reason": "Air Liquide SA Unsponsored ADR; Process Industries; Chemicals: Specialty",
+   "requested_by": "James, 2026-08-20: typed into the dashboard Discovery panel"
   }
  }
 }

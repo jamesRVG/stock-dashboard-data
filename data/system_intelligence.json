@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:58:18.606725",
+  "generated_at": "2026-08-20T23:33:14.127173",
   "history_snapshots": 35,
   "signal_accuracy": {
     "1d": {
@@ -33,9 +33,9 @@
         "n": 456
       },
       "Hold": {
-        "win_pct": 0.601,
-        "avg_return": 0.0567,
-        "n": 228
+        "win_pct": 0.599,
+        "avg_return": 0.0559,
+        "n": 232
       },
       "Caution": {
         "win_pct": 0.429,
@@ -168,9 +168,9 @@
         "n": 161
       },
       "GreenE": {
-        "avg_return": 0.0225,
-        "win_pct": 0.654,
-        "n": 52
+        "avg_return": 0.0219,
+        "win_pct": 0.643,
+        "n": 56
       },
       "PrecMet": {
         "avg_return": 0.3006,
@@ -203,7 +203,7 @@
   "score_correlation": {
     "1d": 0.092,
     "5d": 0.198,
-    "20d": 0.376
+    "20d": 0.377
   },
   "factor_analysis": {
     "macd": {
@@ -233,9 +233,9 @@
       },
       "20d": {
         "bullish": {
-          "avg_return": 0.1472,
-          "win_pct": 0.766,
-          "n": 598
+          "avg_return": 0.1463,
+          "win_pct": 0.764,
+          "n": 602
         },
         "bearish": {
           "avg_return": 0.114,
@@ -272,9 +272,9 @@
       },
       "20d": {
         "oversold": {
-          "avg_return": 0.1838,
-          "win_pct": 0.812,
-          "n": 48
+          "avg_return": 0.1708,
+          "win_pct": 0.788,
+          "n": 52
         },
         "neutral": {
           "avg_return": 0.1499,
@@ -321,9 +321,9 @@
       },
       "20d": {
         "low": {
-          "avg_return": 0.0704,
-          "win_pct": 0.578,
-          "n": 161
+          "avg_return": 0.069,
+          "win_pct": 0.576,
+          "n": 165
         },
         "mid": {
           "avg_return": 0.1535,
@@ -350,11 +350,11 @@
       "tech": 0.25,
       "macro": 0.3
     },
-    "basis": "Score-to-return correlation is strong (0.376) over 20 days; current weights performing well.",
+    "basis": "Score-to-return correlation is strong (0.377) over 20 days; current weights performing well.",
     "score_correlation": {
       "1d": 0.092,
       "5d": 0.198,
-      "20d": 0.376
+      "20d": 0.377
     }
   },
   "statistical_insights": [
@@ -366,7 +366,7 @@
   ],
   "claude_synthesis": {
     "strategic_insights": [
-      "Claude synthesis unavailable: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CeEkSN2wWJrYyX8JTRMHM'}"
+      "Claude synthesis unavailable: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CeEsgCfafFV4XMW8NX1Pe'}"
     ],
     "model_health": "unknown"
   }
