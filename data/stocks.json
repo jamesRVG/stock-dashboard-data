@@ -1,6 +1,6 @@
 {
-  "refreshed": "2026-08-20 07:25",
-  "refreshed_utc": "2026-08-20T07:25:28Z",
+  "refreshed": "2026-08-20 08:52",
+  "refreshed_utc": "2026-08-20T08:52:33Z",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "sentiment_net": 7,
@@ -22,7 +22,7 @@
     },
     {
       "signal": "Volatility (VIX)",
-      "value": "14.9",
+      "value": "15.2",
       "reading": "calm"
     },
     {
@@ -57,7 +57,6 @@
   "avg_score_series": [
     6.29,
     6.29,
-    6.29,
     6.41,
     6.39,
     6.39,
@@ -84,10 +83,10 @@
     6.47,
     6.47,
     6.47,
+    6.58,
     6.58
   ],
   "avg_score_dates": [
-    "2026-08-13",
     "2026-08-13",
     "2026-08-13",
     "2026-08-13",
@@ -116,69 +115,70 @@
     "2026-08-19",
     "2026-08-19",
     "2026-08-19",
-    "2026-08-19"
+    "2026-08-19",
+    "2026-08-20"
   ],
   "sentiment_series": [
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
     7,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
-    9,
     7,
     7
   ],
   "mood_series": [
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
+    "BULLISH",
     "CAUTIOUSLY OPTIMISTIC",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
-    "BULLISH",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC"
   ],
@@ -301,18 +301,18 @@
       },
       {
         "name": "Russell 2K (fut)",
-        "price": 3043.9,
-        "chg_pct": 0.0008
+        "price": 3036.7,
+        "chg_pct": -0.0015
       }
     ],
     "vix": {
       "price": 15.8,
-      "prev": 15.8,
+      "prev": 14.9,
       "label": "Normal"
     },
     "dxy": {
-      "price": 98.8,
-      "chg_pct": -0.0003
+      "price": 98.69,
+      "chg_pct": -0.0015
     },
     "yields": [
       {
@@ -587,48 +587,48 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1679,
-        "chg_pct": 0.0002,
-        "chg_1mo": 0.0235,
-        "chg_3mo": 0.0054,
-        "chg_6mo": -0.0077,
-        "chg_1yr": 0.0029
+        "price": 1.1698,
+        "chg_pct": 0.0018,
+        "chg_1mo": 0.0251,
+        "chg_3mo": 0.007,
+        "chg_6mo": -0.0061,
+        "chg_1yr": 0.0045
       },
       {
         "name": "USD/JPY",
-        "price": 158.499,
-        "chg_pct": 0.0024,
-        "chg_1mo": -0.0245,
-        "chg_3mo": -0.0028,
-        "chg_6mo": 0.0226,
-        "chg_1yr": 0.0741
+        "price": 158.53,
+        "chg_pct": 0.0026,
+        "chg_1mo": -0.0243,
+        "chg_3mo": -0.0026,
+        "chg_6mo": 0.0228,
+        "chg_1yr": 0.0743
       },
       {
         "name": "GBP/USD",
-        "price": 1.3613,
-        "chg_pct": 0.0004,
-        "chg_1mo": 0.0142,
-        "chg_3mo": 0.0136,
-        "chg_6mo": 0.0112,
-        "chg_1yr": 0.0094
+        "price": 1.3634,
+        "chg_pct": 0.002,
+        "chg_1mo": 0.0158,
+        "chg_3mo": 0.0151,
+        "chg_6mo": 0.0128,
+        "chg_1yr": 0.011
       },
       {
         "name": "USD/CNY",
-        "price": 6.7232,
-        "chg_pct": -0.0009,
-        "chg_1mo": -0.0064,
-        "chg_3mo": -0.0116,
-        "chg_6mo": -0.0267,
-        "chg_1yr": -0.0638
+        "price": 6.7224,
+        "chg_pct": -0.001,
+        "chg_1mo": -0.0065,
+        "chg_3mo": -0.0117,
+        "chg_6mo": -0.0268,
+        "chg_1yr": -0.0639
       },
       {
         "name": "AUD/USD",
-        "price": 0.7118,
-        "chg_pct": -0.0004,
-        "chg_1mo": 0.0175,
-        "chg_3mo": -0.0041,
-        "chg_6mo": 0.0093,
-        "chg_1yr": 0.1029
+        "price": 0.7123,
+        "chg_pct": 0.0003,
+        "chg_1mo": 0.0182,
+        "chg_3mo": -0.0034,
+        "chg_6mo": 0.01,
+        "chg_1yr": 0.1037
       },
       {
         "name": "USD/BRL",
@@ -641,35 +641,35 @@
       },
       {
         "name": "USD/CAD",
-        "price": 1.3786,
-        "chg_pct": -0.0015,
-        "chg_1mo": -0.0207,
-        "chg_3mo": 0.0012,
-        "chg_6mo": 0.0081,
-        "chg_1yr": -0.0053
+        "price": 1.3772,
+        "chg_pct": -0.0025,
+        "chg_1mo": -0.0219,
+        "chg_3mo": 0.0001,
+        "chg_6mo": 0.0069,
+        "chg_1yr": -0.0065
       },
       {
         "name": "USD/CHF",
-        "price": 0.7996,
-        "chg_pct": 0.003,
-        "chg_1mo": -0.0129,
-        "chg_3mo": 0.0167,
-        "chg_6mo": 0.0325,
-        "chg_1yr": -0.0088
+        "price": 0.7981,
+        "chg_pct": 0.0011,
+        "chg_1mo": -0.0148,
+        "chg_3mo": 0.0147,
+        "chg_6mo": 0.0305,
+        "chg_1yr": -0.0106
       },
       {
         "name": "USD/MXN",
-        "price": 16.955,
-        "chg_pct": 0.0012,
-        "chg_1mo": -0.026,
-        "chg_3mo": -0.0194,
-        "chg_6mo": -0.0171,
-        "chg_1yr": -0.0974
+        "price": 16.9633,
+        "chg_pct": 0.0017,
+        "chg_1mo": -0.0255,
+        "chg_3mo": -0.0189,
+        "chg_6mo": -0.0167,
+        "chg_1yr": -0.097
       }
     ],
     "bitcoin": {
-      "price": 69597.0,
-      "chg_pct": 0.0048
+      "price": 71664.0,
+      "chg_pct": 0.0346
     },
     "breakeven_note": "TIP/IEF premium indicates market inflation expectations",
     "global_watch": [
@@ -677,36 +677,36 @@
         "ticker": "ES=F",
         "label": "S&P 500 Futures",
         "region": "US Futures",
-        "price": 7736.5,
-        "chg_pct": 0.0005
+        "price": 7722.5,
+        "chg_pct": -0.0014
       },
       {
         "ticker": "NQ=F",
         "label": "NASDAQ Futures",
         "region": "US Futures",
-        "price": 29638,
-        "chg_pct": 0.0026
+        "price": 29515.75,
+        "chg_pct": -0.0015
       },
       {
         "ticker": "YM=F",
         "label": "Dow Futures",
         "region": "US Futures",
-        "price": 53509,
-        "chg_pct": -0.0004
+        "price": 53448,
+        "chg_pct": -0.0015
       },
       {
         "ticker": "RTY=F",
         "label": "Russell 2000 Fut",
         "region": "US Futures",
-        "price": 3043.9,
-        "chg_pct": 0.0008
+        "price": 3036.7,
+        "chg_pct": -0.0015
       },
       {
         "ticker": "^VIX",
         "label": "VIX Fear Index",
         "region": "Risk",
         "price": 15.8,
-        "chg_pct": 0.0
+        "chg_pct": 0.0604
       },
       {
         "ticker": "CL=F",
@@ -733,8 +733,8 @@
         "ticker": "^HSI",
         "label": "Hang Seng",
         "region": "Asia",
-        "price": 25751.2,
-        "chg_pct": -0.0011
+        "price": 25698.5,
+        "chg_pct": -0.0031
       },
       {
         "ticker": "000001.SS",
@@ -747,15 +747,15 @@
         "ticker": "^GDAXI",
         "label": "DAX (Germany)",
         "region": "Europe",
-        "price": 26010.64,
-        "chg_pct": -0.0015
+        "price": 25953.56,
+        "chg_pct": -0.0037
       },
       {
         "ticker": "^FTSE",
         "label": "FTSE 100 (UK)",
         "region": "Europe",
-        "price": 10716.91,
-        "chg_pct": -0.0024
+        "price": 10715.14,
+        "chg_pct": -0.0026
       }
     ],
     "econ_history": {
@@ -932,6 +932,39 @@
         "vs200": 0.0559,
         "trend": "Above MA50+200",
         "vol_ratio": null
+      },
+      {
+        "symbol": "XLC",
+        "name": "Communication",
+        "price": 111.32,
+        "rsi": 52.2,
+        "macd": "Bullish",
+        "vs50": 0.0033,
+        "vs200": -0.0064,
+        "trend": "Above MA50",
+        "vol_ratio": null
+      },
+      {
+        "symbol": "XLRE",
+        "name": "Real Estate",
+        "price": 44.99,
+        "rsi": 50.8,
+        "macd": "Bearish",
+        "vs50": 0.0053,
+        "vs200": 0.0365,
+        "trend": "Above MA50+200",
+        "vol_ratio": null
+      },
+      {
+        "symbol": "XLU",
+        "name": "Utilities",
+        "price": 44.02,
+        "rsi": 44.5,
+        "macd": "Bullish",
+        "vs50": -0.0147,
+        "vs200": -0.0094,
+        "trend": "Below MA50",
+        "vol_ratio": null
       }
     ],
     "regime": {
@@ -939,7 +972,7 @@
       "growth": 1.0,
       "inflation": 0.333,
       "policy": -0.333,
-      "growth_n": 5,
+      "growth_n": 4,
       "inflation_n": 3,
       "policy_n": 3,
       "policy_label": "TIGHTENING",
@@ -971,8 +1004,8 @@
         {
           "name": "Breadth regime",
           "value": null,
-          "detail": "BROADENING",
-          "vote": 1
+          "detail": "FLAT",
+          "vote": 0
         }
       ],
       "inflation_inputs": [
@@ -998,7 +1031,7 @@
       "policy_inputs": [
         {
           "name": "Fed Funds futures path",
-          "value": 22.5,
+          "value": 23.0,
           "vote": -1,
           "detail": "bp between the front and far contract; negative prices cuts"
         },
@@ -1028,14 +1061,12 @@
     "range_pos": 64.8,
     "range_low": 0.271859,
     "range_high": 0.297948,
-    "chg_20d_pct": 0.58,
-    "regime": "BROADENING",
-    "stance": "ride",
-    "guidance": "Ave stock beating largest. Mkt broadening, wave intact. Stick with it vs awaiting turn.",
+    "chg_20d_pct": -0.09,
+    "regime": "FLAT",
+    "stance": "wait",
+    "guidance": "No wave. Mid-range, sideways. Neither broadening nor narrowing has the wind.",
     "range_note": "Broadening maturing. Keep what works, stop opening new breadth. Plan rotation to leaders.",
-    "through": "2026-08-19",
-    "theme": "Market Broadening",
-    "theme_effect": "Financial Services+2, Industrials+1, Healthcare+1, Basic Materials+1",
+    "through": "2026-08-20",
     "sessions": 763,
     "window": 252,
     "latest_ratio": 0.288755,
@@ -1206,20 +1237,20 @@
   },
   "rate_path": {
     "front": 3.63,
-    "far": 3.855,
+    "far": 3.86,
     "front_contract": "ZQQ2026",
     "far_contract": "ZQF2027",
-    "path_bps": 22.5,
+    "path_bps": 23.0,
     "direction": "rates expected HIGHER",
     "next_move_odds": 16.0,
     "d_front_bps": -0.2,
-    "d_far_bps": -1.5,
+    "d_far_bps": -1.0,
     "spy_chg_pct": 0.0020978565378850737,
     "verdict": "TRADING THE FED",
     "verdict_note": "Stocks have been rising as expected rates fall. Bad news is being read as good news. Gold and big tech gain most in this regime.",
-    "fed_score": 72.0,
-    "corr": -0.724,
-    "today_side": 10.0,
+    "fed_score": 73.0,
+    "corr": -0.73,
+    "today_side": 7.0,
     "window": 20,
     "pairs": 9,
     "curve": [
@@ -1233,7 +1264,7 @@
       },
       {
         "contract": "ZQV2026",
-        "implied": 3.715
+        "implied": 3.72
       },
       {
         "contract": "ZQX2026",
@@ -1241,31 +1272,31 @@
       },
       {
         "contract": "ZQZ2026",
-        "implied": 3.825
+        "implied": 3.83
       },
       {
         "contract": "ZQF2027",
-        "implied": 3.855
+        "implied": 3.86
       },
       {
         "contract": "ZQG2027",
-        "implied": 3.89
+        "implied": 3.9
       },
       {
         "contract": "ZQH2027",
-        "implied": 3.92
+        "implied": 3.93
       },
       {
         "contract": "ZQJ2027",
-        "implied": 3.95
+        "implied": 3.96
       },
       {
         "contract": "ZQK2027",
-        "implied": 3.97
+        "implied": 3.985
       },
       {
         "contract": "ZQM2027",
-        "implied": 3.99
+        "implied": 4.005
       }
     ],
     "sessions": 11
