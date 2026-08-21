@@ -1,38 +1,9 @@
 {
   "date": "2026-08-21",
-  "refreshed": "2026-08-21 13:33",
+  "refreshed": "2026-08-21 21:56",
   "recent_days": 5,
   "min_delta": 0.6,
-  "macro_pairs": [
-    {
-      "pair": "S&P vs VIX",
-      "baseline": -0.846,
-      "recent": 0.353,
-      "delta": 1.199,
-      "flip": false,
-      "n_base": 10,
-      "n_recent": 5
-    },
-    {
-      "pair": "Copper vs Gold",
-      "baseline": -0.281,
-      "recent": 0.622,
-      "delta": 0.903,
-      "flip": false,
-      "n_base": 10,
-      "n_recent": 5
-    },
-    {
-      "pair": "Gold vs 10Y yield",
-      "baseline": 0.314,
-      "recent": -0.586,
-      "delta": -0.9,
-      "flip": false,
-      "n_base": 10,
-      "n_recent": 5
-    }
-  ],
+  "macro_pairs": [],
   "ticker_pairs": [],
-  "note": "5-day window against a 10-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 10
+  "note": "15 days of daily macro history; needs 16 before a break can be claimed. Accumulating one row per day."
 }
