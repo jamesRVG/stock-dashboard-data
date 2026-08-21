@@ -1,50 +1,38 @@
 {
-  "date": "2026-08-20",
-  "refreshed": "2026-08-20 23:33",
+  "date": "2026-08-21",
+  "refreshed": "2026-08-21 13:33",
   "recent_days": 5,
   "min_delta": 0.6,
-  "macro_pairs": [],
-  "ticker_pairs": [
+  "macro_pairs": [
     {
-      "pair": "NVDA / AU",
-      "baseline": 0.616,
-      "recent": -0.92,
-      "delta": -1.536,
-      "n_base": 19,
-      "n_recent": 3
+      "pair": "S&P vs VIX",
+      "baseline": -0.846,
+      "recent": 0.353,
+      "delta": 1.199,
+      "flip": false,
+      "n_base": 10,
+      "n_recent": 5
     },
     {
-      "pair": "NVDA / NEM",
-      "baseline": 0.676,
-      "recent": -0.615,
-      "delta": -1.291,
-      "n_base": 19,
-      "n_recent": 3
+      "pair": "Copper vs Gold",
+      "baseline": -0.281,
+      "recent": 0.622,
+      "delta": 0.903,
+      "flip": false,
+      "n_base": 10,
+      "n_recent": 5
     },
     {
-      "pair": "MU / NEM",
-      "baseline": 0.221,
-      "recent": 1.0,
-      "delta": 0.779,
-      "n_base": 21,
-      "n_recent": 3
-    },
-    {
-      "pair": "MU / AU",
-      "baseline": 0.133,
-      "recent": 0.886,
-      "delta": 0.753,
-      "n_base": 21,
-      "n_recent": 3
-    },
-    {
-      "pair": "TSM / AU",
-      "baseline": 0.179,
-      "recent": 0.845,
-      "delta": 0.666,
-      "n_base": 18,
-      "n_recent": 3
+      "pair": "Gold vs 10Y yield",
+      "baseline": 0.314,
+      "recent": -0.586,
+      "delta": -0.9,
+      "flip": false,
+      "n_base": 10,
+      "n_recent": 5
     }
   ],
-  "note": "15 days of daily macro history; needs 16 before a break can be claimed. Accumulating one row per day."
+  "ticker_pairs": [],
+  "note": "5-day window against a 10-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 10
 }
