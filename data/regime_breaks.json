@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "refreshed": "2026-08-23 15:56",
+  "refreshed": "2026-08-23 22:55",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -41,7 +41,16 @@
       "n_recent": 5
     }
   ],
-  "ticker_pairs": [],
+  "ticker_pairs": [
+    {
+      "pair": "TSM / SSRM",
+      "baseline": 0.427,
+      "recent": -0.284,
+      "delta": -0.711,
+      "n_base": 21,
+      "n_recent": 5
+    }
+  ],
   "note": "5-day window against a 11-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
   "baseline_days": 11
 }
