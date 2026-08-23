@@ -101,7 +101,12 @@
   "EIX": "Core Mainstream",
   "CF": "Core Mainstream",
   "TRGP": "Core Mainstream",
-  "AMLX": "Core Mainstream"
+  "AMLX": "Core Mainstream",
+  "RELY": "Core Mainstream",
+  "SBLK": "Core Mainstream",
+  "UGP": "Core Mainstream",
+  "GEO": "Core Mainstream",
+  "IOVA": "Core Mainstream"
  },
  "archived": [
   {
@@ -1154,7 +1159,8 @@
   "PLUG": 3,
   "BLDP": 3,
   "ECAT": 1,
-  "GDX": 1
+  "GDX": 1,
+  "AMLX": 1
  },
  "history": [
   {
@@ -1714,6 +1720,16 @@
    "date": "2026-08-23",
    "promoted": [
     "AMLX"
+   ]
+  },
+  {
+   "date": "2026-08-23",
+   "promoted": [
+    "RELY",
+    "SBLK",
+    "UGP",
+    "GEO",
+    "IOVA"
    ]
   }
  ],
@@ -6094,19 +6110,19 @@
   "PIPR": 0,
   "EZPW": 0,
   "QNST": 0,
-  "CRUS": 3,
+  "CRUS": 4,
   "FSLR": 0,
   "QCOM": 0,
   "FIX": 0,
   "TDC": 0,
-  "YOU": 3,
-  "ADBE": 3,
+  "YOU": 4,
+  "ADBE": 4,
   "ADEA": 0,
   "DLO": 0,
   "RAMP": 0,
   "SLDE": 0,
   "FRSH": 0,
-  "SEZL": 3,
+  "SEZL": 4,
   "FTNT": 0,
   "ETOR": 0,
   "PATH": 0,
@@ -6521,7 +6537,8 @@
   "PLUG": "2026-08-23",
   "BLDP": "2026-08-23",
   "ECAT": "2026-08-23",
-  "GDX": "2026-08-23"
+  "GDX": "2026-08-23",
+  "AMLX": "2026-08-23"
  },
  "_weak_streak_day": {
   "BABA": "2026-08-08",

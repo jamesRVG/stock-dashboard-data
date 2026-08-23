@@ -1,48 +1,17 @@
 {
-  "date": "2026-08-07",
-  "movers_up": [],
-  "movers_down": [],
-  "signal_changes": [
-    {
-      "ticker": "NEM",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "AEM",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "B",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "AU",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "WDC",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "AMT",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "GOOGL",
-      "from": "Buy",
-      "to": "Hold"
-    }
+  "date": "2026-08-23",
+  "short_reflection": "1-day performance shows zero movement across all 15 Strong Buy picks (LPG, INSW, ECO, FCG, XOP, ARKG, DHT, FRO, XBI, FBT, MU, INCY, TGTX, IXC, IEO) matching SPY's flat 0.0% return, indicating no predictive signal at the daily horizon.",
+  "medium_reflection": "1-week results strongly validate the scoring model: 15 picks averaged +1.7% vs SPY's -0.44%, with 100% upside capture led by commodity/precious metals exposure (AU +11.68%, SSRM +6.76%, NEM +5.2%), suggesting the scoring framework successfully identifies mean-reversion opportunities in cyclical sectors.",
+  "long_reflection": "1-month performance demonstrates exceptional accuracy with +18.36% average portfolio return vs SPY's +0.9%, driven by concentrated precious metals/gold mining exposure (AU +52.8%, AEM +48.7%, DRD +50.3%, NEM +40.4%), indicating strong sector-level timing and fundamental weight on commodity cyclicals.",
+  "short_top": [
+    "LPG",
+    "INSW",
+    "ECO"
   ],
-  "generated": "rule_based",
-  "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.009,
-  "market_pullback": false,
-  "resilient_hold_count": 61,
-  "short_reflection": "Signal changes: NEM (Strong Buy to Buy), AEM (Strong Buy to Buy), B (Strong Buy to Buy), AU (Strong Buy to Buy)."
+  "short_lag": [
+    "KNSA",
+    "ACAD",
+    "PTGX"
+  ],
+  "new_learning_added": true
 }
