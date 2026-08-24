@@ -12,5 +12,12 @@
     "category": "sector_behavior|fundamental_weight|signal_calibration",
     "horizon": "all",
     "date": "2026-08-24"
+  },
+  {
+    "note": "System demonstrates strong predictive power at 1-week+ horizons but with extreme sector selectivity: precious metals & mining deliver 35-51% returns vs 1-2% for diversified energy/biotech at 1-month; 1-day signals show zero alpha edge (lagging SPY by 50bps despite positive picks). Actionable fix: (1) Eliminate same-day entry recommendations entirely; (2) Apply 3-5x weighting multiplier to gold/silver/mining sector signals for 1-week and 1-month portfolios; (3) Audit scoring model for sector-blind inputs that obscure commodity-cycle alpha; (4) Today's top picks (LPG, INSW, ECO, XOP, FBT) lack precious-metals concentration\u2014recommend rebalancing 60%+ of medium/long-term allocation to AU, AEM, WPM, RGLD tier names.",
+    "confidence": 5,
+    "category": "sector_behavior|signal_calibration|fundamental_weight",
+    "horizon": "all",
+    "date": "2026-08-24"
   }
 ]
