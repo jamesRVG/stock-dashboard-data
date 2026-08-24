@@ -1,6 +1,6 @@
 {
-  "refreshed": "2026-08-24 07:45",
-  "refreshed_utc": "2026-08-24T07:45:18Z",
+  "refreshed": "2026-08-24 09:00",
+  "refreshed_utc": "2026-08-24T09:00:42Z",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "sentiment_net": 7,
@@ -56,7 +56,6 @@
   "avg_score_prev": 6.45,
   "avg_score_series": [
     6.56,
-    6.56,
     6.59,
     6.59,
     6.59,
@@ -81,13 +80,13 @@
     6.43,
     6.43,
     6.48,
+    6.45,
     6.45,
     6.45,
     6.45,
     6.45
   ],
   "avg_score_dates": [
-    "2026-08-17",
     "2026-08-17",
     "2026-08-17",
     "2026-08-18",
@@ -116,7 +115,8 @@
     "2026-08-22",
     "2026-08-23",
     "2026-08-23",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-08-24"
   ],
   "sentiment_series": [
     9,
@@ -130,7 +130,7 @@
     9,
     9,
     9,
-    9,
+    7,
     7,
     7,
     7,
@@ -162,7 +162,7 @@
     "BULLISH",
     "BULLISH",
     "BULLISH",
-    "BULLISH",
+    "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
@@ -301,18 +301,18 @@
       },
       {
         "name": "Russell 2K (fut)",
-        "price": 3018.8,
-        "chg_pct": -0.0014
+        "price": 3022,
+        "chg_pct": -0.0003
       }
     ],
     "vix": {
       "price": 16.0,
-      "prev": 16.0,
+      "prev": 15.1,
       "label": "Normal"
     },
     "dxy": {
-      "price": 98.92,
-      "chg_pct": 0.0006
+      "price": 99.0,
+      "chg_pct": 0.0014
     },
     "yields": [
       {
@@ -587,34 +587,34 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1672,
-        "chg_pct": -0.0009,
-        "chg_1mo": 0.0259,
-        "chg_3mo": 0.0028,
-        "chg_6mo": -0.0086,
-        "chg_1yr": 0.0055
+        "price": 1.1663,
+        "chg_pct": -0.0016,
+        "chg_1mo": 0.0253,
+        "chg_3mo": 0.0021,
+        "chg_6mo": -0.0092,
+        "chg_1yr": 0.0049
       },
       {
         "name": "USD/JPY",
-        "price": 159.142,
-        "chg_pct": 0.0012,
-        "chg_1mo": -0.0283,
-        "chg_3mo": 0.0015,
-        "chg_6mo": 0.0211,
-        "chg_1yr": 0.0728
+        "price": 159.195,
+        "chg_pct": 0.0015,
+        "chg_1mo": -0.028,
+        "chg_3mo": 0.0018,
+        "chg_6mo": 0.0215,
+        "chg_1yr": 0.0731
       },
       {
         "name": "GBP/USD",
-        "price": 1.3644,
-        "chg_pct": 0.0006,
-        "chg_1mo": 0.0249,
-        "chg_3mo": 0.0107,
-        "chg_6mo": 0.0118,
-        "chg_1yr": 0.0175
+        "price": 1.3622,
+        "chg_pct": -0.001,
+        "chg_1mo": 0.0232,
+        "chg_3mo": 0.009,
+        "chg_6mo": 0.0102,
+        "chg_1yr": 0.0159
       },
       {
         "name": "USD/CNY",
-        "price": 6.7223,
+        "price": 6.7222,
         "chg_pct": 0.0003,
         "chg_1mo": -0.0071,
         "chg_3mo": -0.0091,
@@ -623,12 +623,12 @@
       },
       {
         "name": "AUD/USD",
-        "price": 0.7165,
-        "chg_pct": -0.0013,
-        "chg_1mo": 0.0283,
-        "chg_3mo": -0.0009,
-        "chg_6mo": 0.0154,
-        "chg_1yr": 0.1161
+        "price": 0.7161,
+        "chg_pct": -0.0019,
+        "chg_1mo": 0.0277,
+        "chg_3mo": -0.0014,
+        "chg_6mo": 0.0148,
+        "chg_1yr": 0.1155
       },
       {
         "name": "USD/BRL",
@@ -641,39 +641,72 @@
       },
       {
         "name": "USD/CAD",
-        "price": 1.3825,
-        "chg_pct": 0.0044,
-        "chg_1mo": -0.0181,
-        "chg_3mo": 0.0017,
-        "chg_6mo": 0.0094,
-        "chg_1yr": -0.006
+        "price": 1.3842,
+        "chg_pct": 0.0057,
+        "chg_1mo": -0.0169,
+        "chg_3mo": 0.003,
+        "chg_6mo": 0.0107,
+        "chg_1yr": -0.0048
       },
       {
         "name": "USD/CHF",
-        "price": 0.8017,
-        "chg_pct": 0.0013,
-        "chg_1mo": -0.0179,
-        "chg_3mo": 0.0246,
-        "chg_6mo": 0.0373,
-        "chg_1yr": -0.0075
+        "price": 0.8022,
+        "chg_pct": 0.0019,
+        "chg_1mo": -0.0172,
+        "chg_3mo": 0.0253,
+        "chg_6mo": 0.0379,
+        "chg_1yr": -0.0069
       },
       {
         "name": "USD/MXN",
-        "price": 16.9275,
-        "chg_pct": 0.0039,
-        "chg_1mo": -0.032,
-        "chg_3mo": -0.0199,
-        "chg_6mo": -0.0138,
-        "chg_1yr": -0.0964
+        "price": 16.9325,
+        "chg_pct": 0.0042,
+        "chg_1mo": -0.0317,
+        "chg_3mo": -0.0196,
+        "chg_6mo": -0.0135,
+        "chg_1yr": -0.0962
       }
     ],
+    "bitcoin": {
+      "price": 77033.0,
+      "chg_pct": -0.0093
+    },
+    "breakeven_note": "TIP/IEF premium indicates market inflation expectations",
     "global_watch": [
+      {
+        "ticker": "ES=F",
+        "label": "S&P 500 Futures",
+        "region": "US Futures",
+        "price": 7681.5,
+        "chg_pct": -0.0016
+      },
+      {
+        "ticker": "NQ=F",
+        "label": "NASDAQ Futures",
+        "region": "US Futures",
+        "price": 29217,
+        "chg_pct": -0.006
+      },
+      {
+        "ticker": "YM=F",
+        "label": "Dow Futures",
+        "region": "US Futures",
+        "price": 53378,
+        "chg_pct": 0.0002
+      },
+      {
+        "ticker": "RTY=F",
+        "label": "Russell 2000 Fut",
+        "region": "US Futures",
+        "price": 3022,
+        "chg_pct": -0.0003
+      },
       {
         "ticker": "^VIX",
         "label": "VIX Fear Index",
         "region": "Risk",
         "price": 16.0,
-        "chg_pct": 0.0
+        "chg_pct": 0.0596
       },
       {
         "ticker": "CL=F",
@@ -688,6 +721,41 @@
         "region": "Commodities",
         "price": 4640.75,
         "chg_pct": 0.0082
+      },
+      {
+        "ticker": "^N225",
+        "label": "Nikkei 225",
+        "region": "Asia",
+        "price": 65527.87,
+        "chg_pct": -0.0068
+      },
+      {
+        "ticker": "^HSI",
+        "label": "Hang Seng",
+        "region": "Asia",
+        "price": 25517.34,
+        "chg_pct": -0.0102
+      },
+      {
+        "ticker": "000001.SS",
+        "label": "Shanghai Composite",
+        "region": "Asia",
+        "price": 3882.01,
+        "chg_pct": -0.0053
+      },
+      {
+        "ticker": "^GDAXI",
+        "label": "DAX (Germany)",
+        "region": "Europe",
+        "price": 26127.74,
+        "chg_pct": 0.0014
+      },
+      {
+        "ticker": "^FTSE",
+        "label": "FTSE 100 (UK)",
+        "region": "Europe",
+        "price": 10832.39,
+        "chg_pct": 0.0015
       }
     ],
     "econ_history": {
@@ -852,7 +920,7 @@
         },
         {
           "name": "Dollar, 20-day change",
-          "value": -0.74,
+          "value": -0.68,
           "vote": 1,
           "detail": "a weaker dollar loosens global financial conditions"
         }
@@ -870,12 +938,12 @@
     "range_pos": 67.6,
     "range_low": 0.271859,
     "range_high": 0.297948,
-    "chg_20d_pct": -2.11,
+    "chg_20d_pct": -0.31,
     "regime": "NARROWING",
     "stance": "ride",
     "guidance": "Leadership narrowing into megacaps. Wave intact. Stay with leaders vs fighting it.",
     "range_note": "Broadening maturing. Keep what works, stop opening new breadth. Plan rotation to leaders.",
-    "through": "2026-08-23",
+    "through": "2026-08-24",
     "theme": "Market Narrowing to Leaders",
     "theme_effect": "Technology+2, Semiconductors+2, Communication Services+1",
     "sessions": 767,
@@ -1083,7 +1151,7 @@
       },
       {
         "contract": "ZQZ2026",
-        "implied": 3.855
+        "implied": 3.85
       },
       {
         "contract": "ZQF2027",
@@ -1091,11 +1159,11 @@
       },
       {
         "contract": "ZQG2027",
-        "implied": 3.93
+        "implied": 3.925
       },
       {
         "contract": "ZQH2027",
-        "implied": 3.965
+        "implied": 3.96
       },
       {
         "contract": "ZQJ2027",
@@ -1103,11 +1171,11 @@
       },
       {
         "contract": "ZQK2027",
-        "implied": 4.03
+        "implied": 4.025
       },
       {
         "contract": "ZQM2027",
-        "implied": 4.05
+        "implied": 4.045
       }
     ],
     "sessions": 15
