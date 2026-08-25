@@ -1,6 +1,6 @@
 {
-  "refreshed": "2026-08-25 07:31",
-  "refreshed_utc": "2026-08-25T07:31:19Z",
+  "refreshed": "2026-08-25 08:57",
+  "refreshed_utc": "2026-08-25T08:57:51Z",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "sentiment_net": 5,
@@ -55,7 +55,6 @@
   "avg_score_exact": 6.43,
   "avg_score_prev": 6.43,
   "avg_score_series": [
-    6.58,
     6.45,
     6.45,
     6.47,
@@ -84,10 +83,10 @@
     6.45,
     6.45,
     6.45,
+    6.43,
     6.43
   ],
   "avg_score_dates": [
-    "2026-08-18",
     "2026-08-18",
     "2026-08-18",
     "2026-08-18",
@@ -116,10 +115,10 @@
     "2026-08-24",
     "2026-08-24",
     "2026-08-24",
-    "2026-08-24"
+    "2026-08-24",
+    "2026-08-25"
   ],
   "sentiment_series": [
-    9,
     9,
     9,
     9,
@@ -148,6 +147,7 @@
     7,
     7,
     5,
+    5,
     5
   ],
   "mood_series": [
@@ -157,7 +157,7 @@
     "BULLISH",
     "BULLISH",
     "BULLISH",
-    "BULLISH",
+    "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
@@ -301,8 +301,8 @@
       },
       {
         "name": "Russell 2K (fut)",
-        "price": 3008.5,
-        "chg_pct": 0.0013
+        "price": 3013.8,
+        "chg_pct": 0.0031
       }
     ],
     "vix": {
@@ -311,8 +311,8 @@
       "label": "Normal"
     },
     "dxy": {
-      "price": 99.05,
-      "chg_pct": 0.0006
+      "price": 99.03,
+      "chg_pct": 0.0004
     },
     "yields": [
       {
@@ -587,48 +587,48 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1661,
-        "chg_pct": -0.0,
-        "chg_1mo": 0.025,
-        "chg_3mo": 0.0026,
-        "chg_6mo": -0.0127,
-        "chg_1yr": -0.0051
+        "price": 1.1664,
+        "chg_pct": 0.0003,
+        "chg_1mo": 0.0254,
+        "chg_3mo": 0.003,
+        "chg_6mo": -0.0123,
+        "chg_1yr": -0.0048
       },
       {
         "name": "USD/JPY",
-        "price": 159.351,
-        "chg_pct": 0.0018,
-        "chg_1mo": -0.027,
-        "chg_3mo": 0.0006,
-        "chg_6mo": 0.0192,
-        "chg_1yr": 0.0855
+        "price": 159.376,
+        "chg_pct": 0.002,
+        "chg_1mo": -0.0269,
+        "chg_3mo": 0.0008,
+        "chg_6mo": 0.0194,
+        "chg_1yr": 0.0857
       },
       {
         "name": "GBP/USD",
         "price": 1.3638,
         "chg_pct": 0.0006,
-        "chg_1mo": 0.0244,
-        "chg_3mo": 0.0142,
-        "chg_6mo": 0.0061,
-        "chg_1yr": 0.0086
+        "chg_1mo": 0.0245,
+        "chg_3mo": 0.0143,
+        "chg_6mo": 0.0062,
+        "chg_1yr": 0.0087
       },
       {
         "name": "USD/CNY",
-        "price": 6.7222,
-        "chg_pct": 0.0001,
-        "chg_1mo": -0.0071,
-        "chg_3mo": -0.0093,
-        "chg_6mo": -0.0213,
-        "chg_1yr": -0.0617
+        "price": 6.7212,
+        "chg_pct": -0.0001,
+        "chg_1mo": -0.0072,
+        "chg_3mo": -0.0095,
+        "chg_6mo": -0.0215,
+        "chg_1yr": -0.0619
       },
       {
         "name": "AUD/USD",
         "price": 0.7147,
         "chg_pct": -0.0003,
-        "chg_1mo": 0.0258,
+        "chg_1mo": 0.0257,
         "chg_3mo": -0.0027,
-        "chg_6mo": 0.0038,
-        "chg_1yr": 0.1016
+        "chg_6mo": 0.0037,
+        "chg_1yr": 0.1015
       },
       {
         "name": "USD/BRL",
@@ -641,30 +641,30 @@
       },
       {
         "name": "USD/CAD",
-        "price": 1.3858,
-        "chg_pct": 0.0012,
-        "chg_1mo": -0.0157,
-        "chg_3mo": 0.0036,
-        "chg_6mo": 0.0134,
-        "chg_1yr": 0.0023
+        "price": 1.386,
+        "chg_pct": 0.0014,
+        "chg_1mo": -0.0156,
+        "chg_3mo": 0.0038,
+        "chg_6mo": 0.0135,
+        "chg_1yr": 0.0025
       },
       {
         "name": "USD/CHF",
-        "price": 0.8036,
-        "chg_pct": 0.002,
-        "chg_1mo": -0.0155,
-        "chg_3mo": 0.023,
-        "chg_6mo": 0.0406,
-        "chg_1yr": 0.0016
+        "price": 0.8031,
+        "chg_pct": 0.0012,
+        "chg_1mo": -0.0162,
+        "chg_3mo": 0.0223,
+        "chg_6mo": 0.0398,
+        "chg_1yr": 0.0008
       },
       {
         "name": "USD/MXN",
-        "price": 16.9506,
-        "chg_pct": 0.0018,
-        "chg_1mo": -0.0307,
-        "chg_3mo": -0.0191,
-        "chg_6mo": -0.0116,
-        "chg_1yr": -0.0869
+        "price": 16.941,
+        "chg_pct": 0.0013,
+        "chg_1mo": -0.0312,
+        "chg_3mo": -0.0197,
+        "chg_6mo": -0.0121,
+        "chg_1yr": -0.0874
       }
     ],
     "global_watch": [
@@ -781,7 +781,7 @@
       "growth": 1.0,
       "inflation": 0.333,
       "policy": -0.333,
-      "growth_n": 4,
+      "growth_n": 5,
       "inflation_n": 3,
       "policy_n": 3,
       "policy_label": "TIGHTENING",
@@ -813,8 +813,8 @@
         {
           "name": "Breadth regime",
           "value": null,
-          "detail": "FLAT",
-          "vote": 0
+          "detail": "BROADENING",
+          "vote": 1
         }
       ],
       "inflation_inputs": [
@@ -852,7 +852,7 @@
         },
         {
           "name": "Dollar, 20-day change",
-          "value": -0.61,
+          "value": -0.55,
           "vote": 1,
           "detail": "a weaker dollar loosens global financial conditions"
         }
@@ -870,12 +870,14 @@
     "range_pos": 72.2,
     "range_low": 0.271859,
     "range_high": 0.297948,
-    "chg_20d_pct": 0.1,
-    "regime": "FLAT",
-    "stance": "wait",
-    "guidance": "No wave. Mid-range, sideways. Neither broadening nor narrowing has the wind.",
+    "chg_20d_pct": 1.0,
+    "regime": "BROADENING",
+    "stance": "ride",
+    "guidance": "Ave stock beating largest. Mkt broadening, wave intact. Stick with it vs awaiting turn.",
     "range_note": "Broadening maturing. Keep what works, stop opening new breadth. Plan rotation to leaders.",
-    "through": "2026-08-24",
+    "through": "2026-08-25",
+    "theme": "Market Broadening",
+    "theme_effect": "Financial Services+2, Industrials+1, Healthcare+1, Basic Materials+1",
     "sessions": 768,
     "window": 252,
     "latest_ratio": 0.290686,
@@ -1066,7 +1068,7 @@
       },
       {
         "contract": "ZQV2026",
-        "implied": 3.74
+        "implied": 3.735
       },
       {
         "contract": "ZQX2026",
@@ -1098,7 +1100,7 @@
       },
       {
         "contract": "ZQM2027",
-        "implied": 4.07
+        "implied": 4.065
       }
     ],
     "sessions": 16
