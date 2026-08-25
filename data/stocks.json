@@ -1,48 +1,48 @@
 {
-  "refreshed": "2026-08-25 13:32",
-  "refreshed_utc": "2026-08-25T13:32:32Z",
+  "refreshed": "2026-08-25 16:20",
+  "refreshed_utc": "2026-08-25T16:20:30Z",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "sentiment_net": 5,
   "sentiment_signals": [
     {
       "signal": "S&P vs its 200-day average",
-      "value": "+7.8%",
+      "value": "+8.1%",
       "reading": "above trend"
     },
     {
       "signal": "S&P position in its 52-week range",
-      "value": "89%",
+      "value": "91%",
       "reading": "upper half"
     },
     {
       "signal": "Breadth: equal weight vs cap weight",
-      "value": "+5.0pp",
+      "value": "+4.6pp",
       "reading": "broad participation"
     },
     {
       "signal": "Volatility (VIX)",
-      "value": "15.1",
+      "value": "15.5",
       "reading": "calm"
     },
     {
       "signal": "Credit appetite: high yield vs investment grade",
-      "value": "+2.0pp",
+      "value": "+1.7pp",
       "reading": "risk appetite healthy"
     },
     {
       "signal": "Cyclicals vs defensives",
-      "value": "-4.3pp",
+      "value": "-4.8pp",
       "reading": "defence leading"
     },
     {
       "signal": "Small caps vs large caps",
-      "value": "+1.5pp",
+      "value": "+0.7pp",
       "reading": "risk-seeking"
     },
     {
       "signal": "Gold vs stocks",
-      "value": "+1.0pp",
+      "value": "+3.5pp",
       "reading": "fear bid in gold"
     },
     {
@@ -55,7 +55,6 @@
   "avg_score_exact": 6.43,
   "avg_score_prev": 6.43,
   "avg_score_series": [
-    6.45,
     6.47,
     6.47,
     6.47,
@@ -82,12 +81,12 @@
     6.45,
     6.45,
     6.45,
+    6.43,
     6.43,
     6.43,
     6.43
   ],
   "avg_score_dates": [
-    "2026-08-18",
     "2026-08-18",
     "2026-08-19",
     "2026-08-19",
@@ -116,6 +115,7 @@
     "2026-08-24",
     "2026-08-24",
     "2026-08-25",
+    "2026-08-25",
     "2026-08-25"
   ],
   "sentiment_series": [
@@ -123,7 +123,6 @@
     9,
     9,
     9,
-    9,
     7,
     7,
     7,
@@ -145,6 +144,7 @@
     7,
     7,
     7,
+    5,
     5,
     5,
     5,
@@ -155,7 +155,7 @@
     "BULLISH",
     "BULLISH",
     "BULLISH",
-    "BULLISH",
+    "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
@@ -286,33 +286,33 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7652.9,
-        "chg_pct": -0.0014
+        "price": 7672.0,
+        "chg_pct": -0.0006
       },
       {
         "name": "NASDAQ",
-        "price": 29023.2,
-        "chg_pct": -0.0025
+        "price": 29211.9,
+        "chg_pct": -0.0007
       },
       {
         "name": "DOW",
-        "price": 53417.2,
-        "chg_pct": 0.0029
+        "price": 53497.7,
+        "chg_pct": -0.0018
       },
       {
         "name": "Russell 2K (fut)",
-        "price": 3016.3,
-        "chg_pct": 0.0039
+        "price": 3008.1,
+        "chg_pct": 0.0012
       }
     ],
     "vix": {
-      "price": 15.1,
-      "prev": 15.1,
+      "price": 15.8,
+      "prev": 15.9,
       "label": "Normal"
     },
     "dxy": {
-      "price": 98.95,
-      "chg_pct": -0.0004
+      "price": 98.97,
+      "chg_pct": -0.0002
     },
     "yields": [
       {
@@ -587,93 +587,126 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1671,
-        "chg_pct": 0.0008,
-        "chg_1mo": 0.0259,
-        "chg_3mo": 0.0035,
-        "chg_6mo": -0.0118,
-        "chg_1yr": -0.0043
+        "price": 1.1668,
+        "chg_pct": 0.0006,
+        "chg_1mo": 0.0257,
+        "chg_3mo": 0.0033,
+        "chg_6mo": -0.012,
+        "chg_1yr": -0.0045
       },
       {
         "name": "USD/JPY",
-        "price": 159.212,
-        "chg_pct": 0.001,
-        "chg_1mo": -0.0279,
-        "chg_3mo": -0.0002,
-        "chg_6mo": 0.0183,
-        "chg_1yr": 0.0846
+        "price": 159.27,
+        "chg_pct": 0.0013,
+        "chg_1mo": -0.0275,
+        "chg_3mo": 0.0001,
+        "chg_6mo": 0.0187,
+        "chg_1yr": 0.085
       },
       {
         "name": "GBP/USD",
-        "price": 1.3645,
-        "chg_pct": 0.0011,
-        "chg_1mo": 0.0249,
-        "chg_3mo": 0.0147,
-        "chg_6mo": 0.0066,
-        "chg_1yr": 0.0091
+        "price": 1.3632,
+        "chg_pct": 0.0001,
+        "chg_1mo": 0.024,
+        "chg_3mo": 0.0138,
+        "chg_6mo": 0.0057,
+        "chg_1yr": 0.0081
       },
       {
         "name": "USD/CNY",
-        "price": 6.719,
-        "chg_pct": -0.0004,
-        "chg_1mo": -0.0075,
-        "chg_3mo": -0.0098,
-        "chg_6mo": -0.0218,
-        "chg_1yr": -0.0622
+        "price": 6.7198,
+        "chg_pct": -0.0003,
+        "chg_1mo": -0.0074,
+        "chg_3mo": -0.0097,
+        "chg_6mo": -0.0217,
+        "chg_1yr": -0.0621
       },
       {
         "name": "AUD/USD",
-        "price": 0.7157,
-        "chg_pct": 0.0012,
-        "chg_1mo": 0.0273,
-        "chg_3mo": -0.0012,
-        "chg_6mo": 0.0052,
-        "chg_1yr": 0.1032
+        "price": 0.7156,
+        "chg_pct": 0.0009,
+        "chg_1mo": 0.027,
+        "chg_3mo": -0.0015,
+        "chg_6mo": 0.005,
+        "chg_1yr": 0.1029
       },
       {
         "name": "USD/BRL",
-        "price": 5.1524,
-        "chg_pct": -0.0009,
-        "chg_1mo": 0.0143,
-        "chg_3mo": 0.0234,
-        "chg_6mo": 0.0054,
-        "chg_1yr": -0.0498
+        "price": 5.1485,
+        "chg_pct": -0.0017,
+        "chg_1mo": 0.0135,
+        "chg_3mo": 0.0226,
+        "chg_6mo": 0.0047,
+        "chg_1yr": -0.0506
       },
       {
         "name": "USD/CAD",
-        "price": 1.3845,
-        "chg_pct": 0.0003,
-        "chg_1mo": -0.0167,
-        "chg_3mo": 0.0026,
-        "chg_6mo": 0.0124,
-        "chg_1yr": 0.0014
+        "price": 1.3837,
+        "chg_pct": -0.0002,
+        "chg_1mo": -0.0172,
+        "chg_3mo": 0.0021,
+        "chg_6mo": 0.0119,
+        "chg_1yr": 0.0008
       },
       {
         "name": "USD/CHF",
-        "price": 0.8024,
-        "chg_pct": 0.0005,
-        "chg_1mo": -0.017,
-        "chg_3mo": 0.0215,
-        "chg_6mo": 0.039,
-        "chg_1yr": 0.0001
+        "price": 0.8027,
+        "chg_pct": 0.0008,
+        "chg_1mo": -0.0167,
+        "chg_3mo": 0.0218,
+        "chg_6mo": 0.0393,
+        "chg_1yr": 0.0004
       },
       {
         "name": "USD/MXN",
-        "price": 16.9353,
-        "chg_pct": 0.0009,
+        "price": 16.936,
+        "chg_pct": 0.001,
         "chg_1mo": -0.0315,
         "chg_3mo": -0.02,
-        "chg_6mo": -0.0125,
+        "chg_6mo": -0.0124,
         "chg_1yr": -0.0877
       }
     ],
+    "bitcoin": {
+      "price": 79261.0,
+      "chg_pct": 0.0038
+    },
+    "breakeven_note": "TIP/IEF premium indicates market inflation expectations",
     "global_watch": [
+      {
+        "ticker": "ES=F",
+        "label": "S&P 500 Futures",
+        "region": "US Futures",
+        "price": 7687,
+        "chg_pct": 0.0014
+      },
+      {
+        "ticker": "NQ=F",
+        "label": "NASDAQ Futures",
+        "region": "US Futures",
+        "price": 29269.75,
+        "chg_pct": 0.0044
+      },
+      {
+        "ticker": "YM=F",
+        "label": "Dow Futures",
+        "region": "US Futures",
+        "price": 53564,
+        "chg_pct": 0.0007
+      },
+      {
+        "ticker": "RTY=F",
+        "label": "Russell 2000 Fut",
+        "region": "US Futures",
+        "price": 3008.1,
+        "chg_pct": 0.0012
+      },
       {
         "ticker": "^VIX",
         "label": "VIX Fear Index",
         "region": "Risk",
-        "price": 15.1,
-        "chg_pct": 0.0
+        "price": 15.8,
+        "chg_pct": -0.0063
       },
       {
         "ticker": "CL=F",
@@ -688,6 +721,41 @@
         "region": "Commodities",
         "price": 4639.14,
         "chg_pct": -0.0027
+      },
+      {
+        "ticker": "^N225",
+        "label": "Nikkei 225",
+        "region": "Asia",
+        "price": 65856.36,
+        "chg_pct": 0.0101
+      },
+      {
+        "ticker": "^HSI",
+        "label": "Hang Seng",
+        "region": "Asia",
+        "price": 25511.11,
+        "chg_pct": -0.0048
+      },
+      {
+        "ticker": "000001.SS",
+        "label": "Shanghai Composite",
+        "region": "Asia",
+        "price": 3889.44,
+        "chg_pct": 0.0067
+      },
+      {
+        "ticker": "^GDAXI",
+        "label": "DAX (Germany)",
+        "region": "Europe",
+        "price": 26266.15,
+        "chg_pct": 0.0023
+      },
+      {
+        "ticker": "^FTSE",
+        "label": "FTSE 100 (UK)",
+        "region": "Europe",
+        "price": 10886.17,
+        "chg_pct": 0.0029
       }
     ],
     "econ_history": {
@@ -699,11 +767,11 @@
         "val_1yr": 4.33
       },
       "VIX Fear Index": {
-        "current": 15.13,
-        "val_1mo": 16.64,
-        "val_3mo": 16.7,
-        "val_6mo": 19.09,
-        "val_1yr": 16.6
+        "current": 15.85,
+        "val_1mo": 18.58,
+        "val_3mo": 16.59,
+        "val_6mo": 21.01,
+        "val_1yr": 14.79
       },
       "Dollar (broad, Fed)": {
         "current": 118.06,
@@ -776,6 +844,129 @@
         "date": "Wed, 05 Aug 2026 11:51:26 +0100"
       }
     ],
+    "sector_etfs": [
+      {
+        "symbol": "XLK",
+        "name": "Technology",
+        "price": 181.73,
+        "rsi": 47.5,
+        "macd": "Bearish Cross",
+        "vs50": 0.0022,
+        "vs200": 0.1174,
+        "trend": "Above MA50+200",
+        "vol_ratio": null
+      },
+      {
+        "symbol": "XLV",
+        "name": "Healthcare",
+        "price": 175.39,
+        "rsi": 69.4,
+        "macd": "Bullish Cross",
+        "vs50": 0.073,
+        "vs200": 0.1377,
+        "trend": "Above MA50+200",
+        "vol_ratio": null
+      },
+      {
+        "symbol": "XLF",
+        "name": "Financials",
+        "price": 58.17,
+        "rsi": 60.8,
+        "macd": "Bearish",
+        "vs50": 0.0348,
+        "vs200": 0.0857,
+        "trend": "Above MA50+200",
+        "vol_ratio": null
+      },
+      {
+        "symbol": "XLY",
+        "name": "Consumer Cyclical",
+        "price": 118.22,
+        "rsi": 54.3,
+        "macd": "Bearish",
+        "vs50": 0.0132,
+        "vs200": 0.0202,
+        "trend": "Above MA50+200",
+        "vol_ratio": null
+      },
+      {
+        "symbol": "XLP",
+        "name": "Consumer Defensive",
+        "price": 86.31,
+        "rsi": 54.1,
+        "macd": "Bullish",
+        "vs50": 0.0151,
+        "vs200": 0.0351,
+        "trend": "Above MA50+200",
+        "vol_ratio": null
+      },
+      {
+        "symbol": "XLI",
+        "name": "Industrials",
+        "price": 178.94,
+        "rsi": 39.9,
+        "macd": "Bearish Cross",
+        "vs50": -0.0108,
+        "vs200": 0.0487,
+        "trend": "Below MA50",
+        "vol_ratio": null
+      },
+      {
+        "symbol": "XLE",
+        "name": "Energy",
+        "price": 62.53,
+        "rsi": 62.7,
+        "macd": "Bullish",
+        "vs50": 0.0566,
+        "vs200": 0.1433,
+        "trend": "Above MA50+200",
+        "vol_ratio": null
+      },
+      {
+        "symbol": "XLB",
+        "name": "Basic Materials",
+        "price": 53.38,
+        "rsi": 59.6,
+        "macd": "Bullish",
+        "vs50": 0.0299,
+        "vs200": 0.0703,
+        "trend": "Above MA50+200",
+        "vol_ratio": null
+      },
+      {
+        "symbol": "XLC",
+        "name": "Communication",
+        "price": 112.94,
+        "rsi": 57.4,
+        "macd": "Bullish",
+        "vs50": 0.0166,
+        "vs200": 0.0081,
+        "trend": "Above MA50+200",
+        "vol_ratio": null
+      },
+      {
+        "symbol": "XLRE",
+        "name": "Real Estate",
+        "price": 45.39,
+        "rsi": 55.7,
+        "macd": "Bullish",
+        "vs50": 0.0126,
+        "vs200": 0.044,
+        "trend": "Above MA50+200",
+        "vol_ratio": null
+      },
+      {
+        "symbol": "XLU",
+        "name": "Utilities",
+        "price": 43.22,
+        "rsi": 39.0,
+        "macd": "Bearish",
+        "vs50": -0.028,
+        "vs200": -0.0264,
+        "trend": "Below MA50",
+        "vol_ratio": null
+      }
+    ],
     "regime": {
       "label": "REFLATION",
       "growth": 1.0,
@@ -806,7 +997,7 @@
         },
         {
           "name": "VIX",
-          "value": 15.1,
+          "value": 15.8,
           "vote": 1,
           "detail": "risk appetite below 20"
         },
@@ -840,7 +1031,7 @@
       "policy_inputs": [
         {
           "name": "Fed Funds futures path",
-          "value": 26.5,
+          "value": 26.8,
           "vote": -1,
           "detail": "bp between the front and far contract; negative prices cuts"
         },
@@ -852,7 +1043,7 @@
         },
         {
           "name": "Dollar, 20-day change",
-          "value": -0.57,
+          "value": -0.65,
           "vote": 1,
           "detail": "a weaker dollar loosens global financial conditions"
         }
@@ -1040,31 +1231,31 @@
     "disclaimer": "Flow and timing effects, not valuation. These do not change any score."
   },
   "rate_path": {
-    "front": 3.63,
-    "far": 3.895,
+    "front": 3.632,
+    "far": 3.9,
     "front_contract": "ZQQ2026",
     "far_contract": "ZQF2027",
-    "path_bps": 26.5,
+    "path_bps": 26.8,
     "direction": "rates expected HIGHER",
-    "next_move_odds": 18.0,
-    "d_front_bps": 0.0,
-    "d_far_bps": -1.5,
+    "next_move_odds": 19.0,
+    "d_front_bps": 0.2,
+    "d_far_bps": -1.0,
     "spy_chg_pct": -0.002938410907381288,
     "verdict": "MIXED",
     "verdict_note": "No consistent relationship between rate expectations and stocks. Neither story is in charge right now.",
     "fed_score": 32.0,
-    "corr": -0.324,
-    "today_side": -15.0,
+    "corr": -0.325,
+    "today_side": -10.0,
     "window": 20,
     "pairs": 14,
     "curve": [
       {
         "contract": "ZQQ2026",
-        "implied": 3.63
+        "implied": 3.6325
       },
       {
         "contract": "ZQU2026",
-        "implied": 3.675
+        "implied": 3.68
       },
       {
         "contract": "ZQV2026",
@@ -1080,7 +1271,7 @@
       },
       {
         "contract": "ZQF2027",
-        "implied": 3.895
+        "implied": 3.9
       },
       {
         "contract": "ZQG2027",
@@ -1088,19 +1279,19 @@
       },
       {
         "contract": "ZQH2027",
-        "implied": 3.965
+        "implied": 3.97
       },
       {
         "contract": "ZQJ2027",
-        "implied": 4
+        "implied": 3.995
       },
       {
         "contract": "ZQK2027",
-        "implied": 4.02
+        "implied": 4.015
       },
       {
         "contract": "ZQM2027",
-        "implied": 4.04
+        "implied": 4.03
       }
     ],
     "sessions": 16
