@@ -26,5 +26,12 @@
     "category": "sector_behavior|signal_calibration|technical_timing",
     "horizon": "all",
     "date": "2026-08-25"
+  },
+  {
+    "note": "System exhibits three distinct regimes: (1) Same-day signals produce zero alpha (\u221223bps yesterday); (2) 1-week horizon shows negative aggregate performance (\u221280bps) despite positive individual picks, suggesting timing or rebalancing friction; (3) 1-month horizon delivers exceptional +1,443bps alpha, but 95% concentrated in precious metals/mining (AU, AEM, SSRM, DRD, WPM, NEM, RGLD, CDE averaging +38% vs non-commodity +2-3%). Root cause: scoring model assigns high marks (7.0-7.8) to both commodity and non-commodity sectors without differentiation. Actionable correction: (A) Eliminate same-day entry signals entirely; (B) Apply 4-5x weighting multiplier to gold/silver/mining sector signals exclusively for 1-week and 1-month portfolios; (C) Reduce non-commodity sector allocation to <10% of medium/long-term capital; (D) Today's top picks (LPG, INSW, ECO, XOP, CGAU) show only 1/5 in precious metals\u2014recommend rebalancing 70%+ toward AU, AEM, WPM, RGLD, NEM for capturing demonstrated alpha pattern.",
+    "confidence": 5,
+    "category": "sector_behavior|signal_calibration|fundamental_weight",
+    "horizon": "all",
+    "date": "2026-08-25"
   }
 ]
