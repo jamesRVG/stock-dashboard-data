@@ -1,6 +1,6 @@
 {
-  "refreshed": "2026-08-25 08:57",
-  "refreshed_utc": "2026-08-25T08:57:51Z",
+  "refreshed": "2026-08-25 13:32",
+  "refreshed_utc": "2026-08-25T13:32:32Z",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "sentiment_net": 5,
@@ -22,7 +22,7 @@
     },
     {
       "signal": "Volatility (VIX)",
-      "value": "15.8",
+      "value": "15.1",
       "reading": "calm"
     },
     {
@@ -56,7 +56,6 @@
   "avg_score_prev": 6.43,
   "avg_score_series": [
     6.45,
-    6.45,
     6.47,
     6.47,
     6.47,
@@ -83,11 +82,11 @@
     6.45,
     6.45,
     6.45,
+    6.43,
     6.43,
     6.43
   ],
   "avg_score_dates": [
-    "2026-08-18",
     "2026-08-18",
     "2026-08-18",
     "2026-08-19",
@@ -116,6 +115,7 @@
     "2026-08-24",
     "2026-08-24",
     "2026-08-24",
+    "2026-08-25",
     "2026-08-25"
   ],
   "sentiment_series": [
@@ -124,7 +124,6 @@
     9,
     9,
     9,
-    9,
     7,
     7,
     7,
@@ -146,6 +145,7 @@
     7,
     7,
     7,
+    5,
     5,
     5,
     5
@@ -156,7 +156,7 @@
     "BULLISH",
     "BULLISH",
     "BULLISH",
-    "BULLISH",
+    "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
     "CAUTIOUSLY OPTIMISTIC",
@@ -301,8 +301,8 @@
       },
       {
         "name": "Russell 2K (fut)",
-        "price": 3013.8,
-        "chg_pct": 0.0031
+        "price": 3016.3,
+        "chg_pct": 0.0039
       }
     ],
     "vix": {
@@ -311,8 +311,8 @@
       "label": "Normal"
     },
     "dxy": {
-      "price": 99.03,
-      "chg_pct": 0.0004
+      "price": 98.95,
+      "chg_pct": -0.0004
     },
     "yields": [
       {
@@ -587,84 +587,84 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1664,
-        "chg_pct": 0.0003,
-        "chg_1mo": 0.0254,
-        "chg_3mo": 0.003,
-        "chg_6mo": -0.0123,
-        "chg_1yr": -0.0048
+        "price": 1.1671,
+        "chg_pct": 0.0008,
+        "chg_1mo": 0.0259,
+        "chg_3mo": 0.0035,
+        "chg_6mo": -0.0118,
+        "chg_1yr": -0.0043
       },
       {
         "name": "USD/JPY",
-        "price": 159.376,
-        "chg_pct": 0.002,
-        "chg_1mo": -0.0269,
-        "chg_3mo": 0.0008,
-        "chg_6mo": 0.0194,
-        "chg_1yr": 0.0857
+        "price": 159.212,
+        "chg_pct": 0.001,
+        "chg_1mo": -0.0279,
+        "chg_3mo": -0.0002,
+        "chg_6mo": 0.0183,
+        "chg_1yr": 0.0846
       },
       {
         "name": "GBP/USD",
-        "price": 1.3638,
-        "chg_pct": 0.0006,
-        "chg_1mo": 0.0245,
-        "chg_3mo": 0.0143,
-        "chg_6mo": 0.0062,
-        "chg_1yr": 0.0087
+        "price": 1.3645,
+        "chg_pct": 0.0011,
+        "chg_1mo": 0.0249,
+        "chg_3mo": 0.0147,
+        "chg_6mo": 0.0066,
+        "chg_1yr": 0.0091
       },
       {
         "name": "USD/CNY",
-        "price": 6.7212,
-        "chg_pct": -0.0001,
-        "chg_1mo": -0.0072,
-        "chg_3mo": -0.0095,
-        "chg_6mo": -0.0215,
-        "chg_1yr": -0.0619
+        "price": 6.719,
+        "chg_pct": -0.0004,
+        "chg_1mo": -0.0075,
+        "chg_3mo": -0.0098,
+        "chg_6mo": -0.0218,
+        "chg_1yr": -0.0622
       },
       {
         "name": "AUD/USD",
-        "price": 0.7147,
-        "chg_pct": -0.0003,
-        "chg_1mo": 0.0257,
-        "chg_3mo": -0.0027,
-        "chg_6mo": 0.0037,
-        "chg_1yr": 0.1015
+        "price": 0.7157,
+        "chg_pct": 0.0012,
+        "chg_1mo": 0.0273,
+        "chg_3mo": -0.0012,
+        "chg_6mo": 0.0052,
+        "chg_1yr": 0.1032
       },
       {
         "name": "USD/BRL",
-        "price": 5.1594,
-        "chg_pct": 0.0004,
-        "chg_1mo": 0.0156,
-        "chg_3mo": 0.0248,
-        "chg_6mo": 0.0068,
-        "chg_1yr": -0.0486
+        "price": 5.1524,
+        "chg_pct": -0.0009,
+        "chg_1mo": 0.0143,
+        "chg_3mo": 0.0234,
+        "chg_6mo": 0.0054,
+        "chg_1yr": -0.0498
       },
       {
         "name": "USD/CAD",
-        "price": 1.386,
-        "chg_pct": 0.0014,
-        "chg_1mo": -0.0156,
-        "chg_3mo": 0.0038,
-        "chg_6mo": 0.0135,
-        "chg_1yr": 0.0025
+        "price": 1.3845,
+        "chg_pct": 0.0003,
+        "chg_1mo": -0.0167,
+        "chg_3mo": 0.0026,
+        "chg_6mo": 0.0124,
+        "chg_1yr": 0.0014
       },
       {
         "name": "USD/CHF",
-        "price": 0.8031,
-        "chg_pct": 0.0012,
-        "chg_1mo": -0.0162,
-        "chg_3mo": 0.0223,
-        "chg_6mo": 0.0398,
-        "chg_1yr": 0.0008
+        "price": 0.8024,
+        "chg_pct": 0.0005,
+        "chg_1mo": -0.017,
+        "chg_3mo": 0.0215,
+        "chg_6mo": 0.039,
+        "chg_1yr": 0.0001
       },
       {
         "name": "USD/MXN",
-        "price": 16.941,
-        "chg_pct": 0.0013,
-        "chg_1mo": -0.0312,
-        "chg_3mo": -0.0197,
-        "chg_6mo": -0.0121,
-        "chg_1yr": -0.0874
+        "price": 16.9353,
+        "chg_pct": 0.0009,
+        "chg_1mo": -0.0315,
+        "chg_3mo": -0.02,
+        "chg_6mo": -0.0125,
+        "chg_1yr": -0.0877
       }
     ],
     "global_watch": [
@@ -840,7 +840,7 @@
       "policy_inputs": [
         {
           "name": "Fed Funds futures path",
-          "value": 27.5,
+          "value": 26.5,
           "vote": -1,
           "detail": "bp between the front and far contract; negative prices cuts"
         },
@@ -852,7 +852,7 @@
         },
         {
           "name": "Dollar, 20-day change",
-          "value": -0.55,
+          "value": -0.57,
           "vote": 1,
           "detail": "a weaker dollar loosens global financial conditions"
         }
@@ -1041,20 +1041,20 @@
   },
   "rate_path": {
     "front": 3.63,
-    "far": 3.905,
+    "far": 3.895,
     "front_contract": "ZQQ2026",
     "far_contract": "ZQF2027",
-    "path_bps": 27.5,
+    "path_bps": 26.5,
     "direction": "rates expected HIGHER",
-    "next_move_odds": 20.0,
+    "next_move_odds": 18.0,
     "d_front_bps": 0.0,
-    "d_far_bps": -0.5,
+    "d_far_bps": -1.5,
     "spy_chg_pct": -0.002938410907381288,
     "verdict": "MIXED",
     "verdict_note": "No consistent relationship between rate expectations and stocks. Neither story is in charge right now.",
     "fed_score": 32.0,
     "corr": -0.324,
-    "today_side": -5.0,
+    "today_side": -15.0,
     "window": 20,
     "pairs": 14,
     "curve": [
@@ -1064,7 +1064,7 @@
       },
       {
         "contract": "ZQU2026",
-        "implied": 3.68
+        "implied": 3.675
       },
       {
         "contract": "ZQV2026",
@@ -1072,35 +1072,35 @@
       },
       {
         "contract": "ZQX2026",
-        "implied": 3.795
+        "implied": 3.79
       },
       {
         "contract": "ZQZ2026",
-        "implied": 3.875
+        "implied": 3.865
       },
       {
         "contract": "ZQF2027",
-        "implied": 3.905
+        "implied": 3.895
       },
       {
         "contract": "ZQG2027",
-        "implied": 3.95
+        "implied": 3.935
       },
       {
         "contract": "ZQH2027",
-        "implied": 3.985
+        "implied": 3.965
       },
       {
         "contract": "ZQJ2027",
-        "implied": 4.02
+        "implied": 4
       },
       {
         "contract": "ZQK2027",
-        "implied": 4.045
+        "implied": 4.02
       },
       {
         "contract": "ZQM2027",
-        "implied": 4.065
+        "implied": 4.04
       }
     ],
     "sessions": 16
@@ -1159,13 +1159,13 @@
       "vs200": 0.4607,
       "vs50": 0.1973,
       "vol_ratio": 0.94,
-      "volume": 499242.0,
+      "volume": 499278.0,
       "spark7": null,
       "ret_30d": 0.12,
       "analyst_consensus": 2.09,
       "analyst_count": 11.0,
       "earn_date": "2026-11-04",
-      "earn_days": 72,
+      "earn_days": 71,
       "earn_surprise_pct": 0.3855,
       "earn_eps_actual": 2.52,
       "earn_eps_estimate": 1.8189,
@@ -1187,13 +1187,13 @@
       "is_new": false,
       "type": "Stock",
       "sector": "Energy",
-      "business_summary": null,
+      "business_summary": "International Seaways, Inc.",
       "price": 99.95,
       "mkt_cap": "$4.7B",
       "signal": "Strong Buy",
-      "total": 8.0,
+      "total": 7.9,
       "why": "Strong fundamentals; bullish technicals; macro tailwinds; earnings+revenue both growing; high roe 37%",
-      "fund": 8.6,
+      "fund": 8.0,
       "tech": 8.2,
       "macro": 7.5,
       "fund_sig": "Strong",
@@ -1204,8 +1204,8 @@
       "sell_sig": null,
       "sell_urg": null,
       "sell_why": null,
-      "upside_pct": null,
-      "target_price": null,
+      "upside_pct": 0.0005002501250625028,
+      "target_price": 100.0,
       "pos_52w": 0.96,
       "rsi": 66.00079047825164,
       "atr": 3.3086296658697267,
@@ -1225,19 +1225,19 @@
       "inst_pct": 0.84656,
       "insider_pct": 0.16228001,
       "short_pct": 0.0616,
-      "div_y": 0.083701768488746,
+      "div_y": 0.0833416708354177,
       "roe": 0.374116050605098,
       "de": 28.815429064575405,
       "vs200": 0.3885,
       "vs50": 0.1189,
       "vol_ratio": 0.82,
-      "volume": 407601.0,
+      "volume": 407708.0,
       "spark7": null,
       "ret_30d": 0.0953,
       "analyst_consensus": 1.79,
       "analyst_count": 14.0,
       "earn_date": "2026-11-04",
-      "earn_days": 72,
+      "earn_days": 71,
       "earn_surprise_pct": 0.1991,
       "earn_eps_actual": 5.91,
       "earn_eps_estimate": 4.9285,
@@ -1259,13 +1259,13 @@
       "is_new": false,
       "type": "Stock",
       "sector": "Energy",
-      "business_summary": null,
+      "business_summary": "Okeanis Eco Tankers Corp., a shipping company, owns and operates tanker vessels worldwide.",
       "price": 65.14,
       "mkt_cap": "$2.5B",
       "signal": "Strong Buy",
-      "total": 8.0,
+      "total": 7.9,
       "why": "Strong fundamentals; bullish technicals; macro tailwinds; earnings+revenue both growing; high roe 62%",
-      "fund": 8.5,
+      "fund": 8.2,
       "tech": 8.1,
       "macro": 7.5,
       "fund_sig": "Strong",
@@ -1276,8 +1276,8 @@
       "sell_sig": null,
       "sell_urg": null,
       "sell_why": null,
-      "upside_pct": null,
-      "target_price": null,
+      "upside_pct": 0.1513662879950875,
+      "target_price": 75.0,
       "pos_52w": 0.972,
       "rsi": 63.1125459012266,
       "atr": 2.4646002841804378,
@@ -1285,7 +1285,7 @@
       "macd": "Bullish",
       "earn_gr": 4.138920835729346,
       "pe": 6.074282677011162,
-      "fwd_pe": 3.740997451182428,
+      "fwd_pe": 4.031908900893835,
       "peg": 0.01457912717797998,
       "rev_gr": 1.052421973507751,
       "margin": 0.569219820301613,
@@ -1297,13 +1297,13 @@
       "inst_pct": 0.29649,
       "insider_pct": 0.46168998,
       "short_pct": 0.0342,
-      "div_y": 0.0772678102302581,
+      "div_y": 0.0767577525330058,
       "roe": 0.615919910455297,
       "de": 82.3343669532456,
       "vs200": 0.3665,
       "vs50": 0.1407,
       "vol_ratio": 1.02,
-      "volume": 578216.0,
+      "volume": 579053.0,
       "spark7": null,
       "ret_30d": 0.1223,
       "analyst_consensus": 2.11,
@@ -1324,78 +1324,6 @@
       "rs_spy": 0.0885
     },
     {
-      "ticker": "FCG",
-      "name": "First Trust Natural Gas ETF",
-      "cat": "Energy",
-      "watchlist": "Energy",
-      "is_new": false,
-      "type": "ETF",
-      "sector": "N/A",
-      "business_summary": null,
-      "price": 31.13,
-      "mkt_cap": "$694M",
-      "signal": "Strong Buy",
-      "total": 7.8,
-      "why": "Strong fundamentals; bullish technicals; macro tailwinds",
-      "fund": 8.4,
-      "tech": 7.7,
-      "macro": 7.5,
-      "fund_sig": "Strong",
-      "tech_sig": "Bullish",
-      "fund_why": "attractively valued",
-      "tech_why": "Neutral technicals",
-      "macro_why": "+Energy Demand Surge; +Geopolitical Risk Premium (weak)",
-      "sell_sig": null,
-      "sell_urg": null,
-      "sell_why": null,
-      "upside_pct": null,
-      "target_price": null,
-      "pos_52w": 0.831,
-      "rsi": 64.09185309349208,
-      "atr": 0.6958982376952243,
-      "gpa": null,
-      "macd": "Bullish",
-      "earn_gr": null,
-      "pe": 11.575527,
-      "fwd_pe": null,
-      "peg": null,
-      "rev_gr": null,
-      "margin": null,
-      "gross_margin": null,
-      "eps": null,
-      "pb": null,
-      "current_ratio": null,
-      "quick_ratio": null,
-      "inst_pct": null,
-      "insider_pct": null,
-      "short_pct": null,
-      "div_y": 0.02019047619047619,
-      "roe": null,
-      "de": null,
-      "vs200": 0.1344,
-      "vs50": 0.0994,
-      "vol_ratio": 1.43,
-      "volume": 1066478.0,
-      "spark7": null,
-      "ret_30d": 0.0628,
-      "analyst_consensus": null,
-      "analyst_count": null,
-      "earn_date": null,
-      "earn_days": null,
-      "earn_surprise_pct": null,
-      "earn_eps_actual": null,
-      "earn_eps_estimate": null,
-      "beta": 0.4712865,
-      "fee_pct": 0.59,
-      "chg_pct": -0.011746031746031777,
-      "ret_7d": 0.0353,
-      "ret_90d": 0.0401,
-      "lt_signal": "LT Strong Buy",
-      "lt_horizon": "12-24 months",
-      "downturn_resilient": true,
-      "rs_spy": 0.029
-    },
-    {
       "ticker": "XOP",
       "name": "State Street SPDR S&P Oil & Gas",
       "cat": "Energy",
@@ -1405,7 +1333,7 @@
       "sector": "N/A",
       "business_summary": null,
       "price": 186.24,
-      "mkt_cap": "$3.9B",
+      "mkt_cap": "$4.0B",
       "signal": "Strong Buy",
       "total": 7.9,
       "why": "Strong fundamentals; bullish technicals; macro tailwinds; near 52w high (pricey)",
@@ -1441,13 +1369,13 @@
       "inst_pct": null,
       "insider_pct": null,
       "short_pct": null,
-      "div_y": 0.017141500474833808,
+      "div_y": 0.017445231958762887,
       "roe": null,
       "de": null,
       "vs200": 0.1951,
       "vs50": 0.1099,
       "vol_ratio": 1.01,
-      "volume": 2954119.0,
+      "volume": 2956063.0,
       "spark7": null,
       "ret_30d": 0.0616,
       "analyst_consensus": null,
@@ -1468,150 +1396,6 @@
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
       "rs_spy": 0.0278
-    },
-    {
-      "ticker": "ARKG",
-      "name": "ARK Genomic Revolution ETF",
-      "cat": "Health",
-      "watchlist": "Health",
-      "is_new": false,
-      "type": "ETF",
-      "sector": "N/A",
-      "business_summary": null,
-      "price": 48.01,
-      "mkt_cap": "$1.9B",
-      "signal": "Strong Buy",
-      "total": 7.8,
-      "why": "Bullish technicals; macro tailwinds; near 52w high (pricey)",
-      "fund": null,
-      "tech": 8.4,
-      "macro": 7.4,
-      "fund_sig": null,
-      "tech_sig": "Bullish",
-      "fund_why": "insufficient data",
-      "tech_why": "MACD bullish cross; near 52W high; 60% 12m momentum",
-      "macro_why": "+Healthcare Demand",
-      "sell_sig": null,
-      "sell_urg": null,
-      "sell_why": null,
-      "upside_pct": null,
-      "target_price": null,
-      "pos_52w": 0.939,
-      "rsi": 67.65073140383625,
-      "atr": 1.723226161141118,
-      "gpa": null,
-      "macd": "Bullish Cross",
-      "earn_gr": null,
-      "pe": null,
-      "fwd_pe": null,
-      "peg": null,
-      "rev_gr": null,
-      "margin": null,
-      "gross_margin": null,
-      "eps": null,
-      "pb": null,
-      "current_ratio": null,
-      "quick_ratio": null,
-      "inst_pct": null,
-      "insider_pct": null,
-      "short_pct": null,
-      "div_y": 0.0,
-      "roe": null,
-      "de": null,
-      "vs200": 0.477,
-      "vs50": 0.1745,
-      "vol_ratio": 1.04,
-      "volume": 4358651.0,
-      "spark7": null,
-      "ret_30d": 0.2294,
-      "analyst_consensus": null,
-      "analyst_count": null,
-      "earn_date": null,
-      "earn_days": null,
-      "earn_surprise_pct": null,
-      "earn_eps_actual": null,
-      "earn_eps_estimate": null,
-      "beta": 1.7068242,
-      "fee_pct": 0.75,
-      "chg_pct": -0.02912032355915075,
-      "ret_7d": 0.1135,
-      "ret_90d": 0.5467,
-      "lt_signal": null,
-      "lt_horizon": null,
-      "downturn_resilient": false,
-      "rs_spy": 0.1956
-    },
-    {
-      "ticker": "XBI",
-      "name": "State Street SPDR S&P Biotech E",
-      "cat": "Health",
-      "watchlist": "Health",
-      "is_new": false,
-      "type": "ETF",
-      "sector": "N/A",
-      "business_summary": null,
-      "price": 164.17,
-      "mkt_cap": "$11.4B",
-      "signal": "Strong Buy",
-      "total": 7.8,
-      "why": "Bullish technicals; macro tailwinds; near 52w high (pricey)",
-      "fund": null,
-      "tech": 8.4,
-      "macro": 7.4,
-      "fund_sig": null,
-      "tech_sig": "Bullish",
-      "fund_why": "insufficient data",
-      "tech_why": "MACD bullish cross; near 52W high; 69% 12m momentum",
-      "macro_why": "+Healthcare Demand",
-      "sell_sig": null,
-      "sell_urg": null,
-      "sell_why": null,
-      "upside_pct": null,
-      "target_price": null,
-      "pos_52w": 0.932,
-      "rsi": 60.61770728929502,
-      "atr": 4.469909369637503,
-      "gpa": null,
-      "macd": "Bullish Cross",
-      "earn_gr": null,
-      "pe": null,
-      "fwd_pe": null,
-      "peg": null,
-      "rev_gr": null,
-      "margin": null,
-      "gross_margin": null,
-      "eps": null,
-      "pb": null,
-      "current_ratio": null,
-      "quick_ratio": null,
-      "inst_pct": null,
-      "insider_pct": null,
-      "short_pct": null,
-      "div_y": 0.003445362939721233,
-      "roe": null,
-      "de": null,
-      "vs200": 0.2347,
-      "vs50": 0.0665,
-      "vol_ratio": 0.98,
-      "volume": 8521606.0,
-      "spark7": null,
-      "ret_30d": 0.0746,
-      "analyst_consensus": null,
-      "analyst_count": null,
-      "earn_date": null,
-      "earn_days": null,
-      "earn_surprise_pct": null,
-      "earn_eps_actual": null,
-      "earn_eps_estimate": null,
-      "beta": 0.83368945,
-      "fee_pct": 0.35000000000000003,
-      "chg_pct": -0.009412900500814593,
-      "ret_7d": 0.0468,
-      "ret_90d": 0.2393,
-      "lt_signal": null,
-      "lt_horizon": null,
-      "downturn_resilient": false,
-      "rs_spy": 0.0408
     },
     {
       "ticker": "FBT",
@@ -1665,7 +1449,7 @@
       "vs200": 0.2313,
       "vs50": 0.0803,
       "vol_ratio": 3.51,
-      "volume": 189577.0,
+      "volume": 189578.0,
       "spark7": null,
       "ret_30d": 0.0763,
       "analyst_consensus": null,
@@ -1686,148 +1470,220 @@
       "rs_spy": 0.0425
     },
     {
-      "ticker": "MU",
-      "name": "Micron Technology Inc",
-      "cat": "Core / Tech",
-      "watchlist": "Core Mainstream",
+      "ticker": "XBI",
+      "name": "State Street SPDR S&P Biotech E",
+      "cat": "Health",
+      "watchlist": "Health",
       "is_new": false,
-      "type": "Stock",
-      "sector": "Semiconductors",
+      "type": "ETF",
+      "sector": "N/A",
       "business_summary": null,
-      "price": 910.43,
-      "mkt_cap": "$1.1T",
+      "price": 164.17,
+      "mkt_cap": "$11.3B",
       "signal": "Strong Buy",
-      "total": 7.5,
-      "why": "Strong fundamentals; bullish technicals; analysts see 66% upside (12mo); earnings+revenue both growing; high roe 67%",
-      "fund": 8.8,
-      "tech": 7.4,
-      "macro": 6.6,
-      "fund_sig": "Strong",
-      "tech_sig": "Lean Bull",
-      "fund_why": "PEG 0.03, growth priced below its rate; earnings growing fast; strong revenue growth",
-      "tech_why": "MACD bullish cross; below 50D MA; 715% 12m momentum",
-      "macro_why": "+AI Infrastructure Boom",
-      "sell_sig": null,
-      "sell_urg": null,
-      "sell_why": null,
-      "upside_pct": 0.6561301802445,
-      "target_price": 1507.7906,
-      "pos_52w": 0.698,
-      "rsi": 48.50315064468404,
-      "atr": 67.62788379416567,
-      "gpa": 0.4886885588165116,
-      "macd": "Bullish Cross",
-      "earn_gr": 6.97287150515315,
-      "pe": 20.610973895286843,
-      "fwd_pe": 5.86615,
-      "peg": 0.0313883111161808,
-      "rev_gr": 1.6698015556147043,
-      "margin": 0.5590646254735581,
-      "gross_margin": 0.7260008418813829,
-      "eps": 44.1721,
-      "pb": 10.204871970850716,
-      "current_ratio": 3.42451765188834,
-      "quick_ratio": 2.98491379310345,
-      "inst_pct": null,
-      "insider_pct": null,
-      "short_pct": 0.026500002,
-      "div_y": 0.000548211588986119,
-      "roe": 0.666380585190662,
-      "de": 6.330169572296571,
-      "vs200": 0.5846,
-      "vs50": -0.0545,
-      "vol_ratio": 0.98,
-      "volume": 29817365.0,
-      "spark7": null,
-      "ret_30d": -0.0507,
-      "analyst_consensus": 1.79,
-      "analyst_count": 56.0,
-      "earn_date": "2026-09-21",
-      "earn_days": 28,
-      "earn_surprise_pct": null,
-      "earn_eps_actual": null,
-      "earn_eps_estimate": null,
-      "beta": 2.189373,
-      "fee_pct": null,
-      "chg_pct": -0.058286269885599644,
-      "ret_7d": -0.0892,
-      "ret_90d": 0.1096,
-      "lt_signal": "LT Strong Buy",
-      "lt_horizon": "12-24 months",
-      "downturn_resilient": true,
-      "rs_spy": -0.0845
-    },
-    {
-      "ticker": "INCY",
-      "name": "Incyte Corp",
-      "cat": "Core",
-      "watchlist": "Core Mainstream",
-      "is_new": false,
-      "type": "Stock",
-      "sector": "Biotechnology",
-      "business_summary": null,
-      "price": 127.98,
-      "mkt_cap": "$24.4B",
-      "signal": "Strong Buy",
-      "total": 7.6,
-      "why": "Strong fundamentals; bullish technicals; macro tailwinds; earnings+revenue both growing; high roe 31%",
-      "fund": 7.8,
-      "tech": 7.9,
-      "macro": 7.3,
-      "fund_sig": "Strong",
+      "total": 7.8,
+      "why": "Bullish technicals; macro tailwinds; near 52w high (pricey)",
+      "fund": null,
+      "tech": 8.4,
+      "macro": 7.4,
+      "fund_sig": null,
       "tech_sig": "Bullish",
-      "fund_why": "PEG 0.21, growth priced below its rate; earnings growing fast; strong revenue growth",
-      "tech_why": "MACD bullish cross; near 52W high; 35% 12m momentum",
+      "fund_why": "insufficient data",
+      "tech_why": "MACD bullish cross; near 52W high; 69% 12m momentum",
       "macro_why": "+Healthcare Demand",
       "sell_sig": null,
       "sell_urg": null,
       "sell_why": null,
-      "upside_pct": -0.02362462884825759,
-      "target_price": 124.95652,
-      "pos_52w": 0.91,
-      "rsi": 65.66290727727909,
-      "atr": 3.6457519814448203,
-      "gpa": 0.6757817288137015,
+      "upside_pct": null,
+      "target_price": null,
+      "pos_52w": 0.932,
+      "rsi": 60.61770728929502,
+      "atr": 4.469909369637503,
+      "gpa": null,
       "macd": "Bullish Cross",
-      "earn_gr": 0.7837592070564701,
-      "pe": 16.3106647634584,
-      "fwd_pe": 18.10168,
-      "peg": 0.2078316736805536,
-      "rev_gr": 0.2692551967329961,
-      "margin": 0.27706412717178197,
-      "gross_margin": 0.9141959917725321,
-      "eps": 7.8464,
-      "pb": 4.054128539759794,
-      "current_ratio": 4.59308770089993,
-      "quick_ratio": 4.5073150135356,
+      "earn_gr": null,
+      "pe": null,
+      "fwd_pe": null,
+      "peg": null,
+      "rev_gr": null,
+      "margin": null,
+      "gross_margin": null,
+      "eps": null,
+      "pb": null,
+      "current_ratio": null,
+      "quick_ratio": null,
       "inst_pct": null,
       "insider_pct": null,
-      "short_pct": 0.0862,
-      "div_y": 0.0,
-      "roe": 0.306672829098088,
-      "de": 0.603159276637591,
-      "vs200": 0.2332,
-      "vs50": 0.0976,
-      "vol_ratio": 0.67,
-      "volume": 799410.0,
+      "short_pct": null,
+      "div_y": 0.0034781019674727416,
+      "roe": null,
+      "de": null,
+      "vs200": 0.2347,
+      "vs50": 0.0665,
+      "vol_ratio": 0.98,
+      "volume": 8527777.0,
       "spark7": null,
-      "ret_30d": 0.0872,
-      "analyst_consensus": 2.24,
-      "analyst_count": 33.0,
-      "earn_date": "2026-10-26",
-      "earn_days": 63,
-      "earn_surprise_pct": 0.4414,
-      "earn_eps_actual": 3.09,
-      "earn_eps_estimate": 2.1437,
-      "beta": 0.7634418,
-      "fee_pct": null,
-      "chg_pct": 0.0013300993662467859,
-      "ret_7d": 0.0651,
-      "ret_90d": 0.3146,
+      "ret_30d": 0.0746,
+      "analyst_consensus": null,
+      "analyst_count": null,
+      "earn_date": null,
+      "earn_days": null,
+      "earn_surprise_pct": null,
+      "earn_eps_actual": null,
+      "earn_eps_estimate": null,
+      "beta": 0.83368945,
+      "fee_pct": 0.35000000000000003,
+      "chg_pct": -0.009412900500814593,
+      "ret_7d": 0.0468,
+      "ret_90d": 0.2393,
+      "lt_signal": null,
+      "lt_horizon": null,
+      "downturn_resilient": false,
+      "rs_spy": 0.0408
+    },
+    {
+      "ticker": "FCG",
+      "name": "First Trust Natural Gas ETF",
+      "cat": "Energy",
+      "watchlist": "Energy",
+      "is_new": false,
+      "type": "ETF",
+      "sector": "N/A",
+      "business_summary": null,
+      "price": 31.13,
+      "mkt_cap": "$691M",
+      "signal": "Strong Buy",
+      "total": 7.8,
+      "why": "Strong fundamentals; bullish technicals; macro tailwinds",
+      "fund": 8.4,
+      "tech": 7.7,
+      "macro": 7.5,
+      "fund_sig": "Strong",
+      "tech_sig": "Bullish",
+      "fund_why": "attractively valued",
+      "tech_why": "Neutral technicals",
+      "macro_why": "+Energy Demand Surge; +Geopolitical Risk Premium (weak)",
+      "sell_sig": null,
+      "sell_urg": null,
+      "sell_why": null,
+      "upside_pct": null,
+      "target_price": null,
+      "pos_52w": 0.831,
+      "rsi": 64.09185309349208,
+      "atr": 0.6958982376952243,
+      "gpa": null,
+      "macd": "Bullish",
+      "earn_gr": null,
+      "pe": 11.575527,
+      "fwd_pe": null,
+      "peg": null,
+      "rev_gr": null,
+      "margin": null,
+      "gross_margin": null,
+      "eps": null,
+      "pb": null,
+      "current_ratio": null,
+      "quick_ratio": null,
+      "inst_pct": null,
+      "insider_pct": null,
+      "short_pct": null,
+      "div_y": 0.020430452939286862,
+      "roe": null,
+      "de": null,
+      "vs200": 0.1344,
+      "vs50": 0.0994,
+      "vol_ratio": 1.43,
+      "volume": 1066525.0,
+      "spark7": null,
+      "ret_30d": 0.0628,
+      "analyst_consensus": null,
+      "analyst_count": null,
+      "earn_date": null,
+      "earn_days": null,
+      "earn_surprise_pct": null,
+      "earn_eps_actual": null,
+      "earn_eps_estimate": null,
+      "beta": 0.4712865,
+      "fee_pct": 0.59,
+      "chg_pct": -0.011746031746031777,
+      "ret_7d": 0.0353,
+      "ret_90d": 0.0401,
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0534
+      "rs_spy": 0.029
+    },
+    {
+      "ticker": "ARKG",
+      "name": "ARK Genomic Revolution ETF",
+      "cat": "Health",
+      "watchlist": "Health",
+      "is_new": false,
+      "type": "ETF",
+      "sector": "N/A",
+      "business_summary": null,
+      "price": 48.01,
+      "mkt_cap": "$2.1B",
+      "signal": "Strong Buy",
+      "total": 7.8,
+      "why": "Bullish technicals; macro tailwinds; near 52w high (pricey)",
+      "fund": null,
+      "tech": 8.4,
+      "macro": 7.4,
+      "fund_sig": null,
+      "tech_sig": "Bullish",
+      "fund_why": "insufficient data",
+      "tech_why": "MACD bullish cross; near 52W high; 60% 12m momentum",
+      "macro_why": "+Healthcare Demand",
+      "sell_sig": null,
+      "sell_urg": null,
+      "sell_why": null,
+      "upside_pct": null,
+      "target_price": null,
+      "pos_52w": 0.939,
+      "rsi": 67.65073140383625,
+      "atr": 1.723226161141118,
+      "gpa": null,
+      "macd": "Bullish Cross",
+      "earn_gr": null,
+      "pe": null,
+      "fwd_pe": null,
+      "peg": null,
+      "rev_gr": null,
+      "margin": null,
+      "gross_margin": null,
+      "eps": null,
+      "pb": null,
+      "current_ratio": null,
+      "quick_ratio": null,
+      "inst_pct": null,
+      "insider_pct": null,
+      "short_pct": null,
+      "div_y": 0.0,
+      "roe": null,
+      "de": null,
+      "vs200": 0.477,
+      "vs50": 0.1745,
+      "vol_ratio": 1.04,
+      "volume": 4361273.0,
+      "spark7": null,
+      "ret_30d": 0.2294,
+      "analyst_consensus": null,
+      "analyst_count": null,
+      "earn_date": null,
+      "earn_days": null,
+      "earn_surprise_pct": null,
+      "earn_eps_actual": null,
+      "earn_eps_estimate": null,
+      "beta": 1.7068242,
+      "fee_pct": 0.75,
+      "chg_pct": -0.02912032355915075,
+      "ret_7d": 0.1135,
+      "ret_90d": 0.5467,
+      "lt_signal": null,
+      "lt_horizon": null,
+      "downturn_resilient": false,
+      "rs_spy": 0.1956
     },
     {
       "ticker": "DHT",
@@ -1875,13 +1731,13 @@
       "inst_pct": null,
       "insider_pct": null,
       "short_pct": 0.077800006,
-      "div_y": 0.07416750756811301,
+      "div_y": 0.0745436105476674,
       "roe": 0.391763532556201,
       "de": 32.702160368475,
       "vs200": 0.2034,
       "vs50": 0.0761,
       "vol_ratio": 0.78,
-      "volume": 2743100.0,
+      "volume": 2745519.0,
       "spark7": null,
       "ret_30d": 0.0545,
       "analyst_consensus": 2.08,
@@ -1952,14 +1808,14 @@
       "de": 124.89028825509098,
       "vs200": 0.4763,
       "vs50": 0.0567,
-      "vol_ratio": 1.3,
-      "volume": 2830437.0,
+      "vol_ratio": 1.31,
+      "volume": 2847159.0,
       "spark7": null,
       "ret_30d": 0.0,
       "analyst_consensus": 2.0,
       "analyst_count": 14.0,
       "earn_date": "2026-11-02",
-      "earn_days": 70,
+      "earn_days": 69,
       "earn_surprise_pct": -0.8548,
       "earn_eps_actual": 0.05,
       "earn_eps_estimate": 0.3443,
@@ -1981,13 +1837,13 @@
       "is_new": false,
       "type": "Stock",
       "sector": "Energy",
-      "business_summary": null,
+      "business_summary": "Frontline plc, a shipping company, engages in the ownership and operation of oil and product tankers worldwide.",
       "price": 44.05,
       "mkt_cap": "$9.0B",
       "signal": "Strong Buy",
-      "total": 7.7,
+      "total": 7.6,
       "why": "Strong fundamentals; bullish technicals; macro tailwinds; earnings+revenue both growing; high roe 35%",
-      "fund": 7.5,
+      "fund": 7.0,
       "tech": 8.2,
       "macro": 7.5,
       "fund_sig": "Strong",
@@ -1998,8 +1854,8 @@
       "sell_sig": null,
       "sell_urg": null,
       "sell_why": null,
-      "upside_pct": null,
-      "target_price": null,
+      "upside_pct": 0.004540295119182812,
+      "target_price": 44.25,
       "pos_52w": 0.956,
       "rsi": 67.19258807545876,
       "atr": 1.4500718338511134,
@@ -2019,19 +1875,19 @@
       "inst_pct": 0.39539,
       "insider_pct": 0.35786998,
       "short_pct": 0.060599998,
-      "div_y": 0.0716739180215251,
+      "div_y": 0.07105561861521,
       "roe": 0.350025393757971,
       "de": 92.6032152068387,
       "vs200": 0.3466,
       "vs50": 0.1266,
       "vol_ratio": 1.22,
-      "volume": 2453763.0,
+      "volume": 2455264.0,
       "spark7": null,
       "ret_30d": 0.118,
       "analyst_consensus": 1.86,
       "analyst_count": 7.0,
       "earn_date": "2026-08-31",
-      "earn_days": 7,
+      "earn_days": 6,
       "earn_surprise_pct": null,
       "earn_eps_actual": null,
       "earn_eps_estimate": null,
@@ -2044,6 +1900,78 @@
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
       "rs_spy": 0.0842
+    },
+    {
+      "ticker": "CGAU",
+      "name": "Centerra Gold Inc",
+      "cat": "PrecMet",
+      "watchlist": "PrecMet",
+      "is_new": false,
+      "type": "Stock",
+      "sector": "Metals & Mining",
+      "business_summary": null,
+      "price": 23.48,
+      "mkt_cap": "$5.9B",
+      "signal": "Strong Buy",
+      "total": 7.7,
+      "why": "Strong fundamentals; bullish technicals; macro tailwinds; earnings+revenue both growing; high roe 33%",
+      "fund": 7.2,
+      "tech": 8.4,
+      "macro": 7.5,
+      "fund_sig": "Strong",
+      "tech_sig": "Bullish",
+      "fund_why": "multiples flattered by peak earnings; PEG 0.01, growth priced below its rate; earnings at a cycle high, not a quality signal",
+      "tech_why": "MACD bullish cross; near 52W high; 125% 12m momentum",
+      "macro_why": "+Gold & Safe Havens (weak); +Geopolitical Risk Premium (weak)",
+      "sell_sig": null,
+      "sell_urg": null,
+      "sell_why": null,
+      "upside_pct": null,
+      "target_price": null,
+      "pos_52w": 0.95,
+      "rsi": 73.2804691504901,
+      "atr": 0.9355794038364695,
+      "gpa": 0.1737688799603716,
+      "macd": "Bullish Cross",
+      "earn_gr": 7.7688644736526475,
+      "pe": 7.692654471646999,
+      "fwd_pe": 9.25956,
+      "peg": 0.009310765427757293,
+      "rev_gr": 0.362340457551393,
+      "margin": 0.37752409104612494,
+      "gross_margin": 0.327363576320396,
+      "eps": 3.0522624,
+      "pb": 2.1274136831073007,
+      "current_ratio": 2.41934128644324,
+      "quick_ratio": 1.4924991028682,
+      "inst_pct": 0.937,
+      "insider_pct": 0.00156,
+      "short_pct": null,
+      "div_y": 0.00860743928681217,
+      "roe": 0.32593378769211,
+      "de": 2.11141762855162,
+      "vs200": 0.389,
+      "vs50": 0.314,
+      "vol_ratio": 1.46,
+      "volume": 2488075.0,
+      "spark7": null,
+      "ret_30d": 0.4187,
+      "analyst_consensus": 2.22,
+      "analyst_count": 18.0,
+      "earn_date": "2026-10-26",
+      "earn_days": 62,
+      "earn_surprise_pct": -0.1459,
+      "earn_eps_actual": 0.39,
+      "earn_eps_estimate": 0.4566,
+      "beta": 0.7930197,
+      "fee_pct": null,
+      "chg_pct": -0.01136842105263156,
+      "ret_7d": 0.079,
+      "ret_90d": 0.3691,
+      "lt_signal": "LT Strong Buy",
+      "lt_horizon": "12-24 months",
+      "downturn_resilient": true,
+      "rs_spy": 0.3849
     },
     {
       "ticker": "IXC",
@@ -2091,13 +2019,13 @@
       "inst_pct": null,
       "insider_pct": null,
       "short_pct": null,
-      "div_y": 0.02688558234992304,
+      "div_y": 0.027145570713175624,
       "roe": null,
       "de": null,
       "vs200": 0.1457,
       "vs50": 0.0852,
       "vol_ratio": 0.86,
-      "volume": 285807.0,
+      "volume": 285810.0,
       "spark7": null,
       "ret_30d": 0.0444,
       "analyst_consensus": null,
@@ -2129,7 +2057,7 @@
       "sector": "N/A",
       "business_summary": null,
       "price": 135.4,
-      "mkt_cap": "$619M",
+      "mkt_cap": "$616M",
       "signal": "Strong Buy",
       "total": 7.7,
       "why": "Strong fundamentals; bullish technicals; macro tailwinds; near 52w high (pricey)",
@@ -2165,13 +2093,13 @@
       "inst_pct": null,
       "insider_pct": null,
       "short_pct": null,
-      "div_y": 0.017018325180696504,
+      "div_y": 0.017215657311669127,
       "roe": null,
       "de": null,
       "vs200": 0.2356,
       "vs50": 0.1288,
       "vol_ratio": 0.94,
-      "volume": 79646.0,
+      "volume": 79672.0,
       "spark7": null,
       "ret_30d": 0.0868,
       "analyst_consensus": null,
@@ -2245,7 +2173,7 @@
       "vs200": 0.2574,
       "vs50": 0.0683,
       "vol_ratio": 0.62,
-      "volume": 26568.0,
+      "volume": 26569.0,
       "spark7": null,
       "ret_30d": 0.0622,
       "analyst_consensus": null,
@@ -2266,6 +2194,78 @@
       "rs_spy": 0.0284
     },
     {
+      "ticker": "INCY",
+      "name": "Incyte Corp",
+      "cat": "Core",
+      "watchlist": "Core Mainstream",
+      "is_new": false,
+      "type": "Stock",
+      "sector": "Biotechnology",
+      "business_summary": null,
+      "price": 127.98,
+      "mkt_cap": "$24.4B",
+      "signal": "Strong Buy",
+      "total": 7.6,
+      "why": "Strong fundamentals; bullish technicals; macro tailwinds; earnings+revenue both growing; high roe 31%",
+      "fund": 7.8,
+      "tech": 7.9,
+      "macro": 7.3,
+      "fund_sig": "Strong",
+      "tech_sig": "Bullish",
+      "fund_why": "PEG 0.21, growth priced below its rate; earnings growing fast; strong revenue growth",
+      "tech_why": "MACD bullish cross; near 52W high; 35% 12m momentum",
+      "macro_why": "+Healthcare Demand",
+      "sell_sig": null,
+      "sell_urg": null,
+      "sell_why": null,
+      "upside_pct": -0.02362462884825759,
+      "target_price": 124.95652,
+      "pos_52w": 0.91,
+      "rsi": 65.66290727727909,
+      "atr": 3.6457519814448203,
+      "gpa": 0.6757817288137015,
+      "macd": "Bullish Cross",
+      "earn_gr": 0.7837592070564701,
+      "pe": 16.3106647634584,
+      "fwd_pe": 18.10168,
+      "peg": 0.2078316736805536,
+      "rev_gr": 0.2692551967329961,
+      "margin": 0.27706412717178197,
+      "gross_margin": 0.9141959917725321,
+      "eps": 7.8464,
+      "pb": 4.054128539759794,
+      "current_ratio": 4.59308770089993,
+      "quick_ratio": 4.5073150135356,
+      "inst_pct": null,
+      "insider_pct": null,
+      "short_pct": 0.0862,
+      "div_y": 0.0,
+      "roe": 0.306672829098088,
+      "de": 0.603159276637591,
+      "vs200": 0.2332,
+      "vs50": 0.0976,
+      "vol_ratio": 0.67,
+      "volume": 799608.0,
+      "spark7": null,
+      "ret_30d": 0.0872,
+      "analyst_consensus": 2.24,
+      "analyst_count": 33.0,
+      "earn_date": "2026-10-26",
+      "earn_days": 62,
+      "earn_surprise_pct": 0.4414,
+      "earn_eps_actual": 3.09,
+      "earn_eps_estimate": 2.1437,
+      "beta": 0.7634418,
+      "fee_pct": null,
+      "chg_pct": 0.0013300993662467859,
+      "ret_7d": 0.0651,
+      "ret_90d": 0.3146,
+      "lt_signal": "LT Strong Buy",
+      "lt_horizon": "12-24 months",
+      "downturn_resilient": true,
+      "rs_spy": 0.0534
+    },
+    {
       "ticker": "VHT",
       "name": "Vanguard Health Care ETF",
       "cat": "Health",
@@ -2275,7 +2275,7 @@
       "sector": "N/A",
       "business_summary": null,
       "price": 327.49,
-      "mkt_cap": "$19.5B",
+      "mkt_cap": "$19.7B",
       "signal": "Strong Buy",
       "total": 7.6,
       "why": "Bullish technicals; macro tailwinds; near 52w high (pricey)",
@@ -2311,13 +2311,13 @@
       "inst_pct": null,
       "insider_pct": null,
       "short_pct": null,
-      "div_y": 0.014412572474824534,
+      "div_y": 0.014421814406546765,
       "roe": null,
       "de": null,
       "vs200": 0.1373,
       "vs50": 0.0746,
       "vol_ratio": 1.11,
-      "volume": 232818.0,
+      "volume": 232880.0,
       "spark7": null,
       "ret_30d": 0.0735,
       "analyst_consensus": null,
@@ -2347,7 +2347,7 @@
       "sector": "N/A",
       "business_summary": null,
       "price": 63.11,
-      "mkt_cap": "$42.0B",
+      "mkt_cap": "$41.6B",
       "signal": "Strong Buy",
       "total": 7.6,
       "why": "Strong fundamentals; bullish technicals; macro tailwinds; near 52w high (pricey)",
@@ -2383,13 +2383,13 @@
       "inst_pct": null,
       "insider_pct": null,
       "short_pct": null,
-      "div_y": 0.02383720930232558,
+      "div_y": 0.02403739502456029,
       "roe": null,
       "de": null,
       "vs200": 0.1688,
       "vs50": 0.0952,
       "vol_ratio": 0.96,
-      "volume": 23005306.0,
+      "volume": 23010358.0,
       "spark7": null,
       "ret_30d": 0.0625,
       "analyst_consensus": null,
@@ -2408,6 +2408,296 @@
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
       "rs_spy": 0.0287
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron Technology Inc",
+      "cat": "Core / Tech",
+      "watchlist": "Core Mainstream",
+      "is_new": false,
+      "type": "Stock",
+      "sector": "Semiconductors",
+      "business_summary": null,
+      "price": 910.43,
+      "mkt_cap": "$1.1T",
+      "signal": "Strong Buy",
+      "total": 7.5,
+      "why": "Strong fundamentals; bullish technicals; analysts see 66% upside (12mo); earnings+revenue both growing; high roe 67%",
+      "fund": 8.8,
+      "tech": 7.4,
+      "macro": 6.6,
+      "fund_sig": "Strong",
+      "tech_sig": "Lean Bull",
+      "fund_why": "PEG 0.03, growth priced below its rate; earnings growing fast; strong revenue growth",
+      "tech_why": "MACD bullish cross; below 50D MA; 715% 12m momentum",
+      "macro_why": "+AI Infrastructure Boom",
+      "sell_sig": null,
+      "sell_urg": null,
+      "sell_why": null,
+      "upside_pct": 0.6561301802445,
+      "target_price": 1507.7906,
+      "pos_52w": 0.698,
+      "rsi": 48.50315064468404,
+      "atr": 67.62788379416567,
+      "gpa": 0.4886885588165116,
+      "macd": "Bullish Cross",
+      "earn_gr": 6.97287150515315,
+      "pe": 20.610973895286843,
+      "fwd_pe": 5.86615,
+      "peg": 0.0313883111161808,
+      "rev_gr": 1.6698015556147043,
+      "margin": 0.5590646254735581,
+      "gross_margin": 0.7260008418813829,
+      "eps": 44.1721,
+      "pb": 10.204871970850716,
+      "current_ratio": 3.42451765188834,
+      "quick_ratio": 2.98491379310345,
+      "inst_pct": null,
+      "insider_pct": null,
+      "short_pct": 0.026500002,
+      "div_y": 0.000582142504091473,
+      "roe": 0.666380585190662,
+      "de": 6.330169572296571,
+      "vs200": 0.5846,
+      "vs50": -0.0545,
+      "vol_ratio": 0.98,
+      "volume": 30012045.0,
+      "spark7": null,
+      "ret_30d": -0.0507,
+      "analyst_consensus": 1.79,
+      "analyst_count": 56.0,
+      "earn_date": "2026-09-21",
+      "earn_days": 27,
+      "earn_surprise_pct": null,
+      "earn_eps_actual": null,
+      "earn_eps_estimate": null,
+      "beta": 2.189373,
+      "fee_pct": null,
+      "chg_pct": -0.058286269885599644,
+      "ret_7d": -0.0892,
+      "ret_90d": 0.1096,
+      "lt_signal": "LT Strong Buy",
+      "lt_horizon": "12-24 months",
+      "downturn_resilient": true,
+      "rs_spy": -0.0845
+    },
+    {
+      "ticker": "SSRM",
+      "name": "SSR Mining Inc",
+      "cat": "PrecMet",
+      "watchlist": "Precious Metals",
+      "is_new": false,
+      "type": "Stock",
+      "sector": "Metals & Mining",
+      "business_summary": null,
+      "price": 38.61,
+      "mkt_cap": "$6.4B",
+      "signal": "Strong Buy",
+      "total": 7.5,
+      "why": "Solid fundamentals; bullish technicals; macro tailwinds; earnings+revenue both growing; near 52w high (pricey)",
+      "fund": 6.8,
+      "tech": 8.3,
+      "macro": 7.5,
+      "fund_sig": "Good",
+      "tech_sig": "Bullish",
+      "fund_why": "PEG 0.84, growth priced below its rate; strong revenue growth; strong margins",
+      "tech_why": "MACD bullish cross; near 52W high; 64% 12m momentum",
+      "macro_why": "+Gold & Safe Havens (weak); +Geopolitical Risk Premium (weak)",
+      "sell_sig": "Consider Selling",
+      "sell_urg": 3.0,
+      "sell_why": "Overbought rsi 75; at 52w high",
+      "upside_pct": 0.07226107226107224,
+      "target_price": 41.4,
+      "pos_52w": 0.991,
+      "rsi": 75.04722351051596,
+      "atr": 1.6194267905607878,
+      "gpa": 0.22099483792990846,
+      "macd": "Bullish Cross",
+      "earn_gr": 0.4149047246149831,
+      "pe": 35.614795683055064,
+      "fwd_pe": 5.58738,
+      "peg": 0.8397098742529024,
+      "rev_gr": 0.4840444152418837,
+      "margin": 0.329199126809339,
+      "gross_margin": 0.48920461011628297,
+      "eps": 1.0841,
+      "pb": 2.349620628464184,
+      "current_ratio": 9.78957571817093,
+      "quick_ratio": 7.76564990207661,
+      "inst_pct": null,
+      "insider_pct": null,
+      "short_pct": 0.044499997,
+      "div_y": 0.0,
+      "roe": 0.19135417050462,
+      "de": 0.0678151206489966,
+      "vs200": 0.4117,
+      "vs50": 0.3102,
+      "vol_ratio": 0.97,
+      "volume": 2570114.0,
+      "spark7": null,
+      "ret_30d": 0.403,
+      "analyst_consensus": 1.92,
+      "analyst_count": 13.0,
+      "earn_date": "2026-11-02",
+      "earn_days": 69,
+      "earn_surprise_pct": -0.1242,
+      "earn_eps_actual": 0.67,
+      "earn_eps_estimate": 0.765,
+      "beta": -0.095012315,
+      "fee_pct": null,
+      "chg_pct": 0.022239872915011817,
+      "ret_7d": 0.195,
+      "ret_90d": 0.2509,
+      "lt_signal": "LT Hold",
+      "lt_horizon": "12 months",
+      "downturn_resilient": true,
+      "rs_spy": 0.3692
+    },
+    {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "cat": "Core",
+      "watchlist": "Core",
+      "is_new": false,
+      "type": "ETF",
+      "sector": "N/A",
+      "business_summary": null,
+      "price": 701.83,
+      "mkt_cap": "$1.0T",
+      "signal": "Hold",
+      "total": 6.0,
+      "why": "Ok technicals",
+      "fund": null,
+      "tech": 6.4,
+      "macro": 5.7,
+      "fund_sig": null,
+      "tech_sig": "Lean Bull",
+      "fund_why": "insufficient data",
+      "tech_why": "MACD bearish cross",
+      "macro_why": "Neutral macro",
+      "sell_sig": "Watch Closely",
+      "sell_urg": 2.5,
+      "sell_why": "Macd bearish cross",
+      "upside_pct": null,
+      "target_price": null,
+      "pos_52w": 0.894,
+      "rsi": 52.18839044096097,
+      "atr": 6.101244270205533,
+      "gpa": null,
+      "macd": "Bearish Cross",
+      "earn_gr": null,
+      "pe": null,
+      "fwd_pe": null,
+      "peg": null,
+      "rev_gr": null,
+      "margin": null,
+      "gross_margin": null,
+      "eps": null,
+      "pb": null,
+      "current_ratio": null,
+      "quick_ratio": null,
+      "inst_pct": null,
+      "insider_pct": null,
+      "short_pct": null,
+      "div_y": 0.01046692218913412,
+      "roe": null,
+      "de": null,
+      "vs200": 0.078,
+      "vs50": 0.0147,
+      "vol_ratio": 1.21,
+      "volume": 7737474.0,
+      "spark7": null,
+      "ret_30d": 0.0339,
+      "analyst_consensus": null,
+      "analyst_count": null,
+      "earn_date": null,
+      "earn_days": null,
+      "earn_surprise_pct": null,
+      "earn_eps_actual": null,
+      "earn_eps_estimate": null,
+      "beta": 1.0103167,
+      "fee_pct": 0.03,
+      "chg_pct": -0.0026715550439811784,
+      "ret_7d": -0.0164,
+      "ret_90d": 0.0177,
+      "lt_signal": null,
+      "lt_horizon": null,
+      "downturn_resilient": false,
+      "rs_spy": 0.0001
+    },
+    {
+      "ticker": "SPY",
+      "name": "State Street SPDR S&P 500 ETF T",
+      "cat": "Core",
+      "watchlist": "Core Mainstream",
+      "is_new": false,
+      "type": "ETF",
+      "sector": "N/A",
+      "business_summary": null,
+      "price": 763.47,
+      "mkt_cap": "$810.9B",
+      "signal": "Hold",
+      "total": 5.7,
+      "why": "Ok technicals",
+      "fund": 4.9,
+      "tech": 6.4,
+      "macro": 5.7,
+      "fund_sig": "Fair",
+      "tech_sig": "Lean Bull",
+      "fund_why": "Average fundamentals",
+      "tech_why": "MACD bearish cross",
+      "macro_why": "Neutral macro",
+      "sell_sig": "Watch Closely",
+      "sell_urg": 2.5,
+      "sell_why": "Macd bearish cross",
+      "upside_pct": null,
+      "target_price": null,
+      "pos_52w": 0.894,
+      "rsi": 52.13753523603866,
+      "atr": 6.701280789046723,
+      "gpa": null,
+      "macd": "Bearish Cross",
+      "earn_gr": null,
+      "pe": 26.204493,
+      "fwd_pe": null,
+      "peg": null,
+      "rev_gr": null,
+      "margin": null,
+      "gross_margin": null,
+      "eps": null,
+      "pb": 1.8123107,
+      "current_ratio": null,
+      "quick_ratio": null,
+      "inst_pct": null,
+      "insider_pct": null,
+      "short_pct": null,
+      "div_y": 0.009856313935059662,
+      "roe": null,
+      "de": null,
+      "vs200": 0.0784,
+      "vs50": 0.0149,
+      "vol_ratio": 0.87,
+      "volume": 32430886.0,
+      "spark7": null,
+      "ret_30d": 0.0338,
+      "analyst_consensus": null,
+      "analyst_count": null,
+      "earn_date": null,
+      "earn_days": null,
+      "earn_surprise_pct": null,
+      "earn_eps_actual": null,
+      "earn_eps_estimate": null,
+      "beta": 1.0099103,
+      "fee_pct": 0.0945,
+      "alt_ticker": "SPYG",
+      "alt_note": "SPYG is cheaper: saves 0.05 points of fee (fee 0.04% vs 0.09%, 1yr 21.7% vs 19.7%, 6mo 13.7% vs 10.6%). Matched on 500. Same segment by NAME, not by holdings: check what it actually holds before switching.",
+      "chg_pct": -0.002938410907381288,
+      "ret_7d": -0.0164,
+      "ret_90d": 0.0179,
+      "lt_signal": null,
+      "lt_horizon": null,
+      "downturn_resilient": false,
+      "rs_spy": 0.0
     },
     {
       "ticker": "PBR",
@@ -2479,7 +2769,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0492
+      "rs_spy": -0.0492,
+      "stale_data": true
     },
     {
       "ticker": "PBR-A",
@@ -2551,7 +2842,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0308
+      "rs_spy": -0.0308,
+      "stale_data": true
     },
     {
       "ticker": "TSM",
@@ -2623,7 +2915,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0368
+      "rs_spy": -0.0368,
+      "stale_data": true
     },
     {
       "ticker": "LLY",
@@ -2695,7 +2988,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0102
+      "rs_spy": 0.0102,
+      "stale_data": true
     },
     {
       "ticker": "SU",
@@ -2767,7 +3061,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0141
+      "rs_spy": -0.0141,
+      "stale_data": true
     },
     {
       "ticker": "EOG",
@@ -2839,7 +3134,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0093
+      "rs_spy": 0.0093,
+      "stale_data": true
     },
     {
       "ticker": "ASND",
@@ -2911,7 +3207,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0434
+      "rs_spy": -0.0434,
+      "stale_data": true
     },
     {
       "ticker": "EXEL",
@@ -2983,7 +3280,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0609
+      "rs_spy": -0.0609,
+      "stale_data": true
     },
     {
       "ticker": "KRYS",
@@ -3055,7 +3353,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0095
+      "rs_spy": 0.0095,
+      "stale_data": true
     },
     {
       "ticker": "APA",
@@ -3127,7 +3426,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.148
+      "rs_spy": 0.148,
+      "stale_data": true
     },
     {
       "ticker": "FENY",
@@ -3199,7 +3499,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0264
+      "rs_spy": 0.0264,
+      "stale_data": true
     },
     {
       "ticker": "CDNA",
@@ -3271,7 +3572,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.2228
+      "rs_spy": 0.2228,
+      "stale_data": true
     },
     {
       "ticker": "SNDK",
@@ -3343,7 +3645,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0712
+      "rs_spy": -0.0712,
+      "stale_data": true
     },
     {
       "ticker": "VRTX",
@@ -3415,7 +3718,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.1165
+      "rs_spy": 0.1165,
+      "stale_data": true
     },
     {
       "ticker": "AUPH",
@@ -3487,7 +3791,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0415
+      "rs_spy": 0.0415,
+      "stale_data": true
     },
     {
       "ticker": "CVE",
@@ -3559,79 +3864,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0512
-    },
-    {
-      "ticker": "CGAU",
-      "name": "Centerra Gold Inc",
-      "cat": "PrecMet",
-      "watchlist": "PrecMet",
-      "is_new": false,
-      "type": "Stock",
-      "sector": "Metals & Mining",
-      "business_summary": null,
-      "price": 23.48,
-      "mkt_cap": "$5.9B",
-      "signal": "Strong Buy",
-      "total": 7.7,
-      "why": "Strong fundamentals; bullish technicals; macro tailwinds; earnings+revenue both growing; high roe 33%",
-      "fund": 7.2,
-      "tech": 8.4,
-      "macro": 7.5,
-      "fund_sig": "Strong",
-      "tech_sig": "Bullish",
-      "fund_why": "multiples flattered by peak earnings; PEG 0.01, growth priced below its rate; earnings at a cycle high, not a quality signal",
-      "tech_why": "MACD bullish cross; near 52W high; 125% 12m momentum",
-      "macro_why": "+Gold & Safe Havens (weak); +Geopolitical Risk Premium (weak)",
-      "sell_sig": null,
-      "sell_urg": null,
-      "sell_why": null,
-      "upside_pct": null,
-      "target_price": null,
-      "pos_52w": 0.95,
-      "rsi": 73.2804691504901,
-      "atr": 0.9355794038364695,
-      "gpa": 0.1737688799603716,
-      "macd": "Bullish Cross",
-      "earn_gr": 7.7688644736526475,
-      "pe": 7.692654471646999,
-      "fwd_pe": 9.25956,
-      "peg": 0.009258191211734972,
-      "rev_gr": 0.362340457551393,
-      "margin": 0.37752409104612494,
-      "gross_margin": 0.327363576320396,
-      "eps": 3.0522624,
-      "pb": 2.1274136831073007,
-      "current_ratio": 2.41934128644324,
-      "quick_ratio": 1.4924991028682,
-      "inst_pct": 0.937,
-      "insider_pct": 0.00156,
-      "short_pct": null,
-      "div_y": 0.00856531049250536,
-      "roe": 0.32593378769211,
-      "de": 2.11141762855162,
-      "vs200": 0.389,
-      "vs50": 0.314,
-      "vol_ratio": 1.21,
-      "volume": 1994331.0,
-      "spark7": null,
-      "ret_30d": 0.4187,
-      "analyst_consensus": 2.22,
-      "analyst_count": 18.0,
-      "earn_date": "2026-10-26",
-      "earn_days": 63,
-      "earn_surprise_pct": -0.1459,
-      "earn_eps_actual": 0.39,
-      "earn_eps_estimate": 0.4566,
-      "beta": 0.7930197,
-      "fee_pct": null,
-      "chg_pct": -0.01136842105263156,
-      "ret_7d": 0.079,
-      "ret_90d": 0.3691,
-      "lt_signal": "LT Strong Buy",
-      "lt_horizon": "12-24 months",
-      "downturn_resilient": true,
-      "rs_spy": 0.3849
+      "rs_spy": 0.0512,
+      "stale_data": true
     },
     {
       "ticker": "EIX",
@@ -3703,7 +3937,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.1087
+      "rs_spy": -0.1087,
+      "stale_data": true
     },
     {
       "ticker": "ENFR",
@@ -3775,7 +4010,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0587
+      "rs_spy": -0.0587,
+      "stale_data": true
     },
     {
       "ticker": "MLPX",
@@ -3849,7 +4085,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0745
+      "rs_spy": -0.0745,
+      "stale_data": true
     },
     {
       "ticker": "VDE",
@@ -3921,7 +4158,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0251
+      "rs_spy": 0.0251,
+      "stale_data": true
     },
     {
       "ticker": "CVX",
@@ -3993,7 +4231,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0106
+      "rs_spy": 0.0106,
+      "stale_data": true
     },
     {
       "ticker": "RHHBY",
@@ -4065,7 +4304,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0211
+      "rs_spy": 0.0211,
+      "stale_data": true
     },
     {
       "ticker": "IAG",
@@ -4137,79 +4377,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.4342
-    },
-    {
-      "ticker": "SSRM",
-      "name": "SSR Mining Inc",
-      "cat": "PrecMet",
-      "watchlist": "Precious Metals",
-      "is_new": false,
-      "type": "Stock",
-      "sector": "Metals & Mining",
-      "business_summary": null,
-      "price": 38.61,
-      "mkt_cap": "$6.4B",
-      "signal": "Strong Buy",
-      "total": 7.5,
-      "why": "Solid fundamentals; bullish technicals; macro tailwinds; earnings+revenue both growing; near 52w high (pricey)",
-      "fund": 6.8,
-      "tech": 8.3,
-      "macro": 7.5,
-      "fund_sig": "Good",
-      "tech_sig": "Bullish",
-      "fund_why": "PEG 0.84, growth priced below its rate; strong revenue growth; strong margins",
-      "tech_why": "MACD bullish cross; near 52W high; 64% 12m momentum",
-      "macro_why": "+Gold & Safe Havens (weak); +Geopolitical Risk Premium (weak)",
-      "sell_sig": "Consider Selling",
-      "sell_urg": 3.0,
-      "sell_why": "Overbought rsi 75; at 52w high",
-      "upside_pct": 0.07226107226107224,
-      "target_price": 41.4,
-      "pos_52w": 0.991,
-      "rsi": 75.04722351051596,
-      "atr": 1.6194267905607878,
-      "gpa": 0.22099483792990846,
-      "macd": "Bullish Cross",
-      "earn_gr": 0.4149047246149831,
-      "pe": 35.614795683055064,
-      "fwd_pe": 5.58738,
-      "peg": 0.8397098742529024,
-      "rev_gr": 0.4840444152418837,
-      "margin": 0.329199126809339,
-      "gross_margin": 0.48920461011628297,
-      "eps": 1.0841,
-      "pb": 2.349620628464184,
-      "current_ratio": 9.78957571817093,
-      "quick_ratio": 7.76564990207661,
-      "inst_pct": null,
-      "insider_pct": null,
-      "short_pct": 0.044499997,
-      "div_y": 0.0,
-      "roe": 0.19135417050462,
-      "de": 0.0678151206489966,
-      "vs200": 0.4117,
-      "vs50": 0.3102,
-      "vol_ratio": 0.97,
-      "volume": 2562195.0,
-      "spark7": null,
-      "ret_30d": 0.403,
-      "analyst_consensus": 1.92,
-      "analyst_count": 13.0,
-      "earn_date": "2026-11-02",
-      "earn_days": 70,
-      "earn_surprise_pct": -0.1242,
-      "earn_eps_actual": 0.67,
-      "earn_eps_estimate": 0.765,
-      "beta": -0.095012315,
-      "fee_pct": null,
-      "chg_pct": 0.022239872915011817,
-      "ret_7d": 0.195,
-      "ret_90d": 0.2509,
-      "lt_signal": "LT Hold",
-      "lt_horizon": "12 months",
-      "downturn_resilient": true,
-      "rs_spy": 0.3692
+      "rs_spy": 0.4342,
+      "stale_data": true
     },
     {
       "ticker": "CNQ",
@@ -4281,7 +4450,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0477
+      "rs_spy": 0.0477,
+      "stale_data": true
     },
     {
       "ticker": "PSX",
@@ -4353,7 +4523,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.1396
+      "rs_spy": 0.1396,
+      "stale_data": true
     },
     {
       "ticker": "EUFN",
@@ -4425,7 +4596,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0227
+      "rs_spy": 0.0227,
+      "stale_data": true
     },
     {
       "ticker": "SIMO",
@@ -4497,7 +4669,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.1569
+      "rs_spy": -0.1569,
+      "stale_data": true
     },
     {
       "ticker": "KNSA",
@@ -4569,7 +4742,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.2192
+      "rs_spy": 0.2192,
+      "stale_data": true
     },
     {
       "ticker": "ACAD",
@@ -4641,7 +4815,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.157
+      "rs_spy": 0.157,
+      "stale_data": true
     },
     {
       "ticker": "PTGX",
@@ -4713,7 +4888,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.1029
+      "rs_spy": 0.1029,
+      "stale_data": true
     },
     {
       "ticker": "TDW",
@@ -4785,7 +4961,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.1502
+      "rs_spy": 0.1502,
+      "stale_data": true
     },
     {
       "ticker": "CF",
@@ -4857,7 +5034,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0121
+      "rs_spy": -0.0121,
+      "stale_data": true
     },
     {
       "ticker": "ZM",
@@ -4929,7 +5107,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.1963
+      "rs_spy": 0.1963,
+      "stale_data": true
     },
     {
       "ticker": "NVDA",
@@ -5001,7 +5180,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0288
+      "rs_spy": -0.0288,
+      "stale_data": true
     },
     {
       "ticker": "GOOG",
@@ -5073,7 +5253,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0488
+      "rs_spy": 0.0488,
+      "stale_data": true
     },
     {
       "ticker": "B",
@@ -5145,7 +5326,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.2522
+      "rs_spy": 0.2522,
+      "stale_data": true
     },
     {
       "ticker": "EQNR",
@@ -5217,7 +5399,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0074
+      "rs_spy": 0.0074,
+      "stale_data": true
     },
     {
       "ticker": "VLO",
@@ -5289,7 +5472,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.103
+      "rs_spy": 0.103,
+      "stale_data": true
     },
     {
       "ticker": "NBIX",
@@ -5361,7 +5545,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.1555
+      "rs_spy": -0.1555,
+      "stale_data": true
     },
     {
       "ticker": "JAZZ",
@@ -5433,7 +5618,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0391
+      "rs_spy": -0.0391,
+      "stale_data": true
     },
     {
       "ticker": "BMY",
@@ -5505,7 +5691,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0524
+      "rs_spy": 0.0524,
+      "stale_data": true
     },
     {
       "ticker": "VGT",
@@ -5577,7 +5764,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0141
+      "rs_spy": -0.0141,
+      "stale_data": true
     },
     {
       "ticker": "CMBT",
@@ -5649,7 +5837,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.1354
+      "rs_spy": 0.1354,
+      "stale_data": true
     },
     {
       "ticker": "ETON",
@@ -5721,7 +5910,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.4259
+      "rs_spy": 0.4259,
+      "stale_data": true
     },
     {
       "ticker": "VCTR",
@@ -5793,7 +5983,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.1684
+      "rs_spy": 0.1684,
+      "stale_data": true
     },
     {
       "ticker": "OII",
@@ -5865,7 +6056,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0118
+      "rs_spy": 0.0118,
+      "stale_data": true
     },
     {
       "ticker": "IDV",
@@ -5937,7 +6129,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0092
+      "rs_spy": 0.0092,
+      "stale_data": true
     },
     {
       "ticker": "MLPA",
@@ -6011,7 +6204,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0311
+      "rs_spy": -0.0311,
+      "stale_data": true
     },
     {
       "ticker": "OIH",
@@ -6083,7 +6277,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.019
+      "rs_spy": 0.019,
+      "stale_data": true
     },
     {
       "ticker": "STX",
@@ -6155,7 +6350,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.13
+      "rs_spy": -0.13,
+      "stale_data": true
     },
     {
       "ticker": "GOOGL",
@@ -6227,7 +6423,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0593
+      "rs_spy": 0.0593,
+      "stale_data": true
     },
     {
       "ticker": "XOM",
@@ -6299,7 +6496,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0112
+      "rs_spy": 0.0112,
+      "stale_data": true
     },
     {
       "ticker": "JNJ",
@@ -6371,7 +6569,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0106
+      "rs_spy": 0.0106,
+      "stale_data": true
     },
     {
       "ticker": "ABBV",
@@ -6443,7 +6642,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0107
+      "rs_spy": -0.0107,
+      "stale_data": true
     },
     {
       "ticker": "LRCX",
@@ -6515,7 +6715,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0416
+      "rs_spy": -0.0416,
+      "stale_data": true
     },
     {
       "ticker": "NEM",
@@ -6587,7 +6788,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.3726
+      "rs_spy": 0.3726,
+      "stale_data": true
     },
     {
       "ticker": "AU",
@@ -6659,7 +6861,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.485
+      "rs_spy": 0.485,
+      "stale_data": true
     },
     {
       "ticker": "OGC",
@@ -6731,7 +6934,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.2885
+      "rs_spy": 0.2885,
+      "stale_data": true
     },
     {
       "ticker": "SHEL",
@@ -6803,7 +7007,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0184
+      "rs_spy": 0.0184,
+      "stale_data": true
     },
     {
       "ticker": "TTE",
@@ -6875,7 +7080,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.001
+      "rs_spy": -0.001,
+      "stale_data": true
     },
     {
       "ticker": "CRDO",
@@ -6947,7 +7153,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0715
+      "rs_spy": -0.0715,
+      "stale_data": true
     },
     {
       "ticker": "AMGN",
@@ -7019,7 +7226,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.157
+      "rs_spy": 0.157,
+      "stale_data": true
     },
     {
       "ticker": "EPOL",
@@ -7091,7 +7299,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0539
+      "rs_spy": 0.0539,
+      "stale_data": true
     },
     {
       "ticker": "TRAX",
@@ -7163,7 +7372,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.1222
+      "rs_spy": 0.1222,
+      "stale_data": true
     },
     {
       "ticker": "INVA",
@@ -7235,7 +7445,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0515
+      "rs_spy": -0.0515,
+      "stale_data": true
     },
     {
       "ticker": "ARIS",
@@ -7307,7 +7518,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.3704
+      "rs_spy": 0.3704,
+      "stale_data": true
     },
     {
       "ticker": "TRGP",
@@ -7379,7 +7591,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.005
+      "rs_spy": -0.005,
+      "stale_data": true
     },
     {
       "ticker": "AMLP",
@@ -7451,7 +7664,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0356
+      "rs_spy": -0.0356,
+      "stale_data": true
     },
     {
       "ticker": "XES",
@@ -7523,7 +7737,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0039
+      "rs_spy": -0.0039,
+      "stale_data": true
     },
     {
       "ticker": "AIS",
@@ -7595,7 +7810,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0814
+      "rs_spy": -0.0814,
+      "stale_data": true
     },
     {
       "ticker": "QVAL",
@@ -7667,7 +7883,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0599
+      "rs_spy": 0.0599,
+      "stale_data": true
     },
     {
       "ticker": "ARKK",
@@ -7741,7 +7958,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.1036
+      "rs_spy": 0.1036,
+      "stale_data": true
     },
     {
       "ticker": "GDXJ",
@@ -7815,7 +8033,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.3259
+      "rs_spy": 0.3259,
+      "stale_data": true
     },
     {
       "ticker": "KGC",
@@ -7887,7 +8106,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.3467
+      "rs_spy": 0.3467,
+      "stale_data": true
     },
     {
       "ticker": "PAAS",
@@ -7959,7 +8179,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.1746
+      "rs_spy": 0.1746,
+      "stale_data": true
     },
     {
       "ticker": "BVN",
@@ -8031,7 +8252,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0883
+      "rs_spy": 0.0883,
+      "stale_data": true
     },
     {
       "ticker": "COP",
@@ -8103,7 +8325,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.075
+      "rs_spy": 0.075,
+      "stale_data": true
     },
     {
       "ticker": "MPC",
@@ -8175,7 +8398,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.1292
+      "rs_spy": 0.1292,
+      "stale_data": true
     },
     {
       "ticker": "DRD",
@@ -8247,7 +8471,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.4585
+      "rs_spy": 0.4585,
+      "stale_data": true
     },
     {
       "ticker": "TER",
@@ -8319,7 +8544,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0341
+      "rs_spy": -0.0341,
+      "stale_data": true
     },
     {
       "ticker": "HNGE",
@@ -8391,7 +8617,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.1202
+      "rs_spy": 0.1202,
+      "stale_data": true
     },
     {
       "ticker": "LQDA",
@@ -8463,7 +8690,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.257
+      "rs_spy": -0.257,
+      "stale_data": true
     },
     {
       "ticker": "HRMY",
@@ -8535,7 +8763,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0365
+      "rs_spy": 0.0365,
+      "stale_data": true
     },
     {
       "ticker": "PBF",
@@ -8607,7 +8836,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0952
+      "rs_spy": 0.0952,
+      "stale_data": true
     },
     {
       "ticker": "AYA",
@@ -8679,7 +8909,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.2959
+      "rs_spy": 0.2959,
+      "stale_data": true
     },
     {
       "ticker": "AMLX",
@@ -8751,7 +8982,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 1.1326
+      "rs_spy": 1.1326,
+      "stale_data": true
     },
     {
       "ticker": "XLU",
@@ -8823,7 +9055,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.1023
+      "rs_spy": -0.1023,
+      "stale_data": true
     },
     {
       "ticker": "VYMI",
@@ -8895,7 +9128,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.001
+      "rs_spy": 0.001,
+      "stale_data": true
     },
     {
       "ticker": "WDC",
@@ -8967,7 +9201,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.2253
+      "rs_spy": -0.2253,
+      "stale_data": true
     },
     {
       "ticker": "ASML",
@@ -9039,7 +9274,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0616
+      "rs_spy": -0.0616,
+      "stale_data": true
     },
     {
       "ticker": "ANET",
@@ -9111,7 +9347,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0475
+      "rs_spy": 0.0475,
+      "stale_data": true
     },
     {
       "ticker": "AEM",
@@ -9183,7 +9420,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.466
+      "rs_spy": 0.466,
+      "stale_data": true
     },
     {
       "ticker": "EGO",
@@ -9255,7 +9493,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.4058
+      "rs_spy": 0.4058,
+      "stale_data": true
     },
     {
       "ticker": "SCCO",
@@ -9327,7 +9566,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.1556
+      "rs_spy": 0.1556,
+      "stale_data": true
     },
     {
       "ticker": "BP",
@@ -9399,7 +9639,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0384
+      "rs_spy": -0.0384,
+      "stale_data": true
     },
     {
       "ticker": "E",
@@ -9471,7 +9712,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0281
+      "rs_spy": 0.0281,
+      "stale_data": true
     },
     {
       "ticker": "IMO",
@@ -9543,7 +9785,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0315
+      "rs_spy": 0.0315,
+      "stale_data": true
     },
     {
       "ticker": "EWZ",
@@ -9617,7 +9860,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0552
+      "rs_spy": -0.0552,
+      "stale_data": true
     },
     {
       "ticker": "HALO",
@@ -9689,7 +9933,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.3017
+      "rs_spy": 0.3017,
+      "stale_data": true
     },
     {
       "ticker": "ALAB",
@@ -9761,7 +10006,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.1592
+      "rs_spy": -0.1592,
+      "stale_data": true
     },
     {
       "ticker": "FSM",
@@ -9833,7 +10079,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.4003
+      "rs_spy": 0.4003,
+      "stale_data": true
     },
     {
       "ticker": "ERO",
@@ -9905,7 +10152,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.4111
+      "rs_spy": 0.4111,
+      "stale_data": true
     },
     {
       "ticker": "DVY",
@@ -9977,7 +10225,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.013
+      "rs_spy": -0.013,
+      "stale_data": true
     },
     {
       "ticker": "COPX",
@@ -10049,7 +10298,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.1752
+      "rs_spy": 0.1752,
+      "stale_data": true
     },
     {
       "ticker": "VICR",
@@ -10121,7 +10371,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.203
+      "rs_spy": -0.203,
+      "stale_data": true
     },
     {
       "ticker": "FNV",
@@ -10193,7 +10444,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.2168
+      "rs_spy": 0.2168,
+      "stale_data": true
     },
     {
       "ticker": "GFI",
@@ -10265,7 +10517,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.4198
+      "rs_spy": 0.4198,
+      "stale_data": true
     },
     {
       "ticker": "RGLD",
@@ -10337,7 +10590,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.2722
+      "rs_spy": 0.2722,
+      "stale_data": true
     },
     {
       "ticker": "CDE",
@@ -10409,7 +10663,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.3203
+      "rs_spy": 0.3203,
+      "stale_data": true
     },
     {
       "ticker": "HL",
@@ -10481,7 +10736,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.2935
+      "rs_spy": 0.2935,
+      "stale_data": true
     },
     {
       "ticker": "TLT",
@@ -10555,7 +10811,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0428
+      "rs_spy": -0.0428,
+      "stale_data": true
     },
     {
       "ticker": "IEMG",
@@ -10627,7 +10884,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0004
+      "rs_spy": 0.0004,
+      "stale_data": true
     },
     {
       "ticker": "VSGX",
@@ -10699,7 +10957,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0096
+      "rs_spy": 0.0096,
+      "stale_data": true
     },
     {
       "ticker": "VLUE",
@@ -10771,7 +11030,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0053
+      "rs_spy": -0.0053,
+      "stale_data": true
     },
     {
       "ticker": "AIR",
@@ -10843,7 +11103,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.001
+      "rs_spy": -0.001,
+      "stale_data": true
     },
     {
       "ticker": "URGN",
@@ -10915,7 +11176,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0518
+      "rs_spy": 0.0518,
+      "stale_data": true
     },
     {
       "ticker": "EWP",
@@ -10987,7 +11249,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0291
+      "rs_spy": 0.0291,
+      "stale_data": true
     },
     {
       "ticker": "QLYS",
@@ -11059,7 +11322,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.2927
+      "rs_spy": 0.2927,
+      "stale_data": true
     },
     {
       "ticker": "CNX",
@@ -11131,7 +11395,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0205
+      "rs_spy": 0.0205,
+      "stale_data": true
     },
     {
       "ticker": "P",
@@ -11203,7 +11468,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.3011
+      "rs_spy": 0.3011,
+      "stale_data": true
     },
     {
       "ticker": "IBB",
@@ -11277,7 +11543,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.085
+      "rs_spy": 0.085,
+      "stale_data": true
     },
     {
       "ticker": "VPU",
@@ -11349,7 +11616,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0994
+      "rs_spy": -0.0994,
+      "stale_data": true
     },
     {
       "ticker": "SCHD",
@@ -11421,7 +11689,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.038
+      "rs_spy": 0.038,
+      "stale_data": true
     },
     {
       "ticker": "AVUV",
@@ -11493,7 +11762,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0296
+      "rs_spy": -0.0296,
+      "stale_data": true
     },
     {
       "ticker": "FRDM",
@@ -11565,7 +11835,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0036
+      "rs_spy": -0.0036,
+      "stale_data": true
     },
     {
       "ticker": "SCHY",
@@ -11637,7 +11908,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0083
+      "rs_spy": 0.0083,
+      "stale_data": true
     },
     {
       "ticker": "SPYD",
@@ -11709,7 +11981,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0048
+      "rs_spy": -0.0048,
+      "stale_data": true
     },
     {
       "ticker": "DBC",
@@ -11781,7 +12054,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0052
+      "rs_spy": -0.0052,
+      "stale_data": true
     },
     {
       "ticker": "PDBC",
@@ -11853,7 +12127,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0034
+      "rs_spy": -0.0034,
+      "stale_data": true
     },
     {
       "ticker": "MRVL",
@@ -11925,7 +12200,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0962
+      "rs_spy": 0.0962,
+      "stale_data": true
     },
     {
       "ticker": "RING",
@@ -11997,7 +12273,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.3768
+      "rs_spy": 0.3768,
+      "stale_data": true
     },
     {
       "ticker": "SGDM",
@@ -12071,7 +12348,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.3446
+      "rs_spy": 0.3446,
+      "stale_data": true
     },
     {
       "ticker": "SILJ",
@@ -12145,7 +12423,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.2461
+      "rs_spy": 0.2461,
+      "stale_data": true
     },
     {
       "ticker": "KLIC",
@@ -12217,7 +12496,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.2454
+      "rs_spy": -0.2454,
+      "stale_data": true
     },
     {
       "ticker": "GLD",
@@ -12291,7 +12571,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.1155
+      "rs_spy": 0.1155,
+      "stale_data": true
     },
     {
       "ticker": "AVGO",
@@ -12363,7 +12644,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.1084
+      "rs_spy": -0.1084,
+      "stale_data": true
     },
     {
       "ticker": "SKHY",
@@ -12435,7 +12717,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0859
+      "rs_spy": -0.0859,
+      "stale_data": true
     },
     {
       "ticker": "AMD",
@@ -12507,7 +12790,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.1987
+      "rs_spy": -0.1987,
+      "stale_data": true
     },
     {
       "ticker": "PLTR",
@@ -12579,7 +12863,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.3715
+      "rs_spy": 0.3715,
+      "stale_data": true
     },
     {
       "ticker": "AMAT",
@@ -12651,7 +12936,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.1633
+      "rs_spy": -0.1633,
+      "stale_data": true
     },
     {
       "ticker": "MRK",
@@ -12723,7 +13009,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.1124
+      "rs_spy": 0.1124,
+      "stale_data": true
     },
     {
       "ticker": "DELL",
@@ -12795,7 +13082,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0469
+      "rs_spy": -0.0469,
+      "stale_data": true
     },
     {
       "ticker": "TXN",
@@ -12867,7 +13155,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.1127
+      "rs_spy": -0.1127,
+      "stale_data": true
     },
     {
       "ticker": "WPM",
@@ -12939,7 +13228,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.4029
+      "rs_spy": 0.4029,
+      "stale_data": true
     },
     {
       "ticker": "HMY",
@@ -13011,7 +13301,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.4062
+      "rs_spy": 0.4062,
+      "stale_data": true
     },
     {
       "ticker": "BTG",
@@ -13083,7 +13374,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.4481
+      "rs_spy": 0.4481,
+      "stale_data": true
     },
     {
       "ticker": "RIO",
@@ -13155,7 +13447,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.1098
+      "rs_spy": 0.1098,
+      "stale_data": true
     },
     {
       "ticker": "EWY",
@@ -13227,7 +13520,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0027
+      "rs_spy": -0.0027,
+      "stale_data": true
     },
     {
       "ticker": "EEM",
@@ -13299,7 +13593,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0
+      "rs_spy": 0.0,
+      "stale_data": true
     },
     {
       "ticker": "SCHF",
@@ -13371,7 +13666,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0108
+      "rs_spy": 0.0108,
+      "stale_data": true
     },
     {
       "ticker": "VWO",
@@ -13445,7 +13741,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0003
+      "rs_spy": 0.0003,
+      "stale_data": true
     },
     {
       "ticker": "AR",
@@ -13517,7 +13814,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0405
+      "rs_spy": 0.0405,
+      "stale_data": true
     },
     {
       "ticker": "LNG",
@@ -13589,7 +13887,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0008
+      "rs_spy": 0.0008,
+      "stale_data": true
     },
     {
       "ticker": "EWS",
@@ -13661,7 +13960,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0285
+      "rs_spy": 0.0285,
+      "stale_data": true
     },
     {
       "ticker": "FTXH",
@@ -13735,7 +14035,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0453
+      "rs_spy": 0.0453,
+      "stale_data": true
     },
     {
       "ticker": "HDV",
@@ -13807,7 +14108,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0182
+      "rs_spy": 0.0182,
+      "stale_data": true
     },
     {
       "ticker": "URNM",
@@ -13879,7 +14181,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.1239
+      "rs_spy": 0.1239,
+      "stale_data": true
     },
     {
       "ticker": "FORM",
@@ -13951,7 +14254,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0754
+      "rs_spy": -0.0754,
+      "stale_data": true
     },
     {
       "ticker": "GDX",
@@ -14025,7 +14329,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.3376
+      "rs_spy": 0.3376,
+      "stale_data": true
     },
     {
       "ticker": "AAPL",
@@ -14097,7 +14402,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0694
+      "rs_spy": -0.0694,
+      "stale_data": true
     },
     {
       "ticker": "CSCO",
@@ -14169,7 +14475,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0528
+      "rs_spy": -0.0528,
+      "stale_data": true
     },
     {
       "ticker": "AGI",
@@ -14241,7 +14548,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.2525
+      "rs_spy": 0.2525,
+      "stale_data": true
     },
     {
       "ticker": "TFPM",
@@ -14313,7 +14621,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.1652
+      "rs_spy": 0.1652,
+      "stale_data": true
     },
     {
       "ticker": "EFA",
@@ -14387,7 +14696,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.01
+      "rs_spy": 0.01,
+      "stale_data": true
     },
     {
       "ticker": "VEA",
@@ -14459,7 +14769,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0105
+      "rs_spy": 0.0105,
+      "stale_data": true
     },
     {
       "ticker": "IEFA",
@@ -14531,7 +14842,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0105
+      "rs_spy": 0.0105,
+      "stale_data": true
     },
     {
       "ticker": "VXUS",
@@ -14603,7 +14915,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0085
+      "rs_spy": 0.0085,
+      "stale_data": true
     },
     {
       "ticker": "ESGE",
@@ -14675,7 +14988,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0007
+      "rs_spy": 0.0007,
+      "stale_data": true
     },
     {
       "ticker": "MOO",
@@ -14747,7 +15061,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0086
+      "rs_spy": -0.0086,
+      "stale_data": true
     },
     {
       "ticker": "EQT",
@@ -14819,7 +15134,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0312
+      "rs_spy": -0.0312,
+      "stale_data": true
     },
     {
       "ticker": "RLAY",
@@ -14891,7 +15207,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0036
+      "rs_spy": -0.0036,
+      "stale_data": true
     },
     {
       "ticker": "ATRO",
@@ -14963,7 +15280,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0037
+      "rs_spy": 0.0037,
+      "stale_data": true
     },
     {
       "ticker": "EMXC",
@@ -15035,7 +15353,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0026
+      "rs_spy": 0.0026,
+      "stale_data": true
     },
     {
       "ticker": "CPER",
@@ -15109,7 +15428,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0102
+      "rs_spy": 0.0102,
+      "stale_data": true
     },
     {
       "ticker": "BBH",
@@ -15183,7 +15503,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.1384
+      "rs_spy": 0.1384,
+      "stale_data": true
     },
     {
       "ticker": "IEUR",
@@ -15255,7 +15576,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.012
+      "rs_spy": 0.012,
+      "stale_data": true
     },
     {
       "ticker": "GOOGM",
@@ -15327,7 +15649,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0273
+      "rs_spy": 0.0273,
+      "stale_data": true
     },
     {
       "ticker": "KO",
@@ -15399,7 +15722,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0939
+      "rs_spy": 0.0939,
+      "stale_data": true
     },
     {
       "ticker": "AG",
@@ -15471,7 +15795,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.2218
+      "rs_spy": 0.2218,
+      "stale_data": true
     },
     {
       "ticker": "USHY",
@@ -15543,7 +15868,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0286
+      "rs_spy": -0.0286,
+      "stale_data": true
     },
     {
       "ticker": "EWJ",
@@ -15617,7 +15943,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0032
+      "rs_spy": 0.0032,
+      "stale_data": true
     },
     {
       "ticker": "ASHR",
@@ -15689,7 +16016,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0472
+      "rs_spy": -0.0472,
+      "stale_data": true
     },
     {
       "ticker": "ALLW",
@@ -15761,7 +16089,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0034
+      "rs_spy": 0.0034,
+      "stale_data": true
     },
     {
       "ticker": "DBEF",
@@ -15833,7 +16162,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0141
+      "rs_spy": -0.0141,
+      "stale_data": true
     },
     {
       "ticker": "RCRUY",
@@ -15905,7 +16235,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.3661
+      "rs_spy": 0.3661,
+      "stale_data": true
     },
     {
       "ticker": "AUGO",
@@ -15977,7 +16308,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.5334
+      "rs_spy": 0.5334,
+      "stale_data": true
     },
     {
       "ticker": "DXJ",
@@ -16049,7 +16381,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0319
+      "rs_spy": -0.0319,
+      "stale_data": true
     },
     {
       "ticker": "XLP",
@@ -16121,7 +16454,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0151
+      "rs_spy": 0.0151,
+      "stale_data": true
     },
     {
       "ticker": "XLV",
@@ -16193,7 +16527,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0415
+      "rs_spy": 0.0415,
+      "stale_data": true
     },
     {
       "ticker": "COPP",
@@ -16265,7 +16600,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.1608
+      "rs_spy": 0.1608,
+      "stale_data": true
     },
     {
       "ticker": "GOOGN",
@@ -16337,7 +16673,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0149
+      "rs_spy": 0.0149,
+      "stale_data": true
     },
     {
       "ticker": "MSFT",
@@ -16409,7 +16746,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.2252
+      "rs_spy": 0.2252,
+      "stale_data": true
     },
     {
       "ticker": "ARM",
@@ -16481,7 +16819,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.1894
+      "rs_spy": -0.1894,
+      "stale_data": true
     },
     {
       "ticker": "KLAC",
@@ -16553,7 +16892,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.1874
+      "rs_spy": -0.1874,
+      "stale_data": true
     },
     {
       "ticker": "EQX",
@@ -16625,7 +16965,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.43
+      "rs_spy": 0.43,
+      "stale_data": true
     },
     {
       "ticker": "BHP",
@@ -16697,7 +17038,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.135
+      "rs_spy": 0.135,
+      "stale_data": true
     },
     {
       "ticker": "EXPE",
@@ -16769,7 +17111,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.2729
+      "rs_spy": 0.2729,
+      "stale_data": true
     },
     {
       "ticker": "GARP",
@@ -16841,7 +17184,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0092
+      "rs_spy": 0.0092,
+      "stale_data": true
     },
     {
       "ticker": "IJR",
@@ -16913,7 +17257,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0251
+      "rs_spy": -0.0251,
+      "stale_data": true
     },
     {
       "ticker": "DOCN",
@@ -16985,7 +17330,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.1917
+      "rs_spy": -0.1917,
+      "stale_data": true
     },
     {
       "ticker": "GLW",
@@ -17057,7 +17403,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0934
+      "rs_spy": -0.0934,
+      "stale_data": true
     },
     {
       "ticker": "BE",
@@ -17129,7 +17476,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0813
+      "rs_spy": -0.0813,
+      "stale_data": true
     },
     {
       "ticker": "AMZN",
@@ -17201,7 +17549,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0843
+      "rs_spy": 0.0843,
+      "stale_data": true
     },
     {
       "ticker": "HSBC",
@@ -17273,7 +17622,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0252
+      "rs_spy": -0.0252,
+      "stale_data": true
     },
     {
       "ticker": "GE",
@@ -17345,7 +17695,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0578
+      "rs_spy": -0.0578,
+      "stale_data": true
     },
     {
       "ticker": "RTX",
@@ -17417,7 +17768,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0414
+      "rs_spy": -0.0414,
+      "stale_data": true
     },
     {
       "ticker": "SAP",
@@ -17489,7 +17841,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.3884
+      "rs_spy": 0.3884,
+      "stale_data": true
     },
     {
       "ticker": "SGOV",
@@ -17563,7 +17916,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0337
+      "rs_spy": -0.0337,
+      "stale_data": true
     },
     {
       "ticker": "USFR",
@@ -17635,7 +17989,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.034
+      "rs_spy": -0.034,
+      "stale_data": true
     },
     {
       "ticker": "ESML",
@@ -17707,7 +18062,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0105
+      "rs_spy": -0.0105,
+      "stale_data": true
     },
     {
       "ticker": "APH",
@@ -17779,7 +18135,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0386
+      "rs_spy": -0.0386,
+      "stale_data": true
     },
     {
       "ticker": "GRMN",
@@ -17851,7 +18208,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.1739
+      "rs_spy": 0.1739,
+      "stale_data": true
     },
     {
       "ticker": "RNW",
@@ -17923,7 +18281,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0525
+      "rs_spy": 0.0525,
+      "stale_data": true
     },
     {
       "ticker": "NLY",
@@ -17995,7 +18354,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0041
+      "rs_spy": 0.0041,
+      "stale_data": true
     },
     {
       "ticker": "AIQ",
@@ -18069,7 +18429,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0221
+      "rs_spy": 0.0221,
+      "stale_data": true
     },
     {
       "ticker": "CHAT",
@@ -18141,7 +18502,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.034
+      "rs_spy": -0.034,
+      "stale_data": true
     },
     {
       "ticker": "IBKR",
@@ -18213,7 +18575,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0202
+      "rs_spy": -0.0202,
+      "stale_data": true
     },
     {
       "ticker": "OR",
@@ -18285,7 +18648,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.2466
+      "rs_spy": 0.2466,
+      "stale_data": true
     },
     {
       "ticker": "FXI",
@@ -18357,7 +18721,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.004
+      "rs_spy": -0.004,
+      "stale_data": true
     },
     {
       "ticker": "ESGD",
@@ -18431,7 +18796,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0093
+      "rs_spy": 0.0093,
+      "stale_data": true
     },
     {
       "ticker": "DMXF",
@@ -18503,7 +18869,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0139
+      "rs_spy": 0.0139,
+      "stale_data": true
     },
     {
       "ticker": "PDBA",
@@ -18575,7 +18942,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0277
+      "rs_spy": -0.0277,
+      "stale_data": true
     },
     {
       "ticker": "VYM",
@@ -18647,7 +19015,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0114
+      "rs_spy": -0.0114,
+      "stale_data": true
     },
     {
       "ticker": "VGK",
@@ -18719,7 +19088,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0128
+      "rs_spy": 0.0128,
+      "stale_data": true
     },
     {
       "ticker": "IJH",
@@ -18791,7 +19161,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.028
+      "rs_spy": -0.028,
+      "stale_data": true
     },
     {
       "ticker": "VTI",
@@ -18863,79 +19234,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0004
-    },
-    {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
-      "cat": "Core",
-      "watchlist": "Core",
-      "is_new": false,
-      "type": "ETF",
-      "sector": "N/A",
-      "business_summary": null,
-      "price": 701.83,
-      "mkt_cap": "$1.0T",
-      "signal": "Hold",
-      "total": 6.0,
-      "why": "Ok technicals",
-      "fund": null,
-      "tech": 6.4,
-      "macro": 5.7,
-      "fund_sig": null,
-      "tech_sig": "Lean Bull",
-      "fund_why": "insufficient data",
-      "tech_why": "MACD bearish cross",
-      "macro_why": "Neutral macro",
-      "sell_sig": "Watch Closely",
-      "sell_urg": 2.5,
-      "sell_why": "Macd bearish cross",
-      "upside_pct": null,
-      "target_price": null,
-      "pos_52w": 0.894,
-      "rsi": 52.18839044096097,
-      "atr": 6.101244270205533,
-      "gpa": null,
-      "macd": "Bearish Cross",
-      "earn_gr": null,
-      "pe": null,
-      "fwd_pe": null,
-      "peg": null,
-      "rev_gr": null,
-      "margin": null,
-      "gross_margin": null,
-      "eps": null,
-      "pb": null,
-      "current_ratio": null,
-      "quick_ratio": null,
-      "inst_pct": null,
-      "insider_pct": null,
-      "short_pct": null,
-      "div_y": 0.010438959230364779,
-      "roe": null,
-      "de": null,
-      "vs200": 0.078,
-      "vs50": 0.0147,
-      "vol_ratio": 1.21,
-      "volume": 7719885.0,
-      "spark7": null,
-      "ret_30d": 0.0339,
-      "analyst_consensus": null,
-      "analyst_count": null,
-      "earn_date": null,
-      "earn_days": null,
-      "earn_surprise_pct": null,
-      "earn_eps_actual": null,
-      "earn_eps_estimate": null,
-      "beta": 1.0103167,
-      "fee_pct": 0.03,
-      "chg_pct": -0.0026715550439811784,
-      "ret_7d": -0.0164,
-      "ret_90d": 0.0177,
-      "lt_signal": null,
-      "lt_horizon": null,
-      "downturn_resilient": false,
-      "rs_spy": 0.0001
+      "rs_spy": -0.0004,
+      "stale_data": true
     },
     {
       "ticker": "FCEL",
@@ -19007,7 +19307,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.226
+      "rs_spy": -0.226,
+      "stale_data": true
     },
     {
       "ticker": "JPM",
@@ -19079,7 +19380,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0174
+      "rs_spy": -0.0174,
+      "stale_data": true
     },
     {
       "ticker": "V",
@@ -19151,7 +19453,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0481
+      "rs_spy": 0.0481,
+      "stale_data": true
     },
     {
       "ticker": "BAC",
@@ -19223,7 +19526,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0208
+      "rs_spy": -0.0208,
+      "stale_data": true
     },
     {
       "ticker": "NFLX",
@@ -19295,7 +19599,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.1209
+      "rs_spy": 0.1209,
+      "stale_data": true
     },
     {
       "ticker": "PANW",
@@ -19367,7 +19672,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0357
+      "rs_spy": 0.0357,
+      "stale_data": true
     },
     {
       "ticker": "EQIX",
@@ -19439,7 +19745,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0377
+      "rs_spy": -0.0377,
+      "stale_data": true
     },
     {
       "ticker": "HYDR",
@@ -19511,7 +19818,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0687
+      "rs_spy": -0.0687,
+      "stale_data": true
     },
     {
       "ticker": "DBA",
@@ -19585,7 +19893,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0274
+      "rs_spy": -0.0274,
+      "stale_data": true
     },
     {
       "ticker": "LIT",
@@ -19657,7 +19966,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0884
+      "rs_spy": 0.0884,
+      "stale_data": true
     },
     {
       "ticker": "C",
@@ -19729,7 +20039,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0377
+      "rs_spy": -0.0377,
+      "stale_data": true
     },
     {
       "ticker": "GH",
@@ -19801,7 +20112,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0526
+      "rs_spy": 0.0526,
+      "stale_data": true
     },
     {
       "ticker": "JETS",
@@ -19873,7 +20185,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0321
+      "rs_spy": -0.0321,
+      "stale_data": true
     },
     {
       "ticker": "KXI",
@@ -19947,7 +20260,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0034
+      "rs_spy": 0.0034,
+      "stale_data": true
     },
     {
       "ticker": "XLC",
@@ -20019,7 +20333,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0329
+      "rs_spy": 0.0329,
+      "stale_data": true
     },
     {
       "ticker": "VNQI",
@@ -20093,7 +20408,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0192
+      "rs_spy": -0.0192,
+      "stale_data": true
     },
     {
       "ticker": "IGPT",
@@ -20165,7 +20481,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0476
+      "rs_spy": -0.0476,
+      "stale_data": true
     },
     {
       "ticker": "HGRAF",
@@ -20237,7 +20554,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0782
+      "rs_spy": 0.0782,
+      "stale_data": true
     },
     {
       "ticker": "RSP",
@@ -20311,7 +20629,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0112
+      "rs_spy": 0.0112,
+      "stale_data": true
     },
     {
       "ticker": "FCX",
@@ -20383,7 +20702,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.2098
+      "rs_spy": 0.2098,
+      "stale_data": true
     },
     {
       "ticker": "DUK",
@@ -20455,7 +20775,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0908
+      "rs_spy": -0.0908,
+      "stale_data": true
     },
     {
       "ticker": "RSPT",
@@ -20527,7 +20848,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0227
+      "rs_spy": 0.0227,
+      "stale_data": true
     },
     {
       "ticker": "MRVI",
@@ -20599,7 +20921,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.1552
+      "rs_spy": 0.1552,
+      "stale_data": true
     },
     {
       "ticker": "VDC",
@@ -20671,7 +20994,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0122
+      "rs_spy": 0.0122,
+      "stale_data": true
     },
     {
       "ticker": "VB",
@@ -20743,7 +21067,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0099
+      "rs_spy": -0.0099,
+      "stale_data": true
     },
     {
       "ticker": "DGRO",
@@ -20815,7 +21140,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0001
+      "rs_spy": 0.0001,
+      "stale_data": true
     },
     {
       "ticker": "VIS",
@@ -20887,7 +21213,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0564
+      "rs_spy": -0.0564,
+      "stale_data": true
     },
     {
       "ticker": "XLI",
@@ -20959,7 +21286,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0499
+      "rs_spy": -0.0499,
+      "stale_data": true
     },
     {
       "ticker": "VO",
@@ -21031,7 +21359,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.005
+      "rs_spy": -0.005,
+      "stale_data": true
     },
     {
       "ticker": "VNQ",
@@ -21105,7 +21434,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0375
+      "rs_spy": -0.0375,
+      "stale_data": true
     },
     {
       "ticker": "ORCL/PD",
@@ -21177,7 +21507,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0844
+      "rs_spy": 0.0844,
+      "stale_data": true
     },
     {
       "ticker": "CAT",
@@ -21249,7 +21580,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.1276
+      "rs_spy": -0.1276,
+      "stale_data": true
     },
     {
       "ticker": "PLD",
@@ -21321,7 +21653,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0458
+      "rs_spy": -0.0458,
+      "stale_data": true
     },
     {
       "ticker": "KORU",
@@ -21393,7 +21726,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0916
+      "rs_spy": -0.0916,
+      "stale_data": true
     },
     {
       "ticker": "PBW",
@@ -21467,7 +21801,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0633
+      "rs_spy": -0.0633,
+      "stale_data": true
     },
     {
       "ticker": "VGSR",
@@ -21541,7 +21876,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.047
+      "rs_spy": -0.047,
+      "stale_data": true
     },
     {
       "ticker": "PBD",
@@ -21615,7 +21951,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0365
+      "rs_spy": -0.0365,
+      "stale_data": true
     },
     {
       "ticker": "SO",
@@ -21687,7 +22024,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.105
+      "rs_spy": -0.105,
+      "stale_data": true
     },
     {
       "ticker": "ARXS",
@@ -21759,7 +22097,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.2048
+      "rs_spy": 0.2048,
+      "stale_data": true
     },
     {
       "ticker": "IYW",
@@ -21833,7 +22172,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0079
+      "rs_spy": -0.0079,
+      "stale_data": true
     },
     {
       "ticker": "FLTW",
@@ -21907,7 +22247,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0043
+      "rs_spy": 0.0043,
+      "stale_data": true
     },
     {
       "ticker": "CEG",
@@ -21979,7 +22320,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0431
+      "rs_spy": -0.0431,
+      "stale_data": true
     },
     {
       "ticker": "URA",
@@ -22051,7 +22393,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0828
+      "rs_spy": 0.0828,
+      "stale_data": true
     },
     {
       "ticker": "BLDP",
@@ -22123,81 +22466,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.2628
-    },
-    {
-      "ticker": "SPY",
-      "name": "State Street SPDR S&P 500 ETF T",
-      "cat": "Core",
-      "watchlist": "Core Mainstream",
-      "is_new": false,
-      "type": "ETF",
-      "sector": "N/A",
-      "business_summary": null,
-      "price": 763.47,
-      "mkt_cap": "$816.6B",
-      "signal": "Hold",
-      "total": 5.7,
-      "why": "Ok technicals",
-      "fund": 4.9,
-      "tech": 6.4,
-      "macro": 5.7,
-      "fund_sig": "Fair",
-      "tech_sig": "Lean Bull",
-      "fund_why": "Average fundamentals",
-      "tech_why": "MACD bearish cross",
-      "macro_why": "Neutral macro",
-      "sell_sig": "Watch Closely",
-      "sell_urg": 2.5,
-      "sell_why": "Macd bearish cross",
-      "upside_pct": null,
-      "target_price": null,
-      "pos_52w": 0.894,
-      "rsi": 52.13753523603866,
-      "atr": 6.701280789046723,
-      "gpa": null,
-      "macd": "Bearish Cross",
-      "earn_gr": null,
-      "pe": 26.204493,
-      "fwd_pe": null,
-      "peg": null,
-      "rev_gr": null,
-      "margin": null,
-      "gross_margin": null,
-      "eps": null,
-      "pb": 1.8123107,
-      "current_ratio": null,
-      "quick_ratio": null,
-      "inst_pct": null,
-      "insider_pct": null,
-      "short_pct": null,
-      "div_y": 0.009827352034686309,
-      "roe": null,
-      "de": null,
-      "vs200": 0.0784,
-      "vs50": 0.0149,
-      "vol_ratio": 0.86,
-      "volume": 32005631.0,
-      "spark7": null,
-      "ret_30d": 0.0338,
-      "analyst_consensus": null,
-      "analyst_count": null,
-      "earn_date": null,
-      "earn_days": null,
-      "earn_surprise_pct": null,
-      "earn_eps_actual": null,
-      "earn_eps_estimate": null,
-      "beta": 1.0099103,
-      "fee_pct": 0.0945,
-      "alt_ticker": "SPYG",
-      "alt_note": "SPYG is cheaper: saves 0.05 points of fee (fee 0.04% vs 0.09%, 1yr 21.7% vs 19.7%, 6mo 13.7% vs 10.6%). Matched on 500. Same segment by NAME, not by holdings: check what it actually holds before switching.",
-      "chg_pct": -0.002938410907381288,
-      "ret_7d": -0.0164,
-      "ret_90d": 0.0179,
-      "lt_signal": null,
-      "lt_horizon": null,
-      "downturn_resilient": false,
-      "rs_spy": 0.0
+      "rs_spy": -0.2628,
+      "stale_data": true
     },
     {
       "ticker": "INTC",
@@ -22269,7 +22539,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.1643
+      "rs_spy": -0.1643,
+      "stale_data": true
     },
     {
       "ticker": "WELL",
@@ -22341,7 +22612,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0679
+      "rs_spy": -0.0679,
+      "stale_data": true
     },
     {
       "ticker": "IRM",
@@ -22413,7 +22685,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0797
+      "rs_spy": -0.0797,
+      "stale_data": true
     },
     {
       "ticker": "EWT",
@@ -22487,7 +22760,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0054
+      "rs_spy": 0.0054,
+      "stale_data": true
     },
     {
       "ticker": "FAN",
@@ -22559,7 +22833,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0536
+      "rs_spy": -0.0536,
+      "stale_data": true
     },
     {
       "ticker": "EXC",
@@ -22631,7 +22906,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0966
+      "rs_spy": -0.0966,
+      "stale_data": true
     },
     {
       "ticker": "CIBR",
@@ -22705,7 +22981,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0222
+      "rs_spy": 0.0222,
+      "stale_data": true
     },
     {
       "ticker": "SLJY",
@@ -22779,7 +23056,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.1657
+      "rs_spy": 0.1657,
+      "stale_data": true
     },
     {
       "ticker": "NLR",
@@ -22851,7 +23129,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0339
+      "rs_spy": 0.0339,
+      "stale_data": true
     },
     {
       "ticker": "UPRO",
@@ -22923,7 +23202,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0577
+      "rs_spy": 0.0577,
+      "stale_data": true
     },
     {
       "ticker": "META",
@@ -22995,7 +23275,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.1103
+      "rs_spy": -0.1103,
+      "stale_data": true
     },
     {
       "ticker": "BRK-B",
@@ -23067,7 +23348,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0076
+      "rs_spy": -0.0076,
+      "stale_data": true
     },
     {
       "ticker": "HYG",
@@ -23139,7 +23421,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0281
+      "rs_spy": -0.0281,
+      "stale_data": true
     },
     {
       "ticker": "VTEB",
@@ -23211,7 +23494,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.034
+      "rs_spy": -0.034,
+      "stale_data": true
     },
     {
       "ticker": "KLMN",
@@ -23283,7 +23567,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0034
+      "rs_spy": 0.0034,
+      "stale_data": true
     },
     {
       "ticker": "DSI",
@@ -23355,7 +23640,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0235
+      "rs_spy": 0.0235,
+      "stale_data": true
     },
     {
       "ticker": "QUBT",
@@ -23427,7 +23713,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0159
+      "rs_spy": 0.0159,
+      "stale_data": true
     },
     {
       "ticker": "PAVE",
@@ -23501,7 +23788,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0636
+      "rs_spy": -0.0636,
+      "stale_data": true
     },
     {
       "ticker": "DGRW",
@@ -23573,7 +23861,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0096
+      "rs_spy": 0.0096,
+      "stale_data": true
     },
     {
       "ticker": "SOXX",
@@ -23645,7 +23934,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.1039
+      "rs_spy": -0.1039,
+      "stale_data": true
     },
     {
       "ticker": "TCEHY",
@@ -23717,7 +24007,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0003
+      "rs_spy": -0.0003,
+      "stale_data": true
     },
     {
       "ticker": "MA",
@@ -23789,7 +24080,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0949
+      "rs_spy": 0.0949,
+      "stale_data": true
     },
     {
       "ticker": "ORCL",
@@ -23861,7 +24153,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.1293
+      "rs_spy": 0.1293,
+      "stale_data": true
     },
     {
       "ticker": "UNH",
@@ -23933,7 +24226,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0961
+      "rs_spy": -0.0961,
+      "stale_data": true
     },
     {
       "ticker": "SBSW",
@@ -24005,7 +24299,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.4472
+      "rs_spy": 0.4472,
+      "stale_data": true
     },
     {
       "ticker": "PSA",
@@ -24077,7 +24372,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0093
+      "rs_spy": -0.0093,
+      "stale_data": true
     },
     {
       "ticker": "SPSB",
@@ -24149,7 +24445,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0315
+      "rs_spy": -0.0315,
+      "stale_data": true
     },
     {
       "ticker": "ECAT",
@@ -24221,7 +24518,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0226
+      "rs_spy": -0.0226,
+      "stale_data": true
     },
     {
       "ticker": "ESGU",
@@ -24295,7 +24593,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0008
+      "rs_spy": -0.0008,
+      "stale_data": true
     },
     {
       "ticker": "SUSC",
@@ -24369,7 +24668,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0336
+      "rs_spy": -0.0336,
+      "stale_data": true
     },
     {
       "ticker": "ESGV",
@@ -24441,7 +24741,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0063
+      "rs_spy": 0.0063,
+      "stale_data": true
     },
     {
       "ticker": "QTEC",
@@ -24513,7 +24814,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0062
+      "rs_spy": -0.0062,
+      "stale_data": true
     },
     {
       "ticker": "XLK",
@@ -24585,7 +24887,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0213
+      "rs_spy": -0.0213,
+      "stale_data": true
     },
     {
       "ticker": "VGSH",
@@ -24657,7 +24960,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0317
+      "rs_spy": -0.0317,
+      "stale_data": true
     },
     {
       "ticker": "SHY",
@@ -24731,7 +25035,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0317
+      "rs_spy": -0.0317,
+      "stale_data": true
     },
     {
       "ticker": "VIG",
@@ -24803,7 +25108,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0042
+      "rs_spy": -0.0042,
+      "stale_data": true
     },
     {
       "ticker": "VOX",
@@ -24875,7 +25181,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0129
+      "rs_spy": 0.0129,
+      "stale_data": true
     },
     {
       "ticker": "JNK",
@@ -24947,7 +25254,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0281
+      "rs_spy": -0.0281,
+      "stale_data": true
     },
     {
       "ticker": "QTUM",
@@ -25021,7 +25329,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0075
+      "rs_spy": -0.0075,
+      "stale_data": true
     },
     {
       "ticker": "ICLN",
@@ -25093,7 +25402,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0787
+      "rs_spy": -0.0787,
+      "stale_data": true
     },
     {
       "ticker": "MUB",
@@ -25165,7 +25475,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0332
+      "rs_spy": -0.0332,
+      "stale_data": true
     },
     {
       "ticker": "PYLD",
@@ -25239,7 +25550,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0296
+      "rs_spy": -0.0296,
+      "stale_data": true
     },
     {
       "ticker": "TAN",
@@ -25311,7 +25623,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.1173
+      "rs_spy": -0.1173,
+      "stale_data": true
     },
     {
       "ticker": "QBTS",
@@ -25383,7 +25696,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0644
+      "rs_spy": 0.0644,
+      "stale_data": true
     },
     {
       "ticker": "PPA",
@@ -25457,7 +25771,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.058
+      "rs_spy": -0.058,
+      "stale_data": true
     },
     {
       "ticker": "GRID",
@@ -25531,7 +25846,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0428
+      "rs_spy": -0.0428,
+      "stale_data": true
     },
     {
       "ticker": "AMSC",
@@ -25603,7 +25919,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.1564
+      "rs_spy": -0.1564,
+      "stale_data": true
     },
     {
       "ticker": "ESS",
@@ -25675,7 +25992,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0354
+      "rs_spy": -0.0354,
+      "stale_data": true
     },
     {
       "ticker": "KWEB",
@@ -25749,7 +26067,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": -0.0323
+      "rs_spy": -0.0323,
+      "stale_data": true
     },
     {
       "ticker": "EMB",
@@ -25823,7 +26142,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0317
+      "rs_spy": -0.0317,
+      "stale_data": true
     },
     {
       "ticker": "IXN",
@@ -25895,7 +26215,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0157
+      "rs_spy": -0.0157,
+      "stale_data": true
     },
     {
       "ticker": "IONQ",
@@ -25967,7 +26288,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.1703
+      "rs_spy": 0.1703,
+      "stale_data": true
     },
     {
       "ticker": "SMH",
@@ -26041,7 +26363,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0819
+      "rs_spy": -0.0819,
+      "stale_data": true
     },
     {
       "ticker": "FTXL",
@@ -26113,7 +26436,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.1136
+      "rs_spy": -0.1136,
+      "stale_data": true
     },
     {
       "ticker": "PLUG",
@@ -26185,7 +26509,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0429
+      "rs_spy": -0.0429,
+      "stale_data": true
     },
     {
       "ticker": "DLR",
@@ -26257,7 +26582,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0414
+      "rs_spy": -0.0414,
+      "stale_data": true
     },
     {
       "ticker": "RGTI",
@@ -26329,7 +26655,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0686
+      "rs_spy": 0.0686,
+      "stale_data": true
     },
     {
       "ticker": "AIQUY",
@@ -26401,7 +26728,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0528
+      "rs_spy": -0.0528,
+      "stale_data": true
     },
     {
       "ticker": "TECL",
@@ -26473,7 +26801,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0279
+      "rs_spy": -0.0279,
+      "stale_data": true
     },
     {
       "ticker": "PSI",
@@ -26545,7 +26874,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.1489
+      "rs_spy": -0.1489,
+      "stale_data": true
     },
     {
       "ticker": "INDA",
@@ -26619,7 +26949,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0076
+      "rs_spy": -0.0076,
+      "stale_data": true
     },
     {
       "ticker": "ITA",
@@ -26691,7 +27022,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0572
+      "rs_spy": -0.0572,
+      "stale_data": true
     },
     {
       "ticker": "UFOD",
@@ -26763,7 +27095,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.023
+      "rs_spy": -0.023,
+      "stale_data": true
     },
     {
       "ticker": "XAR",
@@ -26835,7 +27168,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0542
+      "rs_spy": -0.0542,
+      "stale_data": true
     },
     {
       "ticker": "SBAC",
@@ -26907,7 +27241,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0165
+      "rs_spy": 0.0165,
+      "stale_data": true
     },
     {
       "ticker": "BUG",
@@ -26981,7 +27316,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.0306
+      "rs_spy": 0.0306,
+      "stale_data": true
     },
     {
       "ticker": "SCHE",
@@ -27055,7 +27391,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0006
+      "rs_spy": -0.0006,
+      "stale_data": true
     },
     {
       "ticker": "VCEB",
@@ -27127,7 +27464,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0344
+      "rs_spy": -0.0344,
+      "stale_data": true
     },
     {
       "ticker": "RELY",
@@ -27199,7 +27537,8 @@
       "lt_signal": "LT Strong Buy",
       "lt_horizon": "12-24 months",
       "downturn_resilient": true,
-      "rs_spy": 0.1258
+      "rs_spy": 0.1258,
+      "stale_data": true
     },
     {
       "ticker": "SBLK",
@@ -27271,7 +27610,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0891
+      "rs_spy": 0.0891,
+      "stale_data": true
     },
     {
       "ticker": "UGP",
@@ -27343,7 +27683,8 @@
       "lt_signal": "LT Hold",
       "lt_horizon": "12 months",
       "downturn_resilient": true,
-      "rs_spy": 0.0016
+      "rs_spy": 0.0016,
+      "stale_data": true
     },
     {
       "ticker": "GEO",
@@ -27415,7 +27756,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": -0.0067
+      "rs_spy": -0.0067,
+      "stale_data": true
     },
     {
       "ticker": "IOVA",
@@ -27487,7 +27829,8 @@
       "lt_signal": null,
       "lt_horizon": null,
       "downturn_resilient": false,
-      "rs_spy": 0.5389
+      "rs_spy": 0.5389,
+      "stale_data": true
     }
   ],
   "data_quality_warning": null
