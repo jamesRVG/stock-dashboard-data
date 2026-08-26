@@ -40,5 +40,12 @@
     "category": "sector_behavior|signal_calibration|fundamental_weight",
     "horizon": "all",
     "date": "2026-08-26"
+  },
+  {
+    "note": "System exhibits three actionable regimes requiring distinct portfolio strategies: (1) Same-day signals show persistent zero-alpha profile (eliminated value, execution costs exceed price momentum); (2) 1-week horizon underperforms despite individual pick quality, suggesting timing friction or rebalancing overhead negates signal value; (3) 1-month horizon delivers +1,443bps but 95%+ concentrated in precious metals/mining sector (AU, AEM, WPM, RGLD, NEM, KGC, SSRM tier averaging +38% vs non-commodity +2-3%). Today's top picks (INSW, ECO, XOP, LPG, FBT) contain only 20% precious metals exposure\u2014misaligned with demonstrated alpha source. Actionable corrections: (A) Eliminate all same-day entry signals entirely (zero alpha, execution drag); (B) Apply 4-5x weighting multiplier to gold/silver/mining sector signals exclusively for 1-week and 1-month horizons; (C) Reduce non-commodity allocation to <15% for medium/long-term portfolios; (D) Rebalance current 1-week and 1-month portfolios to minimum 65-70% precious metals concentration (AU, AEM, WPM, RGLD, NEM) to capture demonstrated repeatable alpha pattern.",
+    "confidence": 5,
+    "category": "sector_behavior|signal_calibration|technical_timing|fundamental_weight",
+    "horizon": "all",
+    "date": "2026-08-26"
   }
 ]
