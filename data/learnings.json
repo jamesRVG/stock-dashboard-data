@@ -33,5 +33,12 @@
     "category": "sector_behavior|signal_calibration|fundamental_weight",
     "horizon": "all",
     "date": "2026-08-25"
+  },
+  {
+    "note": "System exhibits persistent three-regime pattern: (1) Same-day signals: 0 alpha (eliminated value); (2) 1-week signals: -91bps aggregate despite positive picks (execution/timing issue); (3) 1-month signals: +1,443bps alpha but 95% from precious metals/mining sector alone. Today's top picks (INSW, ECO, XOP, LPG, FBT) contain only 20% precious metals exposure (LPG only commodity-adjacent). Root cause: scoring model assigns 7.0-7.9 scores uniformly across sectors without commodity-cycle differentiation. Actionable fixes: (A) Eliminate same-day entry signals entirely (zero alpha signal); (B) Apply 4-5x weighting multiplier to gold/silver/mining tickers (AU, AEM, WPM, RGLD, NEM, KGC tier) for 1-week and 1-month horizons only; (C) Cap non-commodity sectors at <15% of medium/long-term allocation; (D) Rebalance today's 1-week and 1-month portfolios to minimum 70% precious metals concentration to align with demonstrated alpha source.",
+    "confidence": 5,
+    "category": "sector_behavior|signal_calibration|fundamental_weight",
+    "horizon": "all",
+    "date": "2026-08-26"
   }
 ]
