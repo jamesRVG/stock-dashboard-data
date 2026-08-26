@@ -1,6 +1,6 @@
 {
-  "refreshed": "2026-08-26 16:18",
-  "refreshed_utc": "2026-08-26T16:18:58Z",
+  "refreshed": "2026-08-26 16:43",
+  "refreshed_utc": "2026-08-26T16:43:27Z",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "sentiment_net": 5,
@@ -17,12 +17,12 @@
     },
     {
       "signal": "Breadth: equal weight vs cap weight",
-      "value": "+5.2pp",
+      "value": "+5.1pp",
       "reading": "broad participation"
     },
     {
       "signal": "Volatility (VIX)",
-      "value": "15.6",
+      "value": "15.7",
       "reading": "calm"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "signal": "Gold vs stocks",
-      "value": "+1.7pp",
+      "value": "+1.8pp",
       "reading": "fear bid in gold"
     },
     {
@@ -55,7 +55,6 @@
   "avg_score_exact": 6.47,
   "avg_score_prev": 6.47,
   "avg_score_series": [
-    6.58,
     6.58,
     6.58,
     6.58,
@@ -84,10 +83,10 @@
     6.48,
     6.48,
     6.47,
+    6.47,
     6.47
   ],
   "avg_score_dates": [
-    "2026-08-20",
     "2026-08-20",
     "2026-08-20",
     "2026-08-20",
@@ -116,6 +115,7 @@
     "2026-08-26",
     "2026-08-26",
     "2026-08-26",
+    "2026-08-26",
     "2026-08-26"
   ],
   "sentiment_series": [
@@ -137,7 +137,7 @@
     7,
     7,
     7,
-    7,
+    5,
     5,
     5,
     5,
@@ -286,23 +286,23 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7670.4,
-        "chg_pct": 0.0005
+        "price": 7665.9,
+        "chg_pct": -0.0001
       },
       {
         "name": "NASDAQ",
-        "price": 29162.6,
-        "chg_pct": 0.0011
+        "price": 29140.6,
+        "chg_pct": 0.0003
       },
       {
         "name": "DOW",
-        "price": 53456.7,
-        "chg_pct": -0.0017
+        "price": 53420.2,
+        "chg_pct": -0.0024
       },
       {
         "name": "Russell 2K (fut)",
-        "price": 3006.7,
-        "chg_pct": -0.0026
+        "price": 3003.6,
+        "chg_pct": -0.0036
       }
     ],
     "vix": {
@@ -311,8 +311,8 @@
       "label": "Normal"
     },
     "dxy": {
-      "price": 99.15,
-      "chg_pct": 0.0023
+      "price": 99.17,
+      "chg_pct": 0.0025
     },
     "yields": [
       {
@@ -587,30 +587,30 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1652,
-        "chg_pct": -0.0017,
-        "chg_1mo": 0.0234,
-        "chg_3mo": 0.0021,
-        "chg_6mo": -0.0118,
-        "chg_1yr": 0.003
+        "price": 1.165,
+        "chg_pct": -0.0018,
+        "chg_1mo": 0.0231,
+        "chg_3mo": 0.0018,
+        "chg_6mo": -0.0121,
+        "chg_1yr": 0.0027
       },
       {
         "name": "USD/JPY",
-        "price": 159.336,
-        "chg_pct": 0.0007,
-        "chg_1mo": -0.0266,
-        "chg_3mo": -0.0008,
-        "chg_6mo": 0.0208,
-        "chg_1yr": 0.0791
+        "price": 159.374,
+        "chg_pct": 0.001,
+        "chg_1mo": -0.0264,
+        "chg_3mo": -0.0005,
+        "chg_6mo": 0.021,
+        "chg_1yr": 0.0793
       },
       {
         "name": "GBP/USD",
-        "price": 1.3596,
-        "chg_pct": -0.0035,
-        "chg_1mo": 0.0208,
-        "chg_3mo": 0.0131,
-        "chg_6mo": 0.0082,
-        "chg_1yr": 0.0105
+        "price": 1.3589,
+        "chg_pct": -0.004,
+        "chg_1mo": 0.0203,
+        "chg_3mo": 0.0126,
+        "chg_6mo": 0.0076,
+        "chg_1yr": 0.01
       },
       {
         "name": "USD/CNY",
@@ -632,38 +632,38 @@
       },
       {
         "name": "USD/BRL",
-        "price": 5.1577,
-        "chg_pct": 0.0023,
-        "chg_1mo": 0.0139,
-        "chg_3mo": 0.0193,
-        "chg_6mo": 0.0034,
-        "chg_1yr": -0.0467
+        "price": 5.1594,
+        "chg_pct": 0.0026,
+        "chg_1mo": 0.0142,
+        "chg_3mo": 0.0196,
+        "chg_6mo": 0.0038,
+        "chg_1yr": -0.0463
       },
       {
         "name": "USD/CAD",
-        "price": 1.3874,
-        "chg_pct": 0.0028,
-        "chg_1mo": -0.0155,
-        "chg_3mo": 0.0025,
-        "chg_6mo": 0.0148,
-        "chg_1yr": 0.0013
+        "price": 1.3876,
+        "chg_pct": 0.0029,
+        "chg_1mo": -0.0153,
+        "chg_3mo": 0.0026,
+        "chg_6mo": 0.0149,
+        "chg_1yr": 0.0014
       },
       {
         "name": "USD/CHF",
-        "price": 0.8055,
-        "chg_pct": 0.0052,
-        "chg_1mo": -0.0139,
-        "chg_3mo": 0.0238,
-        "chg_6mo": 0.0396,
-        "chg_1yr": 0.0004
+        "price": 0.8056,
+        "chg_pct": 0.0054,
+        "chg_1mo": -0.0137,
+        "chg_3mo": 0.024,
+        "chg_6mo": 0.0398,
+        "chg_1yr": 0.0006
       },
       {
         "name": "USD/MXN",
-        "price": 16.9668,
-        "chg_pct": 0.0019,
+        "price": 16.9655,
+        "chg_pct": 0.0018,
         "chg_1mo": -0.0302,
-        "chg_3mo": -0.0222,
-        "chg_6mo": -0.0123,
+        "chg_3mo": -0.0223,
+        "chg_6mo": -0.0124,
         "chg_1yr": -0.0904
       }
     ],
@@ -840,7 +840,7 @@
       "policy_inputs": [
         {
           "name": "Fed Funds futures path",
-          "value": 27.5,
+          "value": 28.0,
           "vote": -1,
           "detail": "bp between the front and far contract; negative prices cuts"
         },
@@ -852,7 +852,7 @@
         },
         {
           "name": "Dollar, 20-day change",
-          "value": -0.43,
+          "value": -0.45,
           "vote": 1,
           "detail": "a weaker dollar loosens global financial conditions"
         }
@@ -866,11 +866,11 @@
     }
   },
   "breadth": {
-    "ratio": 0.289551,
-    "range_pos": 67.8,
+    "ratio": 0.289888,
+    "range_pos": 69.1,
     "range_low": 0.271859,
     "range_high": 0.297948,
-    "chg_20d_pct": 1.05,
+    "chg_20d_pct": 1.16,
     "regime": "BROADENING",
     "stance": "ride",
     "guidance": "Ave stock beating largest. Mkt broadening, wave intact. Stick with it vs awaiting turn.",
@@ -1041,20 +1041,20 @@
   },
   "rate_path": {
     "front": 3.63,
-    "far": 3.905,
+    "far": 3.91,
     "front_contract": "ZQQ2026",
     "far_contract": "ZQF2027",
-    "path_bps": 27.5,
+    "path_bps": 28.0,
     "direction": "rates expected HIGHER",
-    "next_move_odds": 18.0,
+    "next_move_odds": 20.0,
     "d_front_bps": 0.0,
-    "d_far_bps": 1.0,
+    "d_far_bps": 1.5,
     "spy_chg_pct": -0.0011620164249063027,
     "verdict": "MIXED",
     "verdict_note": "No consistent relationship between rate expectations and stocks. Neither story is in charge right now.",
     "fed_score": 36.0,
-    "corr": -0.36,
-    "today_side": 4.0,
+    "corr": -0.357,
+    "today_side": 6.0,
     "window": 20,
     "pairs": 15,
     "curve": [
@@ -1064,23 +1064,23 @@
       },
       {
         "contract": "ZQU2026",
-        "implied": 3.675
+        "implied": 3.68
       },
       {
         "contract": "ZQV2026",
-        "implied": 3.735
+        "implied": 3.74
       },
       {
         "contract": "ZQX2026",
-        "implied": 3.79
+        "implied": 3.795
       },
       {
         "contract": "ZQZ2026",
-        "implied": 3.87
+        "implied": 3.875
       },
       {
         "contract": "ZQF2027",
-        "implied": 3.905
+        "implied": 3.91
       },
       {
         "contract": "ZQG2027",
@@ -1088,7 +1088,7 @@
       },
       {
         "contract": "ZQH2027",
-        "implied": 3.98
+        "implied": 3.985
       },
       {
         "contract": "ZQJ2027",
@@ -1096,11 +1096,11 @@
       },
       {
         "contract": "ZQK2027",
-        "implied": 4.04
+        "implied": 4.045
       },
       {
         "contract": "ZQM2027",
-        "implied": 4.055
+        "implied": 4.06
       }
     ],
     "sessions": 17
