@@ -1,6 +1,6 @@
 {
-  "refreshed": "2026-08-26 13:39",
-  "refreshed_utc": "2026-08-26T13:39:32Z",
+  "refreshed": "2026-08-26 16:05",
+  "refreshed_utc": "2026-08-26T16:05:09Z",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "sentiment_net": 5,
@@ -17,7 +17,7 @@
     },
     {
       "signal": "Breadth: equal weight vs cap weight",
-      "value": "+4.6pp",
+      "value": "+5.0pp",
       "reading": "broad participation"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "signal": "Credit appetite: high yield vs investment grade",
-      "value": "+1.6pp",
+      "value": "+1.8pp",
       "reading": "risk appetite healthy"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "signal": "Small caps vs large caps",
-      "value": "+0.8pp",
+      "value": "+1.0pp",
       "reading": "risk-seeking"
     },
     {
       "signal": "Gold vs stocks",
-      "value": "+3.9pp",
+      "value": "+1.8pp",
       "reading": "fear bid in gold"
     },
     {
@@ -53,9 +53,8 @@
   ],
   "avg_score": 6.5,
   "avg_score_exact": 6.47,
-  "avg_score_prev": 6.48,
+  "avg_score_prev": 6.47,
   "avg_score_series": [
-    6.47,
     6.58,
     6.58,
     6.58,
@@ -84,10 +83,10 @@
     6.43,
     6.48,
     6.48,
-    6.48
+    6.48,
+    6.47
   ],
   "avg_score_dates": [
-    "2026-08-19",
     "2026-08-19",
     "2026-08-20",
     "2026-08-20",
@@ -116,6 +115,7 @@
     "2026-08-25",
     "2026-08-25",
     "2026-08-26",
+    "2026-08-26",
     "2026-08-26"
   ],
   "sentiment_series": [
@@ -139,7 +139,7 @@
     7,
     7,
     7,
-    7,
+    5,
     5,
     5,
     5,
@@ -286,33 +286,33 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7677.3,
-        "chg_pct": 0.0001
+        "price": 7680.7,
+        "chg_pct": 0.0018
       },
       {
         "name": "NASDAQ",
-        "price": 29209.2,
-        "chg_pct": -0.0008
+        "price": 29219.8,
+        "chg_pct": 0.0031
       },
       {
         "name": "DOW",
-        "price": 53577.4,
-        "chg_pct": -0.0003
+        "price": 53493.5,
+        "chg_pct": -0.001
       },
       {
         "name": "Russell 2K (fut)",
-        "price": 3006.5,
-        "chg_pct": -0.0027
+        "price": 3007.6,
+        "chg_pct": -0.0023
       }
     ],
     "vix": {
-      "price": 15.8,
-      "prev": 15.8,
+      "price": 15.4,
+      "prev": 15.4,
       "label": "Normal"
     },
     "dxy": {
-      "price": 99.12,
-      "chg_pct": 0.002
+      "price": 99.17,
+      "chg_pct": 0.0025
     },
     "yields": [
       {
@@ -402,8 +402,8 @@
       {
         "name": "Gold",
         "unit": "$/oz",
-        "price": 4631.78,
-        "chg_pct": -0.0054,
+        "price": 4593.86,
+        "chg_pct": -0.0137,
         "chg_1mo": -0.0143,
         "chg_3mo": -0.1531,
         "chg_6mo": -0.113,
@@ -413,8 +413,8 @@
       {
         "name": "Silver",
         "unit": "$/oz",
-        "price": 68.76,
-        "chg_pct": 0.0023,
+        "price": 67.89,
+        "chg_pct": -0.012,
         "chg_1mo": -0.0502,
         "chg_3mo": -0.2632,
         "chg_6mo": -0.3141,
@@ -424,8 +424,8 @@
       {
         "name": "Platinum",
         "unit": "$/oz",
-        "price": 1864.85,
-        "chg_pct": 0.0033,
+        "price": 1839.3,
+        "chg_pct": -0.0083,
         "chg_1mo": -0.0342,
         "chg_3mo": -0.2253,
         "chg_6mo": -0.3127,
@@ -435,8 +435,8 @@
       {
         "name": "Palladium",
         "unit": "$/oz",
-        "price": 1339.95,
-        "chg_pct": 0.0019,
+        "price": 1328.26,
+        "chg_pct": -0.0069,
         "chg_1mo": 0.0186,
         "chg_3mo": -0.1962,
         "chg_6mo": -0.3403,
@@ -536,8 +536,8 @@
       {
         "name": "Gold",
         "unit": "$/oz",
-        "price": 4631.78,
-        "chg_pct": -0.0054,
+        "price": 4593.86,
+        "chg_pct": -0.0137,
         "chg_1mo": -0.0143,
         "chg_3mo": -0.1531,
         "chg_6mo": -0.113,
@@ -547,8 +547,8 @@
       {
         "name": "Silver",
         "unit": "$/oz",
-        "price": 68.76,
-        "chg_pct": 0.0023,
+        "price": 67.89,
+        "chg_pct": -0.012,
         "chg_1mo": -0.0502,
         "chg_3mo": -0.2632,
         "chg_6mo": -0.3141,
@@ -558,8 +558,8 @@
       {
         "name": "Platinum",
         "unit": "$/oz",
-        "price": 1864.85,
-        "chg_pct": 0.0033,
+        "price": 1839.3,
+        "chg_pct": -0.0083,
         "chg_1mo": -0.0342,
         "chg_3mo": -0.2253,
         "chg_6mo": -0.3127,
@@ -569,8 +569,8 @@
       {
         "name": "Palladium",
         "unit": "$/oz",
-        "price": 1339.95,
-        "chg_pct": 0.0019,
+        "price": 1328.26,
+        "chg_pct": -0.0069,
         "chg_1mo": 0.0186,
         "chg_3mo": -0.1962,
         "chg_6mo": -0.3403,
@@ -579,92 +579,92 @@
       }
     ],
     "pm_drivers": {
-      "gold_silver_ratio": 67.4,
-      "copper_gold_ratio": 1.451,
+      "gold_silver_ratio": 67.7,
+      "copper_gold_ratio": 1.463,
       "central_bank_demand": "Strong",
       "cb_demand_note": "EM central banks (China, India, Turkey, Poland) net buyers; de-dollarization driver"
     },
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1655,
-        "chg_pct": -0.0015,
-        "chg_1mo": 0.0236,
-        "chg_3mo": 0.0023,
-        "chg_6mo": -0.0116,
-        "chg_1yr": 0.0032
+        "price": 1.165,
+        "chg_pct": -0.0019,
+        "chg_1mo": 0.0233,
+        "chg_3mo": 0.002,
+        "chg_6mo": -0.0119,
+        "chg_1yr": 0.0028
       },
       {
         "name": "USD/JPY",
-        "price": 159.319,
-        "chg_pct": 0.0006,
-        "chg_1mo": -0.0267,
-        "chg_3mo": -0.0009,
-        "chg_6mo": 0.0207,
-        "chg_1yr": 0.0789
+        "price": 159.362,
+        "chg_pct": 0.0009,
+        "chg_1mo": -0.0265,
+        "chg_3mo": -0.0006,
+        "chg_6mo": 0.0209,
+        "chg_1yr": 0.0792
       },
       {
         "name": "GBP/USD",
-        "price": 1.3603,
-        "chg_pct": -0.003,
-        "chg_1mo": 0.0213,
-        "chg_3mo": 0.0136,
-        "chg_6mo": 0.0087,
-        "chg_1yr": 0.011
+        "price": 1.3593,
+        "chg_pct": -0.0037,
+        "chg_1mo": 0.0206,
+        "chg_3mo": 0.0129,
+        "chg_6mo": 0.0079,
+        "chg_1yr": 0.0103
       },
       {
         "name": "USD/CNY",
-        "price": 6.7215,
+        "price": 6.722,
         "chg_pct": 0.0003,
-        "chg_1mo": -0.0074,
-        "chg_3mo": -0.0084,
-        "chg_6mo": -0.0174,
-        "chg_1yr": -0.06
+        "chg_1mo": -0.0073,
+        "chg_3mo": -0.0083,
+        "chg_6mo": -0.0173,
+        "chg_1yr": -0.0599
       },
       {
         "name": "AUD/USD",
-        "price": 0.7176,
-        "chg_pct": 0.0021,
-        "chg_1mo": 0.0282,
-        "chg_3mo": 0.0052,
-        "chg_6mo": 0.0105,
-        "chg_1yr": 0.1075
+        "price": 0.7167,
+        "chg_pct": 0.0009,
+        "chg_1mo": 0.027,
+        "chg_3mo": 0.004,
+        "chg_6mo": 0.0093,
+        "chg_1yr": 0.1061
       },
       {
         "name": "USD/BRL",
-        "price": 5.1621,
-        "chg_pct": 0.0031,
-        "chg_1mo": 0.0148,
-        "chg_3mo": 0.0202,
-        "chg_6mo": 0.0043,
-        "chg_1yr": -0.0458
+        "price": 5.1612,
+        "chg_pct": 0.0029,
+        "chg_1mo": 0.0146,
+        "chg_3mo": 0.02,
+        "chg_6mo": 0.0041,
+        "chg_1yr": -0.046
       },
       {
         "name": "USD/CAD",
-        "price": 1.3877,
-        "chg_pct": 0.003,
-        "chg_1mo": -0.0153,
-        "chg_3mo": 0.0027,
-        "chg_6mo": 0.015,
-        "chg_1yr": 0.0015
+        "price": 1.3874,
+        "chg_pct": 0.0028,
+        "chg_1mo": -0.0155,
+        "chg_3mo": 0.0025,
+        "chg_6mo": 0.0148,
+        "chg_1yr": 0.0013
       },
       {
         "name": "USD/CHF",
-        "price": 0.8051,
-        "chg_pct": 0.0048,
-        "chg_1mo": -0.0143,
-        "chg_3mo": 0.0234,
-        "chg_6mo": 0.0392,
-        "chg_1yr": 0.0
+        "price": 0.8055,
+        "chg_pct": 0.0053,
+        "chg_1mo": -0.0139,
+        "chg_3mo": 0.0238,
+        "chg_6mo": 0.0396,
+        "chg_1yr": 0.0005
       },
       {
         "name": "USD/MXN",
-        "price": 16.9597,
-        "chg_pct": 0.0015,
-        "chg_1mo": -0.0306,
-        "chg_3mo": -0.0226,
-        "chg_6mo": -0.0127,
-        "chg_1yr": -0.0907
+        "price": 16.964,
+        "chg_pct": 0.0017,
+        "chg_1mo": -0.0303,
+        "chg_3mo": -0.0223,
+        "chg_6mo": -0.0125,
+        "chg_1yr": -0.0905
       }
     ],
     "global_watch": [
@@ -672,7 +672,7 @@
         "ticker": "^VIX",
         "label": "VIX Fear Index",
         "region": "Risk",
-        "price": 15.8,
+        "price": 15.4,
         "chg_pct": 0.0
       },
       {
@@ -686,8 +686,8 @@
         "ticker": "GC=F",
         "label": "Gold Futures",
         "region": "Commodities",
-        "price": 4631.78,
-        "chg_pct": -0.0054
+        "price": 4593.86,
+        "chg_pct": -0.0137
       }
     ],
     "econ_history": {
@@ -806,7 +806,7 @@
         },
         {
           "name": "VIX",
-          "value": 15.8,
+          "value": 15.4,
           "vote": 1,
           "detail": "risk appetite below 20"
         },
@@ -852,7 +852,7 @@
         },
         {
           "name": "Dollar, 20-day change",
-          "value": -0.63,
+          "value": -0.48,
           "vote": 1,
           "detail": "a weaker dollar loosens global financial conditions"
         }
@@ -1092,15 +1092,15 @@
       },
       {
         "contract": "ZQJ2027",
-        "implied": 4.01
+        "implied": 4.015
       },
       {
         "contract": "ZQK2027",
-        "implied": 4.035
+        "implied": 4.04
       },
       {
         "contract": "ZQM2027",
-        "implied": 4.05
+        "implied": 4.055
       }
     ],
     "sessions": 17
