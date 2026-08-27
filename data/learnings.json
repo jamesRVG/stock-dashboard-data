@@ -47,5 +47,12 @@
     "category": "sector_behavior|signal_calibration|technical_timing|fundamental_weight",
     "horizon": "all",
     "date": "2026-08-26"
+  },
+  {
+    "note": "System exhibits extreme sector-dependent alpha that violates signal uniformity: precious metals/mining delivers 35-50x alpha per unit score vs energy/biotech at 1-month horizon; 1-day and 1-week signals fail to materialize; today's top picks (ECO, XBI, XOP, ARKG, FBT) contain zero precious metals exposure despite demonstrated 19.7% sector alpha. Actionable corrections: (1) Eliminate same-day signals entirely (zero alpha confirmed 3 consecutive days); (2) Apply 4-5x weighting multiplier exclusively to gold/silver/mining tickers (AU, AEM, WPM, RGLD, NEM, KGC, SSRM, CDE, HL tier) for 1-week and 1-month portfolios; (3) Audit scoring model for sector-blind inputs; (4) Rebalance current 1-week and 1-month portfolios to minimum 70% precious metals concentration to align with demonstrated repeatable alpha source; (5) Investigate 1-week execution friction\u2014strong individual picks (+1.55-4.83% mean) aggregate to -152bps, suggesting timing/rebalancing overhead.",
+    "confidence": 5,
+    "category": "sector_behavior|signal_calibration|fundamental_weight|technical_timing",
+    "horizon": "all",
+    "date": "2026-08-27"
   }
 ]
