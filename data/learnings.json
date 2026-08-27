@@ -54,5 +54,12 @@
     "category": "sector_behavior|signal_calibration|fundamental_weight|technical_timing",
     "horizon": "all",
     "date": "2026-08-27"
+  },
+  {
+    "note": "System exhibits three distinct regimes requiring separate portfolio strategies: (1) Same-day signals show persistent zero-alpha profile (confirmed 3+ consecutive days at near-zero performance); (2) 1-week horizon underperforms despite individual pick quality, indicating execution/timing friction that negates signal edge; (3) 1-month horizon delivers +1,443bps alpha but 95%+ concentrated exclusively in precious metals/mining sector (AU, AEM, SSRM, DRD, WPM, RGLD, NEM, KGC tier averaging +38% vs energy/biotech +2-3%). Today's top picks lack this sector concentration entirely. Actionable corrections: (A) Eliminate all same-day entry signals entirely (zero alpha signal, execution costs exceed momentum); (B) Investigate 1-week timing friction\u2014consider extended hold periods or rebalancing overhead analysis; (C) Apply 4-5x weighting multiplier exclusively to gold/silver/mining sector signals for 1-week and 1-month portfolios; (D) Rebalance current medium/long-term allocation to minimum 65-70% precious metals concentration (AU, AEM, WPM, RGLD, NEM, KGC, SSRM tier) to capture demonstrated repeatable alpha; (E) Audit scoring model for sector-blind inputs masking commodity-cycle alpha differentiation.",
+    "confidence": 5,
+    "category": "sector_behavior|signal_calibration|technical_timing|fundamental_weight",
+    "horizon": "all",
+    "date": "2026-08-27"
   }
 ]
