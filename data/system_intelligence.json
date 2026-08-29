@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T03:19:44.190461",
+  "generated_at": "2026-08-29T17:55:12.599352",
   "history_snapshots": 44,
   "signal_accuracy": {
     "1d": {
@@ -28,14 +28,14 @@
     },
     "20d": {
       "Buy": {
-        "win_pct": 0.673,
-        "avg_return": 0.0979,
-        "n": 749
+        "win_pct": 0.672,
+        "avg_return": 0.0978,
+        "n": 747
       },
       "Hold": {
-        "win_pct": 0.555,
-        "avg_return": 0.0603,
-        "n": 236
+        "win_pct": 0.553,
+        "avg_return": 0.0601,
+        "n": 235
       },
       "Caution": {
         "win_pct": 0.429,
@@ -168,9 +168,9 @@
         "n": 213
       },
       "Tech": {
-        "avg_return": -0.0248,
-        "win_pct": 0.322,
-        "n": 245
+        "avg_return": -0.0266,
+        "win_pct": 0.314,
+        "n": 242
       },
       "GreenE": {
         "avg_return": 0.0123,
@@ -223,7 +223,7 @@
   "score_correlation": {
     "1d": 0.196,
     "5d": 0.092,
-    "20d": 0.13
+    "20d": 0.131
   },
   "factor_analysis": {
     "macd": {
@@ -258,9 +258,9 @@
           "n": 983
         },
         "bearish": {
-          "avg_return": 0.0883,
-          "win_pct": 0.693,
-          "n": 303
+          "avg_return": 0.088,
+          "win_pct": 0.69,
+          "n": 300
         }
       },
       "60d": {}
@@ -292,9 +292,9 @@
       },
       "20d": {
         "oversold": {
-          "avg_return": 0.1723,
-          "win_pct": 0.712,
-          "n": 52
+          "avg_return": 0.1756,
+          "win_pct": 0.694,
+          "n": 49
         },
         "neutral": {
           "avg_return": 0.1032,
@@ -369,7 +369,7 @@
     "score_correlation": {
       "1d": 0.196,
       "5d": 0.092,
-      "20d": 0.13
+      "20d": 0.131
     }
   },
   "statistical_insights": [
@@ -377,11 +377,11 @@
     "Low-PEG stocks (<1) outperforming high-PEG (>3) by 4.5% over 5d. PEG factor is predictive.",
     "Underperforming 5d: Tech (-5.0%), PrecMet / Commod (-3.3%).",
     "Top 20d categories: PrecMet (+28.6%), Commod (+13.9%), PrecMet / Commod (+9.8%).",
-    "Underperforming 20d: Industrials (-8.0%), Tech (-2.5%)."
+    "Underperforming 20d: Industrials (-8.0%), Tech (-2.7%)."
   ],
   "claude_synthesis": {
     "strategic_insights": [
-      "Claude synthesis unavailable: Unterminated string starting at: line 8 column 5 (char 1673)"
+      "Claude synthesis unavailable: Unterminated string starting at: line 7 column 5 (char 1484)"
     ],
     "model_health": "unknown"
   }

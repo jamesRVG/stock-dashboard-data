@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "refreshed": "2026-08-29 03:19",
+  "refreshed": "2026-08-29 17:54",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -52,36 +52,28 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "SSRM / AU",
-      "baseline": 0.984,
-      "recent": -0.25,
-      "delta": -1.234,
-      "n_base": 15,
-      "n_recent": 4
-    },
-    {
-      "pair": "SSRM / NEM",
-      "baseline": 0.954,
-      "recent": -0.108,
-      "delta": -1.062,
-      "n_base": 15,
-      "n_recent": 4
-    },
-    {
       "pair": "MU / AU",
-      "baseline": -0.109,
-      "recent": 0.75,
-      "delta": 0.859,
-      "n_base": 15,
-      "n_recent": 4
+      "baseline": -0.127,
+      "recent": 0.727,
+      "delta": 0.854,
+      "n_base": 14,
+      "n_recent": 5
     },
     {
       "pair": "MU / NEM",
-      "baseline": -0.022,
-      "recent": 0.8,
-      "delta": 0.822,
-      "n_base": 15,
-      "n_recent": 4
+      "baseline": -0.041,
+      "recent": 0.751,
+      "delta": 0.792,
+      "n_base": 14,
+      "n_recent": 5
+    },
+    {
+      "pair": "SSRM / AU",
+      "baseline": 0.984,
+      "recent": 0.33,
+      "delta": -0.654,
+      "n_base": 14,
+      "n_recent": 5
     }
   ],
   "note": "5-day window against a 13-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",

@@ -1945,7 +1945,8 @@
   "SOXX": 1,
   "UFOD": 1,
   "PLUG": 1,
-  "AIQUY": 1
+  "AIQUY": 1,
+  "SBSW": 1
  },
  "watch": {
   "ALKEF": {
@@ -4273,8 +4274,8 @@
    "exchange": "NYSE",
    "otc": false,
    "scores": {
-    "hybrid": 6.81,
-    "pe_heavy": 7.82
+    "hybrid": 6.82,
+    "pe_heavy": 7.83
    },
    "gates": {
     "E": true,
@@ -4702,43 +4703,6 @@
    "verified": true,
    "verified_pe": 11.6369
   },
-  "GAP": {
-   "first_seen": "2026-08-29",
-   "entry_price": 23.48,
-   "sector": "Retail",
-   "industry": "Apparel/Footwear Retail",
-   "name": "GAP",
-   "track": [
-    {
-     "date": "2026-08-29",
-     "price": 23.48
-    }
-   ],
-   "last_seen": "2026-08-29",
-   "exchange": "NYSE",
-   "otc": false,
-   "scores": {
-    "hybrid": 6.74,
-    "pe_heavy": 7.8
-   },
-   "gates": {
-    "E": true,
-    "E2": true
-   },
-   "metrics": {
-    "pe": 7.023211294568079,
-    "roe": 33.7757313109426,
-    "roic": 14.294721155499502,
-    "gross_margin": 45.7001174474749,
-    "pfcf": 8.881671891327064,
-    "de": 1.44773475069603,
-    "rev_growth": 1.054991428194646,
-    "mom12": 4.727921498661903
-   },
-   "ret_since_entry": 0.0,
-   "verified": true,
-   "verified_pe": 7.5457
-  },
   "NTCT": {
    "first_seen": "2026-08-08",
    "entry_price": 38.44,
@@ -4993,6 +4957,43 @@
    "ret_since_entry": 0.206,
    "verified": true,
    "verified_pe": 23.8164
+  },
+  "GAP": {
+   "first_seen": "2026-08-29",
+   "entry_price": 23.48,
+   "sector": "Retail",
+   "industry": "Apparel/Footwear Retail",
+   "name": "GAP",
+   "track": [
+    {
+     "date": "2026-08-29",
+     "price": 23.48
+    }
+   ],
+   "last_seen": "2026-08-29",
+   "exchange": "NYSE",
+   "otc": false,
+   "scores": {
+    "hybrid": 6.67,
+    "pe_heavy": 7.75
+   },
+   "gates": {
+    "E": true,
+    "E2": true
+   },
+   "metrics": {
+    "pe": 7.014818355640536,
+    "roe": 33.7757313109426,
+    "roic": 14.294721155499502,
+    "gross_margin": 43.1815215972857,
+    "pfcf": 8.881671891327064,
+    "de": 1.44773475069603,
+    "rev_growth": 1.054991428194646,
+    "mom12": 4.727921498661903
+   },
+   "ret_since_entry": 0.0,
+   "verified": true,
+   "verified_pe": 7.5457
   },
   "RPRX": {
    "first_seen": "2026-08-10",
@@ -5527,63 +5528,6 @@
    "verified": true,
    "verified_pe": 16.3905
   },
-  "WSM": {
-   "first_seen": "2026-08-24",
-   "entry_price": 237.77,
-   "sector": "Retail",
-   "industry": "Specialty Stores",
-   "name": "WSM",
-   "track": [
-    {
-     "date": "2026-08-24",
-     "price": 237.77
-    },
-    {
-     "date": "2026-08-25",
-     "price": 234.74
-    },
-    {
-     "date": "2026-08-26",
-     "price": 234.775
-    },
-    {
-     "date": "2026-08-27",
-     "price": 238.4
-    },
-    {
-     "date": "2026-08-28",
-     "price": 235.09
-    },
-    {
-     "date": "2026-08-29",
-     "price": 235.09
-    }
-   ],
-   "last_seen": "2026-08-29",
-   "exchange": "NYSE",
-   "otc": false,
-   "scores": {
-    "hybrid": 6.53,
-    "pe_heavy": 6.44
-   },
-   "gates": {
-    "E": true,
-    "E2": true
-   },
-   "metrics": {
-    "pe": 24.059727154568062,
-    "roe": 54.9610894488196,
-    "roic": 34.8161334105199,
-    "gross_margin": 49.3659711316057,
-    "pfcf": 20.804201790257345,
-    "de": 0.713688639524988,
-    "rev_growth": 2.24013280613107,
-    "mom12": 21.496679500762294
-   },
-   "ret_since_entry": -0.0113,
-   "verified": true,
-   "verified_pe": 26.5178
-  },
   "FSLR": {
    "first_seen": "2026-08-08",
    "entry_price": 250.05,
@@ -5684,7 +5628,7 @@
    "exchange": "NASDAQ",
    "otc": false,
    "scores": {
-    "hybrid": 6.52,
+    "hybrid": 6.53,
     "pe_heavy": 7.28
    },
    "gates": {
@@ -5805,8 +5749,8 @@
    "exchange": "NASDAQ",
    "otc": false,
    "scores": {
-    "hybrid": 6.51,
-    "pe_heavy": 7.51
+    "hybrid": 6.52,
+    "pe_heavy": 7.52
    },
    "gates": {
     "E": true,
@@ -6234,6 +6178,63 @@
    "verified": true,
    "verified_pe": 18.7253
   },
+  "WSM": {
+   "first_seen": "2026-08-24",
+   "entry_price": 237.77,
+   "sector": "Retail",
+   "industry": "Specialty Stores",
+   "name": "WSM",
+   "track": [
+    {
+     "date": "2026-08-24",
+     "price": 237.77
+    },
+    {
+     "date": "2026-08-25",
+     "price": 234.74
+    },
+    {
+     "date": "2026-08-26",
+     "price": 234.775
+    },
+    {
+     "date": "2026-08-27",
+     "price": 238.4
+    },
+    {
+     "date": "2026-08-28",
+     "price": 235.09
+    },
+    {
+     "date": "2026-08-29",
+     "price": 235.09
+    }
+   ],
+   "last_seen": "2026-08-29",
+   "exchange": "NYSE",
+   "otc": false,
+   "scores": {
+    "hybrid": 6.45,
+    "pe_heavy": 6.38
+   },
+   "gates": {
+    "E": true,
+    "E2": true
+   },
+   "metrics": {
+    "pe": 24.050373916868715,
+    "roe": 54.9610894488196,
+    "roic": 34.8161334105199,
+    "gross_margin": 47.1944956475552,
+    "pfcf": 20.804201790257345,
+    "de": 0.713688639524988,
+    "rev_growth": 2.24013280613107,
+    "mom12": 21.496679500762294
+   },
+   "ret_since_entry": -0.0113,
+   "verified": true,
+   "verified_pe": 26.5178
+  },
   "REGN": {
    "first_seen": "2026-08-10",
    "entry_price": 808.79,
@@ -6561,12 +6562,12 @@
     "E2": true
    },
    "metrics": {
-    "pe": 16.934764108844103,
+    "pe": 16.933358238382834,
     "roe": 26.4137329765806,
     "roic": 12.614501076812601,
     "gross_margin": 26.8279095678009,
     "pfcf": 16.720823159784562,
-    "de": 1.04741355153281,
+    "de": 1.06988735078182,
     "rev_growth": 1.9547519878833777,
     "mom12": 65.63134388956558
    },
@@ -7353,7 +7354,7 @@
   "APP": 0,
   "BVS": 0,
   "LNTH": 0,
-  "ANF": 1,
+  "ANF": 2,
   "GMED": 0,
   "CRI": 0,
   "ILMN": 0,
@@ -7365,7 +7366,7 @@
   "SM": 0,
   "ADMA": 0,
   "ASM": 0,
-  "MGTX": 8,
+  "MGTX": 9,
   "HBM": 0,
   "PLAB": 0,
   "ABUS": 0,
@@ -7959,7 +7960,8 @@
   "SOXX": "2026-08-29",
   "UFOD": "2026-08-29",
   "PLUG": "2026-08-29",
-  "AIQUY": "2026-08-29"
+  "AIQUY": "2026-08-29",
+  "SBSW": "2026-08-29"
  },
  "user_requested": {
   "IONQ": {
