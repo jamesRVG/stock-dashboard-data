@@ -1,59 +1,50 @@
 {
-  "date": "2026-08-28",
-  "refreshed": "2026-08-28 22:34",
+  "date": "2026-08-29",
+  "refreshed": "2026-08-29 03:19",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "Copper vs Gold",
-      "baseline": 0.539,
-      "recent": -0.759,
-      "delta": -1.298,
-      "flip": true,
-      "n_base": 13,
-      "n_recent": 5
-    },
-    {
-      "pair": "Gold vs Dollar",
-      "baseline": 0.504,
-      "recent": -0.523,
-      "delta": -1.027,
-      "flip": true,
-      "n_base": 13,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs 10Y yield",
-      "baseline": -0.08,
-      "recent": -0.837,
-      "delta": -0.757,
+      "pair": "Copper vs S&P",
+      "baseline": -0.012,
+      "recent": -0.87,
+      "delta": -0.858,
       "flip": false,
       "n_base": 13,
       "n_recent": 5
     },
     {
-      "pair": "Copper vs S&P",
-      "baseline": -0.052,
-      "recent": -0.8,
+      "pair": "S&P vs 10Y yield",
+      "baseline": -0.049,
+      "recent": -0.901,
+      "delta": -0.852,
+      "flip": false,
+      "n_base": 13,
+      "n_recent": 5
+    },
+    {
+      "pair": "Gold vs 10Y yield",
+      "baseline": 0.148,
+      "recent": -0.6,
       "delta": -0.748,
       "flip": false,
       "n_base": 13,
       "n_recent": 5
     },
     {
-      "pair": "Gold vs Silver",
-      "baseline": 0.972,
-      "recent": 0.308,
-      "delta": -0.664,
+      "pair": "Copper vs Gold",
+      "baseline": 0.545,
+      "recent": -0.149,
+      "delta": -0.694,
       "flip": false,
       "n_base": 13,
       "n_recent": 5
     },
     {
-      "pair": "Oil vs S&P",
-      "baseline": -0.265,
-      "recent": 0.394,
-      "delta": 0.659,
+      "pair": "S&P vs Gold",
+      "baseline": -0.151,
+      "recent": 0.519,
+      "delta": 0.67,
       "flip": false,
       "n_base": 13,
       "n_recent": 5
@@ -79,16 +70,16 @@
     {
       "pair": "MU / AU",
       "baseline": -0.109,
-      "recent": 0.8,
-      "delta": 0.909,
+      "recent": 0.75,
+      "delta": 0.859,
       "n_base": 15,
       "n_recent": 4
     },
     {
       "pair": "MU / NEM",
       "baseline": -0.022,
-      "recent": 0.85,
-      "delta": 0.872,
+      "recent": 0.8,
+      "delta": 0.822,
       "n_base": 15,
       "n_recent": 4
     }
