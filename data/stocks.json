@@ -1,28 +1,28 @@
 {
-  "refreshed": "2026-09-01 16:55",
-  "refreshed_utc": "2026-09-01T16:55:05Z",
+  "refreshed": "2026-09-01 18:55",
+  "refreshed_utc": "2026-09-01T18:55:54Z",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "sentiment_net": 5,
   "sentiment_signals": [
     {
       "signal": "S&P vs its 200-day average",
-      "value": "+7.3%",
+      "value": "+7.0%",
       "reading": "above trend"
     },
     {
       "signal": "S&P position in its 52-week range",
-      "value": "89%",
+      "value": "87%",
       "reading": "upper half"
     },
     {
       "signal": "Breadth: equal weight vs cap weight",
-      "value": "+3.4pp",
+      "value": "+3.5pp",
       "reading": "broad participation"
     },
     {
       "signal": "Volatility (VIX)",
-      "value": "15.9",
+      "value": "16.5",
       "reading": "calm"
     },
     {
@@ -32,17 +32,17 @@
     },
     {
       "signal": "Cyclicals vs defensives",
-      "value": "-6.0pp",
+      "value": "-6.1pp",
       "reading": "defence leading"
     },
     {
       "signal": "Small caps vs large caps",
-      "value": "-0.3pp",
+      "value": "-0.2pp",
       "reading": "risk-averse"
     },
     {
       "signal": "Gold vs stocks",
-      "value": "-2.7pp",
+      "value": "-3.1pp",
       "reading": "stocks preferred"
     },
     {
@@ -53,9 +53,8 @@
   ],
   "avg_score": 6.4,
   "avg_score_exact": 6.41,
-  "avg_score_prev": 6.42,
+  "avg_score_prev": 6.41,
   "avg_score_series": [
-    6.45,
     6.45,
     6.45,
     6.45,
@@ -84,10 +83,10 @@
     6.42,
     6.36,
     6.33,
-    6.42
+    6.42,
+    6.41
   ],
   "avg_score_dates": [
-    "2026-08-23",
     "2026-08-24",
     "2026-08-24",
     "2026-08-24",
@@ -116,13 +115,13 @@
     "2026-08-29",
     "2026-08-29",
     "2026-08-29",
+    "2026-09-01",
     "2026-09-01"
   ],
   "sentiment_series": [
     7,
     7,
     7,
-    7,
     5,
     5,
     5,
@@ -148,7 +147,8 @@
     5,
     5,
     5,
-    7
+    7,
+    5
   ],
   "mood_series": [
     "CAUTIOUSLY OPTIMISTIC",
@@ -291,23 +291,23 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7637.4,
-        "chg_pct": 0.0002
+        "price": 7620.5,
+        "chg_pct": -0.002
       },
       {
         "name": "NASDAQ",
-        "price": 29094.2,
-        "chg_pct": 0.0013
+        "price": 29022.0,
+        "chg_pct": -0.0012
       },
       {
         "name": "DOW",
-        "price": 52782.1,
-        "chg_pct": -0.0057
+        "price": 52736.1,
+        "chg_pct": -0.0065
       },
       {
         "name": "Russell 2K (fut)",
-        "price": 2927.3,
-        "chg_pct": -0.0104
+        "price": 2922.2,
+        "chg_pct": -0.0121
       }
     ],
     "vix": {
@@ -592,84 +592,84 @@
     "currencies": [
       {
         "name": "EUR/USD",
-        "price": 1.1587,
-        "chg_pct": -0.0027,
-        "chg_1mo": 0.0054,
-        "chg_3mo": -0.0035,
-        "chg_6mo": -0.0039,
-        "chg_1yr": -0.0089
+        "price": 1.1589,
+        "chg_pct": -0.0026,
+        "chg_1mo": 0.0056,
+        "chg_3mo": -0.0033,
+        "chg_6mo": -0.0037,
+        "chg_1yr": -0.0088
       },
       {
         "name": "USD/JPY",
-        "price": 160.12,
-        "chg_pct": 0.0025,
-        "chg_1mo": 0.003,
-        "chg_3mo": 0.0014,
-        "chg_6mo": 0.0197,
-        "chg_1yr": 0.0888
+        "price": 160.216,
+        "chg_pct": 0.0031,
+        "chg_1mo": 0.0036,
+        "chg_3mo": 0.002,
+        "chg_6mo": 0.0203,
+        "chg_1yr": 0.0895
       },
       {
         "name": "GBP/USD",
-        "price": 1.352,
-        "chg_pct": -0.0022,
-        "chg_1mo": 0.0042,
-        "chg_3mo": 0.0042,
-        "chg_6mo": 0.0114,
-        "chg_1yr": 0.0013
+        "price": 1.3513,
+        "chg_pct": -0.0027,
+        "chg_1mo": 0.0037,
+        "chg_3mo": 0.0036,
+        "chg_6mo": 0.0108,
+        "chg_1yr": 0.0007
       },
       {
         "name": "USD/CNY",
-        "price": 6.7197,
-        "chg_pct": 0.0001,
-        "chg_1mo": -0.0052,
-        "chg_3mo": -0.0062,
-        "chg_6mo": -0.0256,
+        "price": 6.7202,
+        "chg_pct": 0.0002,
+        "chg_1mo": -0.0051,
+        "chg_3mo": -0.0061,
+        "chg_6mo": -0.0255,
         "chg_1yr": -0.0575
       },
       {
         "name": "AUD/USD",
-        "price": 0.7151,
-        "chg_pct": -0.0019,
-        "chg_1mo": 0.0181,
-        "chg_3mo": -0.0039,
-        "chg_6mo": 0.0113,
-        "chg_1yr": 0.0937
+        "price": 0.7146,
+        "chg_pct": -0.0027,
+        "chg_1mo": 0.0174,
+        "chg_3mo": -0.0046,
+        "chg_6mo": 0.0105,
+        "chg_1yr": 0.0928
       },
       {
         "name": "USD/BRL",
-        "price": 5.1473,
-        "chg_pct": -0.0072,
-        "chg_1mo": 0.0171,
-        "chg_3mo": 0.0282,
-        "chg_6mo": -0.016,
-        "chg_1yr": -0.0525
+        "price": 5.1493,
+        "chg_pct": -0.0068,
+        "chg_1mo": 0.0174,
+        "chg_3mo": 0.0286,
+        "chg_6mo": -0.0157,
+        "chg_1yr": -0.0521
       },
       {
         "name": "USD/CAD",
-        "price": 1.3903,
-        "chg_pct": 0.0036,
-        "chg_1mo": -0.0076,
-        "chg_3mo": 0.0049,
-        "chg_6mo": 0.0193,
-        "chg_1yr": 0.0116
+        "price": 1.3897,
+        "chg_pct": 0.0031,
+        "chg_1mo": -0.0081,
+        "chg_3mo": 0.0044,
+        "chg_6mo": 0.0188,
+        "chg_1yr": 0.0111
       },
       {
         "name": "USD/CHF",
-        "price": 0.8121,
-        "chg_pct": 0.0053,
-        "chg_1mo": 0.0087,
-        "chg_3mo": 0.0322,
-        "chg_6mo": 0.0414,
-        "chg_1yr": 0.0165
+        "price": 0.8118,
+        "chg_pct": 0.0048,
+        "chg_1mo": 0.0083,
+        "chg_3mo": 0.0318,
+        "chg_6mo": 0.0409,
+        "chg_1yr": 0.016
       },
       {
         "name": "USD/MXN",
-        "price": 16.971,
-        "chg_pct": -0.0006,
-        "chg_1mo": -0.0202,
-        "chg_3mo": -0.0172,
-        "chg_6mo": -0.0331,
-        "chg_1yr": -0.0884
+        "price": 16.9975,
+        "chg_pct": 0.0009,
+        "chg_1mo": -0.0191,
+        "chg_3mo": -0.0161,
+        "chg_6mo": -0.032,
+        "chg_1yr": -0.0874
       }
     ],
     "global_watch": [
@@ -746,7 +746,7 @@
       },
       {
         "source": "ECB",
-        "title": "Boris Vuj\u010di\u0107: Household expectations and monetary policy: The importance of high-quality surveys and evidence-based research",
+        "title": "Boris Vuj\u010di\u0107: Listening to households: expectations, behaviour and monetary policy",
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
         "date": "Tue, 01 Sep 2026 18:00:00 +0200"
       },
@@ -845,7 +845,7 @@
       "policy_inputs": [
         {
           "name": "Fed Funds futures path",
-          "value": 37.5,
+          "value": 38.5,
           "vote": -1,
           "detail": "bp between the front and far contract; negative prices cuts"
         },
@@ -857,7 +857,7 @@
         },
         {
           "name": "Dollar, 20-day change",
-          "value": -0.45,
+          "value": -0.12,
           "vote": 1,
           "detail": "a weaker dollar loosens global financial conditions"
         }
@@ -871,15 +871,15 @@
     }
   },
   "breadth": {
-    "ratio": 0.286018,
-    "range_pos": 54.3,
+    "ratio": 0.287838,
+    "range_pos": 61.2,
     "range_low": 0.271859,
     "range_high": 0.297948,
-    "chg_20d_pct": 0.49,
+    "chg_20d_pct": 1.13,
     "regime": "BROADENING",
     "stance": "ride",
     "guidance": "Ave stock beating largest. Mkt broadening, wave intact. Stick with it vs awaiting turn.",
-    "range_note": "Mid-range gives no edge fr position, trend decides. Size positions normally and follow direction.",
+    "range_note": "Broadening maturing. Keep what works, stop opening new breadth. Plan rotation to leaders.",
     "through": "2026-09-01",
     "theme": "Market Broadening",
     "theme_effect": "Financial Services+2, Industrials+1, Healthcare+1, Basic Materials+1",
@@ -1053,19 +1053,19 @@
   },
   "rate_path": {
     "front": 3.71,
-    "far": 4.085,
+    "far": 4.095,
     "front_contract": "ZQU2026",
     "far_contract": "ZQG2027",
-    "path_bps": 37.5,
+    "path_bps": 38.5,
     "direction": "rates expected HIGHER",
     "next_move_odds": 38.0,
     "d_front_bps": 8.0,
-    "d_far_bps": 7.0,
+    "d_far_bps": 8.0,
     "spy_chg_pct": -0.006322925493774734,
     "verdict": "TRADING THE FED",
     "verdict_note": "Stocks have been rising as expected rates fall. Bad news is being read as good news. Gold and big tech gain most in this regime.",
-    "fed_score": 43.0,
-    "corr": -0.429,
+    "fed_score": 45.0,
+    "corr": -0.445,
     "today_side": 100,
     "window": 20,
     "pairs": 19,
@@ -1084,31 +1084,31 @@
       },
       {
         "contract": "ZQZ2026",
-        "implied": 3.975
+        "implied": 3.98
       },
       {
         "contract": "ZQF2027",
-        "implied": 4.025
+        "implied": 4.035
       },
       {
         "contract": "ZQG2027",
-        "implied": 4.085
+        "implied": 4.095
       },
       {
         "contract": "ZQH2027",
-        "implied": 4.13
+        "implied": 4.135
       },
       {
         "contract": "ZQJ2027",
-        "implied": 4.18
+        "implied": 4.19
       },
       {
         "contract": "ZQK2027",
-        "implied": 4.215
+        "implied": 4.225
       },
       {
         "contract": "ZQM2027",
-        "implied": 4.245
+        "implied": 4.25
       }
     ],
     "sessions": 21
