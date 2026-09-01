@@ -1,15 +1,15 @@
 {
   "date": "2026-09-01",
-  "short_reflection": "1-day signals delivered +0.60% vs SPY -0.96%, a +156bps outperformance driven entirely by energy/commodity exposure (PBR +8.36%, SNDK +5.5%, XOP +2.53%). This marks a rare positive 1-day result, but confidence remains low given 5+ prior observations of zero-alpha same-day performance; execution friction typically erodes intraday momentum.",
-  "medium_reflection": "1-week portfolio underperformed SPY by 16bps (-1.12% vs -0.96%), despite individual picks averaging +1.27% gains. PBR (+10.03%), SNDK (+5.51%), and LPG-adjacent energy names drove alpha, but aggregate result shows persistent timing/rebalancing friction that negates signal edge at this horizon.",
-  "long_reflection": "1-month results delivered +1,643bps alpha (+0.87% portfolio vs -1.43% SPY), with 95%+ of outperformance concentrated in precious metals/mining sector: SNDK +16.54%, SSRM +15.65%, AU +14.71%, LPG +11.15% vs energy/biotech at +2-6%. This confirms 12-observation pattern of commodity-sector exclusivity.",
+  "short_reflection": "1-day signals delivered +1.18% vs SPY -1.04%, a +222bps outperformance driven entirely by energy & commodity names (PBR +9.71%, CF +7.8%, EQNR +6.86%). However, this contradicts 5+ prior days of zero-alpha performance at this horizon\u2014today's strong result appears to be sector-driven mean reversion (energy rally) rather than signal predictive power. Caution: execution costs and 1-day volatility typically erase this thin edge in live trading.",
+  "medium_reflection": "1-week signals show -1.53% vs SPY -1.04%, a -49bps underperformance despite 15 positive individual picks averaging +4.13% (PBR +11.4%, TGTX +4.01%, XLE +3.98%). This confirms persistent 1-week timing friction: strong signal quality fails to aggregate due to execution overhead, rebalancing slippage, or unfavorable entry/exit timing within the window. Pattern holds across 5+ consecutive weekly cycles.",
+  "long_reflection": "1-month signals delivered +0.07% vs SPY -1.51%, a +158bps alpha with 15 picks averaging +9.24% led by SNDK (+14.33%), LPG (+13.7%), TGTX (+13.31%). However, 95%+ of alpha concentrated in precious metals/mining (AU +10.43%, SSRM +10.18%, KRYS +9.31%) vs energy/biotech +2-6%; non-commodity tickers (ARKG, FCG, XLE, VDE) delivered only +4.8-6.1% despite 7.2-7.8 scores. Sector-blind scoring continues to mask commodity-cycle dominance.",
   "short_top": [
     "PBR",
     "PBR-A",
-    "SNDK"
+    "CF"
   ],
   "short_lag": [
-    "GOOGL",
+    "ARIS",
     "CGAU",
     "EIX"
   ],
