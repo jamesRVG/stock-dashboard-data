@@ -1,81 +1,47 @@
 {
-  "date": "2026-08-29",
-  "refreshed": "2026-08-29 17:54",
+  "date": "2026-09-01",
+  "refreshed": "2026-09-01 00:45",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Copper vs S&P",
-      "baseline": -0.012,
-      "recent": -0.87,
-      "delta": -0.858,
+      "baseline": 0.018,
+      "recent": -0.881,
+      "delta": -0.899,
       "flip": false,
-      "n_base": 13,
+      "n_base": 14,
       "n_recent": 5
     },
     {
       "pair": "S&P vs 10Y yield",
-      "baseline": -0.049,
-      "recent": -0.901,
-      "delta": -0.852,
+      "baseline": -0.12,
+      "recent": -0.835,
+      "delta": -0.715,
       "flip": false,
-      "n_base": 13,
+      "n_base": 14,
       "n_recent": 5
     },
     {
-      "pair": "Gold vs 10Y yield",
-      "baseline": 0.148,
-      "recent": -0.6,
-      "delta": -0.748,
+      "pair": "Gold vs Dollar",
+      "baseline": 0.505,
+      "recent": -0.113,
+      "delta": -0.618,
       "flip": false,
-      "n_base": 13,
+      "n_base": 14,
       "n_recent": 5
     },
     {
       "pair": "Copper vs Gold",
-      "baseline": 0.545,
-      "recent": -0.149,
-      "delta": -0.694,
+      "baseline": 0.526,
+      "recent": -0.087,
+      "delta": -0.613,
       "flip": false,
-      "n_base": 13,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs Gold",
-      "baseline": -0.151,
-      "recent": 0.519,
-      "delta": 0.67,
-      "flip": false,
-      "n_base": 13,
-      "n_recent": 5
-    }
-  ],
-  "ticker_pairs": [
-    {
-      "pair": "MU / AU",
-      "baseline": -0.127,
-      "recent": 0.727,
-      "delta": 0.854,
-      "n_base": 14,
-      "n_recent": 5
-    },
-    {
-      "pair": "MU / NEM",
-      "baseline": -0.041,
-      "recent": 0.751,
-      "delta": 0.792,
-      "n_base": 14,
-      "n_recent": 5
-    },
-    {
-      "pair": "SSRM / AU",
-      "baseline": 0.984,
-      "recent": 0.33,
-      "delta": -0.654,
       "n_base": 14,
       "n_recent": 5
     }
   ],
-  "note": "5-day window against a 13-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 13
+  "ticker_pairs": [],
+  "note": "5-day window against a 14-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 14
 }
