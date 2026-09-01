@@ -1,32 +1,32 @@
 {
   "date": "2026-09-01",
-  "refreshed": "2026-09-01 00:45",
+  "refreshed": "2026-09-01 16:55",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "Copper vs S&P",
-      "baseline": 0.018,
-      "recent": -0.881,
-      "delta": -0.899,
-      "flip": false,
-      "n_base": 14,
-      "n_recent": 5
-    },
-    {
       "pair": "S&P vs 10Y yield",
       "baseline": -0.12,
-      "recent": -0.835,
-      "delta": -0.715,
+      "recent": -0.983,
+      "delta": -0.863,
       "flip": false,
       "n_base": 14,
       "n_recent": 5
     },
     {
-      "pair": "Gold vs Dollar",
-      "baseline": 0.505,
-      "recent": -0.113,
-      "delta": -0.618,
+      "pair": "Copper vs S&P",
+      "baseline": 0.018,
+      "recent": -0.732,
+      "delta": -0.75,
+      "flip": false,
+      "n_base": 14,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs VIX",
+      "baseline": 0.229,
+      "recent": -0.395,
+      "delta": -0.624,
       "flip": false,
       "n_base": 14,
       "n_recent": 5
@@ -41,7 +41,24 @@
       "n_recent": 5
     }
   ],
-  "ticker_pairs": [],
+  "ticker_pairs": [
+    {
+      "pair": "MU / TSM",
+      "baseline": 0.82,
+      "recent": -0.989,
+      "delta": -1.809,
+      "n_base": 23,
+      "n_recent": 3
+    },
+    {
+      "pair": "TSM / SSRM",
+      "baseline": 0.287,
+      "recent": -0.678,
+      "delta": -0.965,
+      "n_base": 23,
+      "n_recent": 3
+    }
+  ],
   "note": "5-day window against a 14-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
   "baseline_days": 14
 }
