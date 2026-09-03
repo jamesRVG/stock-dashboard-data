@@ -1,28 +1,28 @@
 {
-  "refreshed": "2026-09-03 16:41",
-  "refreshed_utc": "2026-09-03T16:41:06Z",
+  "refreshed": "2026-09-03 18:57",
+  "refreshed_utc": "2026-09-03T18:57:16Z",
   "mood": "CAUTIOUSLY OPTIMISTIC",
   "mood_color": "#65a30d",
   "sentiment_net": 5,
   "sentiment_signals": [
     {
       "signal": "S&P vs its 200-day average",
-      "value": "+8.5%",
+      "value": "+8.7%",
       "reading": "above trend"
     },
     {
       "signal": "S&P position in its 52-week range",
-      "value": "95%",
+      "value": "96%",
       "reading": "upper half"
     },
     {
       "signal": "Breadth: equal weight vs cap weight",
-      "value": "+2.1pp",
+      "value": "+2.0pp",
       "reading": "broad participation"
     },
     {
       "signal": "Volatility (VIX)",
-      "value": "14.6",
+      "value": "14.4",
       "reading": "calm"
     },
     {
@@ -32,17 +32,17 @@
     },
     {
       "signal": "Cyclicals vs defensives",
-      "value": "-4.0pp",
+      "value": "-3.9pp",
       "reading": "defence leading"
     },
     {
       "signal": "Small caps vs large caps",
-      "value": "-0.6pp",
+      "value": "-0.8pp",
       "reading": "risk-averse"
     },
     {
       "signal": "Gold vs stocks",
-      "value": "-0.8pp",
+      "value": "-1.2pp",
       "reading": "stocks preferred"
     },
     {
@@ -55,7 +55,6 @@
   "avg_score_exact": 6.48,
   "avg_score_prev": 6.48,
   "avg_score_series": [
-    6.43,
     6.43,
     6.43,
     6.43,
@@ -84,6 +83,7 @@
     6.37,
     6.37,
     6.37,
+    6.48,
     6.48
   ],
   "avg_score_dates": [
@@ -91,7 +91,6 @@
     "2026-08-25",
     "2026-08-25",
     "2026-08-25",
-    "2026-08-25",
     "2026-08-26",
     "2026-08-26",
     "2026-08-26",
@@ -116,7 +115,8 @@
     "2026-09-01",
     "2026-09-02",
     "2026-09-02",
-    "2026-09-02"
+    "2026-09-02",
+    "2026-09-03"
   ],
   "sentiment_series": [
     5,
@@ -130,7 +130,6 @@
     5,
     5,
     5,
-    5,
     7,
     7,
     7,
@@ -148,7 +147,8 @@
     5,
     5,
     7,
-    7
+    7,
+    5
   ],
   "mood_series": [
     "CAUTIOUSLY OPTIMISTIC",
@@ -286,23 +286,23 @@
     "indices": [
       {
         "name": "S&P 500",
-        "price": 7739.8,
-        "chg_pct": 0.0069
+        "price": 7752.2,
+        "chg_pct": 0.0085
       },
       {
         "name": "NASDAQ",
-        "price": 29469.8,
-        "chg_pct": 0.0081
+        "price": 29531.7,
+        "chg_pct": 0.0102
       },
       {
         "name": "DOW",
-        "price": 53639.0,
-        "chg_pct": 0.0062
+        "price": 53668.7,
+        "chg_pct": 0.0067
       },
       {
         "name": "Russell 2K (fut)",
-        "price": 2968.6,
-        "chg_pct": 0.0037
+        "price": 2967.3,
+        "chg_pct": 0.0033
       }
     ],
     "vix": {
@@ -311,8 +311,8 @@
       "label": "Normal"
     },
     "dxy": {
-      "price": 98.88,
-      "chg_pct": -0.0071
+      "price": 98.91,
+      "chg_pct": -0.0069
     },
     "yields": [
       {
@@ -592,25 +592,25 @@
         "chg_1mo": 0.0109,
         "chg_3mo": 0.0021,
         "chg_6mo": 0.0024,
-        "chg_1yr": -0.0005
+        "chg_1yr": -0.0006
       },
       {
         "name": "USD/JPY",
-        "price": 155.355,
-        "chg_pct": -0.0208,
-        "chg_1mo": -0.0117,
-        "chg_3mo": -0.0287,
-        "chg_6mo": -0.0138,
-        "chg_1yr": 0.0474
+        "price": 155.549,
+        "chg_pct": -0.0196,
+        "chg_1mo": -0.0104,
+        "chg_3mo": -0.0275,
+        "chg_6mo": -0.0126,
+        "chg_1yr": 0.0487
       },
       {
         "name": "GBP/USD",
-        "price": 1.3543,
-        "chg_pct": 0.0045,
-        "chg_1mo": 0.0088,
-        "chg_3mo": 0.0092,
-        "chg_6mo": 0.0143,
-        "chg_1yr": 0.0114
+        "price": 1.3539,
+        "chg_pct": 0.0042,
+        "chg_1mo": 0.0085,
+        "chg_3mo": 0.0089,
+        "chg_6mo": 0.014,
+        "chg_1yr": 0.0111
       },
       {
         "name": "USD/CNY",
@@ -623,48 +623,48 @@
       },
       {
         "name": "AUD/USD",
-        "price": 0.7203,
-        "chg_pct": 0.0048,
-        "chg_1mo": 0.0295,
-        "chg_3mo": 0.0101,
-        "chg_6mo": 0.0285,
-        "chg_1yr": 0.1053
+        "price": 0.7206,
+        "chg_pct": 0.0052,
+        "chg_1mo": 0.0299,
+        "chg_3mo": 0.0105,
+        "chg_6mo": 0.0289,
+        "chg_1yr": 0.1057
       },
       {
         "name": "USD/BRL",
-        "price": 5.11,
-        "chg_pct": 0.0033,
-        "chg_1mo": 0.004,
-        "chg_3mo": 0.0092,
-        "chg_6mo": -0.0292,
-        "chg_1yr": -0.0656
+        "price": 5.1,
+        "chg_pct": 0.0013,
+        "chg_1mo": 0.0021,
+        "chg_3mo": 0.0072,
+        "chg_6mo": -0.0311,
+        "chg_1yr": -0.0674
       },
       {
         "name": "USD/CAD",
-        "price": 1.3769,
-        "chg_pct": -0.0053,
-        "chg_1mo": -0.0195,
-        "chg_3mo": -0.0096,
-        "chg_6mo": 0.0069,
-        "chg_1yr": -0.0007
+        "price": 1.3788,
+        "chg_pct": -0.004,
+        "chg_1mo": -0.0182,
+        "chg_3mo": -0.0083,
+        "chg_6mo": 0.0083,
+        "chg_1yr": 0.0006
       },
       {
         "name": "USD/CHF",
-        "price": 0.806,
-        "chg_pct": -0.0079,
-        "chg_1mo": -0.0044,
-        "chg_3mo": 0.0221,
-        "chg_6mo": 0.0321,
-        "chg_1yr": 0.0029
+        "price": 0.8067,
+        "chg_pct": -0.007,
+        "chg_1mo": -0.0036,
+        "chg_3mo": 0.023,
+        "chg_6mo": 0.0331,
+        "chg_1yr": 0.0038
       },
       {
         "name": "USD/MXN",
-        "price": 16.9643,
-        "chg_pct": -0.0001,
-        "chg_1mo": -0.0199,
-        "chg_3mo": -0.0176,
-        "chg_6mo": -0.0417,
-        "chg_1yr": -0.0931
+        "price": 16.9226,
+        "chg_pct": -0.0025,
+        "chg_1mo": -0.0224,
+        "chg_3mo": -0.0201,
+        "chg_6mo": -0.0441,
+        "chg_1yr": -0.0954
       }
     ],
     "global_watch": [
@@ -778,10 +778,10 @@
     ],
     "regime": {
       "label": "REFLATION",
-      "growth": 1.0,
+      "growth": 0.6,
       "inflation": 0.333,
       "policy": -0.333,
-      "growth_n": 4,
+      "growth_n": 5,
       "inflation_n": 3,
       "policy_n": 3,
       "policy_label": "TIGHTENING",
@@ -813,8 +813,8 @@
         {
           "name": "Breadth regime",
           "value": null,
-          "detail": "FLAT",
-          "vote": 0
+          "detail": "NARROWING",
+          "vote": -1
         }
       ],
       "inflation_inputs": [
@@ -852,7 +852,7 @@
         },
         {
           "name": "Dollar, 20-day change",
-          "value": -0.4,
+          "value": -1.1,
           "vote": 1,
           "detail": "a weaker dollar loosens global financial conditions"
         }
@@ -866,16 +866,18 @@
     }
   },
   "breadth": {
-    "ratio": 0.285692,
-    "range_pos": 53.0,
+    "ratio": 0.282963,
+    "range_pos": 42.6,
     "range_low": 0.271859,
     "range_high": 0.297948,
-    "chg_20d_pct": -0.25,
-    "regime": "FLAT",
-    "stance": "wait",
-    "guidance": "No wave. Mid-range, sideways. Neither broadening nor narrowing has the wind.",
+    "chg_20d_pct": -1.13,
+    "regime": "NARROWING",
+    "stance": "ride",
+    "guidance": "Leadership narrowing into megacaps. Wave intact. Stay with leaders vs fighting it.",
     "range_note": "Mid-range gives no edge fr position, trend decides. Size positions normally and follow direction.",
-    "through": "2026-09-02",
+    "through": "2026-09-03",
+    "theme": "Market Narrowing to Leaders",
+    "theme_effect": "Technology+2, Semiconductors+2, Communication Services+1",
     "sessions": 775,
     "window": 252,
     "latest_ratio": 0.282963,
@@ -1077,11 +1079,11 @@
       },
       {
         "contract": "ZQZ2026",
-        "implied": 3.92
+        "implied": 3.915
       },
       {
         "contract": "ZQF2027",
-        "implied": 3.965
+        "implied": 3.96
       },
       {
         "contract": "ZQG2027",
@@ -1097,11 +1099,11 @@
       },
       {
         "contract": "ZQK2027",
-        "implied": 4.14
+        "implied": 4.145
       },
       {
         "contract": "ZQM2027",
-        "implied": 4.17
+        "implied": 4.175
       }
     ],
     "sessions": 23
