@@ -1,14 +1,14 @@
 {
   "date": "2026-09-03",
-  "refreshed": "2026-09-03 16:41",
+  "refreshed": "2026-09-03 23:24",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Gold vs Dollar",
       "baseline": 0.362,
-      "recent": -0.574,
-      "delta": -0.936,
+      "recent": -0.52,
+      "delta": -0.882,
       "flip": false,
       "n_base": 15,
       "n_recent": 5
@@ -20,8 +20,16 @@
       "baseline": 0.82,
       "recent": -0.611,
       "delta": -1.431,
-      "n_base": 22,
+      "n_base": 21,
       "n_recent": 3
+    },
+    {
+      "pair": "DHT / SSRM",
+      "baseline": 0.273,
+      "recent": 0.893,
+      "delta": 0.62,
+      "n_base": 19,
+      "n_recent": 5
     },
     {
       "pair": "DHT / TSM",
