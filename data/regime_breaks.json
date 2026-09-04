@@ -1,14 +1,14 @@
 {
   "date": "2026-09-04",
-  "refreshed": "2026-09-04 16:35",
+  "refreshed": "2026-09-04 20:34",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Gold vs Dollar",
       "baseline": 0.223,
-      "recent": -0.845,
-      "delta": -1.068,
+      "recent": -0.807,
+      "delta": -1.03,
       "flip": false,
       "n_base": 16,
       "n_recent": 5
@@ -16,36 +16,100 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "MU / TSM",
-      "baseline": 0.82,
-      "recent": -0.611,
-      "delta": -1.431,
-      "n_base": 21,
-      "n_recent": 3
+      "pair": "TGTX / SNDK",
+      "baseline": -0.399,
+      "recent": 0.979,
+      "delta": 1.378,
+      "n_base": 15,
+      "n_recent": 5
+    },
+    {
+      "pair": "MU / SNDK",
+      "baseline": 0.861,
+      "recent": -0.323,
+      "delta": -1.184,
+      "n_base": 17,
+      "n_recent": 5
     },
     {
       "pair": "MU / DHT",
-      "baseline": -0.078,
-      "recent": 0.605,
-      "delta": 0.683,
-      "n_base": 19,
+      "baseline": -0.084,
+      "recent": 0.976,
+      "delta": 1.06,
+      "n_base": 20,
       "n_recent": 5
     },
     {
-      "pair": "MU / SSRM",
-      "baseline": 0.092,
-      "recent": 0.715,
-      "delta": 0.623,
-      "n_base": 24,
+      "pair": "LPG / CDNA",
+      "baseline": -0.121,
+      "recent": 0.89,
+      "delta": 1.011,
+      "n_base": 18,
       "n_recent": 5
     },
     {
-      "pair": "DHT / TSM",
-      "baseline": -0.219,
-      "recent": 0.384,
-      "delta": 0.603,
-      "n_base": 16,
-      "n_recent": 3
+      "pair": "DHT / CDNA",
+      "baseline": -0.338,
+      "recent": 0.673,
+      "delta": 1.011,
+      "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "EUFN / SNDK",
+      "baseline": 0.348,
+      "recent": -0.644,
+      "delta": -0.992,
+      "n_base": 14,
+      "n_recent": 5
+    },
+    {
+      "pair": "FCG / SNDK",
+      "baseline": 0.005,
+      "recent": 0.974,
+      "delta": 0.969,
+      "n_base": 15,
+      "n_recent": 5
+    },
+    {
+      "pair": "TGTX / IXC",
+      "baseline": 0.003,
+      "recent": 0.943,
+      "delta": 0.94,
+      "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "TGTX / XLE",
+      "baseline": 0.058,
+      "recent": 0.952,
+      "delta": 0.894,
+      "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "IEO / TGTX",
+      "baseline": 0.109,
+      "recent": 0.973,
+      "delta": 0.864,
+      "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "FCG / TGTX",
+      "baseline": 0.131,
+      "recent": 0.974,
+      "delta": 0.843,
+      "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "IXC / SNDK",
+      "baseline": 0.145,
+      "recent": 0.969,
+      "delta": 0.824,
+      "n_base": 15,
+      "n_recent": 5
     }
   ],
   "note": "5-day window against a 16-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",

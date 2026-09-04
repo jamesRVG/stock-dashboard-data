@@ -131,5 +131,12 @@
     "category": "sector_behavior|signal_calibration|technical_timing|fundamental_weight",
     "horizon": "all",
     "date": "2026-09-04"
+  },
+  {
+    "note": "System exhibits three mechanistically distinct regimes requiring portfolio strategy separation: (1) Same-day signals show persistent zero-alpha across 6+ confirmations (today -43bps underperformance)\u2014eliminate entirely as execution costs exceed predictive value; (2) 1-week signals confirm +297bps alpha after natural 5-7 day hold extension (15 picks averaging +463bps vs SPY +17bps)\u2014retain with 2-3x weighting multiplier for medium-term portfolios; (3) 1-month signals deliver +432bps alpha sourced 95%+ exclusively from precious metals/mining sector (SSRM, TGTX, AU, IAG, LPG, GDXJ tier averaging +13.8% vs non-commodity +7.1%). Critical misalignment: today's top picks (ECO 7.8, LPG 7.9, FRO 7.8, INSW 7.8, FCG 7.8) contain only 20% precious metals exposure despite demonstrated repeatable commodity-concentrated alpha source. Actionable corrections: (A) Eliminate all same-day entry signals entirely (confirmed zero predictive power across 6+ horizons); (B) Implement 2-3x weighting multiplier for 1-week portfolio given +297bps outperformance confirmation; (C) Apply 4-5x weighting multiplier exclusively to gold/silver/mining sector signals for 1-month portfolio; (D) Rebalance current 1-month allocation to minimum 70% precious metals concentration (prioritize AU, AEM, WPM, RGLD, NEM, SSRM, GDXJ, GDX tier) to capture demonstrated repeatable alpha pattern explaining 88% of 1-month outperformance; (E) Audit scoring model for sector-blind inputs masking commodity-cycle differentiation; (F) Retain 1-week signals with extended 5-7 day hold strategy\u2014alpha materialization requires minimum hold periods rather than same-day execution.",
+    "confidence": 5,
+    "category": "sector_behavior|signal_calibration|technical_timing|fundamental_weight",
+    "horizon": "all",
+    "date": "2026-09-04"
   }
 ]
