@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "refreshed": "2026-09-04 20:34",
+  "refreshed": "2026-09-04 23:04",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -16,99 +16,99 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "TGTX / SNDK",
-      "baseline": -0.399,
-      "recent": 0.979,
-      "delta": 1.378,
-      "n_base": 15,
-      "n_recent": 5
-    },
-    {
-      "pair": "MU / SNDK",
-      "baseline": 0.861,
-      "recent": -0.323,
-      "delta": -1.184,
-      "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "MU / DHT",
-      "baseline": -0.084,
-      "recent": 0.976,
-      "delta": 1.06,
-      "n_base": 20,
+      "pair": "DHT / CDNA",
+      "baseline": -0.338,
+      "recent": 0.794,
+      "delta": 1.132,
+      "n_base": 18,
       "n_recent": 5
     },
     {
       "pair": "LPG / CDNA",
       "baseline": -0.121,
-      "recent": 0.89,
-      "delta": 1.011,
+      "recent": 0.952,
+      "delta": 1.073,
       "n_base": 18,
       "n_recent": 5
     },
     {
-      "pair": "DHT / CDNA",
-      "baseline": -0.338,
-      "recent": 0.673,
-      "delta": 1.011,
-      "n_base": 18,
-      "n_recent": 5
-    },
-    {
-      "pair": "EUFN / SNDK",
-      "baseline": 0.348,
-      "recent": -0.644,
-      "delta": -0.992,
-      "n_base": 14,
-      "n_recent": 5
-    },
-    {
-      "pair": "FCG / SNDK",
-      "baseline": 0.005,
-      "recent": 0.974,
-      "delta": 0.969,
-      "n_base": 15,
+      "pair": "MU / DHT",
+      "baseline": -0.084,
+      "recent": 0.981,
+      "delta": 1.065,
+      "n_base": 20,
       "n_recent": 5
     },
     {
       "pair": "TGTX / IXC",
       "baseline": 0.003,
-      "recent": 0.943,
-      "delta": 0.94,
+      "recent": 0.945,
+      "delta": 0.942,
       "n_base": 18,
       "n_recent": 5
     },
     {
       "pair": "TGTX / XLE",
       "baseline": 0.058,
-      "recent": 0.952,
-      "delta": 0.894,
+      "recent": 0.953,
+      "delta": 0.895,
       "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "EUFN / SNDK",
+      "baseline": 0.348,
+      "recent": -0.531,
+      "delta": -0.879,
+      "n_base": 14,
+      "n_recent": 5
+    },
+    {
+      "pair": "DHT / SNDK",
+      "baseline": -0.078,
+      "recent": 0.796,
+      "delta": 0.874,
+      "n_base": 17,
       "n_recent": 5
     },
     {
       "pair": "IEO / TGTX",
       "baseline": 0.109,
-      "recent": 0.973,
-      "delta": 0.864,
+      "recent": 0.976,
+      "delta": 0.867,
       "n_base": 18,
       "n_recent": 5
     },
     {
       "pair": "FCG / TGTX",
       "baseline": 0.131,
-      "recent": 0.974,
-      "delta": 0.843,
+      "recent": 0.969,
+      "delta": 0.838,
       "n_base": 18,
       "n_recent": 5
     },
     {
-      "pair": "IXC / SNDK",
-      "baseline": 0.145,
-      "recent": 0.969,
-      "delta": 0.824,
-      "n_base": 15,
+      "pair": "TGTX / FENY",
+      "baseline": 0.126,
+      "recent": 0.96,
+      "delta": 0.834,
+      "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "EUFN / SSRM",
+      "baseline": -0.072,
+      "recent": 0.739,
+      "delta": 0.811,
+      "n_base": 17,
+      "n_recent": 5
+    },
+    {
+      "pair": "XLE / XBI",
+      "baseline": -0.19,
+      "recent": 0.591,
+      "delta": 0.781,
+      "n_base": 18,
       "n_recent": 5
     }
   ],
