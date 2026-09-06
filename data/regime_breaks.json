@@ -1,14 +1,14 @@
 {
-  "date": "2026-09-04",
-  "refreshed": "2026-09-04 23:04",
+  "date": "2026-09-06",
+  "refreshed": "2026-09-06 13:24",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Gold vs Dollar",
-      "baseline": 0.223,
-      "recent": -0.807,
-      "delta": -1.03,
+      "baseline": 0.182,
+      "recent": -0.81,
+      "delta": -0.992,
       "flip": false,
       "n_base": 16,
       "n_recent": 5
@@ -40,7 +40,7 @@
       "n_recent": 5
     },
     {
-      "pair": "TGTX / IXC",
+      "pair": "IXC / TGTX",
       "baseline": 0.003,
       "recent": 0.945,
       "delta": 0.942,
@@ -96,20 +96,20 @@
       "n_recent": 5
     },
     {
-      "pair": "EUFN / SSRM",
-      "baseline": -0.072,
-      "recent": 0.739,
-      "delta": 0.811,
-      "n_base": 17,
-      "n_recent": 5
-    },
-    {
       "pair": "XLE / XBI",
       "baseline": -0.19,
       "recent": 0.591,
       "delta": 0.781,
       "n_base": 18,
       "n_recent": 5
+    },
+    {
+      "pair": "CDNA / SSRM",
+      "baseline": 0.119,
+      "recent": 0.894,
+      "delta": 0.775,
+      "n_base": 18,
+      "n_recent": 4
     }
   ],
   "note": "5-day window against a 16-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
