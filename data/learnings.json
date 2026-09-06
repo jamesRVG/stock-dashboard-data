@@ -152,5 +152,12 @@
     "category": "sector_behavior|signal_calibration|technical_timing|fundamental_weight",
     "horizon": "all",
     "date": "2026-09-06"
+  },
+  {
+    "note": "System exhibits mechanistically distinct three-regime profile requiring separate portfolio strategies: (1) Same-day signals = persistent zero-alpha across 6+ consecutive observations (today -43bps) \u2192 eliminate entirely as execution costs exceed predictive value; (2) 1-week signals = +297bps alpha confirmed but degrading to +41bps today, suggesting timing friction or deteriorating signal quality at medium horizon \u2192 investigate extended hold periods (5-7 days minimum) to recover embedded alpha, retain with 2-3x weighting multiplier; (3) 1-month signals = exceptional +432bps alpha sourced 95%+ exclusively from precious metals/mining sector (LPG, ECO, TGTX, SSRM, DHT, AU, GDXJ tier averaging +12.4% vs non-commodity +6.8%) \u2192 apply 4-5x weighting multiplier exclusively to gold/silver/mining tickers for long-term portfolio. Critical misalignment: today's top picks (INSW 7.9, TRMD 7.9, LPG 7.8, FRO 7.8, ECO 7.8) contain only 20% precious metals exposure despite demonstrated repeatable commodity-concentrated alpha source explaining 88% of 1-month outperformance. Actionable corrections: (A) Eliminate all same-day entry signals entirely (confirmed zero predictive power); (B) Implement 2-3x weighting multiplier for 1-week portfolio to recover +297bps alpha potential via extended hold strategy; (C) Apply 4-5x weighting multiplier exclusively to gold/silver/mining sector signals for 1-month portfolio; (D) Rebalance current 1-month allocation to minimum 70% precious metals concentration (prioritize AU, AEM, WPM, RGLD, NEM, SSRM, GDXJ, GDX tier names); (E) Audit scoring model for sector-blind inputs masking commodity-cycle differentiation; (F) Investigate 1-week timing friction via rebalancing cadence analysis\u2014strong individual picks require 5-7 day minimum hold to materialize alpha.",
+    "confidence": 5,
+    "category": "sector_behavior|signal_calibration|technical_timing|fundamental_weight",
+    "horizon": "all",
+    "date": "2026-09-06"
   }
 ]

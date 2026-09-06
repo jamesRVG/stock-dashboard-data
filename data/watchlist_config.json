@@ -119,7 +119,8 @@
   "NAT": "Core Mainstream",
   "HAFN": "Core Mainstream",
   "SLDE": "Tech",
-  "ENIC": "Core Mainstream"
+  "ENIC": "Core Mainstream",
+  "ANF": "Core"
  },
  "archived": [
   {
@@ -1630,7 +1631,9 @@
   "FCEL": 2,
   "BLDP": 2,
   "RKLB": 2,
-  "RDW": 2
+  "RDW": 2,
+  "TRMD": 1,
+  "SLDE": 1
  },
  "history": [
   {
@@ -2608,119 +2611,6 @@
    "ret_since_entry": 0.0241,
    "verified": true,
    "verified_pe": 5.9986
-  },
-  "ANF": {
-   "first_seen": "2026-08-10",
-   "entry_price": 118.445,
-   "sector": "Retail",
-   "industry": "Apparel/Footwear Retail",
-   "name": "ANF",
-   "track": [
-    {
-     "date": "2026-08-10",
-     "price": 118.53
-    },
-    {
-     "date": "2026-08-11",
-     "price": 117.53
-    },
-    {
-     "date": "2026-08-12",
-     "price": 117.97
-    },
-    {
-     "date": "2026-08-18",
-     "price": 103.38
-    },
-    {
-     "date": "2026-08-19",
-     "price": 105.45
-    },
-    {
-     "date": "2026-08-20",
-     "price": 105.02
-    },
-    {
-     "date": "2026-08-21",
-     "price": 109.01
-    },
-    {
-     "date": "2026-08-22",
-     "price": 109.01
-    },
-    {
-     "date": "2026-08-23",
-     "price": 109.01
-    },
-    {
-     "date": "2026-08-24",
-     "price": 112.36
-    },
-    {
-     "date": "2026-08-25",
-     "price": 108.9
-    },
-    {
-     "date": "2026-08-26",
-     "price": 153.335
-    },
-    {
-     "date": "2026-08-27",
-     "price": 145.75
-    },
-    {
-     "date": "2026-08-28",
-     "price": 148.42
-    },
-    {
-     "date": "2026-08-29",
-     "price": 148.42
-    },
-    {
-     "date": "2026-09-01",
-     "price": 140.68
-    },
-    {
-     "date": "2026-09-02",
-     "price": 136.6
-    },
-    {
-     "date": "2026-09-03",
-     "price": 143.54
-    },
-    {
-     "date": "2026-09-04",
-     "price": 149.67
-    },
-    {
-     "date": "2026-09-06",
-     "price": 149.67
-    }
-   ],
-   "last_seen": "2026-09-06",
-   "exchange": "NYSE",
-   "otc": false,
-   "scores": {
-    "hybrid": 8.17,
-    "pe_heavy": 8.42
-   },
-   "gates": {
-    "E": true,
-    "E2": true
-   },
-   "metrics": {
-    "pe": 12.81926101032941,
-    "roe": 40.5005183664957,
-    "roic": 23.5682030497834,
-    "gross_margin": 60.71497647133061,
-    "pfcf": 11.639109366559449,
-    "de": 0.950476220006925,
-    "rev_growth": 4.729188898131165,
-    "mom12": 61.23020575245071
-   },
-   "ret_since_entry": 0.2636,
-   "verified": true,
-   "verified_pe": 10.629
   },
   "BVS": {
    "first_seen": "2026-08-10",
@@ -8550,6 +8440,43 @@
    "ret_since_entry": 0.0,
    "verified": true,
    "verified_pe": 23.554
+  },
+  "INTU": {
+   "first_seen": "2026-09-06",
+   "entry_price": 332.7,
+   "sector": "Technology",
+   "industry": "Packaged Software",
+   "name": "INTU",
+   "track": [
+    {
+     "date": "2026-09-06",
+     "price": 332.7
+    }
+   ],
+   "last_seen": "2026-09-06",
+   "exchange": "NASDAQ",
+   "otc": false,
+   "scores": {
+    "hybrid": 6.12,
+    "pe_heavy": 6.61
+   },
+   "gates": {
+    "E": true,
+    "E2": false
+   },
+   "metrics": {
+    "pe": 20.16583627304797,
+    "roe": 23.5956798098289,
+    "roic": 17.4411275998396,
+    "gross_margin": 81.6020141738158,
+    "pfcf": 10.389712973593571,
+    "de": 0.438921651221567,
+    "rev_growth": 13.897297010249057,
+    "mom12": -49.96992481203007
+   },
+   "ret_since_entry": 0.0,
+   "verified": true,
+   "verified_pe": 19.9312
   }
  },
  "_promote_streak": {
@@ -8564,18 +8491,18 @@
   "PIPR": 0,
   "EZPW": 0,
   "QNST": 0,
-  "CRUS": 2,
+  "CRUS": 3,
   "FSLR": 0,
   "QCOM": 0,
   "FIX": 0,
   "TDC": 0,
-  "YOU": 2,
-  "ADBE": 2,
+  "YOU": 3,
+  "ADBE": 3,
   "ADEA": 0,
-  "DLO": 2,
+  "DLO": 3,
   "RAMP": 0,
   "FRSH": 0,
-  "SEZL": 2,
+  "SEZL": 3,
   "FTNT": 0,
   "ETOR": 0,
   "PATH": 0,
@@ -8584,7 +8511,6 @@
   "PTC": 0,
   "BVS": 0,
   "LNTH": 0,
-  "ANF": 9,
   "GMED": 0,
   "CRI": 0,
   "ILMN": 0,
@@ -8605,13 +8531,14 @@
   "ALKEF": 0,
   "GAP": 0,
   "WFRD": 0,
-  "UTHR": 2,
+  "UTHR": 3,
   "ASM": 0,
   "GLGDF": 0,
   "CRM": 0,
   "CHRD": 0,
   "ADSK": 0,
-  "JKHY": 0
+  "JKHY": 0,
+  "INTU": 0
  },
  "promoted": [
   {
@@ -8832,6 +8759,17 @@
    "date": "2026-08-27",
    "category": "Core",
    "via": "dashboard"
+  },
+  {
+   "ticker": "ANF",
+   "date": "2026-09-06",
+   "category": "Core",
+   "runs_held": 10,
+   "days_tracked": 27,
+   "hybrid": 8.17,
+   "entry_price": 118.445,
+   "price_at_promotion": 149.67,
+   "ret_since_entry": 0.2636
   }
  ],
  "_sell_streak_day": {
@@ -9060,7 +8998,9 @@
   "FCEL": "2026-09-06",
   "BLDP": "2026-09-06",
   "RKLB": "2026-09-06",
-  "RDW": "2026-09-06"
+  "RDW": "2026-09-06",
+  "TRMD": "2026-09-06",
+  "SLDE": "2026-09-06"
  },
  "_weak_streak_day": {
   "BABA": "2026-08-08",
