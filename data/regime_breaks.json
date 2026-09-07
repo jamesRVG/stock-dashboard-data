@@ -1,16 +1,43 @@
 {
-  "date": "2026-09-06",
-  "refreshed": "2026-09-06 17:18",
+  "date": "2026-09-07",
+  "refreshed": "2026-09-07 17:55",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Gold vs Dollar",
       "baseline": 0.182,
-      "recent": -0.81,
-      "delta": -0.992,
+      "recent": -0.795,
+      "delta": -0.977,
       "flip": false,
-      "n_base": 16,
+      "n_base": 17,
+      "n_recent": 5
+    },
+    {
+      "pair": "Oil vs S&P",
+      "baseline": -0.164,
+      "recent": 0.687,
+      "delta": 0.851,
+      "flip": false,
+      "n_base": 17,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs 10Y yield",
+      "baseline": -0.398,
+      "recent": 0.441,
+      "delta": 0.839,
+      "flip": false,
+      "n_base": 17,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs Gold",
+      "baseline": -0.097,
+      "recent": 0.617,
+      "delta": 0.714,
+      "flip": false,
+      "n_base": 17,
       "n_recent": 5
     }
   ],
@@ -112,6 +139,6 @@
       "n_recent": 3
     }
   ],
-  "note": "5-day window against a 16-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 16
+  "note": "5-day window against a 17-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 17
 }

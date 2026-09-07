@@ -159,5 +159,12 @@
     "category": "sector_behavior|signal_calibration|technical_timing|fundamental_weight",
     "horizon": "all",
     "date": "2026-09-06"
+  },
+  {
+    "note": "System exhibits mechanistically distinct three-regime profile requiring separate portfolio strategies: (1) Same-day signals = zero alpha confirmed across 7 consecutive days (-43bps today) \u2192 eliminate entirely as execution costs exceed predictive value; (2) 1-week signals = +297bps alpha with +41bps outperformance today despite prior -49bps deterioration \u2192 retain with 2-3x weighting multiplier but investigate 5-7 day hold requirement to recover embedded signal alpha; (3) 1-month signals = exceptional +1,643bps alpha sourced 95%+ exclusively from precious metals/mining/shipping sector (SSRM, ECO, LPG, TGTX, EXEL, ARKG, DHT, MU tier averaging +11.1% vs non-commodity +5-9%) \u2192 apply 4-5x weighting multiplier exclusively to gold/silver/mining/shipping tickers for long-term portfolio. Critical misalignment: today's top picks (INSW 7.9, TRMD 7.9, LPG 7.8, FRO 7.8, ECO 7.8) contain only 20% precious metals exposure (LPG, ECO only) despite demonstrated repeatable commodity-concentrated alpha source. Actionable corrections: (A) Eliminate all same-day entry signals entirely (confirmed zero predictive power across 7 consecutive days); (B) Implement 2-3x weighting multiplier for 1-week portfolio to recover +297bps alpha potential via mandatory 5-7 day minimum hold strategy; (C) Apply 4-5x weighting multiplier exclusively to gold/silver/mining/shipping sector signals for 1-month portfolio; (D) Rebalance current 1-month allocation to minimum 70% precious metals/shipping concentration (prioritize SSRM, LPG, ECO, TGTX, EXEL, ARKG, DHT, MU, CDNA, KRYS, SNDK tier names) to capture demonstrated repeatable alpha pattern; (E) Audit scoring model for sector-blind inputs masking commodity-cycle differentiation that explains 88% of 1-month outperformance; (F) Retain 1-week signals with extended 5-7 day hold strategy\u2014alpha materialization requires minimum hold periods rather than same-day execution.",
+    "confidence": 5,
+    "category": "sector_behavior|signal_calibration|technical_timing|fundamental_weight",
+    "horizon": "all",
+    "date": "2026-09-07"
   }
 ]
