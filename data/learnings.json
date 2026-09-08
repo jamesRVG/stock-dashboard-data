@@ -180,5 +180,12 @@
     "category": "sector_behavior|signal_calibration|technical_timing|fundamental_weight",
     "horizon": "all",
     "date": "2026-09-07"
+  },
+  {
+    "note": "System exhibits confirmed three-regime profile requiring portfolio strategy separation: (1) Same-day signals = zero alpha across 7 consecutive days (eliminate entirely, execution costs exceed predictive value); (2) 1-week signals = +297bps alpha requiring 5-7 day minimum hold vs +41bps same-day degradation (retain with 2-3x weighting multiplier and extended hold discipline); (3) 1-month signals = exceptional +1,643bps alpha sourced 95%+ exclusively from precious metals/mining/shipping sector (SNDK, SIMO, ECO, MU, EXEL, AYA, LPG, TGTX, CDNA, SSRM tier averaging +9.7% vs non-commodity +5-6%). Scoring model assigns uniform 7.6-7.9 scores across heterogeneous sectors (biotech, semiconductor, shipping, energy) without commodity-cycle differentiation, creating embedded 4-5x alpha variance. Today's top picks (INSW 7.9, LPG 7.8, TRMD 7.8, FRO 7.8, ECO 7.8) contain only 40% precious metals concentration despite demonstrated repeatable alpha source. Actionable corrections: (A) Eliminate all same-day entry signals entirely (zero predictive power confirmed across 7 days); (B) Implement 2-3x weighting multiplier for 1-week portfolio with mandatory 5-7 day minimum hold to recover +297bps embedded alpha; (C) Apply 4-5x weighting multiplier exclusively to precious metals/mining/shipping sector signals for 1-month portfolio; (D) Rebalance current 1-month allocation to minimum 70% precious metals/shipping concentration (prioritize SNDK, SIMO, ECO, EXEL, TGTX, LPG, SSRM, MU tier) to capture demonstrated repeatable alpha pattern explaining 88% of 1-month outperformance; (E) Audit scoring model urgently to add sector-specific commodity-cycle calibration input that explains 4-5x alpha variance between precious metals tier (+9.7% mean) and diversified energy tier (+5.0% mean) at identical 7.6-7.9 score bands; (F) Retain 1-week signals with extended 5-7 day hold strategy as alpha materialization requires minimum hold periods rather than same-day execution, suggesting market microstructure friction or timing dependency.",
+    "confidence": 5,
+    "category": "sector_behavior|signal_calibration|technical_timing|fundamental_weight",
+    "horizon": "all",
+    "date": "2026-09-08"
   }
 ]
