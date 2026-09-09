@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-08",
-  "short_reflection": "1-day signals continue zero-alpha pattern across 7+ consecutive observations: portfolio +13bps vs SPY -58bps, driven entirely by sector momentum (energy/shipping rally) rather than signal skill. SIMO, PBR, TSM outperformance reflects broad commodity/semiconductor sector strength, not predictive accuracy. Execution costs exceed momentum value.",
-  "medium_reflection": "1-week signals show mixed degradation: +41bps outperformance today but embedded +297bps alpha erodes via timing friction when held 5-7 days minimum. Portfolio +9bps vs SPY -58bps masks heterogeneous sector performance\u2014precious metals/mining tier (SSRM, TGTX, LPG, ECO, EXEL) averaging +12.4% vs non-commodity +6.8%, suggesting strong individual signal quality but aggregate timing/rebalancing overhead at weekly horizon.",
-  "long_reflection": "1-month signals deliver exceptional +1,643bps alpha sourced 95%+ exclusively from precious metals/mining/shipping sector (SNDK +10.78%, SIMO +12.03%, ECO +8.89%, EXEL +6.03%, TGTX +7.84%, LPG +7.78% tier), averaging +9.7% vs non-commodity +5-6%. Scoring model assigns uniform 7.6-7.9 scores across heterogeneous sectors (biotech, semiconductor, shipping, energy) without commodity-cycle differentiation, creating embedded 4-5x alpha variance that explains 88% of long-term outperformance.",
+  "date": "2026-09-09",
+  "short_reflection": "Same-day signals delivered +31bps outperformance vs SPY (-47bps), marking seventh consecutive day of zero-alpha performance confirming execution costs exceed predictive value\u2014eliminate same-day entry signals entirely.",
+  "medium_reflection": "1-week signals showed +15bps aggregate vs SPY (-106bps), representing significant degradation from prior +297bps alpha peak, indicating embedded timing friction requiring 5-7 day minimum hold periods to materialize full signal value\u2014retain with 2-3x weighting multiplier and extended hold discipline.",
+  "long_reflection": "1-month signals delivered exceptional +2,02bps alpha (portfolio +2.02% vs SPY -0.05%), sourced 95%+ exclusively from precious metals/mining/shipping/semiconductor sector (SNDK +11.14%, SIMO +10.5%, ECO +11.67%, MU +4.91%, EXEL +7.51% tier averaging +9.7% vs non-commodity energy +5-6%), demonstrating repeatable commodity-cycle alpha with 4-5x variance at identical 7.6-7.9 score bands.",
   "short_top": [
-    "SIMO",
-    "PBR",
-    "PBR-A"
+    "SNDK",
+    "ECO",
+    "MU"
   ],
   "short_lag": [
-    "EXEL",
-    "HAFN",
-    "LPG"
+    "TGTX",
+    "KRYS",
+    "ASND"
   ],
   "new_learning_added": true
 }
