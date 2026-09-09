@@ -1,14 +1,14 @@
 {
   "date": "2026-09-09",
-  "refreshed": "2026-09-09 20:01",
+  "refreshed": "2026-09-09 23:12",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Gold vs 10Y yield",
       "baseline": -0.132,
-      "recent": 0.694,
-      "delta": 0.826,
+      "recent": 0.929,
+      "delta": 1.061,
       "flip": false,
       "n_base": 18,
       "n_recent": 5
@@ -16,8 +16,8 @@
     {
       "pair": "Copper vs S&P",
       "baseline": -0.182,
-      "recent": -0.828,
-      "delta": -0.646,
+      "recent": -0.804,
+      "delta": -0.622,
       "flip": false,
       "n_base": 18,
       "n_recent": 5
@@ -27,32 +27,32 @@
     {
       "pair": "MU / TSM",
       "baseline": 0.84,
-      "recent": -0.919,
-      "delta": -1.759,
+      "recent": -0.913,
+      "delta": -1.753,
       "n_base": 19,
       "n_recent": 4
     },
     {
       "pair": "TSM / ENFR",
       "baseline": -0.655,
-      "recent": 0.974,
-      "delta": 1.629,
+      "recent": 0.998,
+      "delta": 1.653,
       "n_base": 14,
       "n_recent": 4
     },
     {
-      "pair": "EUFN / SIMO",
+      "pair": "SIMO / EUFN",
       "baseline": 0.705,
-      "recent": -0.923,
-      "delta": -1.628,
+      "recent": -0.919,
+      "delta": -1.624,
       "n_base": 14,
       "n_recent": 4
     },
     {
       "pair": "LPG / SIMO",
       "baseline": 0.58,
-      "recent": -0.963,
-      "delta": -1.543,
+      "recent": -0.996,
+      "delta": -1.576,
       "n_base": 15,
       "n_recent": 4
     },
@@ -65,59 +65,59 @@
       "n_recent": 3
     },
     {
-      "pair": "MU / SIMO",
-      "baseline": 0.74,
-      "recent": -0.579,
-      "delta": -1.319,
-      "n_base": 17,
-      "n_recent": 4
-    },
-    {
-      "pair": "XLE / SIMO",
-      "baseline": -0.335,
-      "recent": 0.961,
-      "delta": 1.296,
-      "n_base": 15,
+      "pair": "TSM / SNDK",
+      "baseline": 0.616,
+      "recent": -0.729,
+      "delta": -1.345,
+      "n_base": 19,
       "n_recent": 4
     },
     {
       "pair": "FCG / SIMO",
       "baseline": -0.326,
-      "recent": 0.944,
-      "delta": 1.27,
+      "recent": 1.0,
+      "delta": 1.326,
       "n_base": 15,
       "n_recent": 4
     },
     {
-      "pair": "TSM / SNDK",
-      "baseline": 0.616,
-      "recent": -0.648,
-      "delta": -1.264,
-      "n_base": 19,
+      "pair": "ENFR / SIMO",
+      "baseline": -0.464,
+      "recent": 0.845,
+      "delta": 1.309,
+      "n_base": 12,
       "n_recent": 4
     },
     {
-      "pair": "IXC / SIMO",
-      "baseline": -0.279,
-      "recent": 0.955,
-      "delta": 1.234,
-      "n_base": 15,
-      "n_recent": 4
-    },
-    {
-      "pair": "IEO / SIMO",
-      "baseline": -0.235,
-      "recent": 0.995,
-      "delta": 1.23,
-      "n_base": 15,
+      "pair": "MU / SIMO",
+      "baseline": 0.74,
+      "recent": -0.506,
+      "delta": -1.246,
+      "n_base": 17,
       "n_recent": 4
     },
     {
       "pair": "XOP / SIMO",
       "baseline": -0.231,
-      "recent": 0.976,
-      "delta": 1.207,
+      "recent": 0.998,
+      "delta": 1.229,
       "n_base": 14,
+      "n_recent": 4
+    },
+    {
+      "pair": "IEO / SIMO",
+      "baseline": -0.235,
+      "recent": 0.968,
+      "delta": 1.203,
+      "n_base": 15,
+      "n_recent": 4
+    },
+    {
+      "pair": "FENY / SIMO",
+      "baseline": -0.272,
+      "recent": 0.926,
+      "delta": 1.198,
+      "n_base": 15,
       "n_recent": 4
     }
   ],
