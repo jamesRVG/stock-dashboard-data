@@ -1409,6 +1409,142 @@
    "reason": "Caution at 5.2 on 2026-09-04 and not held. Culled at James's instruction: purge every Caution name that is not in the portfolio.",
    "date_removed": "2026-09-04",
    "last_checked": "2026-09-06"
+  },
+  {
+   "ticker": "DSI",
+   "category": [
+    "Environmental"
+   ],
+   "reason": "James 2026-09-10: Caution signal, not a holding and not traded in the last 90 days",
+   "date_removed": "2026-09-10",
+   "last_checked": "2026-09-10"
+  },
+  {
+   "ticker": "ECAT",
+   "category": [
+    "Environmental"
+   ],
+   "reason": "James 2026-09-10: Caution signal, not a holding and not traded in the last 90 days",
+   "date_removed": "2026-09-10",
+   "last_checked": "2026-09-10"
+  },
+  {
+   "ticker": "ESGU",
+   "category": [
+    "Environmental"
+   ],
+   "reason": "James 2026-09-10: Caution signal, not a holding and not traded in the last 90 days",
+   "date_removed": "2026-09-10",
+   "last_checked": "2026-09-10"
+  },
+  {
+   "ticker": "IRM",
+   "category": [
+    "Real Estate"
+   ],
+   "reason": "James 2026-09-10: Caution signal, not a holding and not traded in the last 90 days",
+   "date_removed": "2026-09-10",
+   "last_checked": "2026-09-10"
+  },
+  {
+   "ticker": "LIT",
+   "category": [
+    "Clean Materials"
+   ],
+   "reason": "James 2026-09-10: Caution signal, not a holding and not traded in the last 90 days",
+   "date_removed": "2026-09-10",
+   "last_checked": "2026-09-10"
+  },
+  {
+   "ticker": "MRVI",
+   "category": [
+    "Core Mainstream"
+   ],
+   "reason": "James 2026-09-10: Caution signal, not a holding and not traded in the last 90 days",
+   "date_removed": "2026-09-10",
+   "last_checked": "2026-09-10"
+  },
+  {
+   "ticker": "PLD",
+   "category": [
+    "Real Estate"
+   ],
+   "reason": "James 2026-09-10: Caution signal, not a holding and not traded in the last 90 days",
+   "date_removed": "2026-09-10",
+   "last_checked": "2026-09-10"
+  },
+  {
+   "ticker": "SUSC",
+   "category": [
+    "Environmental"
+   ],
+   "reason": "James 2026-09-10: Caution signal, not a holding and not traded in the last 90 days",
+   "date_removed": "2026-09-10",
+   "last_checked": "2026-09-10"
+  },
+  {
+   "ticker": "TCEHY",
+   "category": [
+    "Core Mainstream",
+    "Tech"
+   ],
+   "reason": "James 2026-09-10: Caution signal, not a holding and not traded in the last 90 days",
+   "date_removed": "2026-09-10",
+   "last_checked": "2026-09-10"
+  },
+  {
+   "ticker": "VCEB",
+   "category": [
+    "Environmental"
+   ],
+   "reason": "James 2026-09-10: Caution signal, not a holding and not traded in the last 90 days",
+   "date_removed": "2026-09-10",
+   "last_checked": "2026-09-10"
+  },
+  {
+   "ticker": "VIG",
+   "category": [
+    "Core Mainstream"
+   ],
+   "reason": "James 2026-09-10: Caution signal, not a holding and not traded in the last 90 days",
+   "date_removed": "2026-09-10",
+   "last_checked": "2026-09-10"
+  },
+  {
+   "ticker": "VIS",
+   "category": [
+    "Industrials"
+   ],
+   "reason": "James 2026-09-10: Caution signal, not a holding and not traded in the last 90 days",
+   "date_removed": "2026-09-10",
+   "last_checked": "2026-09-10"
+  },
+  {
+   "ticker": "VMRK",
+   "category": [
+    "Real Estate"
+   ],
+   "reason": "James 2026-09-10: Caution signal, not a holding and not traded in the last 90 days",
+   "date_removed": "2026-09-10",
+   "last_checked": "2026-09-10"
+  },
+  {
+   "ticker": "VNQ",
+   "category": [
+    "Real Estate"
+   ],
+   "reason": "James 2026-09-10: Caution signal, not a holding and not traded in the last 90 days",
+   "date_removed": "2026-09-10",
+   "last_checked": "2026-09-10"
+  },
+  {
+   "ticker": "WELL",
+   "category": [
+    "Real Estate"
+   ],
+   "reason": "James 2026-09-10: Caution signal, not a holding and not traded in the last 90 days",
+   "date_removed": "2026-09-10",
+   "last_checked": "2026-09-10"
   }
  ],
  "_sell_streak": {
@@ -1529,7 +1665,6 @@
   "CRDO": 1,
   "HNGE": 1,
   "ECO": 1,
-  "XOP": 1,
   "COPP": 1,
   "DHT": 1,
   "CMBT": 1,
@@ -1631,7 +1766,10 @@
   "BBH": 1,
   "IBKR": 1,
   "BLDP": 1,
-  "RKLB": 1
+  "RKLB": 1,
+  "JPM/PM": 1,
+  "SO": 1,
+  "AVLV": 1
  },
  "history": [
   {
@@ -2285,6 +2423,26 @@
     "SLDE",
     "ENIC"
    ]
+  },
+  {
+   "date": "2026-09-10",
+   "archived": [
+    "DSI",
+    "ECAT",
+    "ESGU",
+    "IRM",
+    "LIT",
+    "MRVI",
+    "PLD",
+    "SUSC",
+    "TCEHY",
+    "VCEB",
+    "VIG",
+    "VIS",
+    "VMRK",
+    "VNQ",
+    "WELL"
+   ]
   }
  ],
  "protected": [
@@ -2514,7 +2672,10 @@
   "MRVI": 1,
   "VIS": 1,
   "VIG": 1,
-  "VNQ": 1
+  "VNQ": 1,
+  "JPM/PM": 1,
+  "VGSR": 1,
+  "SLJY": 1
  },
  "watch": {
   "TDC": {
@@ -9332,7 +9493,7 @@
  },
  "_promote_streak": {
   "DSVSF": 0,
-  "MGY": 1,
+  "MGY": 2,
   "EXE": 0,
   "DAVE": 0,
   "SYF": 0,
@@ -9342,18 +9503,18 @@
   "PIPR": 0,
   "EZPW": 0,
   "QNST": 0,
-  "CRUS": 1,
+  "CRUS": 2,
   "FSLR": 0,
   "QCOM": 0,
   "FIX": 0,
   "TDC": 0,
-  "YOU": 1,
-  "ADBE": 1,
-  "ADEA": 1,
+  "YOU": 2,
+  "ADBE": 2,
+  "ADEA": 2,
   "DLO": 0,
   "RAMP": 0,
   "FRSH": 0,
-  "SEZL": 1,
+  "SEZL": 2,
   "FTNT": 0,
   "ETOR": 0,
   "PATH": 0,
@@ -9381,7 +9542,7 @@
   "ALKEF": 0,
   "GAP": 0,
   "WFRD": 0,
-  "UTHR": 1,
+  "UTHR": 2,
   "ASM": 0,
   "GLGDF": 0,
   "GPRE": 0,
@@ -9748,7 +9909,6 @@
   "CRDO": "2026-09-10",
   "HNGE": "2026-09-10",
   "ECO": "2026-09-10",
-  "XOP": "2026-09-10",
   "COPP": "2026-09-10",
   "DHT": "2026-09-10",
   "CMBT": "2026-09-10",
@@ -9850,7 +10010,10 @@
   "BBH": "2026-09-10",
   "IBKR": "2026-09-10",
   "BLDP": "2026-09-10",
-  "RKLB": "2026-09-10"
+  "RKLB": "2026-09-10",
+  "JPM/PM": "2026-09-10",
+  "SO": "2026-09-10",
+  "AVLV": "2026-09-10"
  },
  "_weak_streak_day": {
   "BABA": "2026-08-08",
@@ -10039,7 +10202,10 @@
   "MRVI": "2026-09-10",
   "VIS": "2026-09-10",
   "VIG": "2026-09-10",
-  "VNQ": "2026-09-10"
+  "VNQ": "2026-09-10",
+  "JPM/PM": "2026-09-10",
+  "VGSR": "2026-09-10",
+  "SLJY": "2026-09-10"
  },
  "user_requested": {
   "IONQ": {
@@ -10929,6 +11095,12 @@
    "added": "2026-08-29",
    "reason": "Planet Labs PBC Class A; Technology Services; Packaged Software",
    "requested_by": "James, 2026-08-29: typed into the dashboard Discovery panel"
+  },
+  "AVLV": {
+   "cat": "Core",
+   "added": "2026-09-10",
+   "reason": "Avantis U.S. Large Cap Value ETF; Miscellaneous; Investment Trusts/Mutual Funds",
+   "requested_by": "James, 2026-09-10: typed into the dashboard Discovery panel"
   }
  }
 }
