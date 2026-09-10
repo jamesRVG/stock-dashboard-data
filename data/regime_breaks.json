@@ -1,60 +1,52 @@
 {
   "date": "2026-09-10",
-  "refreshed": "2026-09-10 16:48",
+  "refreshed": "2026-09-10 20:00",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs VIX",
       "baseline": 0.119,
-      "recent": -0.919,
-      "delta": -1.038,
+      "recent": -0.92,
+      "delta": -1.039,
       "flip": false,
-      "n_base": 19,
+      "n_base": 18,
       "n_recent": 5
     },
     {
       "pair": "Gold vs 10Y yield",
-      "baseline": -0.093,
+      "baseline": -0.086,
       "recent": 0.721,
-      "delta": 0.814,
+      "delta": 0.807,
       "flip": false,
-      "n_base": 19,
+      "n_base": 18,
       "n_recent": 5
     }
   ],
   "ticker_pairs": [
     {
-      "pair": "MU / TSM",
-      "baseline": 0.84,
-      "recent": -0.873,
-      "delta": -1.713,
-      "n_base": 19,
-      "n_recent": 4
-    },
-    {
-      "pair": "EUFN / SIMO",
-      "baseline": 0.705,
-      "recent": -0.959,
-      "delta": -1.664,
-      "n_base": 14,
-      "n_recent": 4
-    },
-    {
       "pair": "TSM / ENFR",
       "baseline": -0.655,
-      "recent": 1.0,
-      "delta": 1.655,
+      "recent": 0.994,
+      "delta": 1.649,
       "n_base": 14,
-      "n_recent": 4
+      "n_recent": 5
+    },
+    {
+      "pair": "SIMO / EUFN",
+      "baseline": 0.704,
+      "recent": -0.812,
+      "delta": -1.516,
+      "n_base": 13,
+      "n_recent": 5
     },
     {
       "pair": "LPG / SIMO",
       "baseline": 0.58,
-      "recent": -0.912,
-      "delta": -1.492,
+      "recent": -0.862,
+      "delta": -1.442,
       "n_base": 15,
-      "n_recent": 4
+      "n_recent": 5
     },
     {
       "pair": "TSM / CDNA",
@@ -65,62 +57,70 @@
       "n_recent": 3
     },
     {
-      "pair": "FCG / SIMO",
-      "baseline": -0.326,
-      "recent": 1.0,
-      "delta": 1.326,
-      "n_base": 15,
-      "n_recent": 4
-    },
-    {
       "pair": "ENFR / SIMO",
       "baseline": -0.464,
-      "recent": 0.802,
-      "delta": 1.266,
+      "recent": 0.875,
+      "delta": 1.339,
       "n_base": 12,
-      "n_recent": 4
+      "n_recent": 5
     },
     {
-      "pair": "TSM / SNDK",
-      "baseline": 0.616,
-      "recent": -0.644,
-      "delta": -1.26,
-      "n_base": 19,
-      "n_recent": 4
+      "pair": "XOP / KRYS",
+      "baseline": 0.289,
+      "recent": -1.0,
+      "delta": -1.289,
+      "n_base": 20,
+      "n_recent": 3
     },
     {
       "pair": "XLE / SIMO",
       "baseline": -0.335,
-      "recent": 0.916,
-      "delta": 1.251,
+      "recent": 0.942,
+      "delta": 1.277,
       "n_base": 15,
-      "n_recent": 4
+      "n_recent": 5
     },
     {
-      "pair": "XOP / SIMO",
-      "baseline": -0.231,
+      "pair": "SNDK / KRYS",
+      "baseline": -0.267,
       "recent": 1.0,
-      "delta": 1.231,
-      "n_base": 14,
-      "n_recent": 4
+      "delta": 1.267,
+      "n_base": 18,
+      "n_recent": 3
     },
     {
-      "pair": "IEO / SIMO",
-      "baseline": -0.235,
-      "recent": 0.992,
-      "delta": 1.227,
+      "pair": "INCY / ASND",
+      "baseline": 0.687,
+      "recent": -0.561,
+      "delta": -1.248,
       "n_base": 15,
-      "n_recent": 4
+      "n_recent": 5
     },
     {
       "pair": "IXC / SIMO",
       "baseline": -0.279,
-      "recent": 0.934,
-      "delta": 1.213,
+      "recent": 0.949,
+      "delta": 1.228,
       "n_base": 15,
-      "n_recent": 4
+      "n_recent": 5
+    },
+    {
+      "pair": "SNDK / FBT",
+      "baseline": -0.209,
+      "recent": 1.0,
+      "delta": 1.209,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "FENY / KRYS",
+      "baseline": 0.202,
+      "recent": -1.0,
+      "delta": -1.202,
+      "n_base": 21,
+      "n_recent": 3
     }
   ],
-  "note": "5-day window against a 19-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 19
+  "note": "5-day window against a 18-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 18
 }
