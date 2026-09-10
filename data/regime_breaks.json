@@ -1,25 +1,25 @@
 {
-  "date": "2026-09-09",
-  "refreshed": "2026-09-09 23:12",
+  "date": "2026-09-10",
+  "refreshed": "2026-09-10 16:48",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "Gold vs 10Y yield",
-      "baseline": -0.132,
-      "recent": 0.929,
-      "delta": 1.061,
+      "pair": "S&P vs VIX",
+      "baseline": 0.119,
+      "recent": -0.919,
+      "delta": -1.038,
       "flip": false,
-      "n_base": 18,
+      "n_base": 19,
       "n_recent": 5
     },
     {
-      "pair": "Copper vs S&P",
-      "baseline": -0.182,
-      "recent": -0.804,
-      "delta": -0.622,
+      "pair": "Gold vs 10Y yield",
+      "baseline": -0.093,
+      "recent": 0.721,
+      "delta": 0.814,
       "flip": false,
-      "n_base": 18,
+      "n_base": 19,
       "n_recent": 5
     }
   ],
@@ -27,32 +27,32 @@
     {
       "pair": "MU / TSM",
       "baseline": 0.84,
-      "recent": -0.913,
-      "delta": -1.753,
+      "recent": -0.873,
+      "delta": -1.713,
       "n_base": 19,
+      "n_recent": 4
+    },
+    {
+      "pair": "EUFN / SIMO",
+      "baseline": 0.705,
+      "recent": -0.959,
+      "delta": -1.664,
+      "n_base": 14,
       "n_recent": 4
     },
     {
       "pair": "TSM / ENFR",
       "baseline": -0.655,
-      "recent": 0.998,
-      "delta": 1.653,
-      "n_base": 14,
-      "n_recent": 4
-    },
-    {
-      "pair": "SIMO / EUFN",
-      "baseline": 0.705,
-      "recent": -0.919,
-      "delta": -1.624,
+      "recent": 1.0,
+      "delta": 1.655,
       "n_base": 14,
       "n_recent": 4
     },
     {
       "pair": "LPG / SIMO",
       "baseline": 0.58,
-      "recent": -0.996,
-      "delta": -1.576,
+      "recent": -0.912,
+      "delta": -1.492,
       "n_base": 15,
       "n_recent": 4
     },
@@ -65,14 +65,6 @@
       "n_recent": 3
     },
     {
-      "pair": "TSM / SNDK",
-      "baseline": 0.616,
-      "recent": -0.729,
-      "delta": -1.345,
-      "n_base": 19,
-      "n_recent": 4
-    },
-    {
       "pair": "FCG / SIMO",
       "baseline": -0.326,
       "recent": 1.0,
@@ -83,44 +75,52 @@
     {
       "pair": "ENFR / SIMO",
       "baseline": -0.464,
-      "recent": 0.845,
-      "delta": 1.309,
+      "recent": 0.802,
+      "delta": 1.266,
       "n_base": 12,
       "n_recent": 4
     },
     {
-      "pair": "MU / SIMO",
-      "baseline": 0.74,
-      "recent": -0.506,
-      "delta": -1.246,
-      "n_base": 17,
+      "pair": "TSM / SNDK",
+      "baseline": 0.616,
+      "recent": -0.644,
+      "delta": -1.26,
+      "n_base": 19,
+      "n_recent": 4
+    },
+    {
+      "pair": "XLE / SIMO",
+      "baseline": -0.335,
+      "recent": 0.916,
+      "delta": 1.251,
+      "n_base": 15,
       "n_recent": 4
     },
     {
       "pair": "XOP / SIMO",
       "baseline": -0.231,
-      "recent": 0.998,
-      "delta": 1.229,
+      "recent": 1.0,
+      "delta": 1.231,
       "n_base": 14,
       "n_recent": 4
     },
     {
       "pair": "IEO / SIMO",
       "baseline": -0.235,
-      "recent": 0.968,
-      "delta": 1.203,
+      "recent": 0.992,
+      "delta": 1.227,
       "n_base": 15,
       "n_recent": 4
     },
     {
-      "pair": "FENY / SIMO",
-      "baseline": -0.272,
-      "recent": 0.926,
-      "delta": 1.198,
+      "pair": "IXC / SIMO",
+      "baseline": -0.279,
+      "recent": 0.934,
+      "delta": 1.213,
       "n_base": 15,
       "n_recent": 4
     }
   ],
-  "note": "5-day window against a 18-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 18
+  "note": "5-day window against a 19-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 19
 }
