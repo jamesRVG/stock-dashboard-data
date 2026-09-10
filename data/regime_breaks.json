@@ -1,16 +1,16 @@
 {
   "date": "2026-09-10",
-  "refreshed": "2026-09-10 20:00",
+  "refreshed": "2026-09-10 20:19",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs VIX",
       "baseline": 0.119,
-      "recent": -0.92,
-      "delta": -1.039,
+      "recent": -0.919,
+      "delta": -1.038,
       "flip": false,
-      "n_base": 18,
+      "n_base": 17,
       "n_recent": 5
     },
     {
@@ -19,7 +19,7 @@
       "recent": 0.721,
       "delta": 0.807,
       "flip": false,
-      "n_base": 18,
+      "n_base": 17,
       "n_recent": 5
     }
   ],
@@ -27,25 +27,25 @@
     {
       "pair": "TSM / ENFR",
       "baseline": -0.655,
-      "recent": 0.994,
-      "delta": 1.649,
+      "recent": 0.947,
+      "delta": 1.602,
       "n_base": 14,
-      "n_recent": 5
-    },
-    {
-      "pair": "SIMO / EUFN",
-      "baseline": 0.704,
-      "recent": -0.812,
-      "delta": -1.516,
-      "n_base": 13,
       "n_recent": 5
     },
     {
       "pair": "LPG / SIMO",
       "baseline": 0.58,
-      "recent": -0.862,
-      "delta": -1.442,
+      "recent": -0.932,
+      "delta": -1.512,
       "n_base": 15,
+      "n_recent": 5
+    },
+    {
+      "pair": "SIMO / EUFN",
+      "baseline": 0.704,
+      "recent": -0.724,
+      "delta": -1.428,
+      "n_base": 13,
       "n_recent": 5
     },
     {
@@ -59,9 +59,17 @@
     {
       "pair": "ENFR / SIMO",
       "baseline": -0.464,
-      "recent": 0.875,
-      "delta": 1.339,
+      "recent": 0.865,
+      "delta": 1.329,
       "n_base": 12,
+      "n_recent": 5
+    },
+    {
+      "pair": "INCY / ASND",
+      "baseline": 0.687,
+      "recent": -0.629,
+      "delta": -1.316,
+      "n_base": 15,
       "n_recent": 5
     },
     {
@@ -75,8 +83,8 @@
     {
       "pair": "XLE / SIMO",
       "baseline": -0.335,
-      "recent": 0.942,
-      "delta": 1.277,
+      "recent": 0.946,
+      "delta": 1.281,
       "n_base": 15,
       "n_recent": 5
     },
@@ -89,18 +97,10 @@
       "n_recent": 3
     },
     {
-      "pair": "INCY / ASND",
-      "baseline": 0.687,
-      "recent": -0.561,
-      "delta": -1.248,
-      "n_base": 15,
-      "n_recent": 5
-    },
-    {
       "pair": "IXC / SIMO",
       "baseline": -0.279,
-      "recent": 0.949,
-      "delta": 1.228,
+      "recent": 0.956,
+      "delta": 1.235,
       "n_base": 15,
       "n_recent": 5
     },
@@ -121,6 +121,6 @@
       "n_recent": 3
     }
   ],
-  "note": "5-day window against a 18-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 18
+  "note": "5-day window against a 17-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 17
 }
