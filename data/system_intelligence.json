@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T21:46:32.174307",
+  "generated_at": "2026-09-10T23:16:07.723081",
   "history_snapshots": 53,
   "signal_accuracy": {
     "1d": {
@@ -480,12 +480,8 @@
   ],
   "claude_synthesis": {
     "strategic_insights": [
-      "Critical timeframe mismatch: 5-day 'Buy' signals are net-negative (-0.96% avg return, 36.9% win rate) while 20-day 'Buy' signals are strongly positive (+4.08% avg return, 58.7% win rate). The scoring model appears miscalibrated for short-term execution\u2014either tighten 5-day entry criteria or reweight toward 20-day signals for institutional-sized positions.",
-      "Strong Buy signals show consistent edge but narrow magnitude: 65.6% win rate over 5d (+1.2% avg) vs 67.4% over 20d (+4.16% avg). The model correctly identifies direction but undershoots magnitude prediction. Consider amplifying position sizing on 20-day Strong Buy signals where the return multiple is 3.5x larger.",
-      "Sector rotation signal emerging: Commodities dominate 5-day performance (78.6% win rate, +2.11% return) while Precious Metals lead 20-day (+14.3%), but Core holdings severely underperform both timeframes (45.1% win rate, +0.1% return at 5d). Core may be a portfolio drag\u2014audit composition or shift allocation weight toward rotation-sensitive sectors.",
-      "Hold category is a hidden performer: 65.2% win rate with +6.08% average return over 20 days\u2014nearly matches Strong Buy but with lower signal noise (n=158 vs n=484). Investigate whether Hold signals represent consolidation patterns the model undercounts; this could be a reliable medium-conviction tier.",
-      "International and Health sectors show persistent weakness across both timeframes (Intl: 50% win rate/-0.1% return; Health: negative in both 5d and 20d rankings). Either fundamentals are deteriorating in these segments or the scoring model has stale feature weights\u2014recommend immediate sector-specific bias audit or feature refresh."
+      "Claude synthesis unavailable: Unterminated string starting at: line 8 column 5 (char 1754)"
     ],
-    "model_health": "good"
+    "model_health": "unknown"
   }
 }
