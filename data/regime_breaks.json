@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "refreshed": "2026-09-10 21:24",
+  "refreshed": "2026-09-10 21:46",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -18,25 +18,33 @@
     {
       "pair": "TSM / ENFR",
       "baseline": -0.655,
-      "recent": 0.969,
-      "delta": 1.624,
+      "recent": 0.972,
+      "delta": 1.627,
       "n_base": 14,
       "n_recent": 5
     },
     {
       "pair": "LPG / SIMO",
       "baseline": 0.58,
-      "recent": -0.915,
-      "delta": -1.495,
+      "recent": -0.922,
+      "delta": -1.502,
       "n_base": 15,
       "n_recent": 5
     },
     {
       "pair": "INCY / ASND",
       "baseline": 0.687,
-      "recent": -0.726,
-      "delta": -1.413,
+      "recent": -0.715,
+      "delta": -1.402,
       "n_base": 15,
+      "n_recent": 5
+    },
+    {
+      "pair": "ENFR / SIMO",
+      "baseline": -0.464,
+      "recent": 0.919,
+      "delta": 1.383,
+      "n_base": 12,
       "n_recent": 5
     },
     {
@@ -48,11 +56,11 @@
       "n_recent": 3
     },
     {
-      "pair": "ENFR / SIMO",
-      "baseline": -0.464,
-      "recent": 0.916,
-      "delta": 1.38,
-      "n_base": 12,
+      "pair": "XLE / SIMO",
+      "baseline": -0.335,
+      "recent": 0.956,
+      "delta": 1.291,
+      "n_base": 15,
       "n_recent": 5
     },
     {
@@ -64,30 +72,6 @@
       "n_recent": 3
     },
     {
-      "pair": "XLE / SIMO",
-      "baseline": -0.335,
-      "recent": 0.953,
-      "delta": 1.288,
-      "n_base": 15,
-      "n_recent": 5
-    },
-    {
-      "pair": "SIMO / EUFN",
-      "baseline": 0.704,
-      "recent": -0.572,
-      "delta": -1.276,
-      "n_base": 13,
-      "n_recent": 5
-    },
-    {
-      "pair": "ENFR / ARKG",
-      "baseline": -0.601,
-      "recent": 0.668,
-      "delta": 1.269,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
       "pair": "SNDK / KRYS",
       "baseline": -0.267,
       "recent": 1.0,
@@ -96,10 +80,18 @@
       "n_recent": 3
     },
     {
+      "pair": "SIMO / EUFN",
+      "baseline": 0.704,
+      "recent": -0.554,
+      "delta": -1.258,
+      "n_base": 13,
+      "n_recent": 5
+    },
+    {
       "pair": "IXC / SIMO",
       "baseline": -0.279,
-      "recent": 0.939,
-      "delta": 1.218,
+      "recent": 0.942,
+      "delta": 1.221,
       "n_base": 15,
       "n_recent": 5
     },
@@ -109,6 +101,14 @@
       "recent": 1.0,
       "delta": 1.209,
       "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "FENY / KRYS",
+      "baseline": 0.202,
+      "recent": -1.0,
+      "delta": -1.202,
+      "n_base": 21,
       "n_recent": 3
     }
   ],
