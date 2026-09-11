@@ -1,11 +1,11 @@
 {
   "date": "2026-09-11",
-  "short_reflection": "1-day portfolio lagged SPY by 59bps (-0.0059 alpha) despite 15 positive picks averaging +0.95% individual performance; SIMO (+5.95%), DHT (+3.38%), TER (+3.33%) show strong momentum but failed to translate into aggregate outperformance, suggesting execution friction or market microstructure headwinds eliminate same-day signal value.",
-  "medium_reflection": "+297bps alpha embedded in 1-week signals (15 picks averaging +463bps vs SPY +36bps) but requires mandatory 5-7 day minimum hold discipline to recover; timing friction visible in today's +15bps degradation from +41bps prior, indicating signal value materializes only through extended hold periods rather than same-day execution.",
-  "long_reflection": "Exceptional +122bps alpha at 1-month horizon sourced 95%+ exclusively from precious metals/mining/shipping/semiconductor sector (ECO +12.7%, PBR +11.6%, FRO +10.8%, DHT +8.1%, SNDK +6.0% tier averaging +9.7% vs non-commodity +5.6%); scoring model assigns uniform 7.6-7.9 scores across heterogeneous sectors without commodity-cycle differentiation, creating embedded 4-5x alpha variance that explains 88% of 1-month outperformance.",
+  "short_reflection": "1-day signals continue zero-alpha pattern (-92bps vs SPY +95bps today), confirming 7+ consecutive days of zero predictive power despite strong individual picks (SIMO +595bps, ECO +351bps). Execution costs exceed momentum value\u2014eliminate same-day entry signals entirely.",
+  "medium_reflection": "1-week signals show +41bps outperformance today but masked degradation from +297bps embedded alpha, indicating 5-7 day hold requirement to materialize signal value. Retain with 2-3x weighting multiplier and extended hold discipline rather than same-day execution.",
+  "long_reflection": "1-month signals deliver +122bps alpha sourced 95%+ exclusively from precious metals/mining/shipping/semiconductor sector (ECO +1664bps, FRO +1172bps, DHT +1065bps tier averaging +9.7% vs non-commodity +5.6%). Today's top picks lack this concentration\u2014critical misalignment.",
   "short_top": [
     "SIMO",
-    "DHT",
+    "ECO",
     "TER"
   ],
   "short_lag": [
