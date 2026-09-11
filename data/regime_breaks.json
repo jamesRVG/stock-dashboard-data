@@ -1,16 +1,16 @@
 {
-  "date": "2026-09-10",
-  "refreshed": "2026-09-10 23:15",
+  "date": "2026-09-11",
+  "refreshed": "2026-09-11 16:52",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "S&P vs VIX",
-      "baseline": 0.093,
-      "recent": -0.919,
-      "delta": -1.012,
+      "pair": "Oil vs S&P",
+      "baseline": 0.026,
+      "recent": -0.635,
+      "delta": -0.661,
       "flip": false,
-      "n_base": 16,
+      "n_base": 17,
       "n_recent": 5
     }
   ],
@@ -40,7 +40,7 @@
       "n_recent": 5
     },
     {
-      "pair": "ENFR / SIMO",
+      "pair": "SIMO / ENFR",
       "baseline": -0.464,
       "recent": 0.919,
       "delta": 1.383,
@@ -80,7 +80,7 @@
       "n_recent": 3
     },
     {
-      "pair": "SIMO / EUFN",
+      "pair": "EUFN / SIMO",
       "baseline": 0.704,
       "recent": -0.554,
       "delta": -1.258,
@@ -112,6 +112,6 @@
       "n_recent": 3
     }
   ],
-  "note": "5-day window against a 16-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 16
+  "note": "5-day window against a 17-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 17
 }
