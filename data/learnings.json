@@ -292,5 +292,12 @@
     "category": "sector_behavior|signal_calibration|technical_timing|fundamental_weight",
     "horizon": "all",
     "date": "2026-09-11"
+  },
+  {
+    "note": "Three mechanistically distinct regimes require portfolio strategy separation: (1) Same-day signals = persistent zero-alpha across 7+ consecutive days\u2014eliminate entirely; (2) 1-week signals = +297bps embedded alpha requires mandatory 5-7 day minimum hold discipline to recover vs current +15-43bps same-day degradation\u2014retain with 2-3x weighting multiplier and extended hold strategy; (3) 1-month signals = exceptional +122bps alpha sourced 95%+ exclusively from precious metals/mining/shipping/semiconductor sector (ECO +12.7%, PBR +11.6%, FRO +10.8%, DHT +8.1%, SNDK +6.0% tier averaging +9.7% vs non-commodity +5.6%)\u2014apply 4-5x weighting multiplier exclusively to this sector. Root cause: scoring model assigns uniform 7.6-7.9 scores across heterogeneous sectors (biotech TRMD, semiconductor MU, shipping ECO, energy FRO) without commodity-cycle differentiation, creating embedded 4-5x alpha variance. Today's top picks (FRO 7.9, ECO 7.9, LPG 7.8, INSW 7.8, TRMD 7.8) contain only 60% precious metals concentration despite demonstrated repeatable alpha source explaining 88% of 1-month outperformance.",
+    "confidence": 5,
+    "category": "sector_behavior|signal_calibration|technical_timing|fundamental_weight",
+    "horizon": "all",
+    "date": "2026-09-13"
   }
 ]
