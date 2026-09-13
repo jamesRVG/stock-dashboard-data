@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "refreshed": "2026-09-13 13:05",
+  "refreshed": "2026-09-13 17:29",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -35,9 +35,9 @@
   "ticker_pairs": [
     {
       "pair": "INCY / ASND",
-      "baseline": 0.687,
+      "baseline": 0.683,
       "recent": -0.81,
-      "delta": -1.497,
+      "delta": -1.493,
       "n_base": 16,
       "n_recent": 5
     },
@@ -46,47 +46,71 @@
       "baseline": -0.654,
       "recent": 0.827,
       "delta": 1.481,
-      "n_base": 15,
+      "n_base": 16,
       "n_recent": 5
     },
     {
-      "pair": "TSM / MLPX",
-      "baseline": -0.206,
-      "recent": 0.925,
-      "delta": 1.131,
-      "n_base": 12,
+      "pair": "INSW / SIMO",
+      "baseline": -0.588,
+      "recent": 0.732,
+      "delta": 1.32,
+      "n_base": 10,
       "n_recent": 5
+    },
+    {
+      "pair": "INSW / FRO",
+      "baseline": 0.853,
+      "recent": -0.409,
+      "delta": -1.262,
+      "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "FRO / ARKG",
+      "baseline": 0.194,
+      "recent": -0.939,
+      "delta": -1.133,
+      "n_base": 18,
+      "n_recent": 3
     },
     {
       "pair": "FCG / FBT",
-      "baseline": 0.185,
+      "baseline": 0.186,
       "recent": -0.944,
-      "delta": -1.129,
-      "n_base": 22,
+      "delta": -1.13,
+      "n_base": 23,
       "n_recent": 3
+    },
+    {
+      "pair": "TSM / MLPX",
+      "baseline": -0.203,
+      "recent": 0.925,
+      "delta": 1.128,
+      "n_base": 13,
+      "n_recent": 5
+    },
+    {
+      "pair": "INSW / TGTX",
+      "baseline": 0.168,
+      "recent": -0.949,
+      "delta": -1.117,
+      "n_base": 18,
+      "n_recent": 5
     },
     {
       "pair": "XOP / FBT",
-      "baseline": 0.111,
+      "baseline": 0.113,
       "recent": -1.0,
-      "delta": -1.111,
-      "n_base": 22,
+      "delta": -1.113,
+      "n_base": 23,
       "n_recent": 3
-    },
-    {
-      "pair": "XLE / SIMO",
-      "baseline": -0.326,
-      "recent": 0.768,
-      "delta": 1.094,
-      "n_base": 16,
-      "n_recent": 5
     },
     {
       "pair": "SIMO / ENFR",
       "baseline": -0.464,
       "recent": 0.625,
       "delta": 1.089,
-      "n_base": 13,
+      "n_base": 14,
       "n_recent": 5
     },
     {
@@ -94,40 +118,16 @@
       "baseline": 0.715,
       "recent": -0.373,
       "delta": -1.088,
-      "n_base": 22,
+      "n_base": 23,
       "n_recent": 3
     },
     {
-      "pair": "EUFN / CDNA",
-      "baseline": -0.093,
-      "recent": 0.98,
-      "delta": 1.073,
+      "pair": "LPG / SNDK",
+      "baseline": 0.526,
+      "recent": -0.56,
+      "delta": -1.086,
       "n_base": 21,
-      "n_recent": 3
-    },
-    {
-      "pair": "MU / FBT",
-      "baseline": -0.066,
-      "recent": 0.999,
-      "delta": 1.065,
-      "n_base": 22,
-      "n_recent": 3
-    },
-    {
-      "pair": "FENY / FBT",
-      "baseline": 0.077,
-      "recent": -0.976,
-      "delta": -1.053,
-      "n_base": 22,
-      "n_recent": 3
-    },
-    {
-      "pair": "TSM / CDNA",
-      "baseline": 0.382,
-      "recent": -0.667,
-      "delta": -1.049,
-      "n_base": 18,
-      "n_recent": 3
+      "n_recent": 5
     }
   ],
   "note": "5-day window against a 17-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",

@@ -1,0 +1,155 @@
+{
+  "healthy": false,
+  "likely_broken": [
+    {
+      "field": "business_summary",
+      "why": "0% coverage across 322 instruments. Source is yfinance (last resort), which may have stopped returning this field or the pipeline never successfully populated it. No fallback to Finnhub (which doesn't offer it on free tier anyway). Complete absence suggests fetcher failure rather than legitimate sparsity.",
+      "confidence": 5
+    },
+    {
+      "field": "earn_eps_actual",
+      "why": "1.9% coverage (6 of ~322 instruments). Finnhub is the only source listed, but Finnhub free tier has no ETF fundamentals and this field should be available for equities. Coverage this low indicates either Finnhub API changed, authentication issue, or the field was never wired correctly.",
+      "confidence": 4
+    },
+    {
+      "field": "earn_eps_estimate",
+      "why": "1.9% coverage, same source as earn_eps_actual (Finnhub). Should be widely available for equities. Suspiciously identical to earn_eps_actual coverage suggests a common upstream failure.",
+      "confidence": 4
+    },
+    {
+      "field": "earn_surprise_pct",
+      "why": "1.9% coverage despite being explicitly listed as a Finnhub field in sources. Same rate as earn_eps_* fields. Suggests Finnhub earnings data ingestion is broken or severely rate-limited.",
+      "confidence": 4
+    },
+    {
+      "field": "target_price",
+      "why": "Not listed in fields_under_50pct, but yfinance is the sole source and is noted as 'last resort.' If coverage were adequate it would appear in fields_full. Likely missing because yfinance target_price availability has degraded or requires paid tier.",
+      "confidence": 3
+    }
+  ],
+  "legitimately_sparse": [
+    "alt_note",
+    "alt_ticker",
+    "insider_pct",
+    "inst_pct",
+    "short_pct",
+    "fee_pct",
+    "sell_sig",
+    "sell_urg",
+    "sell_why",
+    "bbDes"
+  ],
+  "unused_or_redundant": [
+    {
+      "field": "GoldAPI (metered, capped at 20/month each)",
+      "why": "Precious metals spot already has a four-provider fallback chain (TradingView \u2192 gold-api.com \u2192 Swissquote \u2192 GoldAPI \u2192 yfinance). At 20 calls/month cap, GoldAPI is a weak last-but-one link. Given that Swissquote is keyless and available, GoldAPI adds little value and burns metered quota. Consider removing or merging with the Swissquote path."
+    }
+  ],
+  "recommendations": [
+    {
+      "change": "Urgently audit Finnhub earnings data pipeline: verify API key, confirm endpoint is still returning earn_eps_actual, earn_eps_estimate, and earn_surprise_pct for equities. 1.9% coverage suggests authentication or schema failure, not legitimate sparsity.",
+      "why": "Three earnings fields are at identical minimal coverage, indicating a systematic upstream problem rather than instrument type filtering.",
+      "effort": "low"
+    },
+    {
+      "change": "Restore or implement business_summary via an alternative source (e.g., Yahoo Finance fallback, or a free news API). 0% coverage is not acceptable for a stock scanner.",
+      "why": "business_summary is foundational context and is completely absent. If yfinance stopped returning it, establish a fallback immediately.",
+      "effort": "medium"
+    },
+    {
+      "change": "Verify yfinance target_price is still available and not behind a paywall. If unavailable, remove from sources or note it as deprecated.",
+      "why": "target_price is listed but not in fields_full, and yfinance is already a last-resort tier. If it is working, it should show higher coverage; if it isn't, it should be removed.",
+      "effort": "low"
+    },
+    {
+      "change": "Simplify precious metals spot chain: remove GoldAPI as intermediate tier. Keep TradingView (batched) \u2192 gold-api.com (keyless) \u2192 Swissquote (keyless). Use GoldAPI only as a true final fallback if both free sources fail on the same day.",
+      "why": "Four-provider chain is defensive, but GoldAPI at 20/month is too constrained to be useful as a routine fallback. Two keyless free APIs plus TradingView batching should cover metals without metered overhead.",
+      "effort": "low"
+    },
+    {
+      "change": "Confirm Finnhub free tier is not rate-limiting or silently failing on ETF/fund records. Add instrumentation to log Finnhub response codes and payload sizes per call.",
+      "why": "Finnhub's documented constraint (no ETF fundamentals) explains sparsity for derivatives, but should not cause 1.9% coverage on earn_* fields for equities.",
+      "effort": "medium"
+    },
+    {
+      "change": "Document which instrument types (stocks, ETFs, funds, ADRs, etc.) are expected to have sparse coverage for fundamentals, and exclude them from coverage % reporting for fields like pe, fwd_pe, roe, de, etc. Recalculate fields_under_50pct after filtering.",
+      "why": "ETFs legitimately lack P/E, ROE, earnings surprise. Current reporting conflates broken fetchers with expected sparsity. Coverage % will improve and highlight real issues.",
+      "effort": "medium"
+    }
+  ],
+  "date": "2026-09-13",
+  "coverage": {
+    "alt_note": 0.112,
+    "alt_ticker": 0.112,
+    "analyst_consensus": 0.609,
+    "analyst_count": 0.609,
+    "atr": 1.0,
+    "beta": 1.0,
+    "business_summary": 0.0,
+    "cat": 1.0,
+    "chg_pct": 1.0,
+    "current_ratio": 0.618,
+    "de": 0.618,
+    "div_y": 0.997,
+    "downturn_resilient": 1.0,
+    "earn_date": 0.609,
+    "earn_days": 0.609,
+    "earn_eps_actual": 0.019,
+    "earn_eps_estimate": 0.019,
+    "earn_gr": 0.578,
+    "earn_surprise_pct": 0.019,
+    "eps": 0.612,
+    "fee_pct": 0.382,
+    "fund": 0.907,
+    "fund_sig": 0.907,
+    "fund_why": 1.0,
+    "fwd_pe": 0.587,
+    "gpa": 0.593,
+    "gross_margin": 0.593,
+    "insider_pct": 0.376,
+    "inst_pct": 0.376,
+    "is_new": 1.0,
+    "lt_horizon": 0.553,
+    "lt_signal": 0.553,
+    "macd": 1.0,
+    "macro": 1.0,
+    "macro_why": 1.0,
+    "margin": 0.612,
+    "mkt_cap": 0.997,
+    "name": 1.0,
+    "pb": 0.693,
+    "pe": 0.882,
+    "peg": 0.509,
+    "pos_52w": 1.0,
+    "price": 1.0,
+    "quick_ratio": 0.599,
+    "ret_30d": 1.0,
+    "ret_7d": 1.0,
+    "ret_90d": 1.0,
+    "rev_gr": 0.612,
+    "roe": 0.612,
+    "rs_spy": 1.0,
+    "rsi": 1.0,
+    "sector": 1.0,
+    "sell_sig": 0.348,
+    "sell_urg": 0.348,
+    "sell_why": 0.348,
+    "short_pct": 0.469,
+    "signal": 1.0,
+    "spark7": 0.997,
+    "target_price": 0.581,
+    "tech": 1.0,
+    "tech_sig": 1.0,
+    "tech_why": 1.0,
+    "ticker": 1.0,
+    "total": 1.0,
+    "type": 1.0,
+    "upside_pct": 0.581,
+    "vol_ratio": 1.0,
+    "volume": 1.0,
+    "vs200": 0.978,
+    "vs50": 0.997,
+    "watchlist": 1.0,
+    "why": 1.0
+  }
+}
