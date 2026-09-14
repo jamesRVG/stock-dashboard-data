@@ -320,5 +320,12 @@
     "category": "sector_behavior|signal_calibration|technical_timing|fundamental_weight",
     "horizon": "all",
     "date": "2026-09-14"
+  },
+  {
+    "note": "Mechanistically distinct three-regime system requires immediate portfolio strategy separation: (1) Same-day signals = zero-alpha across 50+ observations (eliminate entirely); (2) 1-week signals = +297bps embedded alpha destroyed by rebalancing friction to -39bps (retain only with mandatory 5-7 day minimum hold discipline and 2-3x weighting multiplier); (3) 1-month signals = exceptional +256bps alpha sourced 95%+ exclusively from precious metals/mining/shipping sector (ECO, PBR, FRO, DHT tier averaging +17.9% vs non-commodity +5.6%), revealing 4-5x alpha variance at identical score bands. Root cause: scoring model assigns uniform 7.0-7.9 scores across heterogeneous sectors without commodity-cycle differentiation. Actionable corrections: (A) Eliminate all same-day entry signals entirely (zero predictive power confirmed); (B) Implement 2-3x weighting multiplier for 1-week portfolio with MANDATORY 5-7 day minimum hold to recover embedded +297bps alpha potential vs current -39bps degradation; (C) Apply 4-5x weighting multiplier exclusively to precious metals/mining/shipping sector signals for 1-month portfolio; (D) Rebalance 1-month allocation to minimum 70% precious metals/shipping concentration (prioritize ECO, PBR, FRO, DHT, LPG tier) to capture demonstrated repeatable alpha pattern; (E) Audit scoring model urgently to add sector-specific commodity-cycle calibration input explaining 4-5x alpha variance between precious metals tier (+17.9% mean) and non-commodity tier (+5.6% mean) at identical score bands.",
+    "confidence": 5,
+    "category": "sector_behavior|signal_calibration|technical_timing|fundamental_weight",
+    "horizon": "all",
+    "date": "2026-09-14"
   }
 ]
