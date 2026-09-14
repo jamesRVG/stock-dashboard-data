@@ -1,34 +1,43 @@
 {
-  "date": "2026-09-13",
-  "refreshed": "2026-09-13 17:29",
+  "date": "2026-09-14",
+  "refreshed": "2026-09-14 14:17",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "S&P vs 10Y yield",
-      "baseline": -0.187,
-      "recent": 0.825,
-      "delta": 1.012,
+      "pair": "Oil vs S&P",
+      "baseline": 0.133,
+      "recent": -0.916,
+      "delta": -1.049,
       "flip": false,
-      "n_base": 17,
+      "n_base": 18,
       "n_recent": 5
     },
     {
-      "pair": "Oil vs S&P",
-      "baseline": 0.101,
-      "recent": -0.64,
-      "delta": -0.741,
+      "pair": "S&P vs 10Y yield",
+      "baseline": -0.192,
+      "recent": 0.832,
+      "delta": 1.024,
       "flip": false,
-      "n_base": 17,
+      "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "Copper vs S&P",
+      "baseline": -0.356,
+      "recent": 0.533,
+      "delta": 0.889,
+      "flip": false,
+      "n_base": 18,
       "n_recent": 5
     },
     {
       "pair": "Gold vs Dollar",
-      "baseline": -0.15,
-      "recent": -0.842,
-      "delta": -0.692,
+      "baseline": -0.149,
+      "recent": -0.983,
+      "delta": -0.834,
       "flip": false,
-      "n_base": 17,
+      "n_base": 18,
       "n_recent": 5
     }
   ],
@@ -106,7 +115,7 @@
       "n_recent": 3
     },
     {
-      "pair": "SIMO / ENFR",
+      "pair": "ENFR / SIMO",
       "baseline": -0.464,
       "recent": 0.625,
       "delta": 1.089,
@@ -130,6 +139,6 @@
       "n_recent": 5
     }
   ],
-  "note": "5-day window against a 17-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 17
+  "note": "5-day window against a 18-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 18
 }
