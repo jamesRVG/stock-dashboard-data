@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "refreshed": "2026-09-14 21:06",
+  "refreshed": "2026-09-14 23:53",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -53,13 +53,13 @@
     {
       "pair": "INCY / ASND",
       "baseline": 0.646,
-      "recent": -0.733,
-      "delta": -1.379,
+      "recent": -0.747,
+      "delta": -1.393,
       "n_base": 16,
       "n_recent": 5
     },
     {
-      "pair": "ASND / FBT",
+      "pair": "FBT / ASND",
       "baseline": 0.538,
       "recent": -0.778,
       "delta": -1.316,
@@ -75,12 +75,20 @@
       "n_recent": 3
     },
     {
-      "pair": "LPG / SNDK",
-      "baseline": 0.442,
-      "recent": -0.843,
-      "delta": -1.285,
-      "n_base": 21,
+      "pair": "MU / ENFR",
+      "baseline": -0.446,
+      "recent": 0.798,
+      "delta": 1.244,
+      "n_base": 19,
       "n_recent": 5
+    },
+    {
+      "pair": "TSM / CDNA",
+      "baseline": 0.297,
+      "recent": -0.934,
+      "delta": -1.231,
+      "n_base": 18,
+      "n_recent": 3
     },
     {
       "pair": "SU / CDNA",
@@ -91,28 +99,12 @@
       "n_recent": 3
     },
     {
-      "pair": "TSM / CDNA",
-      "baseline": 0.297,
-      "recent": -0.915,
-      "delta": -1.212,
-      "n_base": 18,
-      "n_recent": 3
-    },
-    {
-      "pair": "FCG / MLPX",
-      "baseline": 0.519,
-      "recent": -0.659,
-      "delta": -1.178,
-      "n_base": 17,
+      "pair": "LPG / INSW",
+      "baseline": 0.84,
+      "recent": -0.375,
+      "delta": -1.215,
+      "n_base": 19,
       "n_recent": 5
-    },
-    {
-      "pair": "FCG / CDNA",
-      "baseline": -0.395,
-      "recent": 0.781,
-      "delta": 1.176,
-      "n_base": 24,
-      "n_recent": 3
     },
     {
       "pair": "SU / FBT",
@@ -125,17 +117,25 @@
     {
       "pair": "ARKG / MU",
       "baseline": 0.154,
-      "recent": -0.997,
-      "delta": -1.151,
+      "recent": -0.999,
+      "delta": -1.153,
       "n_base": 24,
       "n_recent": 3
     },
     {
-      "pair": "FCG / FENY",
-      "baseline": 0.896,
-      "recent": -0.235,
-      "delta": -1.131,
+      "pair": "LPG / INCY",
+      "baseline": 0.266,
+      "recent": -0.877,
+      "delta": -1.143,
       "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "LPG / EXEL",
+      "baseline": 0.255,
+      "recent": -0.881,
+      "delta": -1.136,
+      "n_base": 18,
       "n_recent": 5
     }
   ],
