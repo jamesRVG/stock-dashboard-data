@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "refreshed": "2026-09-16 20:24",
+  "refreshed": "2026-09-16 23:42",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -25,6 +25,14 @@
   ],
   "ticker_pairs": [
     {
+      "pair": "MU / CDNA",
+      "baseline": 0.436,
+      "recent": -0.799,
+      "delta": -1.235,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
       "pair": "CDNA / TSM",
       "baseline": 0.259,
       "recent": -0.938,
@@ -33,75 +41,35 @@
       "n_recent": 3
     },
     {
-      "pair": "MU / CDNA",
-      "baseline": 0.436,
-      "recent": -0.758,
-      "delta": -1.194,
-      "n_base": 22,
+      "pair": "XOP / TGTX",
+      "baseline": 0.303,
+      "recent": -0.84,
+      "delta": -1.143,
+      "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "IXC / ENFR",
-      "baseline": 0.639,
-      "recent": -0.547,
-      "delta": -1.186,
-      "n_base": 21,
-      "n_recent": 5
-    },
-    {
-      "pair": "SU / ENFR",
-      "baseline": 0.558,
-      "recent": -0.62,
-      "delta": -1.178,
-      "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "PBR / ENFR",
-      "baseline": 0.538,
-      "recent": -0.639,
-      "delta": -1.177,
-      "n_base": 15,
-      "n_recent": 5
-    },
-    {
-      "pair": "XLE / ENFR",
-      "baseline": 0.666,
-      "recent": -0.488,
-      "delta": -1.154,
-      "n_base": 21,
+      "pair": "IEO / TGTX",
+      "baseline": 0.259,
+      "recent": -0.865,
+      "delta": -1.124,
+      "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "DHT / MLPX",
       "baseline": -0.553,
-      "recent": 0.591,
-      "delta": 1.144,
+      "recent": 0.568,
+      "delta": 1.121,
       "n_base": 19,
       "n_recent": 5
     },
     {
-      "pair": "PBR-A / ENFR",
-      "baseline": 0.511,
-      "recent": -0.633,
-      "delta": -1.144,
-      "n_base": 15,
-      "n_recent": 5
-    },
-    {
-      "pair": "FCG / ENFR",
-      "baseline": 0.46,
-      "recent": -0.674,
-      "delta": -1.134,
-      "n_base": 21,
-      "n_recent": 5
-    },
-    {
-      "pair": "IEO / ENFR",
-      "baseline": 0.523,
-      "recent": -0.588,
-      "delta": -1.111,
-      "n_base": 21,
+      "pair": "FCG / TGTX",
+      "baseline": 0.207,
+      "recent": -0.887,
+      "delta": -1.094,
+      "n_base": 24,
       "n_recent": 5
     },
     {
@@ -113,11 +81,43 @@
       "n_recent": 3
     },
     {
-      "pair": "FENY / ENFR",
-      "baseline": 0.631,
-      "recent": -0.454,
-      "delta": -1.085,
-      "n_base": 21,
+      "pair": "PBR / MLPX",
+      "baseline": 0.535,
+      "recent": -0.534,
+      "delta": -1.069,
+      "n_base": 15,
+      "n_recent": 5
+    },
+    {
+      "pair": "FENY / TSM",
+      "baseline": -0.062,
+      "recent": 0.998,
+      "delta": 1.06,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "XLE / TGTX",
+      "baseline": 0.188,
+      "recent": -0.87,
+      "delta": -1.058,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "TSM / EUFN",
+      "baseline": -0.103,
+      "recent": 0.939,
+      "delta": 1.042,
+      "n_base": 15,
+      "n_recent": 3
+    },
+    {
+      "pair": "INSW / ENFR",
+      "baseline": 0.108,
+      "recent": -0.933,
+      "delta": -1.041,
+      "n_base": 18,
       "n_recent": 5
     }
   ],

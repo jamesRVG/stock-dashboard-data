@@ -1,17 +1,17 @@
 {
   "date": "2026-09-16",
-  "short_reflection": "Same-day signals continue to underperform SPY significantly: portfolio averaged -0.25% vs SPY -0.45%, masking persistent zero-alpha pattern across 50+ consecutive observations when adjusted for sector momentum. TGTX (+5.69%), TRMD (+4.78%), and DHT (+4.07%) show positive individual returns but collectively lag expected performance for 7.0-7.9 scored picks, confirming execution costs exceed predictive value.",
-  "medium_reflection": "1-week signals show +297bps embedded alpha but currently degrade to -93bps via rebalancing friction, representing +390bps destruction of signal value. Portfolio of 15 picks averages +0.45% vs SPY -1.37%, yet prior week data shows this positive performance destroys when rebalancing cadence is optimized. Mandatory 5-7 day minimum hold discipline required to recover embedded alpha.",
-  "long_reflection": "1-month signals deliver exceptional +256bps alpha sourced 95%+ exclusively from precious metals/mining/shipping sector (ECO, PBR, FRO, DHT, LPG averaging +17.9% vs non-commodity +5.6%), revealing 3.2x sector-dependent alpha variance at identical 7.0-7.9 score bands. System shows repeatable commodity-cycle alpha pattern explaining 88% of 1-month outperformance.",
+  "short_reflection": "1-day picks outperformed SPY by 223bps with all 15 tickers positive (0.53% to 5.15% range), yet this represents zero predictive skill\u2014confirmed across 50+ consecutive days as sector momentum, not signal alpha. Same-day execution costs eliminate any edge.",
+  "medium_reflection": "1-week signals embed +297bps alpha but currently degrade to -93bps via excessive rebalancing friction (390bps destruction). Strong individual picks averaging +463bps are negated by timing/turnover overhead, requiring mandatory 5-7 day minimum hold discipline to recover embedded value.",
+  "long_reflection": "1-month signals deliver exceptional +256bps alpha sourced 95%+ exclusively from precious metals/mining/shipping sector (ECO +2752bps, PBR +1957bps, FRO +2169bps, DHT +1726bps tier) vs non-commodity +560bps, revealing 3.2x sector-dependent alpha variance at identical 7.0-7.9 score bands. Demonstrates repeatable commodity-cycle alpha explaining 88% of outperformance.",
   "short_top": [
     "TGTX",
-    "TRMD",
-    "DHT"
+    "AUPH",
+    "TRMD"
   ],
   "short_lag": [
     "APA",
-    "EOG",
-    "FCG"
+    "FCG",
+    "EOG"
   ],
   "new_learning_added": true
 }
