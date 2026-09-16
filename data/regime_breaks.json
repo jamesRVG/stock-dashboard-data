@@ -1,38 +1,45 @@
 {
-  "date": "2026-09-15",
-  "refreshed": "2026-09-15 23:40",
+  "date": "2026-09-16",
+  "refreshed": "2026-09-16 14:16",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs 10Y yield",
-      "baseline": -0.201,
-      "recent": 0.836,
-      "delta": 1.037,
-      "flip": false,
+      "baseline": -0.487,
+      "recent": 0.73,
+      "delta": 1.217,
+      "flip": true,
       "n_base": 18,
       "n_recent": 5
     },
     {
-      "pair": "Copper vs S&P",
-      "baseline": -0.36,
-      "recent": 0.504,
-      "delta": 0.864,
-      "flip": false,
-      "n_base": 18,
-      "n_recent": 5
-    },
-    {
-      "pair": "Oil vs S&P",
-      "baseline": 0.047,
-      "recent": -0.692,
-      "delta": -0.739,
+      "pair": "Copper vs Gold",
+      "baseline": 0.328,
+      "recent": 0.991,
+      "delta": 0.663,
       "flip": false,
       "n_base": 18,
       "n_recent": 5
     }
   ],
   "ticker_pairs": [
+    {
+      "pair": "MU / CDNA",
+      "baseline": 0.326,
+      "recent": -0.986,
+      "delta": -1.312,
+      "n_base": 23,
+      "n_recent": 4
+    },
+    {
+      "pair": "CDNA / TSM",
+      "baseline": 0.294,
+      "recent": -0.938,
+      "delta": -1.232,
+      "n_base": 17,
+      "n_recent": 3
+    },
     {
       "pair": "MU / ENFR",
       "baseline": -0.453,
@@ -42,52 +49,68 @@
       "n_recent": 5
     },
     {
-      "pair": "MU / CDNA",
-      "baseline": 0.326,
-      "recent": -0.88,
-      "delta": -1.206,
-      "n_base": 23,
-      "n_recent": 4
-    },
-    {
-      "pair": "ENFR / SNDK",
-      "baseline": -0.256,
-      "recent": 0.779,
-      "delta": 1.035,
-      "n_base": 20,
-      "n_recent": 5
-    },
-    {
-      "pair": "FBT / MU",
-      "baseline": 0.042,
-      "recent": -0.984,
-      "delta": -1.026,
-      "n_base": 23,
-      "n_recent": 4
-    },
-    {
-      "pair": "MU / MLPX",
-      "baseline": -0.025,
-      "recent": 0.988,
-      "delta": 1.013,
+      "pair": "XLE / TSM",
+      "baseline": -0.191,
+      "recent": 0.993,
+      "delta": 1.184,
       "n_base": 18,
-      "n_recent": 5
+      "n_recent": 4
+    },
+    {
+      "pair": "FENY / TSM",
+      "baseline": -0.155,
+      "recent": 0.996,
+      "delta": 1.151,
+      "n_base": 18,
+      "n_recent": 4
+    },
+    {
+      "pair": "TSM / EUFN",
+      "baseline": -0.171,
+      "recent": 0.929,
+      "delta": 1.1,
+      "n_base": 15,
+      "n_recent": 4
+    },
+    {
+      "pair": "IXC / TSM",
+      "baseline": -0.06,
+      "recent": 0.976,
+      "delta": 1.036,
+      "n_base": 18,
+      "n_recent": 4
     },
     {
       "pair": "ARKG / EUFN",
       "baseline": 0.053,
-      "recent": -0.953,
-      "delta": -1.006,
+      "recent": -0.965,
+      "delta": -1.018,
       "n_base": 21,
       "n_recent": 3
     },
     {
-      "pair": "ECO / SNDK",
-      "baseline": 0.364,
-      "recent": -0.633,
-      "delta": -0.997,
+      "pair": "ENFR / TSM",
+      "baseline": -0.429,
+      "recent": 0.588,
+      "delta": 1.017,
       "n_base": 17,
-      "n_recent": 5
+      "n_recent": 4
+    },
+    {
+      "pair": "LPG / FBT",
+      "baseline": 0.321,
+      "recent": -0.687,
+      "delta": -1.008,
+      "n_base": 23,
+      "n_recent": 4
+    },
+    {
+      "pair": "MU / FBT",
+      "baseline": 0.042,
+      "recent": -0.963,
+      "delta": -1.005,
+      "n_base": 23,
+      "n_recent": 4
     },
     {
       "pair": "FRO / ENFR",
@@ -95,38 +118,6 @@
       "recent": -0.918,
       "delta": -0.972,
       "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "FRO / CDNA",
-      "baseline": -0.1,
-      "recent": 0.824,
-      "delta": 0.924,
-      "n_base": 19,
-      "n_recent": 4
-    },
-    {
-      "pair": "LPG / XOP",
-      "baseline": -0.056,
-      "recent": 0.846,
-      "delta": 0.902,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "DHT / EUFN",
-      "baseline": -0.131,
-      "recent": 0.764,
-      "delta": 0.895,
-      "n_base": 21,
-      "n_recent": 5
-    },
-    {
-      "pair": "LPG / IEO",
-      "baseline": -0.064,
-      "recent": 0.819,
-      "delta": 0.883,
-      "n_base": 24,
       "n_recent": 5
     }
   ],
