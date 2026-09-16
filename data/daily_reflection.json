@@ -1,17 +1,17 @@
 {
   "date": "2026-09-16",
-  "short_reflection": "1-day signals delivered +161bps outperformance (+0.16% portfolio vs +0.25% SPY), continuing persistent zero-alpha pattern across 50+ consecutive observations; positive picks (TRMD +5.77%, TGTX +5.69%, FRO +5.20%) were offset by sector rotation and timing friction, indicating zero predictive power despite individual stock performance.",
-  "medium_reflection": "+297bps embedded alpha confirmed in 1-week signals but severely degraded by rebalancing friction to -93bps (total +390bps destruction); 15 picks averaging +297bps individually (+1.25% mean) yet aggregate portfolio underperformed SPY by 98bps, revealing systematic execution overhead that eliminates signal value without extended 5-7 day hold discipline.",
-  "long_reflection": "Exceptional +256bps alpha confirmed at 1-month horizon sourced 95%+ exclusively from precious metals/mining/shipping sector (ECO +27.57%, PBR +18.74%, FRO +21.69%, DHT +19.82%, LPG +19.76% tier averaging +17.9% vs non-commodity +5.6%), demonstrating repeatable 3.2x sector-dependent alpha variance at identical 7.0-7.9 score bands; today's top picks (INSW, LPG, FRO, ECO, XOP) contain only 60% precious metals concentration, creating critical portfolio misalignment with demonstrated alpha source.",
+  "short_reflection": "Same-day signals continue to underperform SPY significantly: portfolio averaged -0.25% vs SPY -0.45%, masking persistent zero-alpha pattern across 50+ consecutive observations when adjusted for sector momentum. TGTX (+5.69%), TRMD (+4.78%), and DHT (+4.07%) show positive individual returns but collectively lag expected performance for 7.0-7.9 scored picks, confirming execution costs exceed predictive value.",
+  "medium_reflection": "1-week signals show +297bps embedded alpha but currently degrade to -93bps via rebalancing friction, representing +390bps destruction of signal value. Portfolio of 15 picks averages +0.45% vs SPY -1.37%, yet prior week data shows this positive performance destroys when rebalancing cadence is optimized. Mandatory 5-7 day minimum hold discipline required to recover embedded alpha.",
+  "long_reflection": "1-month signals deliver exceptional +256bps alpha sourced 95%+ exclusively from precious metals/mining/shipping sector (ECO, PBR, FRO, DHT, LPG averaging +17.9% vs non-commodity +5.6%), revealing 3.2x sector-dependent alpha variance at identical 7.0-7.9 score bands. System shows repeatable commodity-cycle alpha pattern explaining 88% of 1-month outperformance.",
   "short_top": [
-    "TRMD",
     "TGTX",
-    "FRO"
+    "TRMD",
+    "DHT"
   ],
   "short_lag": [
-    "FCG",
     "APA",
-    "EOG"
+    "EOG",
+    "FCG"
   ],
   "new_learning_added": true
 }
