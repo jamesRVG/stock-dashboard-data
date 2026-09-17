@@ -1,17 +1,17 @@
 {
   "date": "2026-09-17",
-  "short_reflection": "Same-day picks outperformed SPY by 26bps (+1.37% vs +1.11%), driven by ARKG (+7.66%), CMBT (+5.34%), and MU (+5.29%), but this represents zero predictive skill\u2014confirmed across 50+ consecutive observations as sector momentum rather than signal alpha. Execution costs and timing friction continue to erode embedded value.",
-  "medium_reflection": "1-week portfolio shows +126bps alpha (+1.26% vs -0.28% SPY) with 15 picks averaging strong individual performance (ECO +13.72%, ARKG +13.07%, FRO +11.40%), but embedded +297bps alpha is being systematically destroyed by rebalancing friction to degraded -93bps levels when measured daily. Mandatory 5-7 day minimum hold discipline required to recover embedded signal value.",
-  "long_reflection": "1-month portfolio delivers exceptional +142bps alpha (+1.42% vs -0.99% SPY) sourced 95%+ exclusively from precious metals/mining/shipping sector (ECO +29.52%, FRO +24.06%, LPG +19.38%, DHT +18.08% tier averaging +17.9% vs non-commodity +5.6%), demonstrating repeatable 3.2x sector-dependent alpha variance at identical 7.6-7.9 score bands. Root cause: scoring model assigns uniform scores across heterogeneous sectors without commodity-cycle differentiation.",
+  "short_reflection": "Same-day signals continue to show zero predictive power, with portfolio +1.27% vs SPY +1.14% representing sector momentum rather than signal skill. 1-day recommendations have failed to outperform across 50+ consecutive observations.",
+  "medium_reflection": "1-week signals embed +297bps alpha but currently degrade to -93bps via excessive rebalancing friction, destroying +390bps of embedded value. Mandatory 5-7 day minimum hold discipline required to recover signal alpha.",
+  "long_reflection": "1-month signals deliver exceptional +256bps alpha sourced 95%+ exclusively from precious metals/mining/shipping sector (ECO, PBR, FRO, DHT, LPG tier +17.9% vs non-commodity +5.6%), revealing 3.2x sector-dependent alpha variance at identical score bands.",
   "short_top": [
     "ARKG",
-    "CMBT",
+    "SNDK",
     "MU"
   ],
   "short_lag": [
-    "FCG",
     "CVX",
-    "AUPH"
+    "AUPH",
+    "DHT"
   ],
   "new_learning_added": true
 }
