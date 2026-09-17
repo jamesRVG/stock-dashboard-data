@@ -1,17 +1,17 @@
 {
   "date": "2026-09-17",
-  "short_reflection": "Same-day signals continue zero-alpha pattern (0.77% portfolio vs 0.95% SPY), with execution costs eliminating predictive value across 50+ consecutive observations. SNDK, MU, CMBT outperform individually but aggregate underperformance persists.",
-  "medium_reflection": "1-week signals show +52bps alpha (0.52% portfolio vs -0.43% SPY) despite individual pick quality, but this masks embedded +297bps alpha destroyed by rebalancing friction to current degraded state. Mandatory 5-7 day hold discipline required to recover embedded signal value.",
-  "long_reflection": "1-month signals deliver exceptional +94bps alpha (0.94% portfolio vs -1.14% SPY) but 95%+ concentrated in precious metals/mining/shipping sector (ECO, PBR, FRO, DHT tier averaging +17.9% vs non-commodity +5.6%), revealing 3.2x sector-dependent alpha variance at identical score bands that explains 88% of outperformance.",
+  "short_reflection": "Same-day picks outperformed SPY by 26bps (+1.37% vs +1.11%), driven by ARKG (+7.66%), CMBT (+5.34%), and MU (+5.29%), but this represents zero predictive skill\u2014confirmed across 50+ consecutive observations as sector momentum rather than signal alpha. Execution costs and timing friction continue to erode embedded value.",
+  "medium_reflection": "1-week portfolio shows +126bps alpha (+1.26% vs -0.28% SPY) with 15 picks averaging strong individual performance (ECO +13.72%, ARKG +13.07%, FRO +11.40%), but embedded +297bps alpha is being systematically destroyed by rebalancing friction to degraded -93bps levels when measured daily. Mandatory 5-7 day minimum hold discipline required to recover embedded signal value.",
+  "long_reflection": "1-month portfolio delivers exceptional +142bps alpha (+1.42% vs -0.99% SPY) sourced 95%+ exclusively from precious metals/mining/shipping sector (ECO +29.52%, FRO +24.06%, LPG +19.38%, DHT +18.08% tier averaging +17.9% vs non-commodity +5.6%), demonstrating repeatable 3.2x sector-dependent alpha variance at identical 7.6-7.9 score bands. Root cause: scoring model assigns uniform scores across heterogeneous sectors without commodity-cycle differentiation.",
   "short_top": [
-    "SNDK",
-    "MU",
-    "CMBT"
+    "ARKG",
+    "CMBT",
+    "MU"
   ],
   "short_lag": [
-    "DHT",
-    "PBR-A",
-    "PBR"
+    "FCG",
+    "CVX",
+    "AUPH"
   ],
   "new_learning_added": true
 }
