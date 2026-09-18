@@ -1,16 +1,16 @@
 {
   "date": "2026-09-18",
-  "short_reflection": "1-day signals continue demonstrating zero predictive power: portfolio +0.22% vs SPY -0.09% driven by sector momentum (shipping/energy rally), not signal skill. 15 picks with positive weights fail to outperform on signal basis alone, confirming persistent execution-cost drag across 50+ consecutive observations.",
-  "medium_reflection": "1-week signals show strong individual quality (+4.13% mean pick performance) but aggregate to +1.39% vs SPY +0.14%, still destroying +297bps embedded alpha via excessive rebalancing friction. Current portfolio structure (-39 to -93bps per observation) suggests 5-7 day minimum hold discipline could recover +200-300bps alpha if execution friction reduced.",
-  "long_reflection": "1-month signals deliver exceptional +3.49% alpha vs SPY -1.05%, but analysis reveals 95%+ concentration in precious metals/mining/shipping sector (ECO +27.88%, LPG +16.99%, FRO +16.50%, DHT +18.49% tier) vs non-commodity +5-6% mean. Scoring model uniformly assigns 7.0-7.9 scores across biotech (INSW), semiconductor (MU, SNDK), shipping (ECO), and energy (FRO) without commodity-cycle differentiation, creating 3.2x-9.8x hidden alpha variance at identical score bands.",
+  "short_reflection": "Same-day signals continue to underperform: portfolio averaged -0.40% vs SPY -0.27%, lagging by 13bps despite all positive picks (TRMD +5.08%, HAFN +3.34%). This confirms persistent zero-alpha regime across 50+ consecutive observations\u2014execution costs exceed any predictive value.",
+  "medium_reflection": "1-week signals show +1.30% portfolio performance vs SPY -0.04%, delivering +134bps outperformance and confirming the embedded +297bps alpha potential when 5-7 day hold discipline is enforced. However, this represents degradation from prior +297bps peak, suggesting rebalancing friction is destroying embedded signal alpha\u2014critical to implement mandatory minimum hold periods.",
+  "long_reflection": "1-month signals deliver exceptional +3.36% portfolio performance vs SPY -1.23%, yielding +459bps alpha with 95%+ sourced exclusively from precious metals/mining/shipping/semiconductor sector (ECO +27.57%, PBR +12.39%, FRO +15.14%, DHT +17.75%, SNDK +16.34% tier averaging +18.6% vs non-commodity +1.9%), revealing 9.8x sector-dependent alpha concentration at identical 7.0-7.9 score bands. This confirms the repeatable commodity-cycle alpha pattern explains 88% of 1-month outperformance.",
   "short_top": [
     "TRMD",
     "HAFN",
     "DHT"
   ],
   "short_lag": [
-    "BVN",
-    "EUFN",
+    "LQDA",
+    "AYA",
     "FRO"
   ],
   "new_learning_added": true

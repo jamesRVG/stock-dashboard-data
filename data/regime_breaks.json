@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "refreshed": "2026-09-18 14:17",
+  "refreshed": "2026-09-18 16:48",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -16,8 +16,8 @@
     {
       "pair": "Copper vs S&P",
       "baseline": -0.085,
-      "recent": 0.549,
-      "delta": 0.634,
+      "recent": 0.541,
+      "delta": 0.626,
       "flip": false,
       "n_base": 19,
       "n_recent": 5
@@ -25,100 +25,100 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "ECO / XBI",
-      "baseline": 0.385,
-      "recent": -0.971,
-      "delta": -1.356,
-      "n_base": 19,
+      "pair": "INSW / SNDK",
+      "baseline": 0.387,
+      "recent": -0.943,
+      "delta": -1.33,
+      "n_base": 20,
       "n_recent": 3
     },
     {
       "pair": "TSM / ENFR",
       "baseline": -0.332,
-      "recent": 0.991,
-      "delta": 1.323,
+      "recent": 0.959,
+      "delta": 1.291,
       "n_base": 18,
       "n_recent": 3
     },
     {
       "pair": "TSM / EXEL",
       "baseline": -0.475,
-      "recent": 0.816,
-      "delta": 1.291,
-      "n_base": 15,
+      "recent": 0.779,
+      "delta": 1.254,
+      "n_base": 16,
       "n_recent": 3
     },
     {
-      "pair": "LPG / XBI",
-      "baseline": 0.253,
-      "recent": -0.998,
-      "delta": -1.251,
-      "n_base": 21,
+      "pair": "SNDK / CDNA",
+      "baseline": 0.334,
+      "recent": -0.892,
+      "delta": -1.226,
+      "n_base": 19,
       "n_recent": 3
     },
     {
       "pair": "PBR / TGTX",
-      "baseline": 0.275,
-      "recent": -0.965,
-      "delta": -1.24,
-      "n_base": 19,
-      "n_recent": 5
-    },
-    {
-      "pair": "EUFN / ENFR",
-      "baseline": -0.264,
-      "recent": 0.961,
-      "delta": 1.225,
-      "n_base": 18,
-      "n_recent": 5
-    },
-    {
-      "pair": "PBR-A / TGTX",
-      "baseline": 0.259,
-      "recent": -0.96,
-      "delta": -1.219,
-      "n_base": 19,
-      "n_recent": 5
-    },
-    {
-      "pair": "XOP / TGTX",
-      "baseline": 0.3,
-      "recent": -0.912,
-      "delta": -1.212,
-      "n_base": 24,
+      "baseline": 0.276,
+      "recent": -0.931,
+      "delta": -1.207,
+      "n_base": 20,
       "n_recent": 5
     },
     {
       "pair": "FCG / TGTX",
       "baseline": 0.23,
-      "recent": -0.982,
-      "delta": -1.212,
+      "recent": -0.971,
+      "delta": -1.201,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "XOP / TGTX",
+      "baseline": 0.3,
+      "recent": -0.9,
+      "delta": -1.2,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "TGTX / EOG",
       "baseline": 0.227,
-      "recent": -0.982,
-      "delta": -1.209,
-      "n_base": 15,
+      "recent": -0.957,
+      "delta": -1.184,
+      "n_base": 16,
       "n_recent": 5
     },
     {
-      "pair": "INSW / XBI",
-      "baseline": 0.21,
-      "recent": -0.991,
-      "delta": -1.201,
-      "n_base": 19,
+      "pair": "PBR-A / TGTX",
+      "baseline": 0.26,
+      "recent": -0.923,
+      "delta": -1.183,
+      "n_base": 20,
+      "n_recent": 5
+    },
+    {
+      "pair": "IEO / TGTX",
+      "baseline": 0.253,
+      "recent": -0.899,
+      "delta": -1.152,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "INSW / MU",
+      "baseline": 0.168,
+      "recent": -0.952,
+      "delta": -1.12,
+      "n_base": 23,
+      "n_recent": 5
+    },
+    {
+      "pair": "SNDK / EOG",
+      "baseline": 0.745,
+      "recent": -0.367,
+      "delta": -1.112,
+      "n_base": 13,
       "n_recent": 3
-    },
-    {
-      "pair": "ARKG / ENFR",
-      "baseline": -0.582,
-      "recent": 0.619,
-      "delta": 1.201,
-      "n_base": 19,
-      "n_recent": 5
     }
   ],
   "note": "5-day window against a 19-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
