@@ -1,14 +1,14 @@
 {
   "date": "2026-09-22",
-  "refreshed": "2026-09-22 13:54",
+  "refreshed": "2026-09-22 17:12",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Copper vs S&P",
       "baseline": -0.051,
-      "recent": 0.911,
-      "delta": 0.962,
+      "recent": 0.939,
+      "delta": 0.99,
       "flip": false,
       "n_base": 19,
       "n_recent": 5
@@ -16,8 +16,8 @@
     {
       "pair": "S&P vs 10Y yield",
       "baseline": -0.117,
-      "recent": 0.736,
-      "delta": 0.853,
+      "recent": 0.709,
+      "delta": 0.826,
       "flip": false,
       "n_base": 19,
       "n_recent": 5
@@ -27,98 +27,98 @@
     {
       "pair": "MU / SNDK",
       "baseline": 0.857,
-      "recent": -1.0,
-      "delta": -1.857,
+      "recent": -0.724,
+      "delta": -1.581,
       "n_base": 21,
       "n_recent": 3
-    },
-    {
-      "pair": "TSM / SNDK",
-      "baseline": 0.511,
-      "recent": -1.0,
-      "delta": -1.511,
-      "n_base": 16,
-      "n_recent": 3
-    },
-    {
-      "pair": "MU / TGTX",
-      "baseline": -0.344,
-      "recent": 0.997,
-      "delta": 1.341,
-      "n_base": 24,
-      "n_recent": 5
     },
     {
       "pair": "LPG / ENFR",
       "baseline": -0.377,
-      "recent": 0.941,
-      "delta": 1.318,
+      "recent": 0.951,
+      "delta": 1.328,
       "n_base": 21,
-      "n_recent": 4
-    },
-    {
-      "pair": "IXC / FBT",
-      "baseline": -0.307,
-      "recent": 0.984,
-      "delta": 1.291,
-      "n_base": 22,
-      "n_recent": 3
+      "n_recent": 5
     },
     {
       "pair": "DHT / ENFR",
       "baseline": -0.42,
-      "recent": 0.815,
-      "delta": 1.235,
+      "recent": 0.885,
+      "delta": 1.305,
       "n_base": 21,
-      "n_recent": 4
-    },
-    {
-      "pair": "TSM / FBT",
-      "baseline": -0.406,
-      "recent": 0.803,
-      "delta": 1.209,
-      "n_base": 14,
-      "n_recent": 3
-    },
-    {
-      "pair": "FRO / SNDK",
-      "baseline": -0.206,
-      "recent": 1.0,
-      "delta": 1.206,
-      "n_base": 21,
-      "n_recent": 3
-    },
-    {
-      "pair": "FBT / EOG",
-      "baseline": -0.198,
-      "recent": 0.995,
-      "delta": 1.193,
-      "n_base": 18,
-      "n_recent": 3
-    },
-    {
-      "pair": "INSW / XLE",
-      "baseline": -0.208,
-      "recent": 0.96,
-      "delta": 1.168,
-      "n_base": 24,
       "n_recent": 5
+    },
+    {
+      "pair": "TSM / SNDK",
+      "baseline": 0.511,
+      "recent": -0.774,
+      "delta": -1.285,
+      "n_base": 16,
+      "n_recent": 3
     },
     {
       "pair": "ECO / ENFR",
       "baseline": -0.447,
-      "recent": 0.714,
-      "delta": 1.161,
+      "recent": 0.831,
+      "delta": 1.278,
       "n_base": 21,
+      "n_recent": 5
+    },
+    {
+      "pair": "CDNA / FENY",
+      "baseline": -0.444,
+      "recent": 0.798,
+      "delta": 1.242,
+      "n_base": 22,
       "n_recent": 4
+    },
+    {
+      "pair": "FBT / TSM",
+      "baseline": -0.406,
+      "recent": 0.786,
+      "delta": 1.192,
+      "n_base": 14,
+      "n_recent": 3
     },
     {
       "pair": "LPG / XLE",
       "baseline": -0.188,
-      "recent": 0.968,
-      "delta": 1.156,
+      "recent": 0.964,
+      "delta": 1.152,
       "n_base": 24,
       "n_recent": 5
+    },
+    {
+      "pair": "INSW / IEO",
+      "baseline": -0.181,
+      "recent": 0.94,
+      "delta": 1.121,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "INSW / XLE",
+      "baseline": -0.208,
+      "recent": 0.91,
+      "delta": 1.118,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "DHT / XLE",
+      "baseline": -0.339,
+      "recent": 0.773,
+      "delta": 1.112,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "SNDK / PBR-A",
+      "baseline": 0.147,
+      "recent": -0.958,
+      "delta": -1.105,
+      "n_base": 20,
+      "n_recent": 3
     }
   ],
   "note": "5-day window against a 19-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
