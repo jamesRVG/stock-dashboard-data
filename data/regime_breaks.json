@@ -1,14 +1,14 @@
 {
   "date": "2026-09-22",
-  "refreshed": "2026-09-22 17:12",
+  "refreshed": "2026-09-22 20:25",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Copper vs S&P",
       "baseline": -0.051,
-      "recent": 0.939,
-      "delta": 0.99,
+      "recent": 0.941,
+      "delta": 0.992,
       "flip": false,
       "n_base": 19,
       "n_recent": 5
@@ -16,8 +16,8 @@
     {
       "pair": "S&P vs 10Y yield",
       "baseline": -0.117,
-      "recent": 0.709,
-      "delta": 0.826,
+      "recent": 0.818,
+      "delta": 0.935,
       "flip": false,
       "n_base": 19,
       "n_recent": 5
@@ -25,99 +25,99 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "MU / SNDK",
-      "baseline": 0.857,
-      "recent": -0.724,
-      "delta": -1.581,
-      "n_base": 21,
-      "n_recent": 3
-    },
-    {
-      "pair": "LPG / ENFR",
-      "baseline": -0.377,
-      "recent": 0.951,
-      "delta": 1.328,
-      "n_base": 21,
+      "pair": "MU / TGTX",
+      "baseline": -0.344,
+      "recent": 0.942,
+      "delta": 1.286,
+      "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "DHT / ENFR",
-      "baseline": -0.42,
-      "recent": 0.885,
-      "delta": 1.305,
-      "n_base": 21,
-      "n_recent": 5
-    },
-    {
-      "pair": "TSM / SNDK",
-      "baseline": 0.511,
-      "recent": -0.774,
-      "delta": -1.285,
-      "n_base": 16,
-      "n_recent": 3
-    },
-    {
-      "pair": "ECO / ENFR",
-      "baseline": -0.447,
-      "recent": 0.831,
-      "delta": 1.278,
-      "n_base": 21,
-      "n_recent": 5
-    },
-    {
-      "pair": "CDNA / FENY",
-      "baseline": -0.444,
-      "recent": 0.798,
-      "delta": 1.242,
+      "pair": "FBT / IXC",
+      "baseline": -0.307,
+      "recent": 0.966,
+      "delta": 1.273,
       "n_base": 22,
-      "n_recent": 4
-    },
-    {
-      "pair": "FBT / TSM",
-      "baseline": -0.406,
-      "recent": 0.786,
-      "delta": 1.192,
-      "n_base": 14,
       "n_recent": 3
     },
     {
-      "pair": "LPG / XLE",
-      "baseline": -0.188,
-      "recent": 0.964,
-      "delta": 1.152,
-      "n_base": 24,
-      "n_recent": 5
+      "pair": "FBT / FCG",
+      "baseline": -0.218,
+      "recent": 0.995,
+      "delta": 1.213,
+      "n_base": 22,
+      "n_recent": 3
     },
     {
-      "pair": "INSW / IEO",
-      "baseline": -0.181,
-      "recent": 0.94,
-      "delta": 1.121,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "INSW / XLE",
-      "baseline": -0.208,
-      "recent": 0.91,
-      "delta": 1.118,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "DHT / XLE",
-      "baseline": -0.339,
-      "recent": 0.773,
-      "delta": 1.112,
-      "n_base": 24,
-      "n_recent": 5
+      "pair": "XOP / FBT",
+      "baseline": -0.233,
+      "recent": 0.975,
+      "delta": 1.208,
+      "n_base": 22,
+      "n_recent": 3
     },
     {
       "pair": "SNDK / PBR-A",
       "baseline": 0.147,
-      "recent": -0.958,
-      "delta": -1.105,
+      "recent": -0.974,
+      "delta": -1.121,
       "n_base": 20,
+      "n_recent": 3
+    },
+    {
+      "pair": "FRO / EOG",
+      "baseline": -0.264,
+      "recent": 0.827,
+      "delta": 1.091,
+      "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "INSW / SNDK",
+      "baseline": 0.268,
+      "recent": -0.816,
+      "delta": -1.084,
+      "n_base": 21,
+      "n_recent": 3
+    },
+    {
+      "pair": "FBT / PBR-A",
+      "baseline": -0.169,
+      "recent": 0.871,
+      "delta": 1.04,
+      "n_base": 21,
+      "n_recent": 3
+    },
+    {
+      "pair": "PBR-A / SU",
+      "baseline": 0.806,
+      "recent": -0.224,
+      "delta": -1.03,
+      "n_base": 23,
+      "n_recent": 5
+    },
+    {
+      "pair": "TGTX / TSM",
+      "baseline": -0.204,
+      "recent": 0.824,
+      "delta": 1.028,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "FRO / IEO",
+      "baseline": -0.303,
+      "recent": 0.709,
+      "delta": 1.012,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "FBT / FENY",
+      "baseline": -0.166,
+      "recent": 0.841,
+      "delta": 1.007,
+      "n_base": 22,
       "n_recent": 3
     }
   ],
