@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "refreshed": "2026-09-23 20:36",
+  "refreshed": "2026-09-23 23:48",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -43,16 +43,16 @@
     {
       "pair": "XOP / TSM",
       "baseline": 0.376,
-      "recent": -0.932,
-      "delta": -1.308,
+      "recent": -0.973,
+      "delta": -1.349,
       "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "ECO / FBT",
       "baseline": 0.3,
-      "recent": -0.991,
-      "delta": -1.291,
+      "recent": -0.998,
+      "delta": -1.298,
       "n_base": 22,
       "n_recent": 3
     },
@@ -65,59 +65,59 @@
       "n_recent": 3
     },
     {
-      "pair": "TSM / FENY",
-      "baseline": 0.306,
-      "recent": -0.97,
-      "delta": -1.276,
+      "pair": "TSM / XLE",
+      "baseline": 0.34,
+      "recent": -0.946,
+      "delta": -1.286,
       "n_base": 16,
       "n_recent": 5
     },
     {
-      "pair": "TSM / XLE",
-      "baseline": 0.34,
-      "recent": -0.927,
-      "delta": -1.267,
+      "pair": "TSM / FENY",
+      "baseline": 0.306,
+      "recent": -0.976,
+      "delta": -1.282,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "IXC / TSM",
+      "baseline": 0.265,
+      "recent": -0.964,
+      "delta": -1.229,
       "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "LPG / FBT",
       "baseline": 0.275,
-      "recent": -0.959,
-      "delta": -1.234,
+      "recent": -0.946,
+      "delta": -1.221,
       "n_base": 22,
       "n_recent": 3
     },
     {
-      "pair": "DHT / IEO",
-      "baseline": -0.333,
-      "recent": 0.869,
-      "delta": 1.202,
-      "n_base": 24,
+      "pair": "TSM / IEO",
+      "baseline": 0.365,
+      "recent": -0.827,
+      "delta": -1.192,
+      "n_base": 16,
       "n_recent": 5
     },
     {
-      "pair": "IXC / TSM",
-      "baseline": 0.265,
-      "recent": -0.937,
-      "delta": -1.202,
-      "n_base": 16,
+      "pair": "DHT / IEO",
+      "baseline": -0.333,
+      "recent": 0.848,
+      "delta": 1.181,
+      "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "ECO / ARKG",
       "baseline": 0.331,
-      "recent": -0.862,
-      "delta": -1.193,
+      "recent": -0.814,
+      "delta": -1.145,
       "n_base": 22,
-      "n_recent": 5
-    },
-    {
-      "pair": "TSM / IEO",
-      "baseline": 0.365,
-      "recent": -0.806,
-      "delta": -1.171,
-      "n_base": 16,
       "n_recent": 5
     }
   ],
