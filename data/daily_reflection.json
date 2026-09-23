@@ -1,17 +1,38 @@
 {
   "date": "2026-09-23",
-  "short_reflection": "Same-day signals continue demonstrating persistent zero-alpha performance (-136bps portfolio vs -81bps SPY), confirming the pattern across 50+ consecutive observations that execution costs exceed any predictive value.",
-  "medium_reflection": "-258bps portfolio underperformance vs +67bps SPY demonstrates severe 1-week signal degradation, with embedded +297bps alpha destroyed by rebalancing friction to -325bps net drag, requiring mandatory 5-7 day minimum hold discipline to recover.",
-  "long_reflection": "+122bps portfolio outperformance vs -60bps SPY driven 95%+ exclusively by precious metals/mining/shipping/semiconductor sector (MU, SNDK, CDNA, ECO tier averaging +13.8% vs non-commodity +5.6%), revealing confirmed 2.5x-9.8x sector-dependent alpha concentration at identical 7.0-7.9 score bands.",
-  "short_top": [
-    "VICR",
-    "EOG",
-    "PBR"
+  "movers_up": [],
+  "movers_down": [],
+  "signal_changes": [
+    {
+      "ticker": "IXC",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "NVDA",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
+      "ticker": "FBT",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
+      "ticker": "TGTX",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
+      "ticker": "PBR",
+      "from": "Strong Buy",
+      "to": "Buy"
+    }
   ],
-  "short_lag": [
-    "RELY",
-    "SIMO",
-    "TGTX"
-  ],
-  "new_learning_added": true
+  "generated": "rule_based",
+  "market_context": "Normal conditions",
+  "bearish_tech_pct": 0.057,
+  "market_pullback": false,
+  "resilient_hold_count": 184,
+  "short_reflection": "Signal changes: IXC (Buy to Strong Buy), NVDA (Strong Buy to Buy), FBT (Strong Buy to Buy), TGTX (Strong Buy to Buy)."
 }
