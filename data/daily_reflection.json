@@ -4,22 +4,12 @@
   "movers_down": [],
   "signal_changes": [
     {
-      "ticker": "PBR",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
       "ticker": "PBR-A",
       "from": "Strong Buy",
       "to": "Buy"
     },
     {
-      "ticker": "IXC",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "FCG",
+      "ticker": "PBR",
       "from": "Strong Buy",
       "to": "Buy"
     }
@@ -28,6 +18,6 @@
   "market_context": "Normal conditions",
   "bearish_tech_pct": 0.062,
   "market_pullback": false,
-  "resilient_hold_count": 186,
-  "short_reflection": "Signal changes: PBR (Strong Buy to Buy), PBR-A (Strong Buy to Buy), IXC (Strong Buy to Buy), FCG (Strong Buy to Buy)."
+  "resilient_hold_count": 187,
+  "short_reflection": "Signal changes: PBR-A (Strong Buy to Buy), PBR (Strong Buy to Buy)."
 }
