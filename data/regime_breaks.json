@@ -1,45 +1,29 @@
 {
-  "date": "2026-09-23",
-  "refreshed": "2026-09-23 23:48",
+  "date": "2026-09-24",
+  "refreshed": "2026-09-24 14:06",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Copper vs S&P",
-      "baseline": 0.077,
-      "recent": 0.965,
-      "delta": 0.888,
+      "baseline": 0.081,
+      "recent": 0.967,
+      "delta": 0.886,
       "flip": false,
-      "n_base": 19,
+      "n_base": 20,
       "n_recent": 5
     },
     {
       "pair": "S&P vs 10Y yield",
-      "baseline": -0.078,
-      "recent": 0.579,
-      "delta": 0.657,
+      "baseline": -0.102,
+      "recent": 0.71,
+      "delta": 0.812,
       "flip": false,
-      "n_base": 19,
+      "n_base": 20,
       "n_recent": 5
     }
   ],
   "ticker_pairs": [
-    {
-      "pair": "DHT / ENFR",
-      "baseline": -0.429,
-      "recent": 0.998,
-      "delta": 1.427,
-      "n_base": 21,
-      "n_recent": 3
-    },
-    {
-      "pair": "PBR-A / ENFR",
-      "baseline": 0.496,
-      "recent": -0.872,
-      "delta": -1.368,
-      "n_base": 21,
-      "n_recent": 3
-    },
     {
       "pair": "XOP / TSM",
       "baseline": 0.376,
@@ -49,39 +33,47 @@
       "n_recent": 5
     },
     {
+      "pair": "TSM / XLE",
+      "baseline": 0.34,
+      "recent": -0.958,
+      "delta": -1.298,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
       "pair": "ECO / FBT",
       "baseline": 0.3,
-      "recent": -0.998,
-      "delta": -1.298,
+      "recent": -0.987,
+      "delta": -1.287,
       "n_base": 22,
       "n_recent": 3
     },
     {
-      "pair": "LPG / ENFR",
-      "baseline": -0.361,
-      "recent": 0.925,
-      "delta": 1.286,
-      "n_base": 21,
+      "pair": "TSM / FENY",
+      "baseline": 0.306,
+      "recent": -0.979,
+      "delta": -1.285,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "LPG / FBT",
+      "baseline": 0.275,
+      "recent": -0.972,
+      "delta": -1.247,
+      "n_base": 22,
       "n_recent": 3
     },
     {
-      "pair": "TSM / XLE",
-      "baseline": 0.34,
-      "recent": -0.946,
-      "delta": -1.286,
+      "pair": "TSM / IEO",
+      "baseline": 0.365,
+      "recent": -0.865,
+      "delta": -1.23,
       "n_base": 16,
       "n_recent": 5
     },
     {
-      "pair": "TSM / FENY",
-      "baseline": 0.306,
-      "recent": -0.976,
-      "delta": -1.282,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "IXC / TSM",
+      "pair": "TSM / IXC",
       "baseline": 0.265,
       "recent": -0.964,
       "delta": -1.229,
@@ -89,38 +81,46 @@
       "n_recent": 5
     },
     {
-      "pair": "LPG / FBT",
-      "baseline": 0.275,
-      "recent": -0.946,
-      "delta": -1.221,
-      "n_base": 22,
-      "n_recent": 3
-    },
-    {
-      "pair": "TSM / IEO",
-      "baseline": 0.365,
-      "recent": -0.827,
-      "delta": -1.192,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "DHT / IEO",
-      "baseline": -0.333,
-      "recent": 0.848,
-      "delta": 1.181,
+      "pair": "MU / TGTX",
+      "baseline": -0.247,
+      "recent": 0.912,
+      "delta": 1.159,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "ECO / ARKG",
+      "pair": "ARKG / ECO",
       "baseline": 0.331,
       "recent": -0.814,
       "delta": -1.145,
       "n_base": 22,
       "n_recent": 5
+    },
+    {
+      "pair": "DHT / IEO",
+      "baseline": -0.333,
+      "recent": 0.811,
+      "delta": 1.144,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "ECO / CDNA",
+      "baseline": 0.226,
+      "recent": -0.907,
+      "delta": -1.133,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "LPG / SNDK",
+      "baseline": 0.289,
+      "recent": -0.822,
+      "delta": -1.111,
+      "n_base": 20,
+      "n_recent": 4
     }
   ],
-  "note": "5-day window against a 19-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 19
+  "note": "5-day window against a 20-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 20
 }

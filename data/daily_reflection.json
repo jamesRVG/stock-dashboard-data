@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "movers_up": [],
   "movers_down": [],
   "signal_changes": [
     {
+      "ticker": "PBR",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
+      "ticker": "PBR-A",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
       "ticker": "IXC",
-      "from": "Buy",
-      "to": "Strong Buy"
-    },
-    {
-      "ticker": "TGTX",
       "from": "Strong Buy",
       "to": "Buy"
     },
     {
-      "ticker": "NVDA",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "FBT",
+      "ticker": "FCG",
       "from": "Strong Buy",
       "to": "Buy"
     }
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.059,
+  "bearish_tech_pct": 0.062,
   "market_pullback": false,
-  "resilient_hold_count": 185,
-  "short_reflection": "Signal changes: IXC (Buy to Strong Buy), TGTX (Strong Buy to Buy), NVDA (Strong Buy to Buy), FBT (Strong Buy to Buy)."
+  "resilient_hold_count": 186,
+  "short_reflection": "Signal changes: PBR (Strong Buy to Buy), PBR-A (Strong Buy to Buy), IXC (Strong Buy to Buy), FCG (Strong Buy to Buy)."
 }
