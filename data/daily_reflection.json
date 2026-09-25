@@ -4,6 +4,11 @@
   "movers_down": [],
   "signal_changes": [
     {
+      "ticker": "NVDA",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
       "ticker": "FCG",
       "from": "Strong Buy",
       "to": "Buy"
@@ -24,5 +29,5 @@
   "bearish_tech_pct": 0.062,
   "market_pullback": false,
   "resilient_hold_count": 189,
-  "short_reflection": "Signal changes: FCG (Strong Buy to Buy), XOP (Strong Buy to Buy), IXC (Strong Buy to Buy)."
+  "short_reflection": "Signal changes: NVDA (Buy to Strong Buy), FCG (Strong Buy to Buy), XOP (Strong Buy to Buy), IXC (Strong Buy to Buy)."
 }
