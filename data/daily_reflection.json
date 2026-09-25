@@ -9,6 +9,11 @@
       "to": "Strong Buy"
     },
     {
+      "ticker": "TGTX",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
       "ticker": "FCG",
       "from": "Strong Buy",
       "to": "Buy"
@@ -19,6 +24,11 @@
       "to": "Buy"
     },
     {
+      "ticker": "FBT",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
       "ticker": "IXC",
       "from": "Strong Buy",
       "to": "Buy"
@@ -26,8 +36,8 @@
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.062,
+  "bearish_tech_pct": 0.059,
   "market_pullback": false,
   "resilient_hold_count": 189,
-  "short_reflection": "Signal changes: NVDA (Buy to Strong Buy), FCG (Strong Buy to Buy), XOP (Strong Buy to Buy), IXC (Strong Buy to Buy)."
+  "short_reflection": "Signal changes: NVDA (Buy to Strong Buy), TGTX (Buy to Strong Buy), FCG (Strong Buy to Buy), XOP (Strong Buy to Buy)."
 }

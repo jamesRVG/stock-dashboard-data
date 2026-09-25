@@ -1,16 +1,16 @@
 {
   "date": "2026-09-25",
-  "refreshed": "2026-09-25 20:38",
+  "refreshed": "2026-09-25 23:58",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Copper vs S&P",
-      "baseline": 0.096,
+      "baseline": 0.193,
       "recent": 0.937,
-      "delta": 0.841,
+      "delta": 0.744,
       "flip": false,
-      "n_base": 20,
+      "n_base": 19,
       "n_recent": 5
     }
   ],
@@ -34,16 +34,16 @@
     {
       "pair": "MU / CMBT",
       "baseline": 0.681,
-      "recent": -0.523,
-      "delta": -1.204,
+      "recent": -0.524,
+      "delta": -1.205,
       "n_base": 18,
       "n_recent": 5
     },
     {
       "pair": "LPG / SNDK",
       "baseline": 0.305,
-      "recent": -0.857,
-      "delta": -1.162,
+      "recent": -0.85,
+      "delta": -1.155,
       "n_base": 19,
       "n_recent": 5
     },
@@ -64,14 +64,6 @@
       "n_recent": 4
     },
     {
-      "pair": "DHT / IEO",
-      "baseline": -0.34,
-      "recent": 0.8,
-      "delta": 1.14,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
       "pair": "FRO / EOG",
       "baseline": -0.121,
       "recent": 0.983,
@@ -80,38 +72,46 @@
       "n_recent": 3
     },
     {
-      "pair": "FRO / IEO",
-      "baseline": -0.171,
-      "recent": 0.924,
-      "delta": 1.095,
+      "pair": "DHT / IEO",
+      "baseline": -0.34,
+      "recent": 0.753,
+      "delta": 1.093,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "ECO / FBT",
-      "baseline": 0.353,
-      "recent": -0.716,
-      "delta": -1.069,
-      "n_base": 21,
-      "n_recent": 4
-    },
-    {
       "pair": "TSM / CMBT",
       "baseline": 0.369,
-      "recent": -0.685,
-      "delta": -1.054,
+      "recent": -0.684,
+      "delta": -1.053,
       "n_base": 13,
       "n_recent": 5
     },
     {
       "pair": "ECO / INCY",
       "baseline": 0.179,
-      "recent": -0.868,
-      "delta": -1.047,
+      "recent": -0.859,
+      "delta": -1.038,
       "n_base": 24,
       "n_recent": 5
+    },
+    {
+      "pair": "MU / EOG",
+      "baseline": 0.047,
+      "recent": -0.96,
+      "delta": -1.007,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "ECO / FBT",
+      "baseline": 0.353,
+      "recent": -0.652,
+      "delta": -1.005,
+      "n_base": 21,
+      "n_recent": 4
     }
   ],
-  "note": "5-day window against a 20-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 20
+  "note": "5-day window against a 19-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 19
 }
