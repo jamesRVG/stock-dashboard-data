@@ -4,6 +4,11 @@
   "movers_down": [],
   "signal_changes": [
     {
+      "ticker": "FCG",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
       "ticker": "XOP",
       "from": "Strong Buy",
       "to": "Buy"
@@ -12,22 +17,12 @@
       "ticker": "IXC",
       "from": "Strong Buy",
       "to": "Buy"
-    },
-    {
-      "ticker": "FCG",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "FBT",
-      "from": "Buy",
-      "to": "Strong Buy"
     }
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
   "bearish_tech_pct": 0.062,
   "market_pullback": false,
-  "resilient_hold_count": 190,
-  "short_reflection": "Signal changes: XOP (Strong Buy to Buy), IXC (Strong Buy to Buy), FCG (Strong Buy to Buy), FBT (Buy to Strong Buy)."
+  "resilient_hold_count": 189,
+  "short_reflection": "Signal changes: FCG (Strong Buy to Buy), XOP (Strong Buy to Buy), IXC (Strong Buy to Buy)."
 }
