@@ -1,14 +1,14 @@
 {
   "date": "2026-09-25",
-  "refreshed": "2026-09-25 00:00",
+  "refreshed": "2026-09-25 14:04",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Copper vs S&P",
       "baseline": 0.096,
-      "recent": 0.96,
-      "delta": 0.864,
+      "recent": 0.952,
+      "delta": 0.856,
       "flip": false,
       "n_base": 20,
       "n_recent": 5
@@ -18,16 +18,32 @@
     {
       "pair": "DHT / IEO",
       "baseline": -0.34,
-      "recent": 0.979,
-      "delta": 1.319,
+      "recent": 0.966,
+      "delta": 1.306,
       "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "DHT / EOG",
+      "baseline": -0.296,
+      "recent": 0.967,
+      "delta": 1.263,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "MU / CMBT",
+      "baseline": 0.681,
+      "recent": -0.549,
+      "delta": -1.23,
+      "n_base": 18,
       "n_recent": 5
     },
     {
       "pair": "DHT / XLE",
       "baseline": -0.357,
-      "recent": 0.885,
-      "delta": 1.242,
+      "recent": 0.86,
+      "delta": 1.217,
       "n_base": 24,
       "n_recent": 5
     },
@@ -40,27 +56,11 @@
       "n_recent": 5
     },
     {
-      "pair": "XOP / DHT",
+      "pair": "DHT / XOP",
       "baseline": -0.302,
       "recent": 0.859,
       "delta": 1.161,
       "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "ECO / FBT",
-      "baseline": 0.351,
-      "recent": -0.797,
-      "delta": -1.148,
-      "n_base": 22,
-      "n_recent": 3
-    },
-    {
-      "pair": "TSM / XLE",
-      "baseline": 0.326,
-      "recent": -0.822,
-      "delta": -1.148,
-      "n_base": 16,
       "n_recent": 5
     },
     {
@@ -72,31 +72,7 @@
       "n_recent": 5
     },
     {
-      "pair": "DHT / EOG",
-      "baseline": -0.296,
-      "recent": 0.844,
-      "delta": 1.14,
-      "n_base": 18,
-      "n_recent": 4
-    },
-    {
-      "pair": "FRO / XLE",
-      "baseline": -0.25,
-      "recent": 0.89,
-      "delta": 1.14,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "FRO / IEO",
-      "baseline": -0.171,
-      "recent": 0.968,
-      "delta": 1.139,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "IXC / TSM",
+      "pair": "TSM / IXC",
       "baseline": 0.242,
       "recent": -0.887,
       "delta": -1.129,
@@ -104,10 +80,34 @@
       "n_recent": 5
     },
     {
-      "pair": "MU / TGTX",
-      "baseline": -0.236,
-      "recent": 0.863,
-      "delta": 1.099,
+      "pair": "TSM / XLE",
+      "baseline": 0.326,
+      "recent": -0.794,
+      "delta": -1.12,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "FRO / IEO",
+      "baseline": -0.171,
+      "recent": 0.947,
+      "delta": 1.118,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "FRO / EOG",
+      "baseline": -0.121,
+      "recent": 0.983,
+      "delta": 1.104,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "FRO / XLE",
+      "baseline": -0.25,
+      "recent": 0.853,
+      "delta": 1.103,
       "n_base": 24,
       "n_recent": 5
     }
