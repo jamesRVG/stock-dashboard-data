@@ -1,126 +1,135 @@
 {
   "date": "2026-09-28",
-  "refreshed": "2026-09-28 20:01",
+  "refreshed": "2026-09-28 22:40",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs Gold",
-      "baseline": 0.234,
-      "recent": 0.935,
-      "delta": 0.701,
+      "baseline": 0.232,
+      "recent": 0.937,
+      "delta": 0.705,
       "flip": false,
-      "n_base": 21,
+      "n_base": 20,
       "n_recent": 5
     },
     {
       "pair": "S&P vs VIX",
-      "baseline": -0.091,
-      "recent": 0.56,
-      "delta": 0.651,
+      "baseline": -0.11,
+      "recent": 0.556,
+      "delta": 0.666,
       "flip": false,
-      "n_base": 21,
+      "n_base": 20,
+      "n_recent": 5
+    },
+    {
+      "pair": "Gold vs 10Y yield",
+      "baseline": -0.064,
+      "recent": 0.54,
+      "delta": 0.604,
+      "flip": false,
+      "n_base": 20,
       "n_recent": 5
     }
   ],
   "ticker_pairs": [
     {
-      "pair": "DHT / TSM",
-      "baseline": -0.427,
-      "recent": 0.782,
-      "delta": 1.209,
+      "pair": "FRO / TSM",
+      "baseline": -0.505,
+      "recent": 0.942,
+      "delta": 1.447,
       "n_base": 16,
       "n_recent": 5
     },
     {
+      "pair": "ARKG / EUFN",
+      "baseline": 0.369,
+      "recent": -0.967,
+      "delta": -1.336,
+      "n_base": 21,
+      "n_recent": 3
+    },
+    {
+      "pair": "LPG / TSM",
+      "baseline": -0.48,
+      "recent": 0.818,
+      "delta": 1.298,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "INSW / TSM",
+      "baseline": -0.288,
+      "recent": 0.978,
+      "delta": 1.266,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "DHT / TSM",
+      "baseline": -0.427,
+      "recent": 0.823,
+      "delta": 1.25,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "TSM / EUFN",
+      "baseline": 0.474,
+      "recent": -0.771,
+      "delta": -1.245,
+      "n_base": 15,
+      "n_recent": 3
+    },
+    {
       "pair": "DHT / CDNA",
       "baseline": -0.198,
-      "recent": 0.924,
-      "delta": 1.122,
+      "recent": 0.993,
+      "delta": 1.191,
       "n_base": 22,
       "n_recent": 5
     },
     {
       "pair": "ARKG / DHT",
       "baseline": -0.176,
-      "recent": 0.892,
-      "delta": 1.068,
+      "recent": 0.959,
+      "delta": 1.135,
       "n_base": 22,
       "n_recent": 5
     },
     {
-      "pair": "IXC / EXEL",
-      "baseline": 0.31,
-      "recent": -0.752,
-      "delta": -1.062,
-      "n_base": 24,
-      "n_recent": 4
+      "pair": "DHT / EUFN",
+      "baseline": -0.277,
+      "recent": 0.858,
+      "delta": 1.135,
+      "n_base": 23,
+      "n_recent": 3
     },
     {
-      "pair": "TSM / CDNA",
-      "baseline": -0.143,
-      "recent": 0.917,
-      "delta": 1.06,
-      "n_base": 14,
-      "n_recent": 5
-    },
-    {
-      "pair": "PBR / EXEL",
-      "baseline": 0.18,
-      "recent": -0.88,
-      "delta": -1.06,
-      "n_base": 24,
-      "n_recent": 4
-    },
-    {
-      "pair": "PBR-A / EXEL",
-      "baseline": 0.164,
-      "recent": -0.871,
-      "delta": -1.035,
-      "n_base": 24,
-      "n_recent": 4
-    },
-    {
-      "pair": "DHT / EXEL",
-      "baseline": -0.249,
-      "recent": 0.771,
-      "delta": 1.02,
-      "n_base": 24,
-      "n_recent": 4
-    },
-    {
-      "pair": "TGTX / PBR",
-      "baseline": 0.126,
-      "recent": -0.887,
-      "delta": -1.013,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "TGTX / PBR-A",
-      "baseline": 0.104,
-      "recent": -0.892,
-      "delta": -0.996,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "SNDK / IXC",
-      "baseline": 0.058,
-      "recent": -0.924,
-      "delta": -0.982,
+      "pair": "CMBT / EUFN",
+      "baseline": 0.105,
+      "recent": -0.96,
+      "delta": -1.065,
       "n_base": 19,
-      "n_recent": 5
+      "n_recent": 3
     },
     {
-      "pair": "INSW / TSM",
-      "baseline": -0.288,
-      "recent": 0.657,
-      "delta": 0.945,
-      "n_base": 16,
-      "n_recent": 5
+      "pair": "TGTX / EUFN",
+      "baseline": -0.092,
+      "recent": 0.965,
+      "delta": 1.057,
+      "n_base": 23,
+      "n_recent": 3
+    },
+    {
+      "pair": "INCY / EUFN",
+      "baseline": 0.258,
+      "recent": -0.796,
+      "delta": -1.054,
+      "n_base": 23,
+      "n_recent": 3
     }
   ],
-  "note": "5-day window against a 21-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 21
+  "note": "5-day window against a 20-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 20
 }
