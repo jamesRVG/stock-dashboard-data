@@ -4,20 +4,35 @@
   "movers_down": [],
   "signal_changes": [
     {
+      "ticker": "TNK",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
       "ticker": "TGTX",
       "from": "Strong Buy",
       "to": "Buy"
     },
     {
-      "ticker": "FBT",
-      "from": "Strong Buy",
-      "to": "Buy"
+      "ticker": "B",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "AU",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "HMY",
+      "from": "Buy",
+      "to": "Hold"
     }
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.068,
+  "bearish_tech_pct": 0.062,
   "market_pullback": false,
   "resilient_hold_count": 193,
-  "short_reflection": "Signal changes: TGTX (Strong Buy to Buy), FBT (Strong Buy to Buy)."
+  "short_reflection": "Signal changes: TNK (Strong Buy to Buy), TGTX (Strong Buy to Buy), B (Buy to Hold), AU (Buy to Hold)."
 }

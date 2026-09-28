@@ -1,14 +1,23 @@
 {
   "date": "2026-09-28",
-  "refreshed": "2026-09-28 14:12",
+  "refreshed": "2026-09-28 20:01",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
+      "pair": "S&P vs Gold",
+      "baseline": 0.234,
+      "recent": 0.935,
+      "delta": 0.701,
+      "flip": false,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
       "pair": "S&P vs VIX",
       "baseline": -0.091,
-      "recent": 0.728,
-      "delta": 0.819,
+      "recent": 0.56,
+      "delta": 0.651,
       "flip": false,
       "n_base": 21,
       "n_recent": 5
@@ -16,99 +25,99 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "LPG / SNDK",
-      "baseline": 0.306,
-      "recent": -0.895,
-      "delta": -1.201,
-      "n_base": 19,
+      "pair": "DHT / TSM",
+      "baseline": -0.427,
+      "recent": 0.782,
+      "delta": 1.209,
+      "n_base": 16,
       "n_recent": 5
     },
     {
-      "pair": "SNDK / FENY",
+      "pair": "DHT / CDNA",
+      "baseline": -0.198,
+      "recent": 0.924,
+      "delta": 1.122,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "ARKG / DHT",
+      "baseline": -0.176,
+      "recent": 0.892,
+      "delta": 1.068,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "IXC / EXEL",
+      "baseline": 0.31,
+      "recent": -0.752,
+      "delta": -1.062,
+      "n_base": 24,
+      "n_recent": 4
+    },
+    {
+      "pair": "TSM / CDNA",
+      "baseline": -0.143,
+      "recent": 0.917,
+      "delta": 1.06,
+      "n_base": 14,
+      "n_recent": 5
+    },
+    {
+      "pair": "PBR / EXEL",
       "baseline": 0.18,
-      "recent": -1.0,
-      "delta": -1.18,
-      "n_base": 19,
-      "n_recent": 3
+      "recent": -0.88,
+      "delta": -1.06,
+      "n_base": 24,
+      "n_recent": 4
     },
     {
-      "pair": "DHT / SNDK",
-      "baseline": 0.321,
-      "recent": -0.832,
-      "delta": -1.153,
-      "n_base": 19,
-      "n_recent": 5
+      "pair": "PBR-A / EXEL",
+      "baseline": 0.164,
+      "recent": -0.871,
+      "delta": -1.035,
+      "n_base": 24,
+      "n_recent": 4
     },
     {
-      "pair": "SNDK / CMBT",
-      "baseline": 0.608,
-      "recent": -0.529,
-      "delta": -1.137,
-      "n_base": 17,
-      "n_recent": 5
+      "pair": "DHT / EXEL",
+      "baseline": -0.249,
+      "recent": 0.771,
+      "delta": 1.02,
+      "n_base": 24,
+      "n_recent": 4
     },
     {
-      "pair": "SNDK / IEO",
-      "baseline": 0.156,
-      "recent": -0.971,
-      "delta": -1.127,
-      "n_base": 19,
-      "n_recent": 5
-    },
-    {
-      "pair": "SNDK / XLE",
-      "baseline": 0.173,
-      "recent": -0.937,
-      "delta": -1.11,
-      "n_base": 19,
-      "n_recent": 5
-    },
-    {
-      "pair": "SNDK / SU",
-      "baseline": 0.107,
-      "recent": -0.995,
-      "delta": -1.102,
-      "n_base": 19,
-      "n_recent": 3
-    },
-    {
-      "pair": "XOP / SNDK",
-      "baseline": 0.176,
-      "recent": -0.922,
-      "delta": -1.098,
-      "n_base": 19,
-      "n_recent": 5
-    },
-    {
-      "pair": "MU / CMBT",
-      "baseline": 0.488,
-      "recent": -0.6,
-      "delta": -1.088,
-      "n_base": 19,
-      "n_recent": 5
-    },
-    {
-      "pair": "ECO / INCY",
-      "baseline": 0.192,
-      "recent": -0.878,
-      "delta": -1.07,
+      "pair": "TGTX / PBR",
+      "baseline": 0.126,
+      "recent": -0.887,
+      "delta": -1.013,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "ECO / FBT",
-      "baseline": 0.355,
-      "recent": -0.653,
-      "delta": -1.008,
-      "n_base": 20,
+      "pair": "TGTX / PBR-A",
+      "baseline": 0.104,
+      "recent": -0.892,
+      "delta": -0.996,
+      "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "DHT / IEO",
-      "baseline": -0.159,
-      "recent": 0.846,
-      "delta": 1.005,
-      "n_base": 24,
+      "pair": "SNDK / IXC",
+      "baseline": 0.058,
+      "recent": -0.924,
+      "delta": -0.982,
+      "n_base": 19,
+      "n_recent": 5
+    },
+    {
+      "pair": "INSW / TSM",
+      "baseline": -0.288,
+      "recent": 0.657,
+      "delta": 0.945,
+      "n_base": 16,
       "n_recent": 5
     }
   ],
