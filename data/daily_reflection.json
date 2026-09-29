@@ -7,12 +7,17 @@
       "ticker": "TNK",
       "from": "Buy",
       "to": "Strong Buy"
+    },
+    {
+      "ticker": "FBT",
+      "from": "Buy",
+      "to": "Strong Buy"
     }
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.062,
+  "bearish_tech_pct": 0.074,
   "market_pullback": false,
   "resilient_hold_count": 194,
-  "short_reflection": "Signal changes: TNK (Buy to Strong Buy)."
+  "short_reflection": "Signal changes: TNK (Buy to Strong Buy), FBT (Buy to Strong Buy)."
 }
