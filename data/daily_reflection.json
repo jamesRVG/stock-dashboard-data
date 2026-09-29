@@ -1,43 +1,18 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "movers_up": [],
   "movers_down": [],
   "signal_changes": [
     {
-      "ticker": "FBT",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "AU",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
       "ticker": "TNK",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "TGTX",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "B",
       "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "HMY",
-      "from": "Buy",
-      "to": "Hold"
+      "to": "Strong Buy"
     }
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
   "bearish_tech_pct": 0.062,
   "market_pullback": false,
-  "resilient_hold_count": 193,
-  "short_reflection": "Signal changes: FBT (Strong Buy to Buy), AU (Buy to Hold), TNK (Strong Buy to Buy), TGTX (Strong Buy to Buy)."
+  "resilient_hold_count": 194,
+  "short_reflection": "Signal changes: TNK (Buy to Strong Buy)."
 }

@@ -1,34 +1,16 @@
 {
-  "date": "2026-09-28",
-  "refreshed": "2026-09-28 22:40",
+  "date": "2026-09-29",
+  "refreshed": "2026-09-29 01:08",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs Gold",
-      "baseline": 0.232,
-      "recent": 0.937,
-      "delta": 0.705,
+      "baseline": 0.287,
+      "recent": 0.929,
+      "delta": 0.642,
       "flip": false,
-      "n_base": 20,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs VIX",
-      "baseline": -0.11,
-      "recent": 0.556,
-      "delta": 0.666,
-      "flip": false,
-      "n_base": 20,
-      "n_recent": 5
-    },
-    {
-      "pair": "Gold vs 10Y yield",
-      "baseline": -0.064,
-      "recent": 0.54,
-      "delta": 0.604,
-      "flip": false,
-      "n_base": 20,
+      "n_base": 21,
       "n_recent": 5
     }
   ],
@@ -36,100 +18,100 @@
     {
       "pair": "FRO / TSM",
       "baseline": -0.505,
-      "recent": 0.942,
-      "delta": 1.447,
+      "recent": 0.917,
+      "delta": 1.422,
       "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "ARKG / EUFN",
       "baseline": 0.369,
-      "recent": -0.967,
-      "delta": -1.336,
+      "recent": -0.96,
+      "delta": -1.329,
       "n_base": 21,
       "n_recent": 3
     },
     {
-      "pair": "LPG / TSM",
-      "baseline": -0.48,
-      "recent": 0.818,
-      "delta": 1.298,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "INSW / TSM",
-      "baseline": -0.288,
-      "recent": 0.978,
-      "delta": 1.266,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
       "pair": "DHT / TSM",
       "baseline": -0.427,
-      "recent": 0.823,
-      "delta": 1.25,
+      "recent": 0.901,
+      "delta": 1.328,
       "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "TSM / EUFN",
       "baseline": 0.474,
-      "recent": -0.771,
-      "delta": -1.245,
+      "recent": -0.806,
+      "delta": -1.28,
       "n_base": 15,
       "n_recent": 3
     },
     {
+      "pair": "LPG / TSM",
+      "baseline": -0.48,
+      "recent": 0.792,
+      "delta": 1.272,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "INSW / TSM",
+      "baseline": -0.288,
+      "recent": 0.963,
+      "delta": 1.251,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
       "pair": "DHT / CDNA",
       "baseline": -0.198,
-      "recent": 0.993,
-      "delta": 1.191,
+      "recent": 0.984,
+      "delta": 1.182,
       "n_base": 22,
       "n_recent": 5
     },
     {
-      "pair": "ARKG / DHT",
-      "baseline": -0.176,
-      "recent": 0.959,
-      "delta": 1.135,
-      "n_base": 22,
-      "n_recent": 5
-    },
-    {
-      "pair": "DHT / EUFN",
-      "baseline": -0.277,
-      "recent": 0.858,
-      "delta": 1.135,
+      "pair": "INCY / EUFN",
+      "baseline": 0.258,
+      "recent": -0.904,
+      "delta": -1.162,
       "n_base": 23,
       "n_recent": 3
     },
     {
+      "pair": "ARKG / DHT",
+      "baseline": -0.176,
+      "recent": 0.965,
+      "delta": 1.141,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
       "pair": "CMBT / EUFN",
       "baseline": 0.105,
-      "recent": -0.96,
-      "delta": -1.065,
+      "recent": -0.971,
+      "delta": -1.076,
       "n_base": 19,
       "n_recent": 3
     },
     {
       "pair": "TGTX / EUFN",
       "baseline": -0.092,
-      "recent": 0.965,
-      "delta": 1.057,
+      "recent": 0.976,
+      "delta": 1.068,
       "n_base": 23,
       "n_recent": 3
     },
     {
-      "pair": "INCY / EUFN",
-      "baseline": 0.258,
-      "recent": -0.796,
-      "delta": -1.054,
-      "n_base": 23,
-      "n_recent": 3
+      "pair": "TGTX / PBR",
+      "baseline": 0.126,
+      "recent": -0.898,
+      "delta": -1.024,
+      "n_base": 24,
+      "n_recent": 5
     }
   ],
-  "note": "5-day window against a 20-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 20
+  "note": "5-day window against a 21-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 21
 }
