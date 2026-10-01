@@ -4,12 +4,12 @@
   "movers_down": [],
   "signal_changes": [
     {
-      "ticker": "MU",
-      "from": "Strong Buy",
-      "to": "Buy"
+      "ticker": "XOP",
+      "from": "Buy",
+      "to": "Strong Buy"
     },
     {
-      "ticker": "TSM",
+      "ticker": "MU",
       "from": "Strong Buy",
       "to": "Buy"
     },
@@ -19,17 +19,17 @@
       "to": "Buy"
     },
     {
-      "ticker": "XOP",
-      "from": "Buy",
-      "to": "Strong Buy"
+      "ticker": "TSM",
+      "from": "Strong Buy",
+      "to": "Buy"
     },
     {
-      "ticker": "GOOGL",
+      "ticker": "GOOG",
       "from": "Buy",
       "to": "Hold"
     },
     {
-      "ticker": "GOOG",
+      "ticker": "GOOGL",
       "from": "Buy",
       "to": "Hold"
     }
@@ -39,5 +39,5 @@
   "bearish_tech_pct": 0.091,
   "market_pullback": false,
   "resilient_hold_count": 192,
-  "short_reflection": "Signal changes: MU (Strong Buy to Buy), TSM (Strong Buy to Buy), NVDA (Strong Buy to Buy), XOP (Buy to Strong Buy)."
+  "short_reflection": "Signal changes: XOP (Buy to Strong Buy), MU (Strong Buy to Buy), NVDA (Strong Buy to Buy), TSM (Strong Buy to Buy)."
 }
