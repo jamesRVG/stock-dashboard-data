@@ -1,114 +1,114 @@
 {
   "date": "2026-10-02",
-  "refreshed": "2026-10-02 14:02",
+  "refreshed": "2026-10-02 18:11",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Oil vs S&P",
       "baseline": -0.577,
-      "recent": 0.402,
-      "delta": 0.979,
-      "flip": true,
+      "recent": 0.341,
+      "delta": 0.918,
+      "flip": false,
       "n_base": 20,
       "n_recent": 5
     }
   ],
   "ticker_pairs": [
     {
-      "pair": "ARKG / CDNA",
-      "baseline": 0.619,
-      "recent": -0.81,
-      "delta": -1.429,
-      "n_base": 21,
-      "n_recent": 5
-    },
-    {
-      "pair": "ARKG / CMBT",
-      "baseline": 0.343,
-      "recent": -0.923,
-      "delta": -1.266,
-      "n_base": 22,
-      "n_recent": 5
-    },
-    {
-      "pair": "TSM / NAT",
-      "baseline": -0.282,
-      "recent": 0.95,
-      "delta": 1.232,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
       "pair": "TRMD / PBR-A",
       "baseline": -0.459,
-      "recent": 0.75,
-      "delta": 1.209,
+      "recent": 0.859,
+      "delta": 1.318,
       "n_base": 18,
-      "n_recent": 5
-    },
-    {
-      "pair": "FRO / MU",
-      "baseline": -0.423,
-      "recent": 0.774,
-      "delta": 1.197,
-      "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "TRMD / PBR",
       "baseline": -0.439,
-      "recent": 0.748,
-      "delta": 1.187,
+      "recent": 0.832,
+      "delta": 1.271,
       "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "ARKG / CMBT",
+      "baseline": 0.343,
+      "recent": -0.907,
+      "delta": -1.25,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "FRO / MU",
+      "baseline": -0.423,
+      "recent": 0.741,
+      "delta": 1.164,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "INSW / ARKG",
+      "baseline": 0.285,
+      "recent": -0.854,
+      "delta": -1.139,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "INSW / EXEL",
+      "baseline": 0.306,
+      "recent": -0.801,
+      "delta": -1.107,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "ECO / ARKG",
+      "baseline": 0.097,
+      "recent": -0.96,
+      "delta": -1.057,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "TRMD / NAT",
+      "baseline": 0.708,
+      "recent": -0.347,
+      "delta": -1.055,
+      "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "PBR / FBT",
+      "baseline": -0.12,
+      "recent": 0.93,
+      "delta": 1.05,
+      "n_base": 20,
       "n_recent": 5
     },
     {
       "pair": "IXC / NAT",
       "baseline": 0.258,
-      "recent": -0.843,
-      "delta": -1.101,
+      "recent": -0.78,
+      "delta": -1.038,
       "n_base": 18,
       "n_recent": 5
     },
     {
-      "pair": "IXC / NVDA",
-      "baseline": -0.443,
-      "recent": 0.65,
-      "delta": 1.093,
-      "n_base": 19,
-      "n_recent": 5
-    },
-    {
-      "pair": "XLE / NVDA",
-      "baseline": -0.483,
-      "recent": 0.599,
-      "delta": 1.082,
-      "n_base": 19,
-      "n_recent": 5
-    },
-    {
-      "pair": "NAT / SU",
-      "baseline": 0.343,
-      "recent": -0.731,
-      "delta": -1.074,
-      "n_base": 16,
-      "n_recent": 4
-    },
-    {
-      "pair": "PBR / FBT",
-      "baseline": -0.12,
-      "recent": 0.933,
-      "delta": 1.053,
+      "pair": "PBR-A / FBT",
+      "baseline": -0.072,
+      "recent": 0.955,
+      "delta": 1.027,
       "n_base": 20,
       "n_recent": 5
     },
     {
-      "pair": "ECO / TSM",
-      "baseline": -0.526,
-      "recent": 0.516,
-      "delta": 1.042,
-      "n_base": 19,
+      "pair": "MU / EXEL",
+      "baseline": 0.375,
+      "recent": -0.646,
+      "delta": -1.021,
+      "n_base": 24,
       "n_recent": 5
     }
   ],
