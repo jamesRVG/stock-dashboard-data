@@ -1,340 +1,340 @@
 {
-  "generated_at": "2026-10-06T13:59:55.022944",
+  "generated_at": "2026-10-06T18:43:25.423512",
   "history_snapshots": 76,
   "signal_accuracy": {
     "1d": {
       "Strong Buy": {
-        "win_pct": 0.139,
-        "avg_return": -0.0137,
+        "win_pct": 0.361,
+        "avg_return": -0.0065,
         "n": 36
       },
       "Buy": {
-        "win_pct": 0.412,
+        "win_pct": 0.544,
         "avg_return": 0.005,
         "n": 114
       }
     },
     "5d": {
       "Strong Buy": {
-        "win_pct": 0.739,
-        "avg_return": 0.0364,
+        "win_pct": 0.754,
+        "avg_return": 0.037,
         "n": 69
       },
       "Buy": {
-        "win_pct": 0.654,
-        "avg_return": 0.0151,
+        "win_pct": 0.649,
+        "avg_return": 0.013,
         "n": 231
       }
     },
     "20d": {
       "Strong Buy": {
-        "win_pct": 0.6,
-        "avg_return": 0.0398,
+        "win_pct": 0.618,
+        "avg_return": 0.0429,
         "n": 547
       },
       "Buy": {
-        "win_pct": 0.365,
-        "avg_return": -0.0098,
+        "win_pct": 0.377,
+        "avg_return": -0.0105,
         "n": 953
       }
     },
     "60d": {
       "Buy": {
-        "win_pct": 0.599,
-        "avg_return": 0.0435,
+        "win_pct": 0.624,
+        "avg_return": 0.0509,
         "n": 785
       },
       "Hold": {
         "win_pct": 0.695,
-        "avg_return": 0.0749,
+        "avg_return": 0.0778,
         "n": 203
       },
       "Caution": {
-        "win_pct": 0.667,
-        "avg_return": 0.0968,
+        "win_pct": 0.833,
+        "avg_return": 0.0936,
         "n": 6
       },
       "Strong Buy": {
-        "win_pct": 0.625,
-        "avg_return": 0.0673,
+        "win_pct": 0.668,
+        "avg_return": 0.0705,
         "n": 376
       }
     }
   },
   "sell_signal_accuracy": {
     "60d": {
-      "accuracy": 0.333,
+      "accuracy": 0.167,
       "n": 6
     }
   },
   "category_performance": {
     "1d": {
       "Core": {
-        "avg_return": -0.0137,
-        "win_pct": 0.067,
+        "avg_return": -0.0135,
+        "win_pct": 0.167,
         "n": 60
       },
       "Core / Tech": {
-        "avg_return": 0.0108,
+        "avg_return": 0.008,
         "win_pct": 0.6,
         "n": 10
       },
       "Energy": {
-        "avg_return": 0.0008,
-        "win_pct": 0.619,
+        "avg_return": 0.0146,
+        "win_pct": 1.0,
         "n": 21
       },
       "Commod": {
-        "avg_return": 0.0216,
-        "win_pct": 0.412,
+        "avg_return": 0.029,
+        "win_pct": 0.647,
         "n": 17
       },
       "Health": {
-        "avg_return": 0.0431,
-        "win_pct": 1.0,
+        "avg_return": -0.0309,
+        "win_pct": 0.0,
         "n": 5
       },
       "Intl": {
-        "avg_return": 0.0387,
+        "avg_return": 0.036,
         "win_pct": 0.9,
         "n": 10
       },
       "PrecMet": {
-        "avg_return": -0.0102,
-        "win_pct": 0.143,
+        "avg_return": 0.014,
+        "win_pct": 0.714,
         "n": 14
       },
       "PrecMet / Commod": {
-        "avg_return": -0.0022,
-        "win_pct": 0.0,
+        "avg_return": 0.0136,
+        "win_pct": 1.0,
         "n": 2
       },
       "Tech": {
-        "avg_return": -0.0043,
+        "avg_return": -0.0143,
         "win_pct": 0.545,
         "n": 11
       }
     },
     "5d": {
       "Core / Tech": {
-        "avg_return": 0.0262,
-        "win_pct": 0.808,
+        "avg_return": 0.0245,
+        "win_pct": 0.731,
         "n": 26
       },
       "Core": {
-        "avg_return": 0.0094,
-        "win_pct": 0.602,
+        "avg_return": 0.0092,
+        "win_pct": 0.657,
         "n": 108
       },
       "Health": {
-        "avg_return": 0.028,
-        "win_pct": 0.579,
+        "avg_return": -0.0229,
+        "win_pct": 0.053,
         "n": 19
       },
       "Tech": {
-        "avg_return": 0.0298,
-        "win_pct": 0.765,
+        "avg_return": 0.0198,
+        "win_pct": 0.706,
         "n": 51
       },
       "PrecMet / Commod": {
-        "avg_return": -0.0408,
-        "win_pct": 0.0,
+        "avg_return": -0.0222,
+        "win_pct": 0.333,
         "n": 3
       },
       "PrecMet": {
-        "avg_return": -0.0361,
-        "win_pct": 0.111,
+        "avg_return": -0.0125,
+        "win_pct": 0.444,
         "n": 18
       },
       "Commod": {
-        "avg_return": 0.0791,
+        "avg_return": 0.0844,
         "win_pct": 0.826,
         "n": 23
       },
       "Energy": {
-        "avg_return": 0.016,
+        "avg_return": 0.03,
         "win_pct": 1.0,
         "n": 36
       },
       "Intl": {
-        "avg_return": 0.0462,
+        "avg_return": 0.0439,
         "win_pct": 0.643,
         "n": 14
       },
       "Core / Commod": {
-        "avg_return": -0.0092,
-        "win_pct": 0.0,
+        "avg_return": 0.0073,
+        "win_pct": 1.0,
         "n": 2
       }
     },
     "20d": {
       "Core": {
-        "avg_return": 0.0306,
-        "win_pct": 0.577,
+        "avg_return": 0.0288,
+        "win_pct": 0.585,
         "n": 496
       },
       "Energy": {
-        "avg_return": -0.0274,
-        "win_pct": 0.196,
+        "avg_return": -0.0145,
+        "win_pct": 0.278,
         "n": 270
       },
       "Health": {
-        "avg_return": 0.0194,
-        "win_pct": 0.5,
+        "avg_return": -0.0292,
+        "win_pct": 0.296,
         "n": 108
       },
       "Core / Tech": {
-        "avg_return": 0.0774,
-        "win_pct": 0.876,
+        "avg_return": 0.0747,
+        "win_pct": 0.866,
         "n": 97
       },
       "Commod": {
-        "avg_return": 0.0525,
-        "win_pct": 0.521,
+        "avg_return": 0.0603,
+        "win_pct": 0.611,
         "n": 190
       },
       "Tech": {
-        "avg_return": 0.0543,
-        "win_pct": 0.804,
+        "avg_return": 0.0445,
+        "win_pct": 0.794,
         "n": 97
       },
       "PrecMet": {
-        "avg_return": -0.1231,
-        "win_pct": 0.0,
+        "avg_return": -0.1025,
+        "win_pct": 0.007,
         "n": 138
       },
       "Core / Commod": {
-        "avg_return": -0.0313,
-        "win_pct": 0.0,
+        "avg_return": -0.0153,
+        "win_pct": 0.2,
         "n": 10
       },
       "Intl": {
-        "avg_return": 0.0056,
-        "win_pct": 0.318,
+        "avg_return": 0.0034,
+        "win_pct": 0.303,
         "n": 66
       },
       "PrecMet / Commod": {
-        "avg_return": -0.1177,
+        "avg_return": -0.0986,
         "win_pct": 0.0,
         "n": 28
       }
     },
     "60d": {
       "Commod": {
-        "avg_return": 0.0654,
-        "win_pct": 0.69,
+        "avg_return": 0.082,
+        "win_pct": 0.788,
         "n": 113
       },
       "Core": {
-        "avg_return": 0.0462,
-        "win_pct": 0.464,
+        "avg_return": 0.0427,
+        "win_pct": 0.471,
         "n": 261
       },
       "Tech": {
-        "avg_return": 0.0616,
-        "win_pct": 0.681,
+        "avg_return": 0.058,
+        "win_pct": 0.695,
         "n": 226
       },
       "PrecMet": {
-        "avg_return": 0.095,
-        "win_pct": 0.772,
+        "avg_return": 0.1178,
+        "win_pct": 0.796,
         "n": 378
       },
       "GreenE": {
-        "avg_return": 0.0586,
-        "win_pct": 0.778,
+        "avg_return": 0.0432,
+        "win_pct": 0.722,
         "n": 54
       },
       "REIT": {
-        "avg_return": -0.1963,
+        "avg_return": -0.1985,
         "win_pct": 0.0,
         "n": 20
       },
       "Intl": {
-        "avg_return": 0.0344,
+        "avg_return": 0.0326,
         "win_pct": 0.507,
         "n": 67
       },
       "Core / Tech": {
-        "avg_return": 0.06,
-        "win_pct": 0.697,
+        "avg_return": 0.0626,
+        "win_pct": 0.776,
         "n": 76
       },
       "PrecMet / Commod": {
-        "avg_return": -0.047,
-        "win_pct": 0.227,
+        "avg_return": -0.0263,
+        "win_pct": 0.273,
         "n": 22
       },
       "Health": {
-        "avg_return": 0.0219,
-        "win_pct": 0.462,
+        "avg_return": -0.0205,
+        "win_pct": 0.346,
         "n": 52
       },
       "Energy": {
-        "avg_return": -0.0027,
-        "win_pct": 0.48,
+        "avg_return": 0.0109,
+        "win_pct": 0.602,
         "n": 98
       },
       "Core / Commod": {
-        "avg_return": -0.0027,
-        "win_pct": 0.0,
+        "avg_return": 0.0138,
+        "win_pct": 1.0,
         "n": 2
       }
     }
   },
   "score_correlation": {
-    "1d": -0.023,
-    "5d": 0.119,
-    "20d": 0.17,
-    "60d": -0.021
+    "1d": 0.055,
+    "5d": 0.136,
+    "20d": 0.202,
+    "60d": -0.014
   },
   "factor_analysis": {
     "macd": {
       "1d": {
         "bullish": {
-          "avg_return": -0.0008,
-          "win_pct": 0.386,
+          "avg_return": -0.0101,
+          "win_pct": 0.368,
           "n": 57
         },
         "bearish": {
-          "avg_return": 0.0013,
-          "win_pct": 0.323,
+          "avg_return": 0.0098,
+          "win_pct": 0.581,
           "n": 93
         }
       },
       "5d": {
         "bullish": {
-          "avg_return": 0.0174,
-          "win_pct": 0.678,
+          "avg_return": 0.0012,
+          "win_pct": 0.593,
           "n": 118
         },
         "bearish": {
-          "avg_return": 0.0217,
-          "win_pct": 0.67,
+          "avg_return": 0.0298,
+          "win_pct": 0.725,
           "n": 182
         }
       },
       "20d": {
         "bullish": {
-          "avg_return": 0.0055,
-          "win_pct": 0.49,
+          "avg_return": 0.0074,
+          "win_pct": 0.504,
           "n": 947
         },
         "bearish": {
-          "avg_return": 0.0129,
-          "win_pct": 0.383,
+          "avg_return": 0.0115,
+          "win_pct": 0.398,
           "n": 553
         }
       },
       "60d": {
         "bullish": {
-          "avg_return": 0.0463,
-          "win_pct": 0.618,
+          "avg_return": 0.0536,
+          "win_pct": 0.649,
           "n": 1085
         },
         "bearish": {
-          "avg_return": 0.0864,
-          "win_pct": 0.627,
+          "avg_return": 0.0854,
+          "win_pct": 0.641,
           "n": 284
         }
       }
@@ -342,69 +342,69 @@
     "rsi": {
       "1d": {
         "oversold": {
-          "avg_return": -0.0034,
+          "avg_return": -0.006,
           "win_pct": 0.4,
           "n": 5
         },
         "neutral": {
-          "avg_return": 0.0009,
-          "win_pct": 0.381,
+          "avg_return": 0.008,
+          "win_pct": 0.608,
           "n": 97
         },
         "overbought": {
-          "avg_return": 0.0002,
-          "win_pct": 0.271,
+          "avg_return": -0.0085,
+          "win_pct": 0.292,
           "n": 48
         }
       },
       "5d": {
         "oversold": {
-          "avg_return": 0.0116,
+          "avg_return": 0.0154,
           "win_pct": 0.833,
           "n": 6
         },
         "neutral": {
-          "avg_return": 0.0177,
-          "win_pct": 0.665,
+          "avg_return": 0.0203,
+          "win_pct": 0.677,
           "n": 251
         },
         "overbought": {
-          "avg_return": 0.0346,
-          "win_pct": 0.698,
+          "avg_return": 0.0085,
+          "win_pct": 0.628,
           "n": 43
         }
       },
       "20d": {
         "oversold": {
-          "avg_return": -0.0342,
-          "win_pct": 0.2,
+          "avg_return": -0.0326,
+          "win_pct": 0.6,
           "n": 5
         },
         "neutral": {
-          "avg_return": 0.0042,
-          "win_pct": 0.42,
+          "avg_return": 0.0047,
+          "win_pct": 0.426,
           "n": 1033
         },
         "overbought": {
-          "avg_return": 0.0179,
-          "win_pct": 0.522,
+          "avg_return": 0.0189,
+          "win_pct": 0.55,
           "n": 462
         }
       },
       "60d": {
         "oversold": {
-          "avg_return": 0.1807,
+          "avg_return": 0.1933,
           "win_pct": 0.871,
           "n": 31
         },
         "neutral": {
-          "avg_return": 0.0668,
-          "win_pct": 0.668,
+          "avg_return": 0.0735,
+          "win_pct": 0.692,
           "n": 1044
         },
         "overbought": {
-          "avg_return": -0.0003,
-          "win_pct": 0.427,
+          "avg_return": 0.0004,
+          "win_pct": 0.468,
           "n": 295
         }
       }
@@ -412,59 +412,59 @@
     "peg": {
       "1d": {
         "low": {
-          "avg_return": -0.0036,
-          "win_pct": 0.221,
+          "avg_return": 0.0001,
+          "win_pct": 0.389,
           "n": 95
         },
         "mid": {
-          "avg_return": -0.021,
+          "avg_return": -0.038,
           "win_pct": 0.0,
           "n": 4
         }
       },
       "5d": {
         "low": {
-          "avg_return": 0.0262,
-          "win_pct": 0.634,
+          "avg_return": 0.0271,
+          "win_pct": 0.686,
           "n": 194
         },
         "mid": {
-          "avg_return": 0.032,
-          "win_pct": 0.875,
+          "avg_return": 0.0201,
+          "win_pct": 0.75,
           "n": 8
         }
       },
       "20d": {
         "low": {
-          "avg_return": 0.0327,
-          "win_pct": 0.554,
+          "avg_return": 0.0354,
+          "win_pct": 0.579,
           "n": 913
         },
         "mid": {
-          "avg_return": -0.0137,
+          "avg_return": -0.0225,
           "win_pct": 0.375,
           "n": 8
         },
         "high": {
-          "avg_return": -0.0949,
+          "avg_return": -0.1092,
           "win_pct": 0.0,
           "n": 2
         }
       },
       "60d": {
         "low": {
-          "avg_return": 0.0461,
-          "win_pct": 0.557,
+          "avg_return": 0.0492,
+          "win_pct": 0.597,
           "n": 472
         },
         "mid": {
-          "avg_return": 0.0749,
-          "win_pct": 0.656,
+          "avg_return": 0.083,
+          "win_pct": 0.664,
           "n": 128
         },
         "high": {
-          "avg_return": 0.0595,
-          "win_pct": 0.777,
+          "avg_return": 0.0729,
+          "win_pct": 0.786,
           "n": 112
         }
       }
@@ -483,19 +483,18 @@
     },
     "basis": "Insufficient data for weight adjustment (need 5+ history days per horizon).",
     "score_correlation": {
-      "1d": -0.023,
-      "5d": 0.119,
-      "20d": 0.17,
-      "60d": -0.021
+      "1d": 0.055,
+      "5d": 0.136,
+      "20d": 0.202,
+      "60d": -0.014
     }
   },
   "statistical_insights": [
     "Meta-learner has 76 daily snapshots; accuracy estimates are becoming reliable.",
-    "RSI overbought stocks outperforming oversold over 5d. Momentum may be dominant; consider reducing the oversold RSI buy signal weight.",
-    "Top 5d categories: Commod (+7.9%), Intl (+4.6%), Tech (+3.0%).",
-    "Underperforming 5d: PrecMet / Commod (-4.1%), PrecMet (-3.6%).",
-    "Top 20d categories: Core / Tech (+7.7%), Tech (+5.4%), Commod (+5.2%).",
-    "Underperforming 20d: PrecMet (-12.3%), PrecMet / Commod (-11.8%)."
+    "Top 5d categories: Commod (+8.4%), Intl (+4.4%), Energy (+3.0%).",
+    "Underperforming 5d: Health (-2.3%), PrecMet / Commod (-2.2%).",
+    "Top 20d categories: Core / Tech (+7.5%), Commod (+6.0%), Tech (+4.5%).",
+    "Underperforming 20d: PrecMet (-10.2%), PrecMet / Commod (-9.9%)."
   ],
   "claude_synthesis": null
 }
