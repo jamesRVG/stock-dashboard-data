@@ -1,15 +1,24 @@
 {
   "date": "2026-10-07",
-  "refreshed": "2026-10-07 00:40",
+  "refreshed": "2026-10-07 14:06",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Gold vs Dollar",
       "baseline": -0.4,
-      "recent": 0.458,
-      "delta": 0.858,
+      "recent": 0.835,
+      "delta": 1.235,
       "flip": true,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs Gold",
+      "baseline": 0.362,
+      "recent": -0.623,
+      "delta": -0.985,
+      "flip": false,
       "n_base": 21,
       "n_recent": 5
     },
@@ -25,8 +34,8 @@
     {
       "pair": "S&P vs 10Y yield",
       "baseline": 0.215,
-      "recent": 0.995,
-      "delta": 0.78,
+      "recent": 0.873,
+      "delta": 0.658,
       "flip": false,
       "n_base": 21,
       "n_recent": 5
@@ -34,99 +43,99 @@
   ],
   "ticker_pairs": [
     {
+      "pair": "IXC / SU",
+      "baseline": 0.941,
+      "recent": -0.685,
+      "delta": -1.626,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
       "pair": "XOP / SU",
-      "baseline": 0.905,
-      "recent": -0.789,
-      "delta": -1.694,
+      "baseline": 0.906,
+      "recent": -0.692,
+      "delta": -1.598,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
+      "pair": "IEO / SU",
+      "baseline": 0.87,
+      "recent": -0.695,
+      "delta": -1.565,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
+      "pair": "PBR / SU",
+      "baseline": 0.684,
+      "recent": -0.805,
+      "delta": -1.489,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
+      "pair": "PBR-A / SU",
+      "baseline": 0.651,
+      "recent": -0.817,
+      "delta": -1.468,
       "n_base": 21,
       "n_recent": 5
     },
     {
       "pair": "FCG / SU",
       "baseline": 0.898,
-      "recent": -0.785,
-      "delta": -1.683,
+      "recent": -0.562,
+      "delta": -1.46,
       "n_base": 21,
       "n_recent": 5
     },
     {
-      "pair": "IEO / SU",
-      "baseline": 0.871,
-      "recent": -0.751,
-      "delta": -1.622,
-      "n_base": 21,
-      "n_recent": 5
-    },
-    {
-      "pair": "SU / FENY",
-      "baseline": 0.941,
-      "recent": -0.643,
-      "delta": -1.584,
+      "pair": "FENY / SU",
+      "baseline": 0.939,
+      "recent": -0.441,
+      "delta": -1.38,
       "n_base": 18,
       "n_recent": 5
     },
     {
+      "pair": "XOP / NVDA",
+      "baseline": -0.406,
+      "recent": 0.942,
+      "delta": 1.348,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
       "pair": "XLE / SU",
-      "baseline": 0.926,
-      "recent": -0.628,
-      "delta": -1.554,
+      "baseline": 0.924,
+      "recent": -0.391,
+      "delta": -1.315,
       "n_base": 21,
       "n_recent": 5
     },
     {
-      "pair": "IXC / SU",
-      "baseline": 0.944,
-      "recent": -0.575,
-      "delta": -1.519,
+      "pair": "INSW / PBR-A",
+      "baseline": -0.285,
+      "recent": 0.998,
+      "delta": 1.283,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "FCG / NVDA",
+      "baseline": -0.42,
+      "recent": 0.856,
+      "delta": 1.276,
       "n_base": 21,
       "n_recent": 5
     },
     {
-      "pair": "PBR / SU",
-      "baseline": 0.704,
-      "recent": -0.796,
-      "delta": -1.5,
-      "n_base": 21,
-      "n_recent": 5
-    },
-    {
-      "pair": "HAFN / EUFN",
-      "baseline": -0.485,
-      "recent": 0.999,
-      "delta": 1.484,
-      "n_base": 14,
-      "n_recent": 3
-    },
-    {
-      "pair": "PBR-A / SU",
-      "baseline": 0.673,
-      "recent": -0.793,
-      "delta": -1.466,
-      "n_base": 21,
-      "n_recent": 5
-    },
-    {
-      "pair": "DHT / EUFN",
-      "baseline": -0.447,
-      "recent": 1.0,
-      "delta": 1.447,
-      "n_base": 19,
-      "n_recent": 3
-    },
-    {
-      "pair": "TRMD / EUFN",
-      "baseline": -0.395,
-      "recent": 1.0,
-      "delta": 1.395,
-      "n_base": 17,
-      "n_recent": 3
-    },
-    {
-      "pair": "ECO / TSM",
-      "baseline": -0.414,
-      "recent": 0.923,
-      "delta": 1.337,
-      "n_base": 21,
+      "pair": "INSW / PBR",
+      "baseline": -0.273,
+      "recent": 0.996,
+      "delta": 1.269,
+      "n_base": 24,
       "n_recent": 5
     }
   ],
