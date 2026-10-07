@@ -9,6 +9,16 @@
       "to": "Strong Buy"
     },
     {
+      "ticker": "AU",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "ARIS",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
       "ticker": "EWZ",
       "from": "Strong Buy",
       "to": "Buy"
@@ -32,16 +42,6 @@
       "ticker": "AYA",
       "from": "Buy",
       "to": "Hold"
-    },
-    {
-      "ticker": "AU",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "ARIS",
-      "from": "Buy",
-      "to": "Hold"
     }
   ],
   "generated": "rule_based",
@@ -49,5 +49,5 @@
   "bearish_tech_pct": 0.073,
   "market_pullback": false,
   "resilient_hold_count": 197,
-  "short_reflection": "Signal changes: IEO (Buy to Strong Buy), EWZ (Strong Buy to Buy), IXC (Strong Buy to Buy), FCG (Strong Buy to Buy)."
+  "short_reflection": "Signal changes: IEO (Buy to Strong Buy), AU (Buy to Hold), ARIS (Buy to Hold), EWZ (Strong Buy to Buy)."
 }
