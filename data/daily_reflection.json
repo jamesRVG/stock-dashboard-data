@@ -4,6 +4,11 @@
   "movers_down": [],
   "signal_changes": [
     {
+      "ticker": "IEO",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
       "ticker": "EWZ",
       "from": "Strong Buy",
       "to": "Buy"
@@ -14,27 +19,12 @@
       "to": "Buy"
     },
     {
-      "ticker": "PBR-A",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
       "ticker": "FCG",
       "from": "Strong Buy",
       "to": "Buy"
     },
     {
-      "ticker": "IEO",
-      "from": "Buy",
-      "to": "Strong Buy"
-    },
-    {
       "ticker": "FSM",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "ARIS",
       "from": "Buy",
       "to": "Hold"
     },
@@ -47,12 +37,17 @@
       "ticker": "AU",
       "from": "Buy",
       "to": "Hold"
+    },
+    {
+      "ticker": "ARIS",
+      "from": "Buy",
+      "to": "Hold"
     }
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.075,
+  "bearish_tech_pct": 0.073,
   "market_pullback": false,
-  "resilient_hold_count": 198,
-  "short_reflection": "Signal changes: EWZ (Strong Buy to Buy), IXC (Strong Buy to Buy), PBR-A (Strong Buy to Buy), FCG (Strong Buy to Buy)."
+  "resilient_hold_count": 197,
+  "short_reflection": "Signal changes: IEO (Buy to Strong Buy), EWZ (Strong Buy to Buy), IXC (Strong Buy to Buy), FCG (Strong Buy to Buy)."
 }
