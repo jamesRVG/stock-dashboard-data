@@ -1,25 +1,25 @@
 {
-  "date": "2026-10-08",
-  "refreshed": "2026-10-08 22:21",
+  "date": "2026-10-09",
+  "refreshed": "2026-10-09 01:14",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "Gold vs Dollar",
-      "baseline": -0.367,
-      "recent": 0.76,
-      "delta": 1.127,
-      "flip": false,
-      "n_base": 20,
+      "pair": "Copper vs Gold",
+      "baseline": 0.697,
+      "recent": -0.462,
+      "delta": -1.159,
+      "flip": true,
+      "n_base": 21,
       "n_recent": 5
     },
     {
-      "pair": "Copper vs Gold",
-      "baseline": 0.698,
-      "recent": 0.025,
-      "delta": -0.673,
+      "pair": "Gold vs Dollar",
+      "baseline": -0.37,
+      "recent": 0.516,
+      "delta": 0.886,
       "flip": false,
-      "n_base": 20,
+      "n_base": 21,
       "n_recent": 5
     }
   ],
@@ -27,8 +27,8 @@
     {
       "pair": "DHT / EXEL",
       "baseline": -0.222,
-      "recent": 0.914,
-      "delta": 1.136,
+      "recent": 0.907,
+      "delta": 1.129,
       "n_base": 24,
       "n_recent": 5
     },
@@ -59,68 +59,68 @@
     {
       "pair": "INSW / NVDA",
       "baseline": 0.241,
-      "recent": -0.745,
-      "delta": -0.986,
+      "recent": -0.744,
+      "delta": -0.985,
       "n_base": 21,
       "n_recent": 5
     },
     {
       "pair": "CMBT / NVDA",
       "baseline": 0.263,
-      "recent": -0.702,
-      "delta": -0.965,
+      "recent": -0.695,
+      "delta": -0.958,
       "n_base": 21,
       "n_recent": 5
     },
     {
-      "pair": "NAT / NVDA",
-      "baseline": 0.063,
-      "recent": -0.839,
-      "delta": -0.902,
+      "pair": "DHT / SU",
+      "baseline": -0.036,
+      "recent": 0.865,
+      "delta": 0.901,
       "n_base": 21,
       "n_recent": 5
     },
     {
       "pair": "ECO / TGTX",
       "baseline": -0.39,
-      "recent": 0.511,
-      "delta": 0.901,
+      "recent": 0.51,
+      "delta": 0.9,
       "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "DHT / SU",
-      "baseline": -0.036,
-      "recent": 0.856,
-      "delta": 0.892,
-      "n_base": 21,
       "n_recent": 5
     },
     {
       "pair": "XLE / MU",
       "baseline": -0.053,
-      "recent": -0.941,
-      "delta": -0.888,
+      "recent": -0.952,
+      "delta": -0.899,
       "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "NAT / NVDA",
+      "baseline": 0.063,
+      "recent": -0.834,
+      "delta": -0.897,
+      "n_base": 21,
       "n_recent": 5
     },
     {
       "pair": "DHT / IXC",
       "baseline": -0.051,
-      "recent": 0.83,
-      "delta": 0.881,
+      "recent": 0.831,
+      "delta": 0.882,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "LPG / EXEL",
       "baseline": 0.046,
-      "recent": 0.916,
-      "delta": 0.87,
+      "recent": 0.911,
+      "delta": 0.865,
       "n_base": 24,
       "n_recent": 5
     }
   ],
-  "note": "5-day window against a 20-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 20
+  "note": "5-day window against a 21-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 21
 }
