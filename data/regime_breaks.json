@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "refreshed": "2026-10-09 14:05",
+  "refreshed": "2026-10-09 18:39",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -16,8 +16,8 @@
     {
       "pair": "Gold vs Dollar",
       "baseline": -0.37,
-      "recent": 0.747,
-      "delta": 1.117,
+      "recent": 0.701,
+      "delta": 1.071,
       "flip": false,
       "n_base": 21,
       "n_recent": 5
@@ -25,99 +25,99 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "PBR / ARKG",
-      "baseline": -0.068,
-      "recent": 0.985,
-      "delta": 1.053,
-      "n_base": 22,
-      "n_recent": 4
-    },
-    {
       "pair": "DHT / EXEL",
       "baseline": -0.222,
-      "recent": 0.827,
-      "delta": 1.049,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "PBR-A / ARKG",
-      "baseline": -0.059,
-      "recent": 0.986,
-      "delta": 1.045,
-      "n_base": 22,
-      "n_recent": 4
-    },
-    {
-      "pair": "NAT / TGTX",
-      "baseline": -0.29,
-      "recent": 0.743,
-      "delta": 1.033,
+      "recent": 0.91,
+      "delta": 1.132,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "ECO / EXEL",
       "baseline": -0.156,
-      "recent": 0.861,
-      "delta": 1.017,
+      "recent": 0.939,
+      "delta": 1.095,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "FRO / EXEL",
       "baseline": -0.153,
-      "recent": 0.849,
-      "delta": 1.002,
+      "recent": 0.91,
+      "delta": 1.063,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "INSW / NVDA",
       "baseline": 0.241,
-      "recent": -0.744,
-      "delta": -0.985,
+      "recent": -0.766,
+      "delta": -1.007,
       "n_base": 21,
       "n_recent": 5
     },
     {
       "pair": "CMBT / NVDA",
       "baseline": 0.263,
-      "recent": -0.695,
-      "delta": -0.958,
+      "recent": -0.709,
+      "delta": -0.972,
       "n_base": 21,
       "n_recent": 5
     },
     {
-      "pair": "ECO / TGTX",
-      "baseline": -0.39,
-      "recent": 0.523,
-      "delta": 0.913,
+      "pair": "NAT / TGTX",
+      "baseline": -0.29,
+      "recent": 0.681,
+      "delta": 0.971,
       "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "DHT / SU",
-      "baseline": -0.036,
-      "recent": 0.87,
-      "delta": 0.906,
-      "n_base": 21,
       "n_recent": 5
     },
     {
       "pair": "XLE / MU",
       "baseline": -0.053,
-      "recent": -0.952,
-      "delta": -0.899,
+      "recent": -0.964,
+      "delta": -0.911,
       "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "PBR-A / SU",
+      "baseline": 0.648,
+      "recent": -0.255,
+      "delta": -0.903,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
+      "pair": "PBR / SU",
+      "baseline": 0.678,
+      "recent": -0.218,
+      "delta": -0.896,
+      "n_base": 21,
       "n_recent": 5
     },
     {
       "pair": "NAT / NVDA",
       "baseline": 0.063,
-      "recent": -0.832,
-      "delta": -0.895,
+      "recent": -0.815,
+      "delta": -0.878,
       "n_base": 21,
+      "n_recent": 5
+    },
+    {
+      "pair": "FENY / MU",
+      "baseline": -0.089,
+      "recent": -0.961,
+      "delta": -0.872,
+      "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "DHT / IXC",
+      "baseline": -0.051,
+      "recent": 0.818,
+      "delta": 0.869,
+      "n_base": 24,
       "n_recent": 5
     }
   ],
