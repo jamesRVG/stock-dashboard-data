@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "movers_up": [],
   "movers_down": [],
   "signal_changes": [
     {
-      "ticker": "AU",
+      "ticker": "EOG",
       "from": "Buy",
-      "to": "Hold"
+      "to": "Strong Buy"
     }
   ],
   "generated": "rule_based",
@@ -14,5 +14,5 @@
   "bearish_tech_pct": 0.052,
   "market_pullback": false,
   "resilient_hold_count": 195,
-  "short_reflection": "Signal changes: AU (Buy to Hold)."
+  "short_reflection": "Signal changes: EOG (Buy to Strong Buy)."
 }

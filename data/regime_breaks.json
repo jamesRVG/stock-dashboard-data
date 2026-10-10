@@ -1,32 +1,41 @@
 {
-  "date": "2026-10-09",
-  "refreshed": "2026-10-09 21:53",
+  "date": "2026-10-10",
+  "refreshed": "2026-10-10 00:54",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "Copper vs Gold",
-      "baseline": 0.697,
-      "recent": -0.462,
-      "delta": -1.159,
-      "flip": true,
-      "n_base": 21,
-      "n_recent": 5
-    },
-    {
       "pair": "Gold vs Dollar",
-      "baseline": -0.37,
-      "recent": 0.683,
-      "delta": 1.053,
+      "baseline": -0.364,
+      "recent": 0.575,
+      "delta": 0.939,
       "flip": false,
       "n_base": 21,
       "n_recent": 5
     },
     {
-      "pair": "Gold vs 10Y yield",
-      "baseline": -0.002,
-      "recent": -0.715,
-      "delta": -0.713,
+      "pair": "Oil vs S&P",
+      "baseline": -0.337,
+      "recent": 0.548,
+      "delta": 0.885,
+      "flip": false,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
+      "pair": "Copper vs S&P",
+      "baseline": 0.576,
+      "recent": -0.094,
+      "delta": -0.67,
+      "flip": false,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs VIX",
+      "baseline": -0.07,
+      "recent": 0.586,
+      "delta": 0.656,
       "flip": false,
       "n_base": 21,
       "n_recent": 5
@@ -36,55 +45,39 @@
     {
       "pair": "DHT / EXEL",
       "baseline": -0.222,
-      "recent": 0.886,
-      "delta": 1.108,
+      "recent": 0.84,
+      "delta": 1.062,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "FRO / EXEL",
       "baseline": -0.153,
-      "recent": 0.917,
-      "delta": 1.07,
+      "recent": 0.901,
+      "delta": 1.054,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "ECO / EXEL",
       "baseline": -0.156,
-      "recent": 0.888,
-      "delta": 1.044,
+      "recent": 0.872,
+      "delta": 1.028,
       "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "INSW / NVDA",
-      "baseline": 0.241,
-      "recent": -0.695,
-      "delta": -0.936,
-      "n_base": 21,
       "n_recent": 5
     },
     {
       "pair": "PBR-A / SU",
       "baseline": 0.648,
-      "recent": -0.265,
-      "delta": -0.913,
+      "recent": -0.271,
+      "delta": -0.919,
       "n_base": 21,
       "n_recent": 5
     },
     {
-      "pair": "XLE / MU",
-      "baseline": -0.053,
-      "recent": -0.961,
-      "delta": -0.908,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "CMBT / NVDA",
-      "baseline": 0.263,
-      "recent": -0.639,
+      "pair": "PBR / SU",
+      "baseline": 0.678,
+      "recent": -0.224,
       "delta": -0.902,
       "n_base": 21,
       "n_recent": 5
@@ -92,15 +85,7 @@
     {
       "pair": "NAT / NVDA",
       "baseline": 0.063,
-      "recent": -0.833,
-      "delta": -0.896,
-      "n_base": 21,
-      "n_recent": 5
-    },
-    {
-      "pair": "PBR / SU",
-      "baseline": 0.678,
-      "recent": -0.216,
+      "recent": -0.831,
       "delta": -0.894,
       "n_base": 21,
       "n_recent": 5
@@ -108,25 +93,49 @@
     {
       "pair": "DHT / IXC",
       "baseline": -0.051,
-      "recent": 0.825,
-      "delta": 0.876,
+      "recent": 0.839,
+      "delta": 0.89,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "LPG / EXEL",
-      "baseline": 0.046,
-      "recent": 0.918,
-      "delta": 0.872,
+      "pair": "XLE / MU",
+      "baseline": -0.053,
+      "recent": -0.914,
+      "delta": -0.861,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "FENY / MU",
       "baseline": -0.089,
-      "recent": -0.957,
-      "delta": -0.868,
+      "recent": -0.947,
+      "delta": -0.858,
       "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "LPG / EXEL",
+      "baseline": 0.046,
+      "recent": 0.894,
+      "delta": 0.848,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "CMBT / NVDA",
+      "baseline": 0.263,
+      "recent": -0.585,
+      "delta": -0.848,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
+      "pair": "TRMD / EXEL",
+      "baseline": 0.073,
+      "recent": 0.916,
+      "delta": 0.843,
+      "n_base": 24,
       "n_recent": 5
     }
   ],
