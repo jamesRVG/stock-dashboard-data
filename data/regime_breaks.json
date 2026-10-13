@@ -1,14 +1,14 @@
 {
   "date": "2026-10-13",
-  "refreshed": "2026-10-13 19:41",
+  "refreshed": "2026-10-13 21:56",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Copper vs S&P",
       "baseline": 0.582,
-      "recent": -0.66,
-      "delta": -1.242,
+      "recent": -0.595,
+      "delta": -1.177,
       "flip": true,
       "n_base": 22,
       "n_recent": 5
@@ -16,8 +16,8 @@
     {
       "pair": "S&P vs 10Y yield",
       "baseline": 0.171,
-      "recent": -0.992,
-      "delta": -1.163,
+      "recent": -0.956,
+      "delta": -1.127,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -25,8 +25,8 @@
     {
       "pair": "Oil vs S&P",
       "baseline": -0.246,
-      "recent": 0.449,
-      "delta": 0.695,
+      "recent": 0.523,
+      "delta": 0.769,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -34,8 +34,8 @@
     {
       "pair": "S&P vs VIX",
       "baseline": -0.158,
-      "recent": 0.514,
-      "delta": 0.672,
+      "recent": 0.443,
+      "delta": 0.601,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -45,96 +45,96 @@
     {
       "pair": "XOP / PBR",
       "baseline": 0.537,
-      "recent": -0.614,
-      "delta": -1.151,
+      "recent": -0.625,
+      "delta": -1.162,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "IEO / PBR",
       "baseline": 0.514,
-      "recent": -0.575,
-      "delta": -1.089,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "FCG / PBR",
-      "baseline": 0.542,
-      "recent": -0.504,
-      "delta": -1.046,
+      "recent": -0.59,
+      "delta": -1.104,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "XOP / PBR-A",
       "baseline": 0.461,
-      "recent": -0.552,
-      "delta": -1.013,
+      "recent": -0.642,
+      "delta": -1.103,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "PBR / TGTX",
-      "baseline": -0.228,
-      "recent": 0.778,
-      "delta": 1.006,
+      "pair": "LPG / ARKG",
+      "baseline": 0.103,
+      "recent": -0.975,
+      "delta": -1.078,
+      "n_base": 24,
+      "n_recent": 4
+    },
+    {
+      "pair": "FCG / PBR",
+      "baseline": 0.542,
+      "recent": -0.535,
+      "delta": -1.077,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "IEO / PBR-A",
       "baseline": 0.442,
-      "recent": -0.535,
-      "delta": -0.977,
+      "recent": -0.628,
+      "delta": -1.07,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "PBR-A / TGTX",
-      "baseline": -0.192,
-      "recent": 0.777,
-      "delta": 0.969,
+      "pair": "CMBT / ARKG",
+      "baseline": 0.124,
+      "recent": -0.936,
+      "delta": -1.06,
       "n_base": 24,
-      "n_recent": 5
+      "n_recent": 4
     },
     {
-      "pair": "INSW / CDNA",
-      "baseline": 0.185,
-      "recent": -0.779,
-      "delta": -0.964,
+      "pair": "FCG / PBR-A",
+      "baseline": 0.466,
+      "recent": -0.569,
+      "delta": -1.035,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "XOP / EXEL",
       "baseline": 0.231,
-      "recent": -0.726,
-      "delta": -0.957,
+      "recent": -0.793,
+      "delta": -1.024,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "FRO / INCY",
-      "baseline": -0.05,
-      "recent": -1.0,
-      "delta": -0.95,
+      "pair": "PBR / TGTX",
+      "baseline": -0.228,
+      "recent": 0.774,
+      "delta": 1.002,
       "n_base": 24,
-      "n_recent": 4
+      "n_recent": 5
     },
     {
-      "pair": "CMBT / INCY",
-      "baseline": 0.043,
-      "recent": -0.905,
-      "delta": -0.948,
+      "pair": "PBR-A / TGTX",
+      "baseline": -0.192,
+      "recent": 0.809,
+      "delta": 1.001,
       "n_base": 24,
-      "n_recent": 4
+      "n_recent": 5
     },
     {
-      "pair": "CMBT / ARKG",
-      "baseline": 0.124,
-      "recent": -0.805,
-      "delta": -0.929,
+      "pair": "IXC / PBR",
+      "baseline": 0.577,
+      "recent": -0.412,
+      "delta": -0.989,
       "n_base": 24,
       "n_recent": 5
     }
