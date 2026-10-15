@@ -1,6 +1,6 @@
 {
   "date": "2026-10-15",
-  "refreshed": "2026-10-15 14:06",
+  "refreshed": "2026-10-15 17:27",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -10,6 +10,15 @@
       "recent": -0.48,
       "delta": -0.994,
       "flip": true,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "Copper vs S&P",
+      "baseline": 0.562,
+      "recent": -0.323,
+      "delta": -0.885,
+      "flip": false,
       "n_base": 22,
       "n_recent": 5
     },
@@ -25,17 +34,8 @@
     {
       "pair": "S&P vs 10Y yield",
       "baseline": 0.13,
-      "recent": 0.889,
-      "delta": 0.759,
-      "flip": false,
-      "n_base": 22,
-      "n_recent": 5
-    },
-    {
-      "pair": "Copper vs S&P",
-      "baseline": 0.562,
-      "recent": -0.05,
-      "delta": -0.612,
+      "recent": 0.853,
+      "delta": 0.723,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -43,98 +43,98 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "EXEL / CMBT",
-      "baseline": 0.394,
-      "recent": -0.835,
-      "delta": -1.229,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "CMBT / FBT",
+      "pair": "FBT / CMBT",
       "baseline": 0.196,
-      "recent": -0.959,
-      "delta": -1.155,
+      "recent": -1.0,
+      "delta": -1.196,
       "n_base": 18,
       "n_recent": 3
     },
     {
-      "pair": "FCG / PBR-A",
-      "baseline": 0.463,
-      "recent": -0.648,
-      "delta": -1.111,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "PBR / CMBT",
-      "baseline": 0.178,
-      "recent": -0.917,
-      "delta": -1.095,
+      "pair": "EXEL / CMBT",
+      "baseline": 0.394,
+      "recent": -0.77,
+      "delta": -1.164,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "XOP / EXEL",
       "baseline": 0.223,
-      "recent": -0.87,
-      "delta": -1.093,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "LPG / PBR",
-      "baseline": 0.193,
       "recent": -0.893,
-      "delta": -1.086,
+      "delta": -1.116,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "FCG / PBR",
-      "baseline": 0.534,
-      "recent": -0.55,
-      "delta": -1.084,
+      "pair": "EXEL / FENY",
+      "baseline": 0.315,
+      "recent": -0.786,
+      "delta": -1.101,
+      "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "PBR-A / FBT",
+      "baseline": 0.081,
+      "recent": -1.0,
+      "delta": -1.081,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "PBR / FBT",
+      "baseline": 0.042,
+      "recent": -0.991,
+      "delta": -1.033,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "EXEL / SU",
+      "baseline": 0.336,
+      "recent": -0.683,
+      "delta": -1.019,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
+      "pair": "IEO / EXEL",
+      "baseline": 0.171,
+      "recent": -0.825,
+      "delta": -0.996,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "FCG / EXEL",
       "baseline": 0.103,
-      "recent": -0.927,
-      "delta": -1.03,
+      "recent": -0.885,
+      "delta": -0.988,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "PBR-A / CMBT",
-      "baseline": 0.153,
-      "recent": -0.866,
-      "delta": -1.019,
+      "pair": "IXC / EXEL",
+      "baseline": 0.309,
+      "recent": -0.675,
+      "delta": -0.984,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "LPG / PBR-A",
-      "baseline": 0.167,
-      "recent": -0.835,
-      "delta": -1.002,
-      "n_base": 24,
-      "n_recent": 5
+      "pair": "TRMD / FBT",
+      "baseline": 0.0,
+      "recent": -0.933,
+      "delta": -0.933,
+      "n_base": 18,
+      "n_recent": 3
     },
     {
-      "pair": "PBR-A / TGTX",
-      "baseline": -0.175,
-      "recent": 0.826,
-      "delta": 1.001,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "XOP / PBR-A",
-      "baseline": 0.446,
-      "recent": -0.546,
-      "delta": -0.992,
+      "pair": "XLE / EXEL",
+      "baseline": 0.211,
+      "recent": -0.682,
+      "delta": -0.893,
       "n_base": 24,
       "n_recent": 5
     }
