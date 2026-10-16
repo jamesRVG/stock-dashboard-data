@@ -1,14 +1,32 @@
 {
   "date": "2026-10-16",
-  "refreshed": "2026-10-16 13:54",
+  "refreshed": "2026-10-16 17:03",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Copper vs S&P",
       "baseline": 0.474,
-      "recent": -0.39,
-      "delta": -0.864,
+      "recent": -0.571,
+      "delta": -1.045,
+      "flip": true,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs Gold",
+      "baseline": 0.359,
+      "recent": -0.374,
+      "delta": -0.733,
+      "flip": false,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs VIX",
+      "baseline": -0.134,
+      "recent": 0.524,
+      "delta": 0.658,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -16,98 +34,98 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "PBR-A / ARKG",
-      "baseline": 0.34,
-      "recent": -0.866,
-      "delta": -1.206,
-      "n_base": 24,
-      "n_recent": 3
-    },
-    {
-      "pair": "FBT / CMBT",
-      "baseline": 0.196,
-      "recent": -1.0,
-      "delta": -1.196,
-      "n_base": 18,
-      "n_recent": 3
-    },
-    {
-      "pair": "EXEL / CMBT",
-      "baseline": 0.394,
-      "recent": -0.794,
-      "delta": -1.188,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "FENY / EXEL",
-      "baseline": 0.315,
-      "recent": -0.87,
-      "delta": -1.185,
-      "n_base": 18,
-      "n_recent": 5
-    },
-    {
-      "pair": "XOP / EXEL",
-      "baseline": 0.223,
-      "recent": -0.902,
-      "delta": -1.125,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "IXC / EXEL",
-      "baseline": 0.309,
-      "recent": -0.805,
-      "delta": -1.114,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "PBR / ARKG",
-      "baseline": 0.286,
-      "recent": -0.813,
-      "delta": -1.099,
-      "n_base": 24,
-      "n_recent": 3
-    },
-    {
-      "pair": "PBR-A / FBT",
-      "baseline": 0.081,
-      "recent": -1.0,
-      "delta": -1.081,
-      "n_base": 18,
-      "n_recent": 3
-    },
-    {
-      "pair": "TRMD / ARKG",
-      "baseline": 0.103,
-      "recent": -0.952,
-      "delta": -1.055,
-      "n_base": 24,
-      "n_recent": 3
-    },
-    {
       "pair": "EXEL / SU",
-      "baseline": 0.336,
-      "recent": -0.711,
-      "delta": -1.047,
+      "baseline": 0.303,
+      "recent": -0.982,
+      "delta": -1.285,
       "n_base": 21,
       "n_recent": 5
     },
     {
-      "pair": "NAT / ARKG",
-      "baseline": 0.082,
-      "recent": -0.962,
-      "delta": -1.044,
+      "pair": "FENY / EXEL",
+      "baseline": 0.271,
+      "recent": -0.974,
+      "delta": -1.245,
+      "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "IXC / EXEL",
+      "baseline": 0.278,
+      "recent": -0.945,
+      "delta": -1.223,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "FBT / CMBT",
+      "baseline": 0.201,
+      "recent": -0.996,
+      "delta": -1.197,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "PBR / INCY",
+      "baseline": -0.185,
+      "recent": 0.993,
+      "delta": 1.178,
       "n_base": 24,
       "n_recent": 3
     },
     {
+      "pair": "PBR-A / INCY",
+      "baseline": -0.18,
+      "recent": 0.992,
+      "delta": 1.172,
+      "n_base": 24,
+      "n_recent": 3
+    },
+    {
+      "pair": "EXEL / CMBT",
+      "baseline": 0.391,
+      "recent": -0.781,
+      "delta": -1.172,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "XOP / EXEL",
+      "baseline": 0.18,
+      "recent": -0.98,
+      "delta": -1.16,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
       "pair": "IEO / EXEL",
-      "baseline": 0.171,
-      "recent": -0.872,
-      "delta": -1.043,
+      "baseline": 0.13,
+      "recent": -0.979,
+      "delta": -1.109,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "XLE / EXEL",
+      "baseline": 0.174,
+      "recent": -0.927,
+      "delta": -1.101,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "EOG / EXEL",
+      "baseline": 0.16,
+      "recent": -0.907,
+      "delta": -1.067,
+      "n_base": 17,
+      "n_recent": 5
+    },
+    {
+      "pair": "TRMD / EXEL",
+      "baseline": 0.147,
+      "recent": -0.846,
+      "delta": -0.993,
       "n_base": 24,
       "n_recent": 5
     }
