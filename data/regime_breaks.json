@@ -1,14 +1,14 @@
 {
   "date": "2026-10-16",
-  "refreshed": "2026-10-16 17:03",
+  "refreshed": "2026-10-16 20:06",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Copper vs S&P",
       "baseline": 0.474,
-      "recent": -0.571,
-      "delta": -1.045,
+      "recent": -0.615,
+      "delta": -1.089,
       "flip": true,
       "n_base": 22,
       "n_recent": 5
@@ -16,8 +16,8 @@
     {
       "pair": "S&P vs Gold",
       "baseline": 0.359,
-      "recent": -0.374,
-      "delta": -0.733,
+      "recent": -0.599,
+      "delta": -0.958,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -25,8 +25,8 @@
     {
       "pair": "S&P vs VIX",
       "baseline": -0.134,
-      "recent": 0.524,
-      "delta": 0.658,
+      "recent": 0.562,
+      "delta": 0.696,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -34,98 +34,98 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "EXEL / SU",
+      "pair": "SU / EXEL",
       "baseline": 0.303,
-      "recent": -0.982,
-      "delta": -1.285,
+      "recent": -0.98,
+      "delta": -1.283,
       "n_base": 21,
       "n_recent": 5
     },
     {
       "pair": "FENY / EXEL",
       "baseline": 0.271,
-      "recent": -0.974,
-      "delta": -1.245,
+      "recent": -0.976,
+      "delta": -1.247,
       "n_base": 18,
       "n_recent": 5
     },
     {
       "pair": "IXC / EXEL",
       "baseline": 0.278,
-      "recent": -0.945,
-      "delta": -1.223,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "FBT / CMBT",
-      "baseline": 0.201,
-      "recent": -0.996,
-      "delta": -1.197,
-      "n_base": 18,
-      "n_recent": 3
-    },
-    {
-      "pair": "PBR / INCY",
-      "baseline": -0.185,
-      "recent": 0.993,
-      "delta": 1.178,
-      "n_base": 24,
-      "n_recent": 3
-    },
-    {
-      "pair": "PBR-A / INCY",
-      "baseline": -0.18,
-      "recent": 0.992,
-      "delta": 1.172,
-      "n_base": 24,
-      "n_recent": 3
-    },
-    {
-      "pair": "EXEL / CMBT",
-      "baseline": 0.391,
-      "recent": -0.781,
-      "delta": -1.172,
+      "recent": -0.956,
+      "delta": -1.234,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "XOP / EXEL",
       "baseline": 0.18,
-      "recent": -0.98,
-      "delta": -1.16,
+      "recent": -0.978,
+      "delta": -1.158,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "IEO / EXEL",
-      "baseline": 0.13,
-      "recent": -0.979,
-      "delta": -1.109,
-      "n_base": 24,
-      "n_recent": 5
+      "pair": "PBR-A / FBT",
+      "baseline": 0.116,
+      "recent": -1.0,
+      "delta": -1.116,
+      "n_base": 18,
+      "n_recent": 3
     },
     {
-      "pair": "XLE / EXEL",
-      "baseline": 0.174,
-      "recent": -0.927,
-      "delta": -1.101,
+      "pair": "EXEL / CMBT",
+      "baseline": 0.391,
+      "recent": -0.725,
+      "delta": -1.116,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "EOG / EXEL",
       "baseline": 0.16,
-      "recent": -0.907,
-      "delta": -1.067,
+      "recent": -0.952,
+      "delta": -1.112,
       "n_base": 17,
+      "n_recent": 5
+    },
+    {
+      "pair": "XLE / EXEL",
+      "baseline": 0.174,
+      "recent": -0.936,
+      "delta": -1.11,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "IEO / EXEL",
+      "baseline": 0.13,
+      "recent": -0.945,
+      "delta": -1.075,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "PBR / FBT",
+      "baseline": 0.073,
+      "recent": -1.0,
+      "delta": -1.073,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "FCG / EXEL",
+      "baseline": 0.054,
+      "recent": -0.929,
+      "delta": -0.983,
+      "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "TRMD / EXEL",
       "baseline": 0.147,
-      "recent": -0.846,
-      "delta": -0.993,
+      "recent": -0.807,
+      "delta": -0.954,
       "n_base": 24,
       "n_recent": 5
     }

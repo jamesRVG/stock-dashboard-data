@@ -4,6 +4,16 @@
   "movers_down": [],
   "signal_changes": [
     {
+      "ticker": "EXEL",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
+      "ticker": "TRMD",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
       "ticker": "FENY",
       "from": "Buy",
       "to": "Strong Buy"
@@ -14,5 +24,5 @@
   "bearish_tech_pct": 0.079,
   "market_pullback": false,
   "resilient_hold_count": 204,
-  "short_reflection": "Signal changes: FENY (Buy to Strong Buy)."
+  "short_reflection": "Signal changes: EXEL (Strong Buy to Buy), TRMD (Strong Buy to Buy), FENY (Buy to Strong Buy)."
 }
