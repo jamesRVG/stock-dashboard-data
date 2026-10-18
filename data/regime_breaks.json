@@ -1,41 +1,41 @@
 {
-  "date": "2026-10-16",
-  "refreshed": "2026-10-16 23:41",
+  "date": "2026-10-18",
+  "refreshed": "2026-10-18 17:36",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Copper vs S&P",
-      "baseline": 0.474,
-      "recent": -0.612,
-      "delta": -1.086,
+      "baseline": 0.437,
+      "recent": -0.914,
+      "delta": -1.351,
       "flip": true,
       "n_base": 22,
       "n_recent": 5
     },
     {
       "pair": "S&P vs Gold",
-      "baseline": 0.359,
-      "recent": -0.572,
-      "delta": -0.931,
+      "baseline": 0.364,
+      "recent": -0.59,
+      "delta": -0.954,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
     },
     {
       "pair": "S&P vs VIX",
-      "baseline": -0.134,
-      "recent": 0.56,
-      "delta": 0.694,
+      "baseline": -0.129,
+      "recent": 0.723,
+      "delta": 0.852,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
     },
     {
       "pair": "Gold vs 10Y yield",
-      "baseline": -0.158,
-      "recent": -0.789,
-      "delta": -0.631,
+      "baseline": -0.179,
+      "recent": -0.816,
+      "delta": -0.637,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -45,24 +45,24 @@
     {
       "pair": "SU / EXEL",
       "baseline": 0.303,
-      "recent": -0.952,
-      "delta": -1.255,
+      "recent": -0.967,
+      "delta": -1.27,
       "n_base": 21,
       "n_recent": 5
     },
     {
       "pair": "FENY / EXEL",
       "baseline": 0.271,
-      "recent": -0.98,
-      "delta": -1.251,
+      "recent": -0.975,
+      "delta": -1.246,
       "n_base": 18,
       "n_recent": 5
     },
     {
       "pair": "IXC / EXEL",
       "baseline": 0.278,
-      "recent": -0.963,
-      "delta": -1.241,
+      "recent": -0.944,
+      "delta": -1.222,
       "n_base": 24,
       "n_recent": 5
     },
@@ -85,48 +85,40 @@
     {
       "pair": "XOP / EXEL",
       "baseline": 0.18,
-      "recent": -0.98,
-      "delta": -1.16,
+      "recent": -0.986,
+      "delta": -1.166,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "XLE / EXEL",
       "baseline": 0.174,
-      "recent": -0.946,
-      "delta": -1.12,
+      "recent": -0.94,
+      "delta": -1.114,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "IEO / EXEL",
+      "baseline": 0.13,
+      "recent": -0.982,
+      "delta": -1.112,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "EOG / EXEL",
       "baseline": 0.16,
-      "recent": -0.949,
-      "delta": -1.109,
+      "recent": -0.906,
+      "delta": -1.066,
       "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "IEO / EXEL",
-      "baseline": 0.13,
-      "recent": -0.955,
-      "delta": -1.085,
-      "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "EXEL / CMBT",
       "baseline": 0.391,
-      "recent": -0.685,
-      "delta": -1.076,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "FCG / EXEL",
-      "baseline": 0.054,
-      "recent": -0.932,
-      "delta": -0.986,
+      "recent": -0.66,
+      "delta": -1.051,
       "n_base": 24,
       "n_recent": 5
     },
@@ -137,6 +129,14 @@
       "delta": -0.957,
       "n_base": 24,
       "n_recent": 3
+    },
+    {
+      "pair": "FCG / EXEL",
+      "baseline": 0.054,
+      "recent": -0.894,
+      "delta": -0.948,
+      "n_base": 24,
+      "n_recent": 5
     }
   ],
   "note": "5-day window against a 22-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
