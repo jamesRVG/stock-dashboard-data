@@ -1,24 +1,15 @@
 {
   "date": "2026-10-20",
-  "refreshed": "2026-10-20 14:01",
+  "refreshed": "2026-10-20 17:29",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs Gold",
       "baseline": 0.473,
-      "recent": -0.883,
-      "delta": -1.356,
+      "recent": -0.947,
+      "delta": -1.42,
       "flip": true,
-      "n_base": 22,
-      "n_recent": 5
-    },
-    {
-      "pair": "Copper vs S&P",
-      "baseline": 0.193,
-      "recent": -0.699,
-      "delta": -0.892,
-      "flip": false,
       "n_base": 22,
       "n_recent": 5
     },
@@ -34,17 +25,17 @@
     {
       "pair": "S&P vs 10Y yield",
       "baseline": 0.091,
-      "recent": 0.838,
-      "delta": 0.747,
+      "recent": 0.916,
+      "delta": 0.825,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
     },
     {
-      "pair": "S&P vs VIX",
-      "baseline": -0.008,
-      "recent": 0.639,
-      "delta": 0.647,
+      "pair": "Copper vs S&P",
+      "baseline": 0.193,
+      "recent": -0.584,
+      "delta": -0.777,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -52,34 +43,34 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "PBR-A / FBT",
+      "pair": "FBT / PBR-A",
       "baseline": 0.23,
-      "recent": -0.975,
-      "delta": -1.205,
+      "recent": -0.977,
+      "delta": -1.207,
       "n_base": 16,
       "n_recent": 3
     },
     {
-      "pair": "PBR / FBT",
+      "pair": "FBT / PBR",
       "baseline": 0.203,
-      "recent": -0.992,
-      "delta": -1.195,
+      "recent": -0.965,
+      "delta": -1.168,
       "n_base": 16,
       "n_recent": 3
     },
     {
       "pair": "PBR / EXEL",
       "baseline": 0.291,
-      "recent": -0.841,
-      "delta": -1.132,
+      "recent": -0.825,
+      "delta": -1.116,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "PBR-A / EXEL",
       "baseline": 0.26,
-      "recent": -0.79,
-      "delta": -1.05,
+      "recent": -0.787,
+      "delta": -1.047,
       "n_base": 24,
       "n_recent": 5
     },
@@ -92,58 +83,58 @@
       "n_recent": 5
     },
     {
-      "pair": "PBR-A / CDNA",
-      "baseline": 0.086,
-      "recent": -0.942,
-      "delta": -1.028,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
       "pair": "XOP / CDNA",
       "baseline": 0.122,
-      "recent": -0.898,
-      "delta": -1.02,
+      "recent": -0.901,
+      "delta": -1.023,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "IEO / CDNA",
       "baseline": 0.097,
-      "recent": -0.906,
-      "delta": -1.003,
+      "recent": -0.914,
+      "delta": -1.011,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "IXC / CDNA",
-      "baseline": 0.019,
-      "recent": -0.954,
-      "delta": -0.973,
-      "n_base": 24,
-      "n_recent": 5
+      "pair": "FBT / SU",
+      "baseline": 0.006,
+      "recent": -0.98,
+      "delta": -0.986,
+      "n_base": 13,
+      "n_recent": 3
     },
     {
-      "pair": "PBR / CDNA",
-      "baseline": 0.053,
-      "recent": -0.916,
-      "delta": -0.969,
+      "pair": "PBR-A / CDNA",
+      "baseline": 0.086,
+      "recent": -0.899,
+      "delta": -0.985,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "EXEL / FENY",
       "baseline": 0.124,
-      "recent": -0.82,
-      "delta": -0.944,
+      "recent": -0.848,
+      "delta": -0.972,
       "n_base": 18,
       "n_recent": 5
     },
     {
-      "pair": "FCG / CDNA",
-      "baseline": 0.072,
-      "recent": -0.869,
-      "delta": -0.941,
+      "pair": "IXC / CDNA",
+      "baseline": 0.019,
+      "recent": -0.937,
+      "delta": -0.956,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "IXC / EXEL",
+      "baseline": 0.191,
+      "recent": -0.76,
+      "delta": -0.951,
       "n_base": 24,
       "n_recent": 5
     }
