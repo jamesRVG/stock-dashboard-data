@@ -4,9 +4,9 @@
   "movers_down": [],
   "signal_changes": [
     {
-      "ticker": "INCY",
-      "from": "Strong Buy",
-      "to": "Buy"
+      "ticker": "NEM",
+      "from": "Buy",
+      "to": "Strong Buy"
     },
     {
       "ticker": "INSW",
@@ -14,14 +14,19 @@
       "to": "Strong Buy"
     },
     {
-      "ticker": "EOG",
+      "ticker": "FRO",
+      "from": "Buy",
+      "to": "Strong Buy"
+    },
+    {
+      "ticker": "INCY",
       "from": "Strong Buy",
       "to": "Buy"
     },
     {
-      "ticker": "FRO",
-      "from": "Buy",
-      "to": "Strong Buy"
+      "ticker": "EOG",
+      "from": "Strong Buy",
+      "to": "Buy"
     },
     {
       "ticker": "CSDXF",
@@ -37,11 +42,6 @@
       "ticker": "FENY",
       "from": "Strong Buy",
       "to": "Buy"
-    },
-    {
-      "ticker": "NEM",
-      "from": "Buy",
-      "to": "Strong Buy"
     }
   ],
   "generated": "rule_based",
@@ -49,5 +49,5 @@
   "bearish_tech_pct": 0.064,
   "market_pullback": false,
   "resilient_hold_count": 205,
-  "short_reflection": "Signal changes: INCY (Strong Buy to Buy), INSW (Buy to Strong Buy), EOG (Strong Buy to Buy), FRO (Buy to Strong Buy)."
+  "short_reflection": "Signal changes: NEM (Buy to Strong Buy), INSW (Buy to Strong Buy), FRO (Buy to Strong Buy), INCY (Strong Buy to Buy)."
 }
