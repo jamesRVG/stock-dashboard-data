@@ -4,9 +4,19 @@
   "movers_down": [],
   "signal_changes": [
     {
-      "ticker": "DHT",
-      "from": "Buy",
-      "to": "Strong Buy"
+      "ticker": "STNG",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
+      "ticker": "NEM",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
+      "ticker": "FRO",
+      "from": "Strong Buy",
+      "to": "Buy"
     },
     {
       "ticker": "CHRD",
@@ -16,8 +26,8 @@
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.061,
+  "bearish_tech_pct": 0.075,
   "market_pullback": false,
   "resilient_hold_count": 207,
-  "short_reflection": "Signal changes: DHT (Buy to Strong Buy), CHRD (Buy to Strong Buy)."
+  "short_reflection": "Signal changes: STNG (Strong Buy to Buy), NEM (Strong Buy to Buy), FRO (Strong Buy to Buy), CHRD (Buy to Strong Buy)."
 }
