@@ -19,25 +19,30 @@
       "to": "Strong Buy"
     },
     {
-      "ticker": "INCY",
-      "from": "Strong Buy",
-      "to": "Buy"
+      "ticker": "LPG",
+      "from": "Buy",
+      "to": "Strong Buy"
     },
     {
-      "ticker": "AUPH",
-      "from": "Strong Buy",
-      "to": "Buy"
+      "ticker": "SSRM",
+      "from": "Buy",
+      "to": "Hold"
     },
     {
       "ticker": "AU",
       "from": "Buy",
       "to": "Hold"
+    },
+    {
+      "ticker": "AUPH",
+      "from": "Strong Buy",
+      "to": "Buy"
     }
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.089,
+  "bearish_tech_pct": 0.084,
   "market_pullback": false,
   "resilient_hold_count": 204,
-  "short_reflection": "Signal changes: DHT (Buy to Strong Buy), FRO (Buy to Strong Buy), TEN (Buy to Strong Buy), INCY (Strong Buy to Buy)."
+  "short_reflection": "Signal changes: DHT (Buy to Strong Buy), FRO (Buy to Strong Buy), TEN (Buy to Strong Buy), LPG (Buy to Strong Buy)."
 }
