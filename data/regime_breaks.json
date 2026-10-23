@@ -1,25 +1,51 @@
 {
   "date": "2026-10-23",
-  "refreshed": "2026-10-23 20:38",
+  "refreshed": "2026-10-23 23:53",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Gold vs 10Y yield",
-      "baseline": -0.224,
+      "baseline": -0.292,
       "recent": 0.949,
-      "delta": 1.173,
+      "delta": 1.241,
       "flip": false,
-      "n_base": 22,
+      "n_base": 21,
       "n_recent": 3
+    },
+    {
+      "pair": "S&P vs 10Y yield",
+      "baseline": 0.257,
+      "recent": 0.91,
+      "delta": 0.653,
+      "flip": false,
+      "n_base": 21,
+      "n_recent": 3
+    },
+    {
+      "pair": "Oil vs S&P",
+      "baseline": 0.01,
+      "recent": -0.607,
+      "delta": -0.617,
+      "flip": false,
+      "n_base": 21,
+      "n_recent": 5
     }
   ],
   "ticker_pairs": [
     {
       "pair": "XOP / TGTX",
       "baseline": -0.538,
-      "recent": 0.861,
-      "delta": 1.399,
+      "recent": 0.87,
+      "delta": 1.408,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "IEO / TGTX",
+      "baseline": -0.48,
+      "recent": 0.885,
+      "delta": 1.365,
       "n_base": 24,
       "n_recent": 5
     },
@@ -40,22 +66,6 @@
       "n_recent": 5
     },
     {
-      "pair": "IEO / TGTX",
-      "baseline": -0.48,
-      "recent": 0.849,
-      "delta": 1.329,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "FBT / DHT",
-      "baseline": -0.415,
-      "recent": 0.871,
-      "delta": 1.286,
-      "n_base": 17,
-      "n_recent": 4
-    },
-    {
       "pair": "XLE / TGTX",
       "baseline": -0.48,
       "recent": 0.794,
@@ -64,10 +74,18 @@
       "n_recent": 5
     },
     {
+      "pair": "FBT / DHT",
+      "baseline": -0.415,
+      "recent": 0.852,
+      "delta": 1.267,
+      "n_base": 17,
+      "n_recent": 4
+    },
+    {
       "pair": "FCG / TGTX",
       "baseline": -0.564,
-      "recent": 0.701,
-      "delta": 1.265,
+      "recent": 0.699,
+      "delta": 1.263,
       "n_base": 24,
       "n_recent": 5
     },
@@ -96,22 +114,22 @@
       "n_recent": 5
     },
     {
-      "pair": "DHT / LLY",
-      "baseline": -0.516,
-      "recent": 0.449,
-      "delta": 0.965,
-      "n_base": 14,
-      "n_recent": 5
+      "pair": "FBT / TGTX",
+      "baseline": 0.883,
+      "recent": -0.05,
+      "delta": -0.933,
+      "n_base": 17,
+      "n_recent": 4
     },
     {
-      "pair": "PBR / TGTX",
-      "baseline": -0.031,
-      "recent": 0.888,
-      "delta": 0.919,
+      "pair": "LPG / TGTX",
+      "baseline": -0.24,
+      "recent": 0.682,
+      "delta": 0.922,
       "n_base": 24,
       "n_recent": 5
     }
   ],
-  "note": "5-day window against a 22-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 22
+  "note": "5-day window against a 21-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 21
 }
