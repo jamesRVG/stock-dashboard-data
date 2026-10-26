@@ -1,135 +1,144 @@
 {
-  "date": "2026-10-25",
-  "refreshed": "2026-10-25 17:51",
+  "date": "2026-10-26",
+  "refreshed": "2026-10-26 14:11",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Gold vs 10Y yield",
-      "baseline": -0.29,
-      "recent": 0.996,
-      "delta": 1.286,
+      "baseline": -0.289,
+      "recent": 0.954,
+      "delta": 1.243,
       "flip": false,
-      "n_base": 22,
+      "n_base": 23,
       "n_recent": 3
     },
     {
       "pair": "S&P vs VIX",
-      "baseline": 0.185,
-      "recent": -1.0,
-      "delta": -1.185,
+      "baseline": 0.131,
+      "recent": -0.809,
+      "delta": -0.94,
       "flip": false,
-      "n_base": 22,
+      "n_base": 23,
       "n_recent": 3
     },
     {
       "pair": "S&P vs 10Y yield",
-      "baseline": 0.244,
-      "recent": 0.995,
-      "delta": 0.751,
+      "baseline": 0.274,
+      "recent": 0.884,
+      "delta": 0.61,
       "flip": false,
-      "n_base": 22,
+      "n_base": 23,
       "n_recent": 3
+    },
+    {
+      "pair": "Oil vs S&P",
+      "baseline": -0.026,
+      "recent": -0.629,
+      "delta": -0.603,
+      "flip": false,
+      "n_base": 23,
+      "n_recent": 5
     }
   ],
   "ticker_pairs": [
     {
       "pair": "XOP / TGTX",
-      "baseline": -0.538,
-      "recent": 0.761,
-      "delta": 1.299,
+      "baseline": -0.53,
+      "recent": 0.753,
+      "delta": 1.283,
       "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "TGTX / ENFR",
+      "baseline": -0.713,
+      "recent": 0.56,
+      "delta": 1.273,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "IEO / TGTX",
+      "baseline": -0.459,
+      "recent": 0.751,
+      "delta": 1.21,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "TGTX / FENY",
+      "baseline": -0.509,
+      "recent": 0.636,
+      "delta": 1.145,
+      "n_base": 18,
       "n_recent": 5
     },
     {
       "pair": "FBT / DHT",
-      "baseline": -0.415,
-      "recent": 0.852,
-      "delta": 1.267,
-      "n_base": 17,
-      "n_recent": 4
-    },
-    {
-      "pair": "IEO / TGTX",
-      "baseline": -0.48,
-      "recent": 0.783,
-      "delta": 1.263,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "FENY / TGTX",
-      "baseline": -0.559,
-      "recent": 0.669,
-      "delta": 1.228,
-      "n_base": 18,
-      "n_recent": 5
-    },
-    {
-      "pair": "EOG / TGTX",
-      "baseline": -0.603,
-      "recent": 0.624,
-      "delta": 1.227,
-      "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "XLE / TGTX",
-      "baseline": -0.48,
-      "recent": 0.674,
-      "delta": 1.154,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "LLY / CDNA",
-      "baseline": 0.679,
-      "recent": -0.455,
-      "delta": -1.134,
-      "n_base": 14,
-      "n_recent": 5
-    },
-    {
-      "pair": "IXC / TGTX",
-      "baseline": -0.395,
-      "recent": 0.733,
-      "delta": 1.128,
-      "n_base": 24,
+      "baseline": -0.474,
+      "recent": 0.652,
+      "delta": 1.126,
+      "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "FCG / TGTX",
-      "baseline": -0.564,
-      "recent": 0.546,
-      "delta": 1.11,
+      "baseline": -0.551,
+      "recent": 0.574,
+      "delta": 1.125,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "SU / EWZ",
-      "baseline": -0.268,
-      "recent": 0.728,
-      "delta": 0.996,
+      "pair": "EOG / TGTX",
+      "baseline": -0.529,
+      "recent": 0.579,
+      "delta": 1.108,
       "n_base": 17,
       "n_recent": 5
     },
     {
-      "pair": "TGTX / EWZ",
-      "baseline": -0.021,
-      "recent": 0.881,
-      "delta": 0.902,
-      "n_base": 18,
+      "pair": "DHT / EXEL",
+      "baseline": -0.446,
+      "recent": 0.619,
+      "delta": 1.065,
+      "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "PBR-A / TGTX",
-      "baseline": -0.048,
-      "recent": 0.811,
-      "delta": 0.859,
+      "pair": "DHT / FRO",
+      "baseline": 0.956,
+      "recent": -0.096,
+      "delta": -1.052,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "XLE / TGTX",
+      "baseline": -0.427,
+      "recent": 0.613,
+      "delta": 1.04,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "DHT / LPG",
+      "baseline": 0.84,
+      "recent": -0.189,
+      "delta": -1.029,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "DHT / TNK",
+      "baseline": 0.883,
+      "recent": -0.102,
+      "delta": -0.985,
       "n_base": 24,
       "n_recent": 5
     }
   ],
-  "note": "5-day window against a 22-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 22
+  "note": "5-day window against a 23-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 23
 }
