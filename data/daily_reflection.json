@@ -1,38 +1,18 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "movers_up": [],
   "movers_down": [],
   "signal_changes": [
     {
-      "ticker": "INCY",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "EXEL",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
       "ticker": "CHRD",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "PBR",
-      "from": "Strong Buy",
-      "to": "Buy"
-    },
-    {
-      "ticker": "PBR-A",
-      "from": "Strong Buy",
-      "to": "Buy"
+      "from": "Buy",
+      "to": "Strong Buy"
     }
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.087,
+  "bearish_tech_pct": 0.089,
   "market_pullback": false,
-  "resilient_hold_count": 205,
-  "short_reflection": "Signal changes: INCY (Strong Buy to Buy), EXEL (Strong Buy to Buy), CHRD (Strong Buy to Buy), PBR (Strong Buy to Buy)."
+  "resilient_hold_count": 202,
+  "short_reflection": "Signal changes: CHRD (Buy to Strong Buy)."
 }
