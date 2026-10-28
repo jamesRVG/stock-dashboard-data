@@ -1,62 +1,62 @@
 {
-  "date": "2026-10-27",
-  "refreshed": "2026-10-27 21:26",
+  "date": "2026-10-28",
+  "refreshed": "2026-10-28 00:38",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Gold vs 10Y yield",
-      "baseline": -0.462,
-      "recent": 0.91,
-      "delta": 1.372,
-      "flip": true,
-      "n_base": 21,
-      "n_recent": 4
+      "baseline": -0.387,
+      "recent": 0.826,
+      "delta": 1.213,
+      "flip": false,
+      "n_base": 20,
+      "n_recent": 5
     },
     {
       "pair": "S&P vs VIX",
-      "baseline": 0.122,
-      "recent": -0.798,
-      "delta": -0.92,
+      "baseline": 0.175,
+      "recent": -0.744,
+      "delta": -0.919,
       "flip": false,
-      "n_base": 21,
-      "n_recent": 4
+      "n_base": 20,
+      "n_recent": 5
+    },
+    {
+      "pair": "Oil vs S&P",
+      "baseline": -0.059,
+      "recent": -0.848,
+      "delta": -0.789,
+      "flip": false,
+      "n_base": 22,
+      "n_recent": 5
     },
     {
       "pair": "Copper vs S&P",
-      "baseline": -0.254,
-      "recent": 0.542,
-      "delta": 0.796,
+      "baseline": -0.231,
+      "recent": 0.495,
+      "delta": 0.726,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
     },
     {
       "pair": "Copper vs Gold",
-      "baseline": 0.231,
-      "recent": 0.897,
-      "delta": 0.666,
+      "baseline": 0.233,
+      "recent": 0.954,
+      "delta": 0.721,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
     },
     {
-      "pair": "Oil vs S&P",
-      "baseline": 0.001,
-      "recent": -0.624,
-      "delta": -0.625,
+      "pair": "S&P vs Gold",
+      "baseline": -0.057,
+      "recent": 0.658,
+      "delta": 0.715,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
-    },
-    {
-      "pair": "S&P vs 10Y yield",
-      "baseline": 0.272,
-      "recent": 0.89,
-      "delta": 0.618,
-      "flip": false,
-      "n_base": 21,
-      "n_recent": 4
     }
   ],
   "ticker_pairs": [
@@ -69,19 +69,19 @@
       "n_recent": 5
     },
     {
+      "pair": "TGTX / ENFR",
+      "baseline": -0.633,
+      "recent": 0.668,
+      "delta": 1.301,
+      "n_base": 17,
+      "n_recent": 5
+    },
+    {
       "pair": "TGTX / LLY",
       "baseline": 0.529,
       "recent": -0.746,
       "delta": -1.275,
       "n_base": 14,
-      "n_recent": 5
-    },
-    {
-      "pair": "TGTX / ENFR",
-      "baseline": -0.633,
-      "recent": 0.578,
-      "delta": 1.211,
-      "n_base": 17,
       "n_recent": 5
     },
     {
@@ -95,24 +95,24 @@
     {
       "pair": "FBT / TGTX",
       "baseline": 0.853,
-      "recent": -0.233,
-      "delta": -1.086,
+      "recent": -0.127,
+      "delta": -0.98,
       "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "TRMD / PBR-A",
       "baseline": 0.388,
-      "recent": -0.577,
-      "delta": -0.965,
+      "recent": -0.532,
+      "delta": -0.92,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "INSW / DHT",
-      "baseline": 0.865,
-      "recent": -0.03,
-      "delta": -0.895,
+      "pair": "FCG / TGTX",
+      "baseline": -0.487,
+      "recent": 0.396,
+      "delta": 0.883,
       "n_base": 24,
       "n_recent": 5
     },
@@ -127,33 +127,33 @@
     {
       "pair": "FBT / PBR-A",
       "baseline": 0.113,
-      "recent": -0.71,
-      "delta": -0.823,
+      "recent": -0.649,
+      "delta": -0.762,
       "n_base": 16,
       "n_recent": 5
     },
     {
-      "pair": "TGTX / INCY",
-      "baseline": 0.687,
-      "recent": -0.107,
-      "delta": -0.794,
-      "n_base": 21,
+      "pair": "INSW / SU",
+      "baseline": 0.092,
+      "recent": 0.853,
+      "delta": 0.761,
+      "n_base": 22,
       "n_recent": 5
     },
     {
-      "pair": "FCG / TGTX",
-      "baseline": -0.487,
-      "recent": 0.287,
-      "delta": 0.774,
+      "pair": "EXEL / PBR-A",
+      "baseline": 0.165,
+      "recent": -0.579,
+      "delta": -0.744,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "FRO / PBR-A",
-      "baseline": 0.243,
-      "recent": -0.52,
-      "delta": -0.763,
-      "n_base": 24,
+      "pair": "TNK / SU",
+      "baseline": 0.186,
+      "recent": 0.925,
+      "delta": 0.739,
+      "n_base": 22,
       "n_recent": 5
     }
   ],
