@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "refreshed": "2026-10-28 14:01",
+  "refreshed": "2026-10-28 18:38",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -16,8 +16,8 @@
     {
       "pair": "S&P vs VIX",
       "baseline": 0.175,
-      "recent": -0.691,
-      "delta": -0.866,
+      "recent": -0.653,
+      "delta": -0.828,
       "flip": false,
       "n_base": 20,
       "n_recent": 5
@@ -25,8 +25,8 @@
     {
       "pair": "Oil vs S&P",
       "baseline": -0.059,
-      "recent": -0.898,
-      "delta": -0.839,
+      "recent": -0.868,
+      "delta": -0.809,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -34,8 +34,8 @@
     {
       "pair": "Copper vs S&P",
       "baseline": -0.231,
-      "recent": 0.581,
-      "delta": 0.812,
+      "recent": 0.528,
+      "delta": 0.759,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -43,8 +43,8 @@
     {
       "pair": "S&P vs Gold",
       "baseline": -0.057,
-      "recent": 0.738,
-      "delta": 0.795,
+      "recent": 0.689,
+      "delta": 0.746,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -61,99 +61,99 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "MU / ENFR",
-      "baseline": -0.714,
-      "recent": 0.954,
-      "delta": 1.668,
-      "n_base": 12,
+      "pair": "IXC / MU",
+      "baseline": -0.764,
+      "recent": 0.745,
+      "delta": 1.509,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "STNG / MU",
+      "baseline": -0.371,
+      "recent": 0.959,
+      "delta": 1.33,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "XLE / MU",
+      "baseline": -0.731,
+      "recent": 0.553,
+      "delta": 1.284,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "MU / FENY",
+      "baseline": -0.831,
+      "recent": 0.405,
+      "delta": 1.236,
+      "n_base": 14,
       "n_recent": 3
     },
     {
       "pair": "EXEL / TGTX",
       "baseline": 0.737,
-      "recent": -0.455,
-      "delta": -1.192,
+      "recent": -0.449,
+      "delta": -1.186,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "TGTX / ENFR",
-      "baseline": -0.572,
-      "recent": 0.465,
-      "delta": 1.037,
-      "n_base": 18,
-      "n_recent": 5
-    },
-    {
-      "pair": "FBT / TGTX",
-      "baseline": 0.841,
-      "recent": -0.165,
-      "delta": -1.006,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "INCY / CDNA",
-      "baseline": -0.304,
-      "recent": 0.665,
-      "delta": 0.969,
-      "n_base": 21,
-      "n_recent": 5
-    },
-    {
-      "pair": "FBT / MU",
-      "baseline": 0.055,
-      "recent": 0.998,
-      "delta": 0.943,
-      "n_base": 12,
-      "n_recent": 3
-    },
-    {
-      "pair": "TRMD / PBR-A",
-      "baseline": 0.392,
-      "recent": -0.535,
-      "delta": -0.927,
+      "pair": "TRMD / CDNA",
+      "baseline": 0.373,
+      "recent": -0.775,
+      "delta": -1.148,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "EOG / MU",
       "baseline": -0.775,
-      "recent": 0.152,
-      "delta": 0.927,
+      "recent": 0.37,
+      "delta": 1.145,
       "n_base": 14,
       "n_recent": 3
     },
     {
-      "pair": "EXEL / PBR-A",
-      "baseline": 0.147,
-      "recent": -0.774,
-      "delta": -0.921,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "TGTX / LLY",
-      "baseline": 0.399,
-      "recent": -0.521,
-      "delta": -0.92,
-      "n_base": 14,
-      "n_recent": 5
-    },
-    {
-      "pair": "TRMD / CDNA",
-      "baseline": 0.373,
-      "recent": -0.433,
-      "delta": -0.806,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "FCG / MU",
-      "baseline": -0.471,
-      "recent": 0.315,
-      "delta": 0.786,
+      "pair": "DHT / MU",
+      "baseline": -0.116,
+      "recent": 0.974,
+      "delta": 1.09,
       "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "MU / SU",
+      "baseline": -0.598,
+      "recent": 0.482,
+      "delta": 1.08,
+      "n_base": 17,
+      "n_recent": 3
+    },
+    {
+      "pair": "TGTX / ENFR",
+      "baseline": -0.572,
+      "recent": 0.499,
+      "delta": 1.071,
+      "n_base": 18,
+      "n_recent": 5
+    },
+    {
+      "pair": "ECO / MU",
+      "baseline": -0.188,
+      "recent": 0.874,
+      "delta": 1.062,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "FBT / MU",
+      "baseline": 0.055,
+      "recent": -0.998,
+      "delta": -1.053,
+      "n_base": 12,
       "n_recent": 3
     }
   ],
