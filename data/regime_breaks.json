@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-29",
-  "refreshed": "2026-10-29 22:00",
+  "date": "2026-10-30",
+  "refreshed": "2026-10-30 01:01",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Gold vs 10Y yield",
-      "baseline": 0.219,
-      "recent": -0.557,
-      "delta": -0.776,
+      "baseline": 0.265,
+      "recent": -0.609,
+      "delta": -0.874,
       "flip": false,
       "n_base": 20,
       "n_recent": 5
     },
     {
       "pair": "S&P vs 10Y yield",
-      "baseline": 0.425,
+      "baseline": 0.417,
       "recent": -0.314,
-      "delta": -0.739,
+      "delta": -0.731,
       "flip": false,
       "n_base": 20,
       "n_recent": 5
     },
     {
       "pair": "Oil vs S&P",
-      "baseline": -0.216,
-      "recent": -0.911,
-      "delta": -0.695,
+      "baseline": -0.223,
+      "recent": -0.912,
+      "delta": -0.689,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -36,45 +36,45 @@
     {
       "pair": "STNG / LLY",
       "baseline": -0.777,
-      "recent": 0.813,
-      "delta": 1.59,
+      "recent": 0.865,
+      "delta": 1.642,
       "n_base": 14,
       "n_recent": 5
     },
     {
       "pair": "LLY / ENFR",
       "baseline": -0.57,
-      "recent": 0.988,
-      "delta": 1.558,
+      "recent": 0.991,
+      "delta": 1.561,
       "n_base": 13,
       "n_recent": 5
     },
     {
       "pair": "FCG / ENFR",
       "baseline": 0.862,
-      "recent": -0.649,
-      "delta": -1.511,
+      "recent": -0.567,
+      "delta": -1.429,
       "n_base": 19,
       "n_recent": 5
     },
     {
-      "pair": "INCY / LLY",
-      "baseline": 0.744,
-      "recent": -0.604,
-      "delta": -1.348,
-      "n_base": 11,
+      "pair": "LPG / LLY",
+      "baseline": -0.824,
+      "recent": 0.459,
+      "delta": 1.283,
+      "n_base": 14,
       "n_recent": 5
     },
     {
-      "pair": "FBT / LLY",
-      "baseline": 0.696,
-      "recent": -0.584,
-      "delta": -1.28,
-      "n_base": 10,
+      "pair": "INCY / CDNA",
+      "baseline": -0.33,
+      "recent": 0.942,
+      "delta": 1.272,
+      "n_base": 21,
       "n_recent": 5
     },
     {
-      "pair": "TNK / LLY",
+      "pair": "LLY / TNK",
       "baseline": -0.674,
       "recent": 0.563,
       "delta": 1.237,
@@ -82,50 +82,50 @@
       "n_recent": 5
     },
     {
-      "pair": "DHT / LLY",
-      "baseline": -0.38,
-      "recent": 0.826,
-      "delta": 1.206,
-      "n_base": 14,
+      "pair": "FCG / PBR-A",
+      "baseline": 0.328,
+      "recent": -0.872,
+      "delta": -1.2,
+      "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "MU / FENY",
       "baseline": -0.831,
-      "recent": 0.36,
-      "delta": 1.191,
+      "recent": 0.365,
+      "delta": 1.196,
       "n_base": 14,
       "n_recent": 4
     },
     {
-      "pair": "EXEL / LLY",
-      "baseline": 0.511,
-      "recent": -0.662,
-      "delta": -1.173,
+      "pair": "IXC / LLY",
+      "baseline": -0.57,
+      "recent": 0.613,
+      "delta": 1.183,
       "n_base": 14,
       "n_recent": 5
     },
     {
-      "pair": "INCY / CDNA",
-      "baseline": -0.33,
-      "recent": 0.83,
-      "delta": 1.16,
-      "n_base": 21,
+      "pair": "DHT / LLY",
+      "baseline": -0.38,
+      "recent": 0.791,
+      "delta": 1.171,
+      "n_base": 14,
       "n_recent": 5
     },
     {
-      "pair": "FCG / PBR-A",
-      "baseline": 0.328,
-      "recent": -0.826,
-      "delta": -1.154,
+      "pair": "ECO / EXEL",
+      "baseline": -0.468,
+      "recent": 0.661,
+      "delta": 1.129,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "TRMD / CDNA",
       "baseline": 0.375,
-      "recent": -0.779,
-      "delta": -1.154,
+      "recent": -0.752,
+      "delta": -1.127,
       "n_base": 24,
       "n_recent": 5
     }
