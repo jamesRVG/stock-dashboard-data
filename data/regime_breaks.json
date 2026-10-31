@@ -1,16 +1,25 @@
 {
-  "date": "2026-10-30",
-  "refreshed": "2026-10-30 21:43",
+  "date": "2026-10-31",
+  "refreshed": "2026-10-31 00:54",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "Copper vs S&P",
-      "baseline": -0.155,
-      "recent": 0.862,
-      "delta": 1.017,
+      "pair": "S&P vs VIX",
+      "baseline": 0.048,
+      "recent": -0.824,
+      "delta": -0.872,
       "flip": false,
-      "n_base": 22,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
+      "pair": "Copper vs S&P",
+      "baseline": -0.126,
+      "recent": 0.707,
+      "delta": 0.833,
+      "flip": false,
+      "n_base": 23,
       "n_recent": 5
     }
   ],
@@ -18,100 +27,100 @@
     {
       "pair": "FBT / TGTX",
       "baseline": 0.722,
-      "recent": -0.79,
-      "delta": -1.512,
+      "recent": -0.809,
+      "delta": -1.531,
       "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "FBT / EXEL",
-      "baseline": 0.927,
-      "recent": -0.561,
-      "delta": -1.488,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "FCG / ENFR",
-      "baseline": 0.862,
-      "recent": -0.616,
-      "delta": -1.478,
-      "n_base": 20,
       "n_recent": 5
     },
     {
       "pair": "EXEL / AUPH",
       "baseline": 0.561,
-      "recent": -0.87,
-      "delta": -1.431,
+      "recent": -0.873,
+      "delta": -1.434,
       "n_base": 18,
       "n_recent": 5
     },
     {
-      "pair": "IXC / LLY",
-      "baseline": -0.645,
-      "recent": 0.743,
-      "delta": 1.388,
-      "n_base": 14,
+      "pair": "FBT / EXEL",
+      "baseline": 0.927,
+      "recent": -0.486,
+      "delta": -1.413,
+      "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "LLY / ENFR",
       "baseline": -0.565,
-      "recent": 0.76,
-      "delta": 1.325,
+      "recent": 0.844,
+      "delta": 1.409,
       "n_base": 14,
+      "n_recent": 5
+    },
+    {
+      "pair": "IXC / LLY",
+      "baseline": -0.645,
+      "recent": 0.744,
+      "delta": 1.389,
+      "n_base": 14,
+      "n_recent": 5
+    },
+    {
+      "pair": "FCG / ENFR",
+      "baseline": 0.862,
+      "recent": -0.469,
+      "delta": -1.331,
+      "n_base": 20,
       "n_recent": 5
     },
     {
       "pair": "FBT / LLY",
       "baseline": 0.679,
-      "recent": -0.644,
-      "delta": -1.323,
+      "recent": -0.641,
+      "delta": -1.32,
       "n_base": 10,
       "n_recent": 5
     },
     {
-      "pair": "XLE / LLY",
+      "pair": "LLY / XLE",
       "baseline": -0.716,
-      "recent": 0.567,
-      "delta": 1.283,
+      "recent": 0.575,
+      "delta": 1.291,
       "n_base": 14,
+      "n_recent": 5
+    },
+    {
+      "pair": "FCG / EXEL",
+      "baseline": -0.417,
+      "recent": 0.846,
+      "delta": 1.263,
+      "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "EXEL / EOG",
       "baseline": -0.308,
-      "recent": 0.938,
-      "delta": 1.246,
+      "recent": 0.943,
+      "delta": 1.251,
       "n_base": 22,
       "n_recent": 5
     },
     {
-      "pair": "TRMD / CDNA",
-      "baseline": 0.415,
-      "recent": -0.813,
-      "delta": -1.228,
-      "n_base": 24,
+      "pair": "EXEL / FENY",
+      "baseline": -0.39,
+      "recent": 0.827,
+      "delta": 1.217,
+      "n_base": 22,
       "n_recent": 5
     },
     {
       "pair": "STNG / FCG",
       "baseline": 0.597,
-      "recent": -0.584,
-      "delta": -1.181,
+      "recent": -0.594,
+      "delta": -1.191,
       "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "FENY / ENFR",
-      "baseline": 0.855,
-      "recent": -0.319,
-      "delta": -1.174,
-      "n_base": 20,
       "n_recent": 5
     }
   ],
-  "note": "5-day window against a 22-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 22
+  "note": "5-day window against a 23-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 23
 }
