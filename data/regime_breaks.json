@@ -1,123 +1,123 @@
 {
-  "date": "2026-10-31",
-  "refreshed": "2026-10-31 00:54",
+  "date": "2026-11-01",
+  "refreshed": "2026-11-01 19:03",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "S&P vs VIX",
-      "baseline": 0.048,
-      "recent": -0.824,
-      "delta": -0.872,
+      "pair": "Copper vs S&P",
+      "baseline": -0.047,
+      "recent": 0.67,
+      "delta": 0.717,
       "flip": false,
-      "n_base": 21,
+      "n_base": 23,
       "n_recent": 5
     },
     {
-      "pair": "Copper vs S&P",
-      "baseline": -0.126,
-      "recent": 0.707,
-      "delta": 0.833,
+      "pair": "S&P vs VIX",
+      "baseline": 0.002,
+      "recent": -0.648,
+      "delta": -0.65,
       "flip": false,
-      "n_base": 23,
+      "n_base": 21,
       "n_recent": 5
     }
   ],
   "ticker_pairs": [
     {
-      "pair": "FBT / TGTX",
-      "baseline": 0.722,
-      "recent": -0.809,
-      "delta": -1.531,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "EXEL / AUPH",
-      "baseline": 0.561,
-      "recent": -0.873,
-      "delta": -1.434,
-      "n_base": 18,
-      "n_recent": 5
-    },
-    {
-      "pair": "FBT / EXEL",
-      "baseline": 0.927,
-      "recent": -0.486,
-      "delta": -1.413,
-      "n_base": 16,
+      "pair": "LPG / LLY",
+      "baseline": -0.8,
+      "recent": 0.684,
+      "delta": 1.484,
+      "n_base": 15,
       "n_recent": 5
     },
     {
       "pair": "LLY / ENFR",
       "baseline": -0.565,
-      "recent": 0.844,
-      "delta": 1.409,
-      "n_base": 14,
-      "n_recent": 5
-    },
-    {
-      "pair": "IXC / LLY",
-      "baseline": -0.645,
-      "recent": 0.744,
-      "delta": 1.389,
-      "n_base": 14,
-      "n_recent": 5
-    },
-    {
-      "pair": "FCG / ENFR",
-      "baseline": 0.862,
-      "recent": -0.469,
-      "delta": -1.331,
-      "n_base": 20,
-      "n_recent": 5
-    },
-    {
-      "pair": "FBT / LLY",
-      "baseline": 0.679,
-      "recent": -0.641,
-      "delta": -1.32,
-      "n_base": 10,
-      "n_recent": 5
-    },
-    {
-      "pair": "LLY / XLE",
-      "baseline": -0.716,
-      "recent": 0.575,
-      "delta": 1.291,
-      "n_base": 14,
+      "recent": 0.857,
+      "delta": 1.422,
+      "n_base": 15,
       "n_recent": 5
     },
     {
       "pair": "FCG / EXEL",
-      "baseline": -0.417,
-      "recent": 0.846,
-      "delta": 1.263,
+      "baseline": -0.438,
+      "recent": 0.953,
+      "delta": 1.391,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "EXEL / EOG",
-      "baseline": -0.308,
-      "recent": 0.943,
-      "delta": 1.251,
-      "n_base": 22,
+      "pair": "LLY / MLPX",
+      "baseline": -0.619,
+      "recent": 0.727,
+      "delta": 1.346,
+      "n_base": 15,
       "n_recent": 5
     },
     {
-      "pair": "EXEL / FENY",
-      "baseline": -0.39,
-      "recent": 0.827,
-      "delta": 1.217,
-      "n_base": 22,
+      "pair": "IXC / LLY",
+      "baseline": -0.643,
+      "recent": 0.68,
+      "delta": 1.323,
+      "n_base": 15,
+      "n_recent": 5
+    },
+    {
+      "pair": "XLE / LLY",
+      "baseline": -0.715,
+      "recent": 0.59,
+      "delta": 1.305,
+      "n_base": 15,
+      "n_recent": 5
+    },
+    {
+      "pair": "FBT / TGTX",
+      "baseline": 0.697,
+      "recent": -0.577,
+      "delta": -1.274,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "XOP / EXEL",
+      "baseline": -0.465,
+      "recent": 0.797,
+      "delta": 1.262,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "FBT / EXEL",
+      "baseline": 0.915,
+      "recent": -0.333,
+      "delta": -1.248,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "STNG / LLY",
+      "baseline": -0.767,
+      "recent": 0.451,
+      "delta": 1.218,
+      "n_base": 15,
       "n_recent": 5
     },
     {
       "pair": "STNG / FCG",
-      "baseline": 0.597,
-      "recent": -0.594,
-      "delta": -1.191,
+      "baseline": 0.6,
+      "recent": -0.599,
+      "delta": -1.199,
       "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "EXEL / AUPH",
+      "baseline": 0.562,
+      "recent": -0.63,
+      "delta": -1.192,
+      "n_base": 19,
       "n_recent": 5
     }
   ],
