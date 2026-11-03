@@ -1,117 +1,107 @@
 {
   "date": "2026-11-03",
-  "refreshed": "2026-11-03 00:03",
+  "refreshed": "2026-11-03 03:03",
   "recent_days": 5,
   "min_delta": 0.6,
-  "macro_pairs": [
-    {
-      "pair": "Gold vs Dollar",
-      "baseline": 0.015,
-      "recent": -0.586,
-      "delta": -0.601,
-      "flip": false,
-      "n_base": 25,
-      "n_recent": 5
-    }
-  ],
+  "macro_pairs": [],
   "ticker_pairs": [
     {
       "pair": "FBT / MLPX",
-      "baseline": -0.578,
-      "recent": 0.888,
-      "delta": 1.466,
-      "n_base": 13,
+      "baseline": -0.574,
+      "recent": 0.851,
+      "delta": 1.425,
+      "n_base": 14,
       "n_recent": 5
     },
     {
       "pair": "FBT / ENFR",
-      "baseline": -0.553,
-      "recent": 0.908,
-      "delta": 1.461,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "FBT / IXC",
-      "baseline": -0.55,
-      "recent": 0.783,
-      "delta": 1.333,
+      "baseline": -0.517,
+      "recent": 0.88,
+      "delta": 1.397,
       "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "FCG / FBT",
-      "baseline": -0.592,
-      "recent": 0.713,
-      "delta": 1.305,
+      "baseline": -0.586,
+      "recent": 0.785,
+      "delta": 1.371,
       "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "FBT / EOG",
-      "baseline": -0.62,
-      "recent": 0.671,
-      "delta": 1.291,
+      "baseline": -0.616,
+      "recent": 0.746,
+      "delta": 1.362,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "FBT / IXC",
+      "baseline": -0.54,
+      "recent": 0.753,
+      "delta": 1.293,
       "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "FBT / XLE",
-      "baseline": -0.573,
-      "recent": 0.714,
-      "delta": 1.287,
+      "baseline": -0.571,
+      "recent": 0.715,
+      "delta": 1.286,
       "n_base": 16,
       "n_recent": 5
     },
     {
-      "pair": "LLY / MLPX",
-      "baseline": -0.604,
-      "recent": 0.68,
-      "delta": 1.284,
-      "n_base": 17,
+      "pair": "XOP / FBT",
+      "baseline": -0.534,
+      "recent": 0.742,
+      "delta": 1.276,
+      "n_base": 16,
       "n_recent": 5
     },
     {
-      "pair": "LPG / LLY",
-      "baseline": -0.763,
-      "recent": 0.52,
-      "delta": 1.283,
-      "n_base": 17,
+      "pair": "TGTX / IEO",
+      "baseline": -0.468,
+      "recent": 0.806,
+      "delta": 1.274,
+      "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "STNG / LLY",
-      "baseline": -0.648,
-      "recent": 0.632,
-      "delta": 1.28,
-      "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "LLY / ENFR",
-      "baseline": -0.561,
-      "recent": 0.701,
-      "delta": 1.262,
-      "n_base": 17,
+      "pair": "FBT / FENY",
+      "baseline": -0.516,
+      "recent": 0.744,
+      "delta": 1.26,
+      "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "FBT / LPG",
-      "baseline": -0.289,
-      "recent": 0.962,
-      "delta": 1.251,
+      "baseline": -0.28,
+      "recent": 0.954,
+      "delta": 1.234,
       "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "FBT / TNK",
-      "baseline": -0.263,
-      "recent": 0.985,
-      "delta": 1.248,
+      "baseline": -0.255,
+      "recent": 0.977,
+      "delta": 1.232,
       "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "XOP / TGTX",
+      "baseline": -0.44,
+      "recent": 0.777,
+      "delta": 1.217,
+      "n_base": 24,
       "n_recent": 5
     }
   ],
-  "note": "5-day window against a 25-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 25
+  "note": "5-day window against a 24-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 24
 }
