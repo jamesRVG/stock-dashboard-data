@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "refreshed": "2026-11-03 03:03",
+  "refreshed": "2026-11-03 14:04",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [],
@@ -102,6 +102,6 @@
       "n_recent": 5
     }
   ],
-  "note": "5-day window against a 24-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 24
+  "note": "5-day window against a 23-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 23
 }
