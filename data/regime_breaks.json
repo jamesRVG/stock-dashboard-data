@@ -1,107 +1,117 @@
 {
-  "date": "2026-11-02",
-  "refreshed": "2026-11-02 22:04",
+  "date": "2026-11-03",
+  "refreshed": "2026-11-03 00:03",
   "recent_days": 5,
   "min_delta": 0.6,
-  "macro_pairs": [],
+  "macro_pairs": [
+    {
+      "pair": "Gold vs Dollar",
+      "baseline": 0.015,
+      "recent": -0.586,
+      "delta": -0.601,
+      "flip": false,
+      "n_base": 25,
+      "n_recent": 5
+    }
+  ],
   "ticker_pairs": [
     {
-      "pair": "FBT / EXEL",
-      "baseline": 0.86,
-      "recent": -0.938,
-      "delta": -1.798,
+      "pair": "FBT / MLPX",
+      "baseline": -0.578,
+      "recent": 0.888,
+      "delta": 1.466,
+      "n_base": 13,
+      "n_recent": 5
+    },
+    {
+      "pair": "FBT / ENFR",
+      "baseline": -0.553,
+      "recent": 0.908,
+      "delta": 1.461,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "FBT / IXC",
+      "baseline": -0.55,
+      "recent": 0.783,
+      "delta": 1.333,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "FCG / FBT",
+      "baseline": -0.592,
+      "recent": 0.713,
+      "delta": 1.305,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "FBT / EOG",
+      "baseline": -0.62,
+      "recent": 0.671,
+      "delta": 1.291,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "FBT / XLE",
+      "baseline": -0.573,
+      "recent": 0.714,
+      "delta": 1.287,
       "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "LLY / MLPX",
       "baseline": -0.604,
-      "recent": 0.973,
-      "delta": 1.577,
+      "recent": 0.68,
+      "delta": 1.284,
       "n_base": 17,
       "n_recent": 5
     },
     {
-      "pair": "FBT / CDNA",
-      "baseline": 0.58,
-      "recent": -0.919,
-      "delta": -1.499,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "FRO / LLY",
-      "baseline": -0.553,
-      "recent": 0.934,
-      "delta": 1.487,
+      "pair": "LPG / LLY",
+      "baseline": -0.763,
+      "recent": 0.52,
+      "delta": 1.283,
       "n_base": 17,
       "n_recent": 5
     },
     {
-      "pair": "LPG / FENY",
-      "baseline": 0.662,
-      "recent": -0.79,
-      "delta": -1.452,
-      "n_base": 24,
+      "pair": "STNG / LLY",
+      "baseline": -0.648,
+      "recent": 0.632,
+      "delta": 1.28,
+      "n_base": 17,
       "n_recent": 5
     },
     {
       "pair": "LLY / ENFR",
       "baseline": -0.561,
-      "recent": 0.889,
-      "delta": 1.45,
+      "recent": 0.701,
+      "delta": 1.262,
       "n_base": 17,
       "n_recent": 5
     },
     {
-      "pair": "FCG / LPG",
-      "baseline": 0.688,
-      "recent": -0.756,
-      "delta": -1.444,
-      "n_base": 24,
+      "pair": "FBT / LPG",
+      "baseline": -0.289,
+      "recent": 0.962,
+      "delta": 1.251,
+      "n_base": 16,
       "n_recent": 5
     },
     {
-      "pair": "FCG / EXEL",
-      "baseline": -0.463,
-      "recent": 0.963,
-      "delta": 1.426,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "INSW / IEO",
-      "baseline": 0.469,
-      "recent": -0.955,
-      "delta": -1.424,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "LPG / IEO",
-      "baseline": 0.577,
-      "recent": -0.845,
-      "delta": -1.422,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "STNG / IEO",
-      "baseline": 0.573,
-      "recent": -0.847,
-      "delta": -1.42,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "STNG / FENY",
-      "baseline": 0.623,
-      "recent": -0.792,
-      "delta": -1.415,
-      "n_base": 24,
+      "pair": "FBT / TNK",
+      "baseline": -0.263,
+      "recent": 0.985,
+      "delta": 1.248,
+      "n_base": 16,
       "n_recent": 5
     }
   ],
-  "note": "5-day window against a 24-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 24
+  "note": "5-day window against a 25-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 25
 }
