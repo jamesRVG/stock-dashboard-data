@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T01:29:03.947494",
+  "generated_at": "2026-11-04T14:13:41.568214",
   "history_snapshots": 103,
   "signal_accuracy": {
     "1d": {
@@ -34,8 +34,8 @@
       },
       "Buy": {
         "win_pct": 0.434,
-        "avg_return": -0.0369,
-        "n": 1088
+        "avg_return": -0.0368,
+        "n": 1087
       }
     },
     "60d": {
@@ -45,9 +45,9 @@
         "n": 766
       },
       "Buy": {
-        "win_pct": 0.395,
-        "avg_return": -0.0359,
-        "n": 1366
+        "win_pct": 0.398,
+        "avg_return": -0.0353,
+        "n": 1357
       },
       "Hold": {
         "win_pct": 0.291,
@@ -159,9 +159,9 @@
         "n": 93
       },
       "Tech": {
-        "avg_return": -0.2558,
+        "avg_return": -0.2566,
         "win_pct": 0.026,
-        "n": 116
+        "n": 115
       },
       "Intl": {
         "avg_return": -0.1173,
@@ -191,9 +191,9 @@
         "n": 30
       },
       "Tech": {
-        "avg_return": -0.1629,
-        "win_pct": 0.161,
-        "n": 224
+        "avg_return": -0.1639,
+        "win_pct": 0.167,
+        "n": 215
       },
       "Core": {
         "avg_return": 0.0895,
@@ -240,8 +240,8 @@
   "score_correlation": {
     "1d": -0.208,
     "5d": -0.146,
-    "20d": -0.008,
-    "60d": 0.145
+    "20d": -0.009,
+    "60d": 0.144
   },
   "factor_analysis": {
     "macd": {
@@ -271,9 +271,9 @@
       },
       "20d": {
         "bullish": {
-          "avg_return": -0.059,
+          "avg_return": -0.0589,
           "win_pct": 0.345,
-          "n": 882
+          "n": 881
         },
         "bearish": {
           "avg_return": -0.0053,
@@ -283,9 +283,9 @@
       },
       "60d": {
         "bullish": {
-          "avg_return": -0.0373,
-          "win_pct": 0.422,
-          "n": 1708
+          "avg_return": -0.0367,
+          "win_pct": 0.424,
+          "n": 1699
         },
         "bearish": {
           "avg_return": 0.0182,
@@ -326,9 +326,9 @@
           "n": 30
         },
         "neutral": {
-          "avg_return": -0.0324,
+          "avg_return": -0.0323,
           "win_pct": 0.47,
-          "n": 1137
+          "n": 1136
         },
         "overbought": {
           "avg_return": -0.0474,
@@ -343,14 +343,14 @@
           "n": 11
         },
         "neutral": {
-          "avg_return": -0.0302,
-          "win_pct": 0.416,
-          "n": 1576
+          "avg_return": -0.0297,
+          "win_pct": 0.418,
+          "n": 1568
         },
         "overbought": {
-          "avg_return": -0.007,
-          "win_pct": 0.499,
-          "n": 703
+          "avg_return": -0.0067,
+          "win_pct": 0.5,
+          "n": 702
         }
       }
     },
@@ -396,9 +396,9 @@
           "n": 1044
         },
         "mid": {
-          "avg_return": -0.2842,
+          "avg_return": -0.2915,
           "win_pct": 0.0,
-          "n": 18
+          "n": 17
         },
         "high": {
           "avg_return": 0.0325,
@@ -413,9 +413,9 @@
           "n": 1106
         },
         "mid": {
-          "avg_return": -0.0689,
-          "win_pct": 0.361,
-          "n": 72
+          "avg_return": -0.059,
+          "win_pct": 0.413,
+          "n": 63
         },
         "high": {
           "avg_return": -0.0624,
@@ -440,8 +440,8 @@
     "score_correlation": {
       "1d": -0.208,
       "5d": -0.146,
-      "20d": -0.008,
-      "60d": 0.145
+      "20d": -0.009,
+      "60d": 0.144
     }
   },
   "statistical_insights": [
@@ -451,7 +451,7 @@
     "MACD bullish signal predicting 1.6% edge over bearish over 5d. Technical scoring is working.",
     "Underperforming 5d: Core / Tech (-7.5%), Commod (-5.1%).",
     "Top 20d categories: Core / Commod (+3.2%), Energy (+1.9%), Core (+1.6%).",
-    "Underperforming 20d: Tech (-25.6%), PrecMet (-16.5%).",
+    "Underperforming 20d: Tech (-25.7%), PrecMet (-16.5%).",
     "Weight adjustment suggested: Fund 45%->40%, Tech 25%->28%, Macro 30%->32%. Basis: Score-to-return correlation is weak (<0.10) over 20 days; composite weighting may need review. Strong Buy underperforming Buy over 5d; consider reducing fund_weight slightly."
   ],
   "claude_synthesis": null
