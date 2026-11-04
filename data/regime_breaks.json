@@ -1,16 +1,43 @@
 {
-  "date": "2026-11-03",
-  "refreshed": "2026-11-03 22:30",
+  "date": "2026-11-04",
+  "refreshed": "2026-11-04 01:28",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "Gold vs 10Y yield",
-      "baseline": 0.235,
-      "recent": -0.425,
-      "delta": -0.66,
+      "pair": "Oil vs S&P",
+      "baseline": -0.344,
+      "recent": 0.742,
+      "delta": 1.086,
       "flip": false,
-      "n_base": 20,
+      "n_base": 23,
+      "n_recent": 5
+    },
+    {
+      "pair": "Gold vs 10Y yield",
+      "baseline": 0.259,
+      "recent": -0.654,
+      "delta": -0.913,
+      "flip": false,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
+      "pair": "Copper vs S&P",
+      "baseline": 0.143,
+      "recent": -0.627,
+      "delta": -0.77,
+      "flip": false,
+      "n_base": 23,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs Gold",
+      "baseline": 0.242,
+      "recent": -0.376,
+      "delta": -0.618,
+      "flip": false,
+      "n_base": 23,
       "n_recent": 5
     }
   ],
@@ -18,32 +45,32 @@
     {
       "pair": "FBT / MLPX",
       "baseline": -0.574,
-      "recent": 0.783,
-      "delta": 1.357,
+      "recent": 0.823,
+      "delta": 1.397,
       "n_base": 14,
       "n_recent": 5
     },
     {
       "pair": "FBT / ENFR",
       "baseline": -0.517,
-      "recent": 0.78,
-      "delta": 1.297,
+      "recent": 0.806,
+      "delta": 1.323,
       "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "TGTX / IEO",
       "baseline": -0.468,
-      "recent": 0.815,
-      "delta": 1.283,
+      "recent": 0.819,
+      "delta": 1.287,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "LPG / AUPH",
       "baseline": -0.506,
-      "recent": 0.766,
-      "delta": 1.272,
+      "recent": 0.76,
+      "delta": 1.266,
       "n_base": 22,
       "n_recent": 5
     },
@@ -56,10 +83,18 @@
       "n_recent": 5
     },
     {
+      "pair": "FBT / LPG",
+      "baseline": -0.28,
+      "recent": 0.945,
+      "delta": 1.225,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
       "pair": "STNG / AUPH",
       "baseline": -0.441,
-      "recent": 0.779,
-      "delta": 1.22,
+      "recent": 0.774,
+      "delta": 1.215,
       "n_base": 22,
       "n_recent": 5
     },
@@ -80,38 +115,30 @@
       "n_recent": 5
     },
     {
-      "pair": "FBT / LPG",
-      "baseline": -0.28,
-      "recent": 0.918,
-      "delta": 1.198,
+      "pair": "FBT / TNK",
+      "baseline": -0.255,
+      "recent": 0.932,
+      "delta": 1.187,
       "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "TGTX / XLE",
       "baseline": -0.353,
-      "recent": 0.826,
-      "delta": 1.179,
+      "recent": 0.829,
+      "delta": 1.182,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "LLY / IEO",
-      "baseline": -0.495,
-      "recent": 0.669,
-      "delta": 1.164,
-      "n_base": 18,
-      "n_recent": 5
-    },
-    {
-      "pair": "AUPH / MLPX",
-      "baseline": -0.55,
-      "recent": 0.609,
-      "delta": 1.159,
-      "n_base": 20,
+      "pair": "FBT / FCG",
+      "baseline": -0.586,
+      "recent": 0.591,
+      "delta": 1.177,
+      "n_base": 16,
       "n_recent": 5
     }
   ],
-  "note": "5-day window against a 22-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 22
+  "note": "5-day window against a 23-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 23
 }
