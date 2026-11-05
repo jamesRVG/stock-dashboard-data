@@ -1,23 +1,14 @@
 {
   "date": "2026-11-05",
-  "refreshed": "2026-11-05 14:15",
+  "refreshed": "2026-11-05 20:23",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "Copper vs S&P",
-      "baseline": 0.086,
-      "recent": -0.956,
-      "delta": -1.042,
-      "flip": false,
-      "n_base": 22,
-      "n_recent": 5
-    },
-    {
       "pair": "Oil vs S&P",
       "baseline": -0.323,
-      "recent": 0.566,
-      "delta": 0.889,
+      "recent": 0.89,
+      "delta": 1.213,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -25,8 +16,17 @@
     {
       "pair": "S&P vs Gold",
       "baseline": 0.162,
-      "recent": -0.467,
-      "delta": -0.629,
+      "recent": -0.949,
+      "delta": -1.111,
+      "flip": false,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "Copper vs S&P",
+      "baseline": 0.086,
+      "recent": -0.669,
+      "delta": -0.755,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -34,8 +34,8 @@
     {
       "pair": "S&P vs VIX",
       "baseline": 0.042,
-      "recent": -0.568,
-      "delta": -0.61,
+      "recent": 0.686,
+      "delta": 0.644,
       "flip": false,
       "n_base": 20,
       "n_recent": 5
@@ -67,27 +67,11 @@
       "n_recent": 3
     },
     {
-      "pair": "FBT / PBR",
-      "baseline": -0.355,
-      "recent": 0.911,
-      "delta": 1.266,
-      "n_base": 18,
-      "n_recent": 3
-    },
-    {
       "pair": "LLY / CMBT",
       "baseline": -0.413,
       "recent": 0.848,
       "delta": 1.261,
       "n_base": 20,
-      "n_recent": 3
-    },
-    {
-      "pair": "KNSA / PBR",
-      "baseline": -0.541,
-      "recent": 0.72,
-      "delta": 1.261,
-      "n_base": 15,
       "n_recent": 3
     },
     {
@@ -107,7 +91,7 @@
       "n_recent": 3
     },
     {
-      "pair": "LLY / LPG",
+      "pair": "LPG / LLY",
       "baseline": -0.476,
       "recent": 0.641,
       "delta": 1.117,
@@ -131,10 +115,26 @@
       "n_recent": 3
     },
     {
-      "pair": "INSW / PBR",
-      "baseline": -0.081,
-      "recent": 0.999,
-      "delta": 1.08,
+      "pair": "LPG / AUPH",
+      "baseline": -0.454,
+      "recent": 0.615,
+      "delta": 1.069,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "TGTX / KNSA",
+      "baseline": -0.169,
+      "recent": 0.899,
+      "delta": 1.068,
+      "n_base": 15,
+      "n_recent": 5
+    },
+    {
+      "pair": "TGTX / CMBT",
+      "baseline": -0.136,
+      "recent": 0.916,
+      "delta": 1.052,
       "n_base": 24,
       "n_recent": 3
     }
