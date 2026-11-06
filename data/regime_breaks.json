@@ -1,14 +1,14 @@
 {
   "date": "2026-11-06",
-  "refreshed": "2026-11-06 19:50",
+  "refreshed": "2026-11-06 22:19",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Oil vs S&P",
       "baseline": -0.369,
-      "recent": 0.834,
-      "delta": 1.203,
+      "recent": 0.801,
+      "delta": 1.17,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -16,26 +16,17 @@
     {
       "pair": "S&P vs Gold",
       "baseline": 0.151,
-      "recent": -0.928,
-      "delta": -1.079,
+      "recent": -0.904,
+      "delta": -1.055,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
     },
     {
-      "pair": "Gold vs 10Y yield",
-      "baseline": 0.194,
-      "recent": -0.69,
-      "delta": -0.884,
-      "flip": false,
-      "n_base": 20,
-      "n_recent": 5
-    },
-    {
       "pair": "Copper vs S&P",
       "baseline": 0.087,
-      "recent": -0.665,
-      "delta": -0.752,
+      "recent": -0.631,
+      "delta": -0.718,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -43,100 +34,100 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "FBT / EOG",
-      "baseline": -0.686,
-      "recent": 0.565,
-      "delta": 1.251,
-      "n_base": 18,
-      "n_recent": 3
-    },
-    {
-      "pair": "CDNA / KNSA",
-      "baseline": -0.454,
-      "recent": 0.783,
-      "delta": 1.237,
+      "pair": "KNSA / EOG",
+      "baseline": -0.585,
+      "recent": 0.999,
+      "delta": 1.584,
       "n_base": 16,
-      "n_recent": 5
+      "n_recent": 3
     },
     {
       "pair": "LPG / AUPH",
       "baseline": -0.454,
-      "recent": 0.731,
-      "delta": 1.185,
+      "recent": 0.802,
+      "delta": 1.256,
       "n_base": 23,
+      "n_recent": 5
+    },
+    {
+      "pair": "CDNA / KNSA",
+      "baseline": -0.454,
+      "recent": 0.748,
+      "delta": 1.202,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
+      "pair": "KNSA / LPG",
+      "baseline": -0.347,
+      "recent": 0.831,
+      "delta": 1.178,
+      "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "TGTX / KNSA",
       "baseline": -0.168,
-      "recent": 0.986,
-      "delta": 1.154,
+      "recent": 0.993,
+      "delta": 1.161,
       "n_base": 16,
       "n_recent": 5
     },
     {
-      "pair": "TGTX / CMBT",
-      "baseline": -0.165,
-      "recent": 0.981,
-      "delta": 1.146,
-      "n_base": 24,
-      "n_recent": 3
-    },
-    {
-      "pair": "KNSA / EOG",
-      "baseline": -0.585,
-      "recent": 0.56,
-      "delta": 1.145,
-      "n_base": 16,
-      "n_recent": 3
-    },
-    {
       "pair": "AUPH / EOG",
       "baseline": -0.493,
-      "recent": 0.638,
-      "delta": 1.131,
+      "recent": 0.659,
+      "delta": 1.152,
       "n_base": 23,
       "n_recent": 3
     },
     {
-      "pair": "KNSA / LPG",
-      "baseline": -0.347,
-      "recent": 0.682,
-      "delta": 1.029,
+      "pair": "TGTX / EOG",
+      "baseline": -0.132,
+      "recent": 0.999,
+      "delta": 1.131,
+      "n_base": 24,
+      "n_recent": 3
+    },
+    {
+      "pair": "FBT / EOG",
+      "baseline": -0.686,
+      "recent": 0.41,
+      "delta": 1.096,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "TGTX / CMBT",
+      "baseline": -0.165,
+      "recent": 0.89,
+      "delta": 1.055,
+      "n_base": 24,
+      "n_recent": 3
+    },
+    {
+      "pair": "INSW / KNSA",
+      "baseline": -0.259,
+      "recent": 0.773,
+      "delta": 1.032,
       "n_base": 16,
       "n_recent": 5
     },
     {
       "pair": "FBT / LPG",
       "baseline": -0.463,
-      "recent": 0.565,
-      "delta": 1.028,
+      "recent": 0.557,
+      "delta": 1.02,
       "n_base": 18,
       "n_recent": 5
     },
     {
-      "pair": "CDNA / AUPH",
-      "baseline": -0.266,
-      "recent": 0.696,
-      "delta": 0.962,
-      "n_base": 23,
-      "n_recent": 5
-    },
-    {
-      "pair": "AUPH / CMBT",
-      "baseline": -0.053,
-      "recent": 0.899,
-      "delta": 0.952,
-      "n_base": 23,
-      "n_recent": 3
-    },
-    {
-      "pair": "SU / CMBT",
-      "baseline": 0.054,
-      "recent": 0.998,
-      "delta": 0.944,
+      "pair": "EXEL / LPG",
+      "baseline": -0.385,
+      "recent": 0.621,
+      "delta": 1.006,
       "n_base": 24,
-      "n_recent": 3
+      "n_recent": 5
     }
   ],
   "note": "5-day window against a 22-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
