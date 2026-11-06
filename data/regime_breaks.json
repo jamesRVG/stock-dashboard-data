@@ -1,14 +1,14 @@
 {
   "date": "2026-11-06",
-  "refreshed": "2026-11-06 14:13",
+  "refreshed": "2026-11-06 19:50",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Oil vs S&P",
       "baseline": -0.369,
-      "recent": 0.767,
-      "delta": 1.136,
+      "recent": 0.834,
+      "delta": 1.203,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -16,8 +16,8 @@
     {
       "pair": "S&P vs Gold",
       "baseline": 0.151,
-      "recent": -0.878,
-      "delta": -1.029,
+      "recent": -0.928,
+      "delta": -1.079,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -34,19 +34,10 @@
     {
       "pair": "Copper vs S&P",
       "baseline": 0.087,
-      "recent": -0.597,
-      "delta": -0.684,
+      "recent": -0.665,
+      "delta": -0.752,
       "flip": false,
       "n_base": 22,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs VIX",
-      "baseline": 0.037,
-      "recent": 0.719,
-      "delta": 0.682,
-      "flip": false,
-      "n_base": 20,
       "n_recent": 5
     }
   ],
