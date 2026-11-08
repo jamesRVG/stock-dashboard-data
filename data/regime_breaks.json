@@ -1,32 +1,32 @@
 {
-  "date": "2026-11-07",
-  "refreshed": "2026-11-07 00:54",
+  "date": "2026-11-08",
+  "refreshed": "2026-11-08 19:04",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Oil vs S&P",
-      "baseline": -0.172,
-      "recent": 0.876,
-      "delta": 1.048,
+      "baseline": -0.241,
+      "recent": 0.884,
+      "delta": 1.125,
       "flip": false,
       "n_base": 23,
       "n_recent": 5
     },
     {
       "pair": "S&P vs Gold",
-      "baseline": 0.087,
-      "recent": -0.927,
-      "delta": -1.014,
+      "baseline": 0.053,
+      "recent": -0.926,
+      "delta": -0.979,
       "flip": false,
       "n_base": 23,
       "n_recent": 5
     },
     {
       "pair": "Copper vs S&P",
-      "baseline": 0.062,
-      "recent": -0.79,
-      "delta": -0.852,
+      "baseline": 0.097,
+      "recent": -0.693,
+      "delta": -0.79,
       "flip": false,
       "n_base": 23,
       "n_recent": 5
@@ -34,100 +34,100 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "KNSA / EOG",
-      "baseline": -0.585,
-      "recent": 0.999,
-      "delta": 1.584,
-      "n_base": 16,
-      "n_recent": 3
-    },
-    {
-      "pair": "LPG / AUPH",
-      "baseline": -0.454,
-      "recent": 0.802,
-      "delta": 1.256,
-      "n_base": 23,
-      "n_recent": 5
-    },
-    {
-      "pair": "CDNA / KNSA",
-      "baseline": -0.454,
-      "recent": 0.748,
-      "delta": 1.202,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "KNSA / LPG",
-      "baseline": -0.347,
-      "recent": 0.83,
-      "delta": 1.177,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "TGTX / KNSA",
-      "baseline": -0.168,
-      "recent": 0.986,
-      "delta": 1.154,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "AUPH / EOG",
-      "baseline": -0.493,
-      "recent": 0.659,
-      "delta": 1.152,
-      "n_base": 23,
-      "n_recent": 3
-    },
-    {
-      "pair": "TGTX / EOG",
-      "baseline": -0.132,
-      "recent": 0.991,
-      "delta": 1.123,
+      "pair": "EOG / SU",
+      "baseline": 0.916,
+      "recent": -0.915,
+      "delta": -1.831,
       "n_base": 24,
       "n_recent": 3
     },
     {
-      "pair": "FBT / EOG",
-      "baseline": -0.686,
-      "recent": 0.41,
-      "delta": 1.096,
-      "n_base": 18,
-      "n_recent": 3
-    },
-    {
-      "pair": "TGTX / CMBT",
-      "baseline": -0.165,
-      "recent": 0.926,
-      "delta": 1.091,
+      "pair": "XOP / EOG",
+      "baseline": 0.919,
+      "recent": -0.796,
+      "delta": -1.715,
       "n_base": 24,
       "n_recent": 3
     },
     {
-      "pair": "INSW / KNSA",
-      "baseline": -0.259,
-      "recent": 0.772,
-      "delta": 1.031,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "FBT / LPG",
-      "baseline": -0.463,
-      "recent": 0.557,
-      "delta": 1.02,
-      "n_base": 18,
-      "n_recent": 5
-    },
-    {
-      "pair": "EXEL / LPG",
-      "baseline": -0.385,
-      "recent": 0.622,
-      "delta": 1.007,
+      "pair": "INSW / CMBT",
+      "baseline": 0.84,
+      "recent": -0.858,
+      "delta": -1.698,
       "n_base": 24,
-      "n_recent": 5
+      "n_recent": 3
+    },
+    {
+      "pair": "EOG / XLE",
+      "baseline": 0.952,
+      "recent": -0.689,
+      "delta": -1.641,
+      "n_base": 24,
+      "n_recent": 3
+    },
+    {
+      "pair": "TNK / EOG",
+      "baseline": 0.607,
+      "recent": -0.998,
+      "delta": -1.605,
+      "n_base": 24,
+      "n_recent": 3
+    },
+    {
+      "pair": "EOG / IEO",
+      "baseline": 0.886,
+      "recent": -0.701,
+      "delta": -1.587,
+      "n_base": 24,
+      "n_recent": 3
+    },
+    {
+      "pair": "IXC / EOG",
+      "baseline": 0.943,
+      "recent": -0.601,
+      "delta": -1.544,
+      "n_base": 24,
+      "n_recent": 3
+    },
+    {
+      "pair": "TRMD / EOG",
+      "baseline": 0.491,
+      "recent": -1.0,
+      "delta": -1.491,
+      "n_base": 24,
+      "n_recent": 3
+    },
+    {
+      "pair": "STNG / EOG",
+      "baseline": 0.43,
+      "recent": -0.997,
+      "delta": -1.427,
+      "n_base": 24,
+      "n_recent": 3
+    },
+    {
+      "pair": "LLY / CMBT",
+      "baseline": -0.293,
+      "recent": 0.995,
+      "delta": 1.288,
+      "n_base": 22,
+      "n_recent": 3
+    },
+    {
+      "pair": "EOG / CMBT",
+      "baseline": 0.244,
+      "recent": -0.991,
+      "delta": -1.235,
+      "n_base": 24,
+      "n_recent": 3
+    },
+    {
+      "pair": "DHT / EOG",
+      "baseline": 0.493,
+      "recent": -0.718,
+      "delta": -1.211,
+      "n_base": 24,
+      "n_recent": 3
     }
   ],
   "note": "5-day window against a 23-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
