@@ -1,14 +1,14 @@
 {
   "date": "2026-11-09",
-  "refreshed": "2026-11-09 14:12",
+  "refreshed": "2026-11-09 22:40",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Oil vs S&P",
       "baseline": -0.224,
-      "recent": 0.84,
-      "delta": 1.064,
+      "recent": 0.568,
+      "delta": 0.792,
       "flip": false,
       "n_base": 24,
       "n_recent": 5
@@ -16,8 +16,8 @@
     {
       "pair": "S&P vs Gold",
       "baseline": 0.06,
-      "recent": -0.929,
-      "delta": -0.989,
+      "recent": -0.709,
+      "delta": -0.769,
       "flip": false,
       "n_base": 24,
       "n_recent": 5
@@ -25,99 +25,99 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "IXC / EOG",
-      "baseline": 0.93,
-      "recent": -0.901,
-      "delta": -1.831,
-      "n_base": 24,
-      "n_recent": 3
+      "pair": "EOG / IXC",
+      "baseline": 0.934,
+      "recent": -0.885,
+      "delta": -1.819,
+      "n_base": 23,
+      "n_recent": 4
     },
     {
       "pair": "EOG / SU",
-      "baseline": 0.89,
-      "recent": -0.887,
-      "delta": -1.777,
-      "n_base": 24,
-      "n_recent": 3
+      "baseline": 0.898,
+      "recent": -0.87,
+      "delta": -1.768,
+      "n_base": 23,
+      "n_recent": 4
     },
     {
       "pair": "XOP / EOG",
-      "baseline": 0.894,
-      "recent": -0.874,
-      "delta": -1.768,
-      "n_base": 24,
-      "n_recent": 3
+      "baseline": 0.908,
+      "recent": -0.856,
+      "delta": -1.764,
+      "n_base": 23,
+      "n_recent": 4
     },
     {
-      "pair": "FCG / EOG",
-      "baseline": 0.935,
-      "recent": -0.74,
-      "delta": -1.675,
-      "n_base": 24,
-      "n_recent": 3
+      "pair": "EOG / FCG",
+      "baseline": 0.941,
+      "recent": -0.728,
+      "delta": -1.669,
+      "n_base": 23,
+      "n_recent": 4
     },
     {
       "pair": "TNK / CMBT",
       "baseline": 0.775,
-      "recent": -0.829,
-      "delta": -1.604,
-      "n_base": 24,
-      "n_recent": 3
+      "recent": -0.882,
+      "delta": -1.657,
+      "n_base": 23,
+      "n_recent": 4
     },
     {
       "pair": "INSW / CMBT",
-      "baseline": 0.821,
-      "recent": -0.719,
-      "delta": -1.54,
-      "n_base": 24,
-      "n_recent": 3
+      "baseline": 0.822,
+      "recent": -0.748,
+      "delta": -1.57,
+      "n_base": 23,
+      "n_recent": 4
     },
     {
       "pair": "ECO / CMBT",
-      "baseline": 0.709,
-      "recent": -0.76,
-      "delta": -1.469,
-      "n_base": 24,
-      "n_recent": 3
+      "baseline": 0.71,
+      "recent": -0.789,
+      "delta": -1.499,
+      "n_base": 23,
+      "n_recent": 4
     },
     {
       "pair": "LPG / CMBT",
       "baseline": 0.693,
-      "recent": -0.719,
-      "delta": -1.412,
+      "recent": -0.748,
+      "delta": -1.441,
+      "n_base": 23,
+      "n_recent": 4
+    },
+    {
+      "pair": "VHT / FCG",
+      "baseline": -0.493,
+      "recent": 0.943,
+      "delta": 1.436,
+      "n_base": 19,
+      "n_recent": 5
+    },
+    {
+      "pair": "VHT / TNK",
+      "baseline": -0.481,
+      "recent": 0.941,
+      "delta": 1.422,
+      "n_base": 19,
+      "n_recent": 5
+    },
+    {
+      "pair": "FRO / IEO",
+      "baseline": 0.724,
+      "recent": -0.697,
+      "delta": -1.421,
       "n_base": 24,
       "n_recent": 3
     },
     {
-      "pair": "TRMD / EOG",
-      "baseline": 0.394,
-      "recent": -0.96,
+      "pair": "ECO / IEO",
+      "baseline": 0.709,
+      "recent": -0.645,
       "delta": -1.354,
       "n_base": 24,
-      "n_recent": 3
-    },
-    {
-      "pair": "KNSA / EOG",
-      "baseline": -0.33,
-      "recent": 0.976,
-      "delta": 1.306,
-      "n_base": 18,
-      "n_recent": 3
-    },
-    {
-      "pair": "AUPH / EOG",
-      "baseline": -0.196,
-      "recent": 0.999,
-      "delta": 1.195,
-      "n_base": 24,
-      "n_recent": 3
-    },
-    {
-      "pair": "LLY / CMBT",
-      "baseline": -0.189,
-      "recent": 0.999,
-      "delta": 1.188,
-      "n_base": 22,
       "n_recent": 3
     }
   ],
