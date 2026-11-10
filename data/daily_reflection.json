@@ -2,11 +2,72 @@
   "date": "2026-11-10",
   "movers_up": [],
   "movers_down": [],
-  "signal_changes": [],
+  "signal_changes": [
+    {
+      "ticker": "NEM",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
+      "ticker": "BTG",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
+      "ticker": "XBI",
+      "from": "Strong Buy",
+      "to": "Buy"
+    },
+    {
+      "ticker": "FNV",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "AYA",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "AEM",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "B",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "WPM",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "AU",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "OGC",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "EGO",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "ARIS",
+      "from": "Buy",
+      "to": "Hold"
+    }
+  ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
-  "bearish_tech_pct": 0.076,
+  "bearish_tech_pct": 0.09,
   "market_pullback": false,
-  "resilient_hold_count": 228,
-  "short_reflection": "No major score moves vs prior session."
+  "resilient_hold_count": 227,
+  "short_reflection": "Signal changes: NEM (Strong Buy to Buy), BTG (Strong Buy to Buy), XBI (Strong Buy to Buy), FNV (Buy to Hold)."
 }
