@@ -1,25 +1,61 @@
 {
-  "date": "2026-11-09",
-  "refreshed": "2026-11-09 22:40",
+  "date": "2026-11-10",
+  "refreshed": "2026-11-10 00:49",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "Oil vs S&P",
-      "baseline": -0.224,
-      "recent": 0.568,
-      "delta": 0.792,
-      "flip": false,
-      "n_base": 24,
+      "pair": "S&P vs Gold",
+      "baseline": -0.474,
+      "recent": 0.699,
+      "delta": 1.173,
+      "flip": true,
+      "n_base": 25,
       "n_recent": 5
     },
     {
-      "pair": "S&P vs Gold",
-      "baseline": 0.06,
+      "pair": "Oil vs S&P",
+      "baseline": 0.437,
       "recent": -0.709,
-      "delta": -0.769,
+      "delta": -1.146,
+      "flip": true,
+      "n_base": 25,
+      "n_recent": 5
+    },
+    {
+      "pair": "Gold vs Dollar",
+      "baseline": -0.061,
+      "recent": -0.996,
+      "delta": -0.935,
       "flip": false,
-      "n_base": 24,
+      "n_base": 25,
+      "n_recent": 5
+    },
+    {
+      "pair": "Gold vs 10Y yield",
+      "baseline": 0.019,
+      "recent": 0.932,
+      "delta": 0.913,
+      "flip": false,
+      "n_base": 23,
+      "n_recent": 5
+    },
+    {
+      "pair": "Copper vs S&P",
+      "baseline": -0.105,
+      "recent": 0.558,
+      "delta": 0.663,
+      "flip": false,
+      "n_base": 25,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs VIX",
+      "baseline": 0.422,
+      "recent": -0.239,
+      "delta": -0.661,
+      "flip": false,
+      "n_base": 23,
       "n_recent": 5
     }
   ],
@@ -27,82 +63,58 @@
     {
       "pair": "EOG / IXC",
       "baseline": 0.934,
-      "recent": -0.885,
-      "delta": -1.819,
+      "recent": -0.901,
+      "delta": -1.835,
       "n_base": 23,
-      "n_recent": 4
+      "n_recent": 3
     },
     {
       "pair": "EOG / SU",
       "baseline": 0.898,
-      "recent": -0.87,
-      "delta": -1.768,
+      "recent": -0.887,
+      "delta": -1.785,
       "n_base": 23,
-      "n_recent": 4
-    },
-    {
-      "pair": "XOP / EOG",
-      "baseline": 0.908,
-      "recent": -0.856,
-      "delta": -1.764,
-      "n_base": 23,
-      "n_recent": 4
+      "n_recent": 3
     },
     {
       "pair": "EOG / FCG",
       "baseline": 0.941,
-      "recent": -0.728,
-      "delta": -1.669,
+      "recent": -0.74,
+      "delta": -1.681,
       "n_base": 23,
-      "n_recent": 4
+      "n_recent": 3
     },
     {
       "pair": "TNK / CMBT",
       "baseline": 0.775,
-      "recent": -0.882,
-      "delta": -1.657,
+      "recent": -0.829,
+      "delta": -1.604,
       "n_base": 23,
-      "n_recent": 4
+      "n_recent": 3
     },
     {
       "pair": "INSW / CMBT",
       "baseline": 0.822,
-      "recent": -0.748,
-      "delta": -1.57,
+      "recent": -0.719,
+      "delta": -1.541,
       "n_base": 23,
-      "n_recent": 4
+      "n_recent": 3
     },
     {
       "pair": "ECO / CMBT",
       "baseline": 0.71,
-      "recent": -0.789,
-      "delta": -1.499,
+      "recent": -0.76,
+      "delta": -1.47,
       "n_base": 23,
-      "n_recent": 4
-    },
-    {
-      "pair": "LPG / CMBT",
-      "baseline": 0.693,
-      "recent": -0.748,
-      "delta": -1.441,
-      "n_base": 23,
-      "n_recent": 4
+      "n_recent": 3
     },
     {
       "pair": "VHT / FCG",
       "baseline": -0.493,
-      "recent": 0.943,
-      "delta": 1.436,
+      "recent": 0.945,
+      "delta": 1.438,
       "n_base": 19,
-      "n_recent": 5
-    },
-    {
-      "pair": "VHT / TNK",
-      "baseline": -0.481,
-      "recent": 0.941,
-      "delta": 1.422,
-      "n_base": 19,
-      "n_recent": 5
+      "n_recent": 4
     },
     {
       "pair": "FRO / IEO",
@@ -113,14 +125,38 @@
       "n_recent": 3
     },
     {
+      "pair": "LPG / CMBT",
+      "baseline": 0.693,
+      "recent": -0.719,
+      "delta": -1.412,
+      "n_base": 23,
+      "n_recent": 3
+    },
+    {
       "pair": "ECO / IEO",
       "baseline": 0.709,
       "recent": -0.645,
       "delta": -1.354,
       "n_base": 24,
       "n_recent": 3
+    },
+    {
+      "pair": "INSW / IEO",
+      "baseline": 0.508,
+      "recent": -0.809,
+      "delta": -1.317,
+      "n_base": 24,
+      "n_recent": 3
+    },
+    {
+      "pair": "KNSA / EOG",
+      "baseline": -0.33,
+      "recent": 0.982,
+      "delta": 1.312,
+      "n_base": 18,
+      "n_recent": 4
     }
   ],
-  "note": "5-day window against a 24-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 24
+  "note": "5-day window against a 25-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 25
 }
