@@ -1,41 +1,23 @@
 {
   "date": "2026-11-11",
-  "refreshed": "2026-11-11 14:13",
+  "refreshed": "2026-11-11 19:52",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Oil vs S&P",
       "baseline": 0.45,
-      "recent": -0.987,
-      "delta": -1.437,
+      "recent": -0.792,
+      "delta": -1.242,
       "flip": true,
-      "n_base": 22,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs Gold",
-      "baseline": -0.497,
-      "recent": 0.562,
-      "delta": 1.059,
-      "flip": true,
-      "n_base": 22,
-      "n_recent": 5
-    },
-    {
-      "pair": "Copper vs S&P",
-      "baseline": -0.179,
-      "recent": 0.641,
-      "delta": 0.82,
-      "flip": false,
       "n_base": 22,
       "n_recent": 5
     },
     {
       "pair": "Gold vs Dollar",
       "baseline": -0.128,
-      "recent": -0.779,
-      "delta": -0.651,
+      "recent": -0.808,
+      "delta": -0.68,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -51,7 +33,7 @@
       "n_recent": 5
     },
     {
-      "pair": "TRMD / LPG",
+      "pair": "LPG / TRMD",
       "baseline": 0.811,
       "recent": -0.809,
       "delta": -1.62,
@@ -71,6 +53,14 @@
       "baseline": 0.622,
       "recent": -0.931,
       "delta": -1.553,
+      "n_base": 18,
+      "n_recent": 3
+    },
+    {
+      "pair": "CHRD / SU",
+      "baseline": 0.816,
+      "recent": -0.696,
+      "delta": -1.512,
       "n_base": 18,
       "n_recent": 3
     },
@@ -99,7 +89,7 @@
       "n_recent": 5
     },
     {
-      "pair": "CDNA / LPG",
+      "pair": "LPG / CDNA",
       "baseline": 0.391,
       "recent": -0.996,
       "delta": -1.387,
@@ -128,14 +118,6 @@
       "recent": -0.999,
       "delta": -1.356,
       "n_base": 18,
-      "n_recent": 3
-    },
-    {
-      "pair": "CDNA / FCG",
-      "baseline": 0.367,
-      "recent": -0.984,
-      "delta": -1.351,
-      "n_base": 24,
       "n_recent": 3
     }
   ],
