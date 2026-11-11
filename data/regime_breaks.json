@@ -1,14 +1,14 @@
 {
   "date": "2026-11-11",
-  "refreshed": "2026-11-11 19:52",
+  "refreshed": "2026-11-11 23:36",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Oil vs S&P",
       "baseline": 0.45,
-      "recent": -0.792,
-      "delta": -1.242,
+      "recent": -0.819,
+      "delta": -1.269,
       "flip": true,
       "n_base": 22,
       "n_recent": 5
@@ -16,8 +16,8 @@
     {
       "pair": "Gold vs Dollar",
       "baseline": -0.128,
-      "recent": -0.808,
-      "delta": -0.68,
+      "recent": -0.783,
+      "delta": -0.655,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -25,99 +25,99 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "INSW / TRMD",
-      "baseline": 0.798,
-      "recent": -0.861,
-      "delta": -1.659,
+      "pair": "AUPH / TGTX",
+      "baseline": 0.365,
+      "recent": -0.99,
+      "delta": -1.355,
       "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "LPG / TRMD",
-      "baseline": 0.811,
-      "recent": -0.809,
-      "delta": -1.62,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "ECO / XOP",
-      "baseline": 0.738,
-      "recent": -0.815,
-      "delta": -1.553,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "ECO / CHRD",
-      "baseline": 0.622,
-      "recent": -0.931,
-      "delta": -1.553,
-      "n_base": 18,
       "n_recent": 3
     },
     {
-      "pair": "CHRD / SU",
-      "baseline": 0.816,
-      "recent": -0.696,
-      "delta": -1.512,
-      "n_base": 18,
+      "pair": "VHT / FCG",
+      "baseline": -0.356,
+      "recent": 0.992,
+      "delta": 1.348,
+      "n_base": 21,
       "n_recent": 3
     },
     {
-      "pair": "FRO / CHRD",
-      "baseline": 0.583,
-      "recent": -0.922,
-      "delta": -1.505,
-      "n_base": 18,
+      "pair": "VHT / IXC",
+      "baseline": -0.27,
+      "recent": 0.998,
+      "delta": 1.268,
+      "n_base": 21,
       "n_recent": 3
     },
     {
-      "pair": "ECO / EOG",
-      "baseline": 0.594,
-      "recent": -0.898,
-      "delta": -1.492,
-      "n_base": 22,
+      "pair": "FBT / CHRD",
+      "baseline": -0.29,
+      "recent": 0.975,
+      "delta": 1.265,
+      "n_base": 16,
+      "n_recent": 3
+    },
+    {
+      "pair": "KNSA / CHRD",
+      "baseline": -0.215,
+      "recent": 0.998,
+      "delta": 1.213,
+      "n_base": 13,
+      "n_recent": 3
+    },
+    {
+      "pair": "VHT / SU",
+      "baseline": -0.187,
+      "recent": 0.991,
+      "delta": 1.178,
+      "n_base": 21,
+      "n_recent": 3
+    },
+    {
+      "pair": "KNSA / FCG",
+      "baseline": -0.199,
+      "recent": 0.907,
+      "delta": 1.106,
+      "n_base": 19,
+      "n_recent": 3
+    },
+    {
+      "pair": "VHT / DHT",
+      "baseline": -0.128,
+      "recent": 0.977,
+      "delta": 1.105,
+      "n_base": 21,
+      "n_recent": 3
+    },
+    {
+      "pair": "KNSA / CDNA",
+      "baseline": -0.106,
+      "recent": 0.996,
+      "delta": 1.102,
+      "n_base": 19,
       "n_recent": 5
     },
     {
-      "pair": "TRMD / XOP",
-      "baseline": 0.703,
-      "recent": -0.713,
-      "delta": -1.416,
+      "pair": "INSW / AUPH",
+      "baseline": 0.126,
+      "recent": -0.959,
+      "delta": -1.085,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "LPG / CDNA",
-      "baseline": 0.391,
-      "recent": -0.996,
-      "delta": -1.387,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "IXC / CHRD",
-      "baseline": 0.842,
-      "recent": -0.536,
-      "delta": -1.378,
-      "n_base": 18,
+      "pair": "FBT / IXC",
+      "baseline": -0.137,
+      "recent": 0.947,
+      "delta": 1.084,
+      "n_base": 20,
       "n_recent": 3
     },
     {
-      "pair": "XOP / TNK",
-      "baseline": 0.719,
-      "recent": -0.653,
-      "delta": -1.372,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "STNG / CHRD",
-      "baseline": 0.357,
-      "recent": -0.999,
-      "delta": -1.356,
-      "n_base": 18,
+      "pair": "KNSA / IXC",
+      "baseline": -0.201,
+      "recent": 0.881,
+      "delta": 1.082,
+      "n_base": 19,
       "n_recent": 3
     }
   ],
