@@ -1,56 +1,46 @@
 {
-  "date": "2026-11-10",
-  "refreshed": "2026-11-10 22:32",
+  "date": "2026-11-11",
+  "refreshed": "2026-11-11 01:16",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "S&P vs Gold",
-      "baseline": -0.489,
-      "recent": 0.658,
-      "delta": 1.147,
-      "flip": true,
-      "n_base": 22,
-      "n_recent": 5
-    },
-    {
       "pair": "Oil vs S&P",
-      "baseline": 0.435,
-      "recent": -0.671,
-      "delta": -1.106,
+      "baseline": 0.444,
+      "recent": -0.987,
+      "delta": -1.431,
       "flip": true,
-      "n_base": 22,
+      "n_base": 23,
       "n_recent": 5
     },
     {
-      "pair": "Gold vs 10Y yield",
-      "baseline": 0.014,
-      "recent": 0.86,
-      "delta": 0.846,
-      "flip": false,
-      "n_base": 20,
-      "n_recent": 5
-    },
-    {
-      "pair": "Gold vs Dollar",
-      "baseline": -0.043,
-      "recent": -0.885,
-      "delta": -0.842,
-      "flip": false,
-      "n_base": 22,
+      "pair": "S&P vs Gold",
+      "baseline": -0.497,
+      "recent": 0.562,
+      "delta": 1.059,
+      "flip": true,
+      "n_base": 23,
       "n_recent": 5
     },
     {
       "pair": "Copper vs S&P",
-      "baseline": -0.155,
-      "recent": 0.477,
-      "delta": 0.632,
+      "baseline": -0.182,
+      "recent": 0.641,
+      "delta": 0.823,
       "flip": false,
-      "n_base": 22,
+      "n_base": 23,
       "n_recent": 5
     }
   ],
   "ticker_pairs": [
+    {
+      "pair": "INSW / TRMD",
+      "baseline": 0.867,
+      "recent": -0.989,
+      "delta": -1.856,
+      "n_base": 24,
+      "n_recent": 5
+    },
     {
       "pair": "IXC / EOG",
       "baseline": 0.937,
@@ -68,20 +58,20 @@
       "n_recent": 3
     },
     {
-      "pair": "INSW / TRMD",
-      "baseline": 0.867,
-      "recent": -0.95,
-      "delta": -1.817,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
       "pair": "EOG / SU",
       "baseline": 0.9,
       "recent": -0.887,
       "delta": -1.787,
       "n_base": 22,
       "n_recent": 3
+    },
+    {
+      "pair": "TRMD / LPG",
+      "baseline": 0.836,
+      "recent": -0.912,
+      "delta": -1.748,
+      "n_base": 24,
+      "n_recent": 5
     },
     {
       "pair": "ECO / IXC",
@@ -100,7 +90,7 @@
       "n_recent": 3
     },
     {
-      "pair": "EOG / FCG",
+      "pair": "FCG / EOG",
       "baseline": 0.945,
       "recent": -0.74,
       "delta": -1.685,
@@ -112,14 +102,6 @@
       "baseline": 0.749,
       "recent": -0.932,
       "delta": -1.681,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "LPG / TRMD",
-      "baseline": 0.836,
-      "recent": -0.825,
-      "delta": -1.661,
       "n_base": 24,
       "n_recent": 5
     },
@@ -148,6 +130,6 @@
       "n_recent": 3
     }
   ],
-  "note": "5-day window against a 22-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 22
+  "note": "5-day window against a 23-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 23
 }
