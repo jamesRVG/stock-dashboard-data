@@ -1,25 +1,34 @@
 {
-  "date": "2026-11-11",
-  "refreshed": "2026-11-11 23:36",
+  "date": "2026-11-12",
+  "refreshed": "2026-11-12 02:25",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Oil vs S&P",
-      "baseline": 0.45,
-      "recent": -0.819,
-      "delta": -1.269,
+      "baseline": 0.448,
+      "recent": -0.796,
+      "delta": -1.244,
       "flip": true,
-      "n_base": 22,
+      "n_base": 23,
       "n_recent": 5
     },
     {
-      "pair": "Gold vs Dollar",
-      "baseline": -0.128,
-      "recent": -0.783,
-      "delta": -0.655,
+      "pair": "S&P vs Gold",
+      "baseline": -0.495,
+      "recent": 0.205,
+      "delta": 0.7,
       "flip": false,
-      "n_base": 22,
+      "n_base": 23,
+      "n_recent": 5
+    },
+    {
+      "pair": "Gold vs 10Y yield",
+      "baseline": 0.047,
+      "recent": 0.735,
+      "delta": 0.688,
+      "flip": false,
+      "n_base": 21,
       "n_recent": 5
     }
   ],
@@ -97,10 +106,10 @@
       "n_recent": 5
     },
     {
-      "pair": "INSW / AUPH",
-      "baseline": 0.126,
-      "recent": -0.959,
-      "delta": -1.085,
+      "pair": "LPG / AUPH",
+      "baseline": 0.162,
+      "recent": -0.922,
+      "delta": -1.084,
       "n_base": 24,
       "n_recent": 5
     },
@@ -121,6 +130,6 @@
       "n_recent": 3
     }
   ],
-  "note": "5-day window against a 22-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 22
+  "note": "5-day window against a 23-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 23
 }
