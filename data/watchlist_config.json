@@ -1898,7 +1898,8 @@
   "HYDR": 1,
   "RKLB": 1,
   "RDW": 1,
-  "BWET": 1
+  "BWET": 1,
+  "VDE": 1
  },
  "history": [
   {
@@ -3620,7 +3621,7 @@
     },
     {
      "date": "2026-11-12",
-     "price": 11.98
+     "price": 11.99
     }
    ],
    "last_seen": "2026-11-12",
@@ -3635,16 +3636,16 @@
     "E2": true
    },
    "metrics": {
-    "pe": 13.501849945038002,
+    "pe": 13.513120270534696,
     "roe": 13.725298636706802,
     "roic": 10.8292573542808,
     "gross_margin": 43.7301212206369,
-    "pfcf": 8.705725558209835,
+    "pfcf": 8.712992440979626,
     "de": 0.239861749166099,
     "rev_growth": 69.54909517008765,
-    "mom12": 55.34232365145229
+    "mom12": 55.471991701244825
    },
-   "ret_since_entry": -0.1473,
+   "ret_since_entry": -0.1466,
    "verified": true,
    "verified_pe": 17.4506
   },
@@ -12308,6 +12309,55 @@
    "verified": true,
    "verified_pe": 21.3131
   },
+  "ALGN": {
+   "first_seen": "2026-11-09",
+   "entry_price": 174.26,
+   "sector": "Healthcare",
+   "industry": "Medical Specialties",
+   "name": "ALGN",
+   "track": [
+    {
+     "date": "2026-11-09",
+     "price": 174.26
+    },
+    {
+     "date": "2026-11-10",
+     "price": 174.26
+    },
+    {
+     "date": "2026-11-11",
+     "price": 172.08
+    },
+    {
+     "date": "2026-11-12",
+     "price": 172.08
+    }
+   ],
+   "last_seen": "2026-11-12",
+   "exchange": "NASDAQ",
+   "otc": false,
+   "scores": {
+    "hybrid": 6.57,
+    "pe_heavy": 6.28
+   },
+   "gates": {
+    "E": true,
+    "E2": true
+   },
+   "metrics": {
+    "pe": 25.00254268071195,
+    "roe": 11.9052866168424,
+    "roic": 11.6245238318348,
+    "gross_margin": 71.3266450295929,
+    "pfcf": 20.2825912033195,
+    "de": 0.0340161144487719,
+    "rev_growth": 4.418722138329975,
+    "mom12": 23.514211886304924
+   },
+   "ret_since_entry": -0.0125,
+   "verified": true,
+   "verified_pe": 23.7886
+  },
   "CRM": {
    "first_seen": "2026-10-05",
    "entry_price": 229.79,
@@ -13066,55 +13116,6 @@
    "ret_since_entry": -0.1538,
    "verified": true,
    "verified_pe": 26.606
-  },
-  "ALGN": {
-   "first_seen": "2026-11-09",
-   "entry_price": 174.26,
-   "sector": "Healthcare",
-   "industry": "Medical Specialties",
-   "name": "ALGN",
-   "track": [
-    {
-     "date": "2026-11-09",
-     "price": 174.26
-    },
-    {
-     "date": "2026-11-10",
-     "price": 174.26
-    },
-    {
-     "date": "2026-11-11",
-     "price": 172.08
-    },
-    {
-     "date": "2026-11-12",
-     "price": 172.08
-    }
-   ],
-   "last_seen": "2026-11-12",
-   "exchange": "NASDAQ",
-   "otc": false,
-   "scores": {
-    "hybrid": 6.54,
-    "pe_heavy": 6.26
-   },
-   "gates": {
-    "E": true,
-    "E2": true
-   },
-   "metrics": {
-    "pe": 25.00254268071195,
-    "roe": 11.9052866168424,
-    "roic": 11.6245238318348,
-    "gross_margin": 71.3266450295929,
-    "pfcf": 20.2825912033195,
-    "de": 0.0340161144487719,
-    "rev_growth": 4.418722138329975,
-    "mom12": 23.514211886304924
-   },
-   "ret_since_entry": -0.0125,
-   "verified": true,
-   "verified_pe": 23.7886
   },
   "EZPW": {
    "first_seen": "2026-08-07",
@@ -16365,7 +16366,7 @@
     },
     {
      "date": "2026-11-12",
-     "price": 88.63
+     "price": 88.055
     }
    ],
    "last_seen": "2026-11-12",
@@ -16380,16 +16381,16 @@
     "E2": false
    },
    "metrics": {
-    "pe": 7.677049407525465,
+    "pe": 7.627243434273439,
     "roe": 14.624169986719801,
     "roic": 11.6425611097014,
     "gross_margin": 49.0182382615444,
-    "pfcf": 8.362507544788274,
+    "pfcf": 8.308254562296417,
     "de": 0.23948717948717899,
     "rev_growth": 19.64899247841025,
-    "mom12": -23.110956883837947
+    "mom12": -23.60978572048234
    },
-   "ret_since_entry": 0.0042,
+   "ret_since_entry": -0.0023,
    "verified": true,
    "verified_pe": 7.3033
   }
@@ -16434,7 +16435,7 @@
   "TTD": 0,
   "PCTY": 0,
   "ESTC": 0,
-  "OVV": 3,
+  "OVV": 4,
   "AEO": 0,
   "ATHOF": 0,
   "ASO": 0,
@@ -16449,7 +16450,7 @@
   "QCOM": 0,
   "IMO": 0,
   "NUE": 0,
-  "NVST": 11,
+  "NVST": 12,
   "ALGN": 0,
   "EWTX": 0,
   "OXY": 0,
@@ -17185,7 +17186,8 @@
   "HYDR": "2026-11-12",
   "RKLB": "2026-11-12",
   "RDW": "2026-11-12",
-  "BWET": "2026-11-12"
+  "BWET": "2026-11-12",
+  "VDE": "2026-11-12"
  },
  "_weak_streak_day": {
   "BABA": "2026-08-08",
