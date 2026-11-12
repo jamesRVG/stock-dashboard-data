@@ -1,14 +1,14 @@
 {
   "date": "2026-11-12",
-  "refreshed": "2026-11-12 14:13",
+  "refreshed": "2026-11-12 20:19",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Oil vs S&P",
       "baseline": 0.493,
-      "recent": -0.796,
-      "delta": -1.289,
+      "recent": -0.771,
+      "delta": -1.264,
       "flip": true,
       "n_base": 22,
       "n_recent": 5
@@ -16,8 +16,8 @@
     {
       "pair": "S&P vs Gold",
       "baseline": -0.504,
-      "recent": 0.205,
-      "delta": 0.709,
+      "recent": 0.23,
+      "delta": 0.734,
       "flip": false,
       "n_base": 22,
       "n_recent": 5
@@ -29,6 +29,15 @@
       "delta": 0.688,
       "flip": false,
       "n_base": 20,
+      "n_recent": 5
+    },
+    {
+      "pair": "Gold vs Dollar",
+      "baseline": -0.13,
+      "recent": -0.785,
+      "delta": -0.655,
+      "flip": false,
+      "n_base": 22,
       "n_recent": 5
     }
   ],
@@ -58,7 +67,7 @@
       "n_recent": 3
     },
     {
-      "pair": "CDNA / KNSA",
+      "pair": "KNSA / CDNA",
       "baseline": -0.112,
       "recent": 0.994,
       "delta": 1.106,
@@ -98,22 +107,6 @@
       "n_recent": 3
     },
     {
-      "pair": "INSW / AUPH",
-      "baseline": 0.151,
-      "recent": -0.886,
-      "delta": -1.037,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "LPG / AUPH",
-      "baseline": 0.173,
-      "recent": -0.851,
-      "delta": -1.024,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
       "pair": "EOG / TEN",
       "baseline": 0.713,
       "recent": -0.31,
@@ -122,11 +115,27 @@
       "n_recent": 5
     },
     {
-      "pair": "DHT / AUPH",
-      "baseline": 0.096,
-      "recent": -0.894,
-      "delta": -0.99,
+      "pair": "ECO / EOG",
+      "baseline": 0.576,
+      "recent": -0.413,
+      "delta": -0.989,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "INSW / CDNA",
+      "baseline": 0.287,
+      "recent": -0.686,
+      "delta": -0.973,
       "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "FBT / SU",
+      "baseline": 0.052,
+      "recent": 0.991,
+      "delta": 0.939,
+      "n_base": 20,
       "n_recent": 3
     }
   ],
