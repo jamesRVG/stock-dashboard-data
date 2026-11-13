@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:58:17.848441",
+  "generated_at": "2026-11-13T14:34:09.912750",
   "history_snapshots": 112,
   "signal_accuracy": {
     "1d": {
@@ -82,7 +82,7 @@
     },
     "5d": {
       "Core": {
-        "avg_return": 0.0165,
+        "avg_return": 0.0164,
         "win_pct": 0.727,
         "n": 227
       },
@@ -117,7 +117,7 @@
         "n": 13
       },
       "PrecMet": {
-        "avg_return": -0.0742,
+        "avg_return": -0.0743,
         "win_pct": 0.095,
         "n": 21
       }
@@ -159,7 +159,7 @@
         "n": 53
       },
       "PrecMet": {
-        "avg_return": -0.1061,
+        "avg_return": -0.1062,
         "win_pct": 0.043,
         "n": 70
       },
@@ -181,7 +181,7 @@
         "n": 227
       },
       "PrecMet": {
-        "avg_return": -0.1628,
+        "avg_return": -0.1629,
         "win_pct": 0.083,
         "n": 289
       },
@@ -276,7 +276,7 @@
           "n": 1005
         },
         "bearish": {
-          "avg_return": -0.0513,
+          "avg_return": -0.0514,
           "win_pct": 0.303,
           "n": 623
         }
@@ -389,7 +389,7 @@
           "n": 209
         },
         "mid": {
-          "avg_return": 0.0018,
+          "avg_return": 0.0015,
           "win_pct": 0.625,
           "n": 16
         },
@@ -461,7 +461,7 @@
     "RSI oversold (<35) outperforming overbought (>65) by 3.7% over 1d. Confirm mean-reversion scoring is working.",
     "RSI oversold (<35) outperforming overbought (>65) by 3.8% over 5d. Confirm mean-reversion scoring is working.",
     "Low-PEG stocks (<1) outperforming high-PEG (>3) by 1.4% over 5d. PEG factor is predictive.",
-    "Top 5d categories: Energy (+1.9%), Core (+1.7%), Intl (+0.4%).",
+    "Top 5d categories: Energy (+1.9%), Core (+1.6%), Intl (+0.4%).",
     "Underperforming 5d: PrecMet / Commod (-7.7%), PrecMet (-7.4%).",
     "Underperforming 20d: Tech (-32.0%), Core / Tech (-20.0%).",
     "Weight adjustment suggested: Fund 45%->40%, Tech 25%->28%, Macro 30%->32%. Basis: Score-to-return correlation is weak (<0.10) over 20 days; composite weighting may need review. Strong Buy underperforming Buy over 5d; consider reducing fund_weight slightly."
