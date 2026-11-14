@@ -1,34 +1,16 @@
 {
-  "date": "2026-11-13",
-  "refreshed": "2026-11-13 22:49",
+  "date": "2026-11-14",
+  "refreshed": "2026-11-14 01:36",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "Oil vs S&P",
-      "baseline": 0.488,
-      "recent": -0.76,
-      "delta": -1.248,
-      "flip": true,
-      "n_base": 22,
-      "n_recent": 5
-    },
-    {
       "pair": "S&P vs 10Y yield",
-      "baseline": 0.442,
-      "recent": -0.642,
-      "delta": -1.084,
+      "baseline": 0.46,
+      "recent": -0.592,
+      "delta": -1.052,
       "flip": true,
-      "n_base": 20,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs Gold",
-      "baseline": -0.504,
-      "recent": 0.416,
-      "delta": 0.92,
-      "flip": true,
-      "n_base": 22,
+      "n_base": 21,
       "n_recent": 5
     }
   ],
@@ -50,7 +32,7 @@
       "n_recent": 3
     },
     {
-      "pair": "FCG / TNK",
+      "pair": "TNK / FCG",
       "baseline": 0.75,
       "recent": -0.547,
       "delta": -1.297,
@@ -74,7 +56,7 @@
       "n_recent": 3
     },
     {
-      "pair": "EOG / TNK",
+      "pair": "TNK / EOG",
       "baseline": 0.521,
       "recent": -0.608,
       "delta": -1.129,
@@ -84,8 +66,8 @@
     {
       "pair": "LPG / CDNA",
       "baseline": 0.405,
-      "recent": -0.708,
-      "delta": -1.113,
+      "recent": -0.716,
+      "delta": -1.121,
       "n_base": 24,
       "n_recent": 5
     },
@@ -130,6 +112,6 @@
       "n_recent": 3
     }
   ],
-  "note": "5-day window against a 22-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 22
+  "note": "5-day window against a 23-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 23
 }
