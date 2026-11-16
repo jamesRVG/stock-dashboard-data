@@ -1,132 +1,141 @@
 {
-  "date": "2026-11-15",
-  "refreshed": "2026-11-15 20:01",
+  "date": "2026-11-16",
+  "refreshed": "2026-11-16 22:39",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "S&P vs 10Y yield",
-      "baseline": 0.447,
-      "recent": -0.64,
-      "delta": -1.087,
-      "flip": true,
+      "pair": "Gold vs 10Y yield",
+      "baseline": 0.096,
+      "recent": -0.903,
+      "delta": -0.999,
+      "flip": false,
       "n_base": 22,
       "n_recent": 5
     },
     {
-      "pair": "Gold vs Dollar",
-      "baseline": -0.199,
-      "recent": -0.843,
-      "delta": -0.644,
+      "pair": "Gold vs Silver",
+      "baseline": 0.927,
+      "recent": 0.079,
+      "delta": -0.848,
       "flip": false,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "Oil vs S&P",
-      "baseline": 0.298,
-      "recent": -0.319,
-      "delta": -0.617,
+      "pair": "Copper vs Gold",
+      "baseline": 0.606,
+      "recent": -0.048,
+      "delta": -0.654,
       "flip": false,
       "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs 10Y yield",
+      "baseline": 0.417,
+      "recent": -0.187,
+      "delta": -0.604,
+      "flip": false,
+      "n_base": 22,
       "n_recent": 5
     }
   ],
   "ticker_pairs": [
     {
-      "pair": "IEO / NRIX",
+      "pair": "NRIX / IEO",
       "baseline": 0.678,
-      "recent": -1.0,
-      "delta": -1.678,
+      "recent": -0.999,
+      "delta": -1.677,
+      "n_base": 16,
+      "n_recent": 4
+    },
+    {
+      "pair": "NRIX / XLE",
+      "baseline": 0.664,
+      "recent": -0.999,
+      "delta": -1.663,
       "n_base": 16,
       "n_recent": 3
     },
     {
-      "pair": "EXEL / LLY",
-      "baseline": 0.658,
-      "recent": -0.938,
-      "delta": -1.596,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "CMBT / NRIX",
-      "baseline": 0.477,
-      "recent": -0.995,
-      "delta": -1.472,
-      "n_base": 15,
+      "pair": "FRO / XLE",
+      "baseline": 0.796,
+      "recent": -0.773,
+      "delta": -1.569,
+      "n_base": 21,
       "n_recent": 3
     },
     {
-      "pair": "CMBT / XBI",
-      "baseline": 0.435,
-      "recent": -0.993,
-      "delta": -1.428,
-      "n_base": 15,
+      "pair": "DHT / XLE",
+      "baseline": 0.726,
+      "recent": -0.742,
+      "delta": -1.468,
+      "n_base": 21,
+      "n_recent": 3
+    },
+    {
+      "pair": "TNK / XLE",
+      "baseline": 0.8,
+      "recent": -0.627,
+      "delta": -1.427,
+      "n_base": 21,
+      "n_recent": 3
+    },
+    {
+      "pair": "STNG / XLE",
+      "baseline": 0.564,
+      "recent": -0.827,
+      "delta": -1.391,
+      "n_base": 21,
+      "n_recent": 3
+    },
+    {
+      "pair": "ECO / XLE",
+      "baseline": 0.795,
+      "recent": -0.536,
+      "delta": -1.331,
+      "n_base": 21,
       "n_recent": 3
     },
     {
       "pair": "VHT / NRIX",
-      "baseline": -0.432,
-      "recent": 0.872,
-      "delta": 1.304,
-      "n_base": 18,
+      "baseline": -0.431,
+      "recent": 0.886,
+      "delta": 1.317,
+      "n_base": 19,
       "n_recent": 5
     },
     {
-      "pair": "FBT / CMBT",
-      "baseline": 0.302,
-      "recent": -0.995,
-      "delta": -1.297,
+      "pair": "TRMD / XLE",
+      "baseline": 0.716,
+      "recent": -0.56,
+      "delta": -1.276,
+      "n_base": 21,
+      "n_recent": 3
+    },
+    {
+      "pair": "CHRD / XLE",
+      "baseline": 0.844,
+      "recent": -0.428,
+      "delta": -1.272,
       "n_base": 19,
       "n_recent": 3
     },
     {
-      "pair": "LLY / CDNA",
-      "baseline": 0.405,
-      "recent": -0.888,
-      "delta": -1.293,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "TNK / IEO",
-      "baseline": 0.735,
-      "recent": -0.549,
-      "delta": -1.284,
-      "n_base": 22,
+      "pair": "LPG / XLE",
+      "baseline": 0.683,
+      "recent": -0.548,
+      "delta": -1.231,
+      "n_base": 21,
       "n_recent": 3
     },
     {
       "pair": "IXC / NRIX",
       "baseline": 0.62,
-      "recent": -0.621,
-      "delta": -1.241,
+      "recent": -0.587,
+      "delta": -1.207,
       "n_base": 17,
-      "n_recent": 4
-    },
-    {
-      "pair": "TNK / CMBT",
-      "baseline": 0.723,
-      "recent": -0.481,
-      "delta": -1.204,
-      "n_base": 21,
-      "n_recent": 3
-    },
-    {
-      "pair": "FCG / NRIX",
-      "baseline": 0.695,
-      "recent": -0.504,
-      "delta": -1.199,
-      "n_base": 17,
-      "n_recent": 4
-    },
-    {
-      "pair": "KNSA / LLY",
-      "baseline": 0.41,
-      "recent": -0.782,
-      "delta": -1.192,
-      "n_base": 19,
       "n_recent": 5
     }
   ],
