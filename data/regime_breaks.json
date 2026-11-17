@@ -1,16 +1,16 @@
 {
   "date": "2026-11-17",
-  "refreshed": "2026-11-17 21:24",
+  "refreshed": "2026-11-17 23:59",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Gold vs 10Y yield",
       "baseline": 0.026,
-      "recent": -0.946,
-      "delta": -0.972,
+      "recent": -0.945,
+      "delta": -0.971,
       "flip": false,
-      "n_base": 22,
+      "n_base": 21,
       "n_recent": 5
     }
   ],
@@ -72,22 +72,6 @@
       "n_recent": 3
     },
     {
-      "pair": "FBT / RHHBY",
-      "baseline": 0.587,
-      "recent": -0.937,
-      "delta": -1.524,
-      "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "RHHBY / TGTX",
-      "baseline": 0.535,
-      "recent": -0.914,
-      "delta": -1.449,
-      "n_base": 15,
-      "n_recent": 5
-    },
-    {
       "pair": "TEN / SU",
       "baseline": 0.865,
       "recent": -0.574,
@@ -104,6 +88,22 @@
       "n_recent": 3
     },
     {
+      "pair": "FBT / RHHBY",
+      "baseline": 0.587,
+      "recent": -0.831,
+      "delta": -1.418,
+      "n_base": 17,
+      "n_recent": 5
+    },
+    {
+      "pair": "EXEL / RHHBY",
+      "baseline": 0.428,
+      "recent": -0.968,
+      "delta": -1.396,
+      "n_base": 17,
+      "n_recent": 5
+    },
+    {
       "pair": "INSW / SU",
       "baseline": 0.638,
       "recent": -0.747,
@@ -112,6 +112,6 @@
       "n_recent": 3
     }
   ],
-  "note": "5-day window against a 24-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 24
+  "note": "5-day window against a 23-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 23
 }
