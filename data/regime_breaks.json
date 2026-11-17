@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "refreshed": "2026-11-17 03:55",
+  "refreshed": "2026-11-17 18:44",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -11,24 +11,6 @@
       "delta": -0.972,
       "flip": false,
       "n_base": 23,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs 10Y yield",
-      "baseline": 0.348,
-      "recent": -0.364,
-      "delta": -0.712,
-      "flip": false,
-      "n_base": 23,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs Gold",
-      "baseline": -0.386,
-      "recent": 0.225,
-      "delta": 0.611,
-      "flip": false,
-      "n_base": 25,
       "n_recent": 5
     }
   ],
@@ -50,6 +32,14 @@
       "n_recent": 5
     },
     {
+      "pair": "RHHBY / TGTX",
+      "baseline": 0.535,
+      "recent": -0.921,
+      "delta": -1.456,
+      "n_base": 15,
+      "n_recent": 4
+    },
+    {
       "pair": "KNSA / RHHBY",
       "baseline": 0.417,
       "recent": -0.997,
@@ -68,10 +58,10 @@
     {
       "pair": "VHT / IEO",
       "baseline": -0.421,
-      "recent": 0.938,
-      "delta": 1.359,
+      "recent": 0.936,
+      "delta": 1.357,
       "n_base": 20,
-      "n_recent": 5
+      "n_recent": 4
     },
     {
       "pair": "EXEL / RHHBY",
@@ -90,7 +80,7 @@
       "n_recent": 5
     },
     {
-      "pair": "VHT / FCG",
+      "pair": "FCG / VHT",
       "baseline": -0.348,
       "recent": 0.97,
       "delta": 1.318,
@@ -119,14 +109,6 @@
       "recent": 0.928,
       "delta": 1.268,
       "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "LLY / RHHBY",
-      "baseline": 0.6,
-      "recent": -0.649,
-      "delta": -1.249,
-      "n_base": 17,
       "n_recent": 5
     }
   ],
