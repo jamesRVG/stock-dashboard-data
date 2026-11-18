@@ -1,12 +1,68 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "movers_up": [],
   "movers_down": [],
-  "signal_changes": [],
+  "signal_changes": [
+    {
+      "ticker": "NEM",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "FNV",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "RGLD",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "IAG",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "SSRM",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "BTG",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "CGAU",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "AYA",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "WPM",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "BVN",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "VYMI",
+      "from": "Buy",
+      "to": "Hold"
+    }
+  ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
   "bearish_tech_pct": 0.123,
   "market_pullback": false,
-  "resilient_hold_count": 179,
-  "short_reflection": "No major score moves vs prior session."
+  "resilient_hold_count": 180,
+  "short_reflection": "Signal changes: NEM (Buy to Hold), FNV (Buy to Hold), RGLD (Buy to Hold), IAG (Buy to Hold)."
 }
