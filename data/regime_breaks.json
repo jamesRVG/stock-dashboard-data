@@ -1,25 +1,16 @@
 {
   "date": "2026-11-18",
-  "refreshed": "2026-11-18 14:14",
+  "refreshed": "2026-11-18 21:00",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs 10Y yield",
-      "baseline": 0.287,
-      "recent": -0.538,
-      "delta": -0.825,
+      "baseline": 0.282,
+      "recent": -0.549,
+      "delta": -0.831,
       "flip": false,
-      "n_base": 22,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs VIX",
-      "baseline": 0.161,
-      "recent": -0.442,
-      "delta": -0.603,
-      "flip": false,
-      "n_base": 22,
+      "n_base": 21,
       "n_recent": 5
     }
   ],
@@ -46,6 +37,14 @@
       "recent": -0.934,
       "delta": -1.349,
       "n_base": 15,
+      "n_recent": 5
+    },
+    {
+      "pair": "TGTX / RHHBY",
+      "baseline": 0.523,
+      "recent": -0.754,
+      "delta": -1.277,
+      "n_base": 16,
       "n_recent": 5
     },
     {
@@ -81,7 +80,7 @@
       "n_recent": 5
     },
     {
-      "pair": "CHRD / VHT",
+      "pair": "VHT / CHRD",
       "baseline": -0.171,
       "recent": 0.949,
       "delta": 1.12,
@@ -97,7 +96,7 @@
       "n_recent": 5
     },
     {
-      "pair": "CHRD / LLY",
+      "pair": "LLY / CHRD",
       "baseline": -0.137,
       "recent": 0.935,
       "delta": 1.072,
@@ -111,16 +110,8 @@
       "delta": 1.052,
       "n_base": 24,
       "n_recent": 5
-    },
-    {
-      "pair": "KNSA / IXC",
-      "baseline": -0.173,
-      "recent": 0.871,
-      "delta": 1.044,
-      "n_base": 19,
-      "n_recent": 5
     }
   ],
-  "note": "5-day window against a 24-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 24
+  "note": "5-day window against a 23-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 23
 }
