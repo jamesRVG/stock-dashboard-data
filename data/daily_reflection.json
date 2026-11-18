@@ -9,6 +9,16 @@
       "to": "Hold"
     },
     {
+      "ticker": "BTG",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "SSRM",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
       "ticker": "FNV",
       "from": "Buy",
       "to": "Hold"
@@ -20,16 +30,6 @@
     },
     {
       "ticker": "IAG",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "SSRM",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "BTG",
       "from": "Buy",
       "to": "Hold"
     },
@@ -69,5 +69,5 @@
   "bearish_tech_pct": 0.142,
   "market_pullback": false,
   "resilient_hold_count": 182,
-  "short_reflection": "Signal changes: NEM (Buy to Hold), FNV (Buy to Hold), RGLD (Buy to Hold), IAG (Buy to Hold)."
+  "short_reflection": "Signal changes: NEM (Buy to Hold), BTG (Buy to Hold), SSRM (Buy to Hold), FNV (Buy to Hold)."
 }
