@@ -1,59 +1,36 @@
 {
   "date": "2026-11-19",
-  "refreshed": "2026-11-19 14:13",
+  "refreshed": "2026-11-19 21:06",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs 10Y yield",
       "baseline": 0.282,
-      "recent": -0.592,
-      "delta": -0.874,
+      "recent": -0.545,
+      "delta": -0.827,
       "flip": false,
       "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "Copper vs S&P",
+      "baseline": 0.006,
+      "recent": 0.688,
+      "delta": 0.682,
+      "flip": false,
+      "n_base": 24,
       "n_recent": 5
     }
   ],
   "ticker_pairs": [
     {
-      "pair": "FBT / RHHBY",
-      "baseline": 0.587,
-      "recent": -0.772,
-      "delta": -1.359,
-      "n_base": 19,
-      "n_recent": 5
-    },
-    {
-      "pair": "EXEL / RHHBY",
-      "baseline": 0.424,
-      "recent": -0.875,
-      "delta": -1.299,
-      "n_base": 19,
-      "n_recent": 5
-    },
-    {
-      "pair": "TGTX / RHHBY",
-      "baseline": 0.523,
-      "recent": -0.761,
-      "delta": -1.284,
-      "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "VHT / XOP",
-      "baseline": -0.391,
-      "recent": 0.817,
-      "delta": 1.208,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "EXEL / CMBT",
-      "baseline": -0.352,
-      "recent": 0.775,
-      "delta": 1.127,
-      "n_base": 19,
-      "n_recent": 5
+      "pair": "KNSA / XLE",
+      "baseline": -0.279,
+      "recent": 0.942,
+      "delta": 1.221,
+      "n_base": 16,
+      "n_recent": 3
     },
     {
       "pair": "LLY / TGTX",
@@ -64,52 +41,84 @@
       "n_recent": 5
     },
     {
-      "pair": "CDNA / RHHBY",
-      "baseline": 0.377,
-      "recent": -0.735,
-      "delta": -1.112,
+      "pair": "LLY / CHRD",
+      "baseline": -0.104,
+      "recent": 0.962,
+      "delta": 1.066,
+      "n_base": 20,
+      "n_recent": 5
+    },
+    {
+      "pair": "ASND / XLE",
+      "baseline": -0.059,
+      "recent": 0.994,
+      "delta": 1.053,
+      "n_base": 12,
+      "n_recent": 3
+    },
+    {
+      "pair": "FBT / XLE",
+      "baseline": -0.056,
+      "recent": 0.989,
+      "delta": 1.045,
+      "n_base": 19,
+      "n_recent": 3
+    },
+    {
+      "pair": "ASND / NRIX",
+      "baseline": -0.207,
+      "recent": 0.814,
+      "delta": 1.021,
+      "n_base": 17,
+      "n_recent": 5
+    },
+    {
+      "pair": "EOG / TGTX",
+      "baseline": 0.423,
+      "recent": -0.553,
+      "delta": -0.976,
+      "n_base": 20,
+      "n_recent": 5
+    },
+    {
+      "pair": "CDNA / KNSA",
+      "baseline": -0.001,
+      "recent": 0.974,
+      "delta": 0.975,
+      "n_base": 21,
+      "n_recent": 5
+    },
+    {
+      "pair": "KNSA / FCG",
+      "baseline": -0.194,
+      "recent": 0.78,
+      "delta": 0.974,
       "n_base": 19,
       "n_recent": 5
     },
     {
-      "pair": "LLY / CHRD",
-      "baseline": -0.104,
-      "recent": 0.978,
-      "delta": 1.082,
+      "pair": "TGTX / CHRD",
+      "baseline": 0.391,
+      "recent": -0.576,
+      "delta": -0.967,
       "n_base": 20,
       "n_recent": 5
     },
     {
-      "pair": "VHT / TGTX",
-      "baseline": 0.421,
-      "recent": -0.661,
-      "delta": -1.082,
-      "n_base": 22,
+      "pair": "CDNA / ASND",
+      "baseline": -0.009,
+      "recent": 0.956,
+      "delta": 0.965,
+      "n_base": 17,
       "n_recent": 5
     },
     {
-      "pair": "VHT / CHRD",
-      "baseline": -0.101,
-      "recent": 0.974,
-      "delta": 1.075,
-      "n_base": 20,
-      "n_recent": 5
-    },
-    {
-      "pair": "KNSA / RHHBY",
-      "baseline": 0.412,
-      "recent": -0.645,
-      "delta": -1.057,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "FCG / VHT",
-      "baseline": -0.383,
-      "recent": 0.65,
-      "delta": 1.033,
-      "n_base": 22,
-      "n_recent": 5
+      "pair": "EXEL / XLE",
+      "baseline": 0.038,
+      "recent": 1.0,
+      "delta": 0.962,
+      "n_base": 19,
+      "n_recent": 3
     }
   ],
   "note": "5-day window against a 24-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
