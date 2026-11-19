@@ -1,25 +1,25 @@
 {
   "date": "2026-11-19",
-  "refreshed": "2026-11-19 21:06",
+  "refreshed": "2026-11-19 23:45",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "S&P vs 10Y yield",
-      "baseline": 0.282,
-      "recent": -0.545,
-      "delta": -0.827,
+      "pair": "Copper vs S&P",
+      "baseline": 0.005,
+      "recent": 0.718,
+      "delta": 0.713,
       "flip": false,
-      "n_base": 22,
+      "n_base": 23,
       "n_recent": 5
     },
     {
-      "pair": "Copper vs S&P",
-      "baseline": 0.006,
-      "recent": 0.688,
-      "delta": 0.682,
+      "pair": "S&P vs Gold",
+      "baseline": -0.362,
+      "recent": 0.249,
+      "delta": 0.611,
       "flip": false,
-      "n_base": 24,
+      "n_base": 23,
       "n_recent": 5
     }
   ],
@@ -27,56 +27,24 @@
     {
       "pair": "KNSA / XLE",
       "baseline": -0.279,
-      "recent": 0.942,
-      "delta": 1.221,
+      "recent": 0.997,
+      "delta": 1.276,
       "n_base": 16,
       "n_recent": 3
     },
     {
-      "pair": "LLY / TGTX",
-      "baseline": 0.42,
-      "recent": -0.707,
-      "delta": -1.127,
-      "n_base": 22,
-      "n_recent": 5
-    },
-    {
-      "pair": "LLY / CHRD",
-      "baseline": -0.104,
-      "recent": 0.962,
-      "delta": 1.066,
+      "pair": "TGTX / CHRD",
+      "baseline": 0.391,
+      "recent": -0.609,
+      "delta": -1.0,
       "n_base": 20,
-      "n_recent": 5
-    },
-    {
-      "pair": "ASND / XLE",
-      "baseline": -0.059,
-      "recent": 0.994,
-      "delta": 1.053,
-      "n_base": 12,
-      "n_recent": 3
-    },
-    {
-      "pair": "FBT / XLE",
-      "baseline": -0.056,
-      "recent": 0.989,
-      "delta": 1.045,
-      "n_base": 19,
-      "n_recent": 3
-    },
-    {
-      "pair": "ASND / NRIX",
-      "baseline": -0.207,
-      "recent": 0.814,
-      "delta": 1.021,
-      "n_base": 17,
       "n_recent": 5
     },
     {
       "pair": "EOG / TGTX",
       "baseline": 0.423,
-      "recent": -0.553,
-      "delta": -0.976,
+      "recent": -0.565,
+      "delta": -0.988,
       "n_base": 20,
       "n_recent": 5
     },
@@ -89,38 +57,70 @@
       "n_recent": 5
     },
     {
-      "pair": "KNSA / FCG",
-      "baseline": -0.194,
-      "recent": 0.78,
-      "delta": 0.974,
-      "n_base": 19,
-      "n_recent": 5
-    },
-    {
-      "pair": "TGTX / CHRD",
-      "baseline": 0.391,
-      "recent": -0.576,
-      "delta": -0.967,
-      "n_base": 20,
-      "n_recent": 5
-    },
-    {
-      "pair": "CDNA / ASND",
-      "baseline": -0.009,
-      "recent": 0.956,
-      "delta": 0.965,
-      "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "EXEL / XLE",
-      "baseline": 0.038,
-      "recent": 1.0,
-      "delta": 0.962,
+      "pair": "FBT / XLE",
+      "baseline": -0.056,
+      "recent": 0.895,
+      "delta": 0.951,
       "n_base": 19,
       "n_recent": 3
+    },
+    {
+      "pair": "FBT / TRMD",
+      "baseline": 0.385,
+      "recent": -0.524,
+      "delta": -0.909,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "KNSA / FCG",
+      "baseline": -0.194,
+      "recent": 0.704,
+      "delta": 0.898,
+      "n_base": 19,
+      "n_recent": 5
+    },
+    {
+      "pair": "ASND / DHT",
+      "baseline": 0.198,
+      "recent": -0.665,
+      "delta": -0.863,
+      "n_base": 15,
+      "n_recent": 5
+    },
+    {
+      "pair": "EXEL / TRMD",
+      "baseline": 0.113,
+      "recent": -0.748,
+      "delta": -0.861,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "KNSA / EOG",
+      "baseline": -0.266,
+      "recent": 0.544,
+      "delta": 0.81,
+      "n_base": 19,
+      "n_recent": 5
+    },
+    {
+      "pair": "STNG / TGTX",
+      "baseline": 0.162,
+      "recent": -0.643,
+      "delta": -0.805,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "TNK / TGTX",
+      "baseline": 0.238,
+      "recent": -0.565,
+      "delta": -0.803,
+      "n_base": 22,
+      "n_recent": 5
     }
   ],
-  "note": "5-day window against a 24-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 24
+  "note": "5-day window against a 23-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 23
 }
