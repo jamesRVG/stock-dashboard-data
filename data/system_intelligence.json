@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19T02:41:37.794926",
+  "generated_at": "2026-11-19T14:13:53.752097",
   "history_snapshots": 118,
   "signal_accuracy": {
     "1d": {
       "Buy": {
         "win_pct": 0.227,
-        "avg_return": -0.0159,
+        "avg_return": -0.016,
         "n": 150
       }
     },
@@ -17,19 +17,19 @@
       },
       "Buy": {
         "win_pct": 0.095,
-        "avg_return": -0.0471,
+        "avg_return": -0.0472,
         "n": 347
       }
     },
     "20d": {
       "Strong Buy": {
         "win_pct": 0.056,
-        "avg_return": -0.1473,
+        "avg_return": -0.1475,
         "n": 478
       },
       "Buy": {
-        "win_pct": 0.196,
-        "avg_return": -0.077,
+        "win_pct": 0.194,
+        "avg_return": -0.0771,
         "n": 1152
       }
     },
@@ -50,7 +50,7 @@
   "category_performance": {
     "1d": {
       "Core": {
-        "avg_return": -0.0118,
+        "avg_return": -0.012,
         "win_pct": 0.277,
         "n": 101
       },
@@ -97,7 +97,7 @@
         "n": 11
       },
       "Core": {
-        "avg_return": -0.0389,
+        "avg_return": -0.0391,
         "win_pct": 0.131,
         "n": 236
       },
@@ -124,8 +124,8 @@
     },
     "20d": {
       "Core": {
-        "avg_return": -0.073,
-        "win_pct": 0.252,
+        "avg_return": -0.0733,
+        "win_pct": 0.25,
         "n": 828
       },
       "Core / Tech": {
@@ -228,8 +228,8 @@
     }
   },
   "score_correlation": {
-    "1d": -0.207,
-    "5d": -0.202,
+    "1d": -0.206,
+    "5d": -0.201,
     "20d": -0.291,
     "60d": 0.053
   },
@@ -237,12 +237,12 @@
     "macd": {
       "1d": {
         "bullish": {
-          "avg_return": -0.0171,
+          "avg_return": -0.0175,
           "win_pct": 0.214,
           "n": 42
         },
         "bearish": {
-          "avg_return": -0.0154,
+          "avg_return": -0.0155,
           "win_pct": 0.231,
           "n": 108
         }
@@ -254,20 +254,20 @@
           "n": 143
         },
         "bearish": {
-          "avg_return": -0.0482,
+          "avg_return": -0.0485,
           "win_pct": 0.053,
           "n": 207
         }
       },
       "20d": {
         "bullish": {
-          "avg_return": -0.1016,
+          "avg_return": -0.1017,
           "win_pct": 0.154,
           "n": 1043
         },
         "bearish": {
-          "avg_return": -0.0906,
-          "win_pct": 0.157,
+          "avg_return": -0.0907,
+          "win_pct": 0.153,
           "n": 587
         }
       },
@@ -292,7 +292,7 @@
           "n": 14
         },
         "neutral": {
-          "avg_return": -0.0174,
+          "avg_return": -0.0177,
           "win_pct": 0.203,
           "n": 128
         },
@@ -309,7 +309,7 @@
           "n": 16
         },
         "neutral": {
-          "avg_return": -0.0508,
+          "avg_return": -0.051,
           "win_pct": 0.067,
           "n": 285
         },
@@ -326,12 +326,12 @@
           "n": 55
         },
         "neutral": {
-          "avg_return": -0.0865,
-          "win_pct": 0.175,
+          "avg_return": -0.0867,
+          "win_pct": 0.173,
           "n": 1088
         },
         "overbought": {
-          "avg_return": -0.132,
+          "avg_return": -0.1321,
           "win_pct": 0.094,
           "n": 487
         }
@@ -357,7 +357,7 @@
     "peg": {
       "1d": {
         "low": {
-          "avg_return": -0.0176,
+          "avg_return": -0.0179,
           "win_pct": 0.244,
           "n": 90
         },
@@ -369,7 +369,7 @@
       },
       "5d": {
         "low": {
-          "avg_return": -0.0491,
+          "avg_return": -0.0493,
           "win_pct": 0.08,
           "n": 212
         },
@@ -386,8 +386,8 @@
       },
       "20d": {
         "low": {
-          "avg_return": -0.0955,
-          "win_pct": 0.186,
+          "avg_return": -0.0957,
+          "win_pct": 0.184,
           "n": 1064
         },
         "mid": {
@@ -433,8 +433,8 @@
     },
     "basis": "Score-to-return correlation is weak (<0.10) over 20 days; composite weighting may need review.",
     "score_correlation": {
-      "1d": -0.207,
-      "5d": -0.202,
+      "1d": -0.206,
+      "5d": -0.201,
       "20d": -0.291,
       "60d": 0.053
     }
