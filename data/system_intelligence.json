@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-20T02:26:03.407875",
+  "generated_at": "2026-11-20T14:13:03.234258",
   "history_snapshots": 119,
   "signal_accuracy": {
     "1d": {
       "Buy": {
         "win_pct": 0.207,
-        "avg_return": -0.0174,
+        "avg_return": -0.0175,
         "n": 150
       }
     },
     "5d": {
       "Buy": {
         "win_pct": 0.046,
-        "avg_return": -0.0523,
+        "avg_return": -0.0524,
         "n": 350
       }
     },
@@ -24,19 +24,19 @@
       },
       "Buy": {
         "win_pct": 0.15,
-        "avg_return": -0.0884,
+        "avg_return": -0.0892,
         "n": 1166
       }
     },
     "60d": {
       "Strong Buy": {
         "win_pct": 0.156,
-        "avg_return": -0.1097,
+        "avg_return": -0.113,
         "n": 880
       },
       "Buy": {
         "win_pct": 0.159,
-        "avg_return": -0.1366,
+        "avg_return": -0.1465,
         "n": 1564
       }
     }
@@ -45,7 +45,7 @@
   "category_performance": {
     "1d": {
       "Core": {
-        "avg_return": -0.0113,
+        "avg_return": -0.0115,
         "win_pct": 0.263,
         "n": 95
       },
@@ -77,7 +77,7 @@
     },
     "5d": {
       "Core": {
-        "avg_return": -0.0498,
+        "avg_return": -0.05,
         "win_pct": 0.065,
         "n": 247
       },
@@ -109,7 +109,7 @@
     },
     "20d": {
       "Core": {
-        "avg_return": -0.0807,
+        "avg_return": -0.0808,
         "win_pct": 0.212,
         "n": 832
       },
@@ -149,7 +149,7 @@
         "n": 26
       },
       "Tech": {
-        "avg_return": -0.3987,
+        "avg_return": -0.5113,
         "win_pct": 0.0,
         "n": 7
       },
@@ -181,7 +181,7 @@
         "n": 799
       },
       "Tech": {
-        "avg_return": -0.3807,
+        "avg_return": -0.4618,
         "win_pct": 0.035,
         "n": 227
       },
@@ -213,57 +213,57 @@
     }
   },
   "score_correlation": {
-    "1d": -0.292,
-    "5d": -0.126,
-    "20d": -0.286,
-    "60d": 0.076
+    "1d": -0.289,
+    "5d": -0.122,
+    "20d": -0.275,
+    "60d": 0.079
   },
   "factor_analysis": {
     "macd": {
       "1d": {
         "bullish": {
-          "avg_return": -0.0324,
+          "avg_return": -0.0325,
           "win_pct": 0.194,
           "n": 31
         },
         "bearish": {
-          "avg_return": -0.0134,
+          "avg_return": -0.0136,
           "win_pct": 0.21,
           "n": 119
         }
       },
       "5d": {
         "bullish": {
-          "avg_return": -0.0515,
+          "avg_return": -0.0516,
           "win_pct": 0.07,
           "n": 128
         },
         "bearish": {
-          "avg_return": -0.0528,
+          "avg_return": -0.0529,
           "win_pct": 0.032,
           "n": 222
         }
       },
       "20d": {
         "bullish": {
-          "avg_return": -0.1106,
+          "avg_return": -0.1107,
           "win_pct": 0.118,
           "n": 1049
         },
         "bearish": {
-          "avg_return": -0.0995,
+          "avg_return": -0.1009,
           "win_pct": 0.125,
           "n": 582
         }
       },
       "60d": {
         "bullish": {
-          "avg_return": -0.155,
+          "avg_return": -0.1651,
           "win_pct": 0.147,
           "n": 1552
         },
         "bearish": {
-          "avg_return": -0.078,
+          "avg_return": -0.0811,
           "win_pct": 0.177,
           "n": 892
         }
@@ -277,12 +277,12 @@
           "n": 26
         },
         "neutral": {
-          "avg_return": -0.0182,
+          "avg_return": -0.0184,
           "win_pct": 0.208,
           "n": 120
         },
         "overbought": {
-          "avg_return": -0.0415,
+          "avg_return": -0.0417,
           "win_pct": 0.0,
           "n": 4
         }
@@ -294,12 +294,12 @@
           "n": 15
         },
         "neutral": {
-          "avg_return": -0.0517,
+          "avg_return": -0.0519,
           "win_pct": 0.027,
           "n": 291
         },
         "overbought": {
-          "avg_return": -0.0515,
+          "avg_return": -0.0516,
           "win_pct": 0.114,
           "n": 44
         }
@@ -311,12 +311,12 @@
           "n": 58
         },
         "neutral": {
-          "avg_return": -0.0978,
+          "avg_return": -0.0986,
           "win_pct": 0.132,
           "n": 1098
         },
         "overbought": {
-          "avg_return": -0.1369,
+          "avg_return": -0.137,
           "win_pct": 0.076,
           "n": 475
         }
@@ -328,7 +328,7 @@
           "n": 16
         },
         "neutral": {
-          "avg_return": -0.1301,
+          "avg_return": -0.1409,
           "win_pct": 0.167,
           "n": 1698
         },
@@ -342,12 +342,12 @@
     "peg": {
       "1d": {
         "low": {
-          "avg_return": -0.0187,
+          "avg_return": -0.0188,
           "win_pct": 0.213,
           "n": 89
         },
         "mid": {
-          "avg_return": -0.0427,
+          "avg_return": -0.0435,
           "win_pct": 0.0,
           "n": 4
         },
@@ -359,12 +359,12 @@
       },
       "5d": {
         "low": {
-          "avg_return": -0.0517,
+          "avg_return": -0.0519,
           "win_pct": 0.034,
           "n": 208
         },
         "mid": {
-          "avg_return": -0.0251,
+          "avg_return": -0.0261,
           "win_pct": 0.143,
           "n": 7
         },
@@ -376,12 +376,12 @@
       },
       "20d": {
         "low": {
-          "avg_return": -0.1047,
+          "avg_return": -0.1048,
           "win_pct": 0.156,
           "n": 1066
         },
         "mid": {
-          "avg_return": -0.1271,
+          "avg_return": -0.1274,
           "win_pct": 0.214,
           "n": 28
         },
@@ -423,10 +423,10 @@
     },
     "basis": "Score-to-return correlation is weak (<0.10) over 20 days; composite weighting may need review.",
     "score_correlation": {
-      "1d": -0.292,
-      "5d": -0.126,
-      "20d": -0.286,
-      "60d": 0.076
+      "1d": -0.289,
+      "5d": -0.122,
+      "20d": -0.275,
+      "60d": 0.079
     }
   },
   "statistical_insights": [
@@ -435,7 +435,7 @@
     "RSI oversold (<35) outperforming overbought (>65) by 3.2% over 1d. Confirm mean-reversion scoring is working.",
     "RSI overbought stocks outperforming oversold over 5d. Momentum may be dominant; consider reducing the oversold RSI buy signal weight.",
     "Underperforming 5d: Commod (-5.9%), Energy (-5.7%).",
-    "Underperforming 20d: Tech (-39.9%), Core / Tech (-29.2%)."
+    "Underperforming 20d: Tech (-51.1%), Core / Tech (-29.2%)."
   ],
   "claude_synthesis": null
 }

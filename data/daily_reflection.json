@@ -4,22 +4,7 @@
   "movers_down": [],
   "signal_changes": [
     {
-      "ticker": "RGLD",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "IAG",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "VYMI",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "BVN",
+      "ticker": "EUFN",
       "from": "Buy",
       "to": "Hold"
     },
@@ -29,12 +14,7 @@
       "to": "Hold"
     },
     {
-      "ticker": "CGAU",
-      "from": "Buy",
-      "to": "Hold"
-    },
-    {
-      "ticker": "AYA",
+      "ticker": "VYMI",
       "from": "Buy",
       "to": "Hold"
     },
@@ -47,6 +27,31 @@
       "ticker": "IDV",
       "from": "Buy",
       "to": "Hold"
+    },
+    {
+      "ticker": "IAG",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "RGLD",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "BVN",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "CGAU",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "AYA",
+      "from": "Buy",
+      "to": "Hold"
     }
   ],
   "generated": "rule_based",
@@ -54,5 +59,5 @@
   "bearish_tech_pct": 0.162,
   "market_pullback": false,
   "resilient_hold_count": 187,
-  "short_reflection": "Signal changes: RGLD (Buy to Hold), IAG (Buy to Hold), VYMI (Buy to Hold), BVN (Buy to Hold)."
+  "short_reflection": "Signal changes: EUFN (Buy to Hold), EWZ (Buy to Hold), VYMI (Buy to Hold), SCHY (Buy to Hold)."
 }
