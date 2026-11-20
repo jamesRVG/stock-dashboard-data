@@ -1,25 +1,16 @@
 {
-  "date": "2026-11-19",
-  "refreshed": "2026-11-19 23:45",
+  "date": "2026-11-20",
+  "refreshed": "2026-11-20 02:25",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "Copper vs S&P",
-      "baseline": 0.005,
-      "recent": 0.718,
-      "delta": 0.713,
+      "pair": "Gold vs Dollar",
+      "baseline": -0.332,
+      "recent": 0.361,
+      "delta": 0.693,
       "flip": false,
-      "n_base": 23,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs Gold",
-      "baseline": -0.362,
-      "recent": 0.249,
-      "delta": 0.611,
-      "flip": false,
-      "n_base": 23,
+      "n_base": 24,
       "n_recent": 5
     }
   ],
@@ -33,7 +24,7 @@
       "n_recent": 3
     },
     {
-      "pair": "TGTX / CHRD",
+      "pair": "CHRD / TGTX",
       "baseline": 0.391,
       "recent": -0.609,
       "delta": -1.0,
@@ -73,7 +64,7 @@
       "n_recent": 5
     },
     {
-      "pair": "KNSA / FCG",
+      "pair": "FCG / KNSA",
       "baseline": -0.194,
       "recent": 0.704,
       "delta": 0.898,
@@ -121,6 +112,6 @@
       "n_recent": 5
     }
   ],
-  "note": "5-day window against a 23-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 23
+  "note": "5-day window against a 24-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 24
 }
