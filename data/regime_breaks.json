@@ -1,14 +1,14 @@
 {
   "date": "2026-11-20",
-  "refreshed": "2026-11-20 20:43",
+  "refreshed": "2026-11-20 23:19",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs Gold",
       "baseline": -0.365,
-      "recent": 0.707,
-      "delta": 1.072,
+      "recent": 0.77,
+      "delta": 1.135,
       "flip": false,
       "n_base": 23,
       "n_recent": 5
@@ -16,8 +16,8 @@
     {
       "pair": "Gold vs Dollar",
       "baseline": -0.332,
-      "recent": 0.614,
-      "delta": 0.946,
+      "recent": 0.632,
+      "delta": 0.964,
       "flip": false,
       "n_base": 23,
       "n_recent": 5
@@ -25,8 +25,8 @@
     {
       "pair": "Oil vs S&P",
       "baseline": 0.334,
-      "recent": -0.376,
-      "delta": -0.71,
+      "recent": -0.448,
+      "delta": -0.782,
       "flip": false,
       "n_base": 23,
       "n_recent": 5
@@ -34,17 +34,8 @@
     {
       "pair": "Copper vs S&P",
       "baseline": 0.019,
-      "recent": 0.696,
-      "delta": 0.677,
-      "flip": false,
-      "n_base": 23,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs 10Y yield",
-      "baseline": 0.282,
-      "recent": -0.331,
-      "delta": -0.613,
+      "recent": 0.678,
+      "delta": 0.659,
       "flip": false,
       "n_base": 23,
       "n_recent": 5
@@ -52,99 +43,99 @@
   ],
   "ticker_pairs": [
     {
+      "pair": "FBT / AMGN",
+      "baseline": 0.76,
+      "recent": -0.72,
+      "delta": -1.48,
+      "n_base": 17,
+      "n_recent": 5
+    },
+    {
       "pair": "CHRD / AMGN",
       "baseline": -0.618,
-      "recent": 0.766,
-      "delta": 1.384,
+      "recent": 0.823,
+      "delta": 1.441,
       "n_base": 13,
       "n_recent": 5
     },
     {
       "pair": "EOG / AMGN",
       "baseline": -0.549,
-      "recent": 0.789,
-      "delta": 1.338,
-      "n_base": 15,
-      "n_recent": 5
-    },
-    {
-      "pair": "IXC / AMGN",
-      "baseline": -0.521,
-      "recent": 0.799,
-      "delta": 1.32,
+      "recent": 0.838,
+      "delta": 1.387,
       "n_base": 15,
       "n_recent": 5
     },
     {
       "pair": "IEO / AMGN",
       "baseline": -0.563,
-      "recent": 0.751,
-      "delta": 1.314,
+      "recent": 0.814,
+      "delta": 1.377,
       "n_base": 13,
+      "n_recent": 5
+    },
+    {
+      "pair": "IXC / AMGN",
+      "baseline": -0.521,
+      "recent": 0.842,
+      "delta": 1.363,
+      "n_base": 15,
       "n_recent": 5
     },
     {
       "pair": "TGTX / AMGN",
       "baseline": 0.367,
-      "recent": -0.919,
-      "delta": -1.286,
+      "recent": -0.952,
+      "delta": -1.319,
       "n_base": 15,
-      "n_recent": 5
-    },
-    {
-      "pair": "XOP / AMGN",
-      "baseline": -0.523,
-      "recent": 0.674,
-      "delta": 1.197,
-      "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "FBT / AMGN",
-      "baseline": 0.76,
-      "recent": -0.346,
-      "delta": -1.106,
-      "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "TNK / AMGN",
-      "baseline": -0.487,
-      "recent": 0.607,
-      "delta": 1.094,
-      "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "CHRD / TGTX",
-      "baseline": 0.35,
-      "recent": -0.677,
-      "delta": -1.027,
-      "n_base": 20,
-      "n_recent": 5
-    },
-    {
-      "pair": "EOG / TGTX",
-      "baseline": 0.43,
-      "recent": -0.592,
-      "delta": -1.022,
-      "n_base": 20,
       "n_recent": 5
     },
     {
       "pair": "TRMD / FBT",
       "baseline": 0.386,
-      "recent": -0.566,
-      "delta": -0.952,
+      "recent": -0.923,
+      "delta": -1.309,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "CDNA / KNSA",
-      "baseline": 0.035,
-      "recent": 0.974,
-      "delta": 0.939,
-      "n_base": 21,
+      "pair": "XOP / AMGN",
+      "baseline": -0.523,
+      "recent": 0.758,
+      "delta": 1.281,
+      "n_base": 17,
+      "n_recent": 5
+    },
+    {
+      "pair": "EOG / TGTX",
+      "baseline": 0.43,
+      "recent": -0.717,
+      "delta": -1.147,
+      "n_base": 20,
+      "n_recent": 5
+    },
+    {
+      "pair": "CHRD / TGTX",
+      "baseline": 0.35,
+      "recent": -0.79,
+      "delta": -1.14,
+      "n_base": 20,
+      "n_recent": 5
+    },
+    {
+      "pair": "TNK / AMGN",
+      "baseline": -0.487,
+      "recent": 0.649,
+      "delta": 1.136,
+      "n_base": 17,
+      "n_recent": 5
+    },
+    {
+      "pair": "TEN / FBT",
+      "baseline": 0.298,
+      "recent": -0.813,
+      "delta": -1.111,
+      "n_base": 24,
       "n_recent": 5
     }
   ],
