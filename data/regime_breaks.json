@@ -1,41 +1,68 @@
 {
-  "date": "2026-11-22",
-  "refreshed": "2026-11-22 20:48",
+  "date": "2026-11-23",
+  "refreshed": "2026-11-23 14:24",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs Gold",
-      "baseline": -0.33,
-      "recent": 0.903,
-      "delta": 1.233,
-      "flip": false,
-      "n_base": 25,
-      "n_recent": 5
-    },
-    {
-      "pair": "Gold vs 10Y yield",
-      "baseline": -0.092,
-      "recent": 0.731,
-      "delta": 0.823,
-      "flip": false,
-      "n_base": 25,
-      "n_recent": 5
-    },
-    {
-      "pair": "Copper vs S&P",
-      "baseline": 0.075,
-      "recent": 0.853,
-      "delta": 0.778,
+      "baseline": -0.356,
+      "recent": 0.875,
+      "delta": 1.231,
       "flip": false,
       "n_base": 25,
       "n_recent": 5
     },
     {
       "pair": "Gold vs Dollar",
-      "baseline": -0.335,
-      "recent": 0.381,
-      "delta": 0.716,
+      "baseline": -0.355,
+      "recent": 0.83,
+      "delta": 1.185,
+      "flip": false,
+      "n_base": 25,
+      "n_recent": 5
+    },
+    {
+      "pair": "Gold vs 10Y yield",
+      "baseline": -0.329,
+      "recent": 0.764,
+      "delta": 1.093,
+      "flip": false,
+      "n_base": 25,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs VIX",
+      "baseline": 0.129,
+      "recent": -0.728,
+      "delta": -0.857,
+      "flip": false,
+      "n_base": 25,
+      "n_recent": 5
+    },
+    {
+      "pair": "Copper vs S&P",
+      "baseline": 0.068,
+      "recent": 0.838,
+      "delta": 0.77,
+      "flip": false,
+      "n_base": 25,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs 10Y yield",
+      "baseline": 0.237,
+      "recent": 0.936,
+      "delta": 0.699,
+      "flip": false,
+      "n_base": 25,
+      "n_recent": 5
+    },
+    {
+      "pair": "Oil vs S&P",
+      "baseline": 0.413,
+      "recent": -0.188,
+      "delta": -0.601,
       "flip": false,
       "n_base": 25,
       "n_recent": 5
@@ -43,99 +70,99 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "PTGX / AMGN",
-      "baseline": 0.737,
-      "recent": -0.898,
-      "delta": -1.635,
-      "n_base": 13,
+      "pair": "LPG / FRO",
+      "baseline": 0.854,
+      "recent": -0.599,
+      "delta": -1.453,
+      "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "AMGN / IEO",
-      "baseline": -0.513,
-      "recent": 0.98,
-      "delta": 1.493,
+      "baseline": -0.437,
+      "recent": 0.987,
+      "delta": 1.424,
+      "n_base": 14,
+      "n_recent": 5
+    },
+    {
+      "pair": "ECO / LPG",
+      "baseline": 0.751,
+      "recent": -0.664,
+      "delta": -1.415,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "PTGX / AMGN",
+      "baseline": 0.694,
+      "recent": -0.717,
+      "delta": -1.411,
       "n_base": 14,
       "n_recent": 5
     },
     {
       "pair": "EOG / TGTX",
-      "baseline": 0.494,
-      "recent": -0.955,
-      "delta": -1.449,
+      "baseline": 0.472,
+      "recent": -0.922,
+      "delta": -1.394,
       "n_base": 20,
       "n_recent": 5
     },
     {
+      "pair": "AMGN / TGTX",
+      "baseline": 0.534,
+      "recent": -0.844,
+      "delta": -1.378,
+      "n_base": 16,
+      "n_recent": 5
+    },
+    {
       "pair": "AMGN / XOP",
-      "baseline": -0.457,
-      "recent": 0.989,
-      "delta": 1.446,
+      "baseline": -0.357,
+      "recent": 0.995,
+      "delta": 1.352,
       "n_base": 18,
       "n_recent": 5
     },
     {
-      "pair": "PTGX / CHRD",
-      "baseline": 0.459,
-      "recent": -0.957,
-      "delta": -1.416,
-      "n_base": 14,
+      "pair": "CHRD / TGTX",
+      "baseline": 0.381,
+      "recent": -0.918,
+      "delta": -1.299,
+      "n_base": 20,
+      "n_recent": 5
+    },
+    {
+      "pair": "DHT / TGTX",
+      "baseline": 0.357,
+      "recent": -0.913,
+      "delta": -1.27,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "ECO / PTGX",
+      "baseline": 0.308,
+      "recent": -0.949,
+      "delta": -1.257,
+      "n_base": 19,
+      "n_recent": 5
+    },
+    {
+      "pair": "FRO / TGTX",
+      "baseline": 0.345,
+      "recent": -0.911,
+      "delta": -1.256,
+      "n_base": 22,
       "n_recent": 5
     },
     {
       "pair": "AMGN / FCG",
-      "baseline": -0.44,
-      "recent": 0.958,
-      "delta": 1.398,
+      "baseline": -0.304,
+      "recent": 0.946,
+      "delta": 1.25,
       "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "AMGN / CHRD",
-      "baseline": -0.468,
-      "recent": 0.898,
-      "delta": 1.366,
-      "n_base": 14,
-      "n_recent": 5
-    },
-    {
-      "pair": "FBT / AMGN",
-      "baseline": 0.767,
-      "recent": -0.59,
-      "delta": -1.357,
-      "n_base": 18,
-      "n_recent": 5
-    },
-    {
-      "pair": "FRO / NRIX",
-      "baseline": 0.584,
-      "recent": -0.757,
-      "delta": -1.341,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "PTGX / EOG",
-      "baseline": 0.422,
-      "recent": -0.91,
-      "delta": -1.332,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "AMGN / TGTX",
-      "baseline": 0.395,
-      "recent": -0.93,
-      "delta": -1.325,
-      "n_base": 16,
-      "n_recent": 5
-    },
-    {
-      "pair": "NRIX / FCG",
-      "baseline": 0.636,
-      "recent": -0.684,
-      "delta": -1.32,
-      "n_base": 22,
       "n_recent": 5
     }
   ],
