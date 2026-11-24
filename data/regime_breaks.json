@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "refreshed": "2026-11-24 03:25",
+  "refreshed": "2026-11-24 05:27",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -16,8 +16,8 @@
     {
       "pair": "Gold vs Dollar",
       "baseline": -0.354,
-      "recent": 0.833,
-      "delta": 1.187,
+      "recent": 0.801,
+      "delta": 1.155,
       "flip": false,
       "n_base": 26,
       "n_recent": 5
@@ -51,7 +51,7 @@
       "n_recent": 5
     },
     {
-      "pair": "DHT / PURR",
+      "pair": "PURR / DHT",
       "baseline": 0.706,
       "recent": -0.955,
       "delta": -1.661,
@@ -99,7 +99,7 @@
       "n_recent": 5
     },
     {
-      "pair": "PTGX / KNSA",
+      "pair": "KNSA / PTGX",
       "baseline": 0.417,
       "recent": -0.975,
       "delta": -1.392,
@@ -107,7 +107,7 @@
       "n_recent": 5
     },
     {
-      "pair": "KNSA / ASND",
+      "pair": "ASND / KNSA",
       "baseline": 0.389,
       "recent": -0.993,
       "delta": -1.382,
