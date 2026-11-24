@@ -1,47 +1,64 @@
 {
   "date": "2026-11-24",
-  "refreshed": "2026-11-24 14:11",
+  "refreshed": "2026-11-24 22:53",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "Oil vs S&P",
-      "baseline": 0.417,
-      "recent": -0.772,
-      "delta": -1.189,
+      "baseline": 0.416,
+      "recent": -0.769,
+      "delta": -1.185,
       "flip": true,
-      "n_base": 26,
+      "n_base": 25,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs VIX",
+      "baseline": 0.144,
+      "recent": -0.935,
+      "delta": -1.079,
+      "flip": false,
+      "n_base": 25,
       "n_recent": 5
     },
     {
       "pair": "Gold vs Dollar",
-      "baseline": -0.354,
-      "recent": 0.604,
-      "delta": 0.958,
+      "baseline": -0.359,
+      "recent": 0.596,
+      "delta": 0.955,
       "flip": false,
-      "n_base": 26,
+      "n_base": 25,
       "n_recent": 5
     },
     {
       "pair": "S&P vs 10Y yield",
-      "baseline": 0.268,
-      "recent": -0.685,
-      "delta": -0.953,
+      "baseline": 0.269,
+      "recent": -0.652,
+      "delta": -0.921,
       "flip": false,
-      "n_base": 26,
+      "n_base": 25,
       "n_recent": 5
     },
     {
       "pair": "S&P vs Gold",
-      "baseline": -0.297,
-      "recent": 0.441,
-      "delta": 0.738,
+      "baseline": -0.295,
+      "recent": 0.475,
+      "delta": 0.77,
       "flip": false,
-      "n_base": 26,
+      "n_base": 25,
       "n_recent": 5
     }
   ],
   "ticker_pairs": [
+    {
+      "pair": "ECO / CMBT",
+      "baseline": 0.812,
+      "recent": -1.0,
+      "delta": -1.812,
+      "n_base": 19,
+      "n_recent": 3
+    },
     {
       "pair": "LPG / DHT",
       "baseline": 0.818,
@@ -83,6 +100,14 @@
       "n_recent": 5
     },
     {
+      "pair": "CMBT / DHT",
+      "baseline": 0.73,
+      "recent": -1.0,
+      "delta": -1.73,
+      "n_base": 19,
+      "n_recent": 3
+    },
+    {
       "pair": "INSW / DHT",
       "baseline": 0.827,
       "recent": -0.868,
@@ -99,6 +124,14 @@
       "n_recent": 5
     },
     {
+      "pair": "CMBT / FCG",
+      "baseline": 0.656,
+      "recent": -1.0,
+      "delta": -1.656,
+      "n_base": 19,
+      "n_recent": 3
+    },
+    {
       "pair": "TRMD / DHT",
       "baseline": 0.861,
       "recent": -0.79,
@@ -107,38 +140,14 @@
       "n_recent": 5
     },
     {
-      "pair": "DHT / NRIX",
-      "baseline": 0.671,
-      "recent": -0.964,
-      "delta": -1.635,
-      "n_base": 22,
-      "n_recent": 5
-    },
-    {
-      "pair": "INSW / EOG",
-      "baseline": 0.709,
-      "recent": -0.893,
-      "delta": -1.602,
-      "n_base": 22,
-      "n_recent": 5
-    },
-    {
-      "pair": "TEN / DHT",
-      "baseline": 0.837,
-      "recent": -0.745,
-      "delta": -1.582,
-      "n_base": 22,
-      "n_recent": 5
-    },
-    {
-      "pair": "INSW / XOP",
-      "baseline": 0.702,
-      "recent": -0.879,
-      "delta": -1.581,
-      "n_base": 24,
-      "n_recent": 5
+      "pair": "CMBT / EOG",
+      "baseline": 0.645,
+      "recent": -1.0,
+      "delta": -1.645,
+      "n_base": 19,
+      "n_recent": 3
     }
   ],
-  "note": "5-day window against a 26-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 26
+  "note": "5-day window against a 25-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 25
 }
