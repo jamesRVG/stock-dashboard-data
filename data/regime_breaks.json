@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "refreshed": "2026-11-24 05:27",
+  "refreshed": "2026-11-24 14:11",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -16,8 +16,8 @@
     {
       "pair": "Gold vs Dollar",
       "baseline": -0.354,
-      "recent": 0.801,
-      "delta": 1.155,
+      "recent": 0.604,
+      "delta": 0.958,
       "flip": false,
       "n_base": 26,
       "n_recent": 5
@@ -43,99 +43,99 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "KNSA / FBT",
-      "baseline": 0.715,
-      "recent": -0.956,
-      "delta": -1.671,
-      "n_base": 23,
+      "pair": "LPG / DHT",
+      "baseline": 0.818,
+      "recent": -0.961,
+      "delta": -1.779,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "ECO / TEN",
+      "baseline": 0.889,
+      "recent": -0.881,
+      "delta": -1.77,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "ECO / TRMD",
+      "baseline": 0.826,
+      "recent": -0.912,
+      "delta": -1.738,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "ECO / LPG",
+      "baseline": 0.735,
+      "recent": -0.998,
+      "delta": -1.733,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "INSW / ECO",
+      "baseline": 0.772,
+      "recent": -0.958,
+      "delta": -1.73,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "INSW / DHT",
+      "baseline": 0.827,
+      "recent": -0.868,
+      "delta": -1.695,
+      "n_base": 22,
       "n_recent": 5
     },
     {
       "pair": "PURR / DHT",
       "baseline": 0.706,
-      "recent": -0.955,
-      "delta": -1.661,
+      "recent": -0.979,
+      "delta": -1.685,
       "n_base": 17,
       "n_recent": 5
     },
     {
-      "pair": "ECO / PURR",
-      "baseline": 0.608,
-      "recent": -0.993,
-      "delta": -1.601,
-      "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "FRO / PURR",
-      "baseline": 0.639,
-      "recent": -0.938,
-      "delta": -1.577,
-      "n_base": 17,
+      "pair": "TRMD / DHT",
+      "baseline": 0.861,
+      "recent": -0.79,
+      "delta": -1.651,
+      "n_base": 22,
       "n_recent": 5
     },
     {
       "pair": "DHT / NRIX",
       "baseline": 0.671,
-      "recent": -0.875,
-      "delta": -1.546,
+      "recent": -0.964,
+      "delta": -1.635,
       "n_base": 22,
       "n_recent": 5
     },
     {
-      "pair": "ECO / NRIX",
-      "baseline": 0.533,
-      "recent": -0.95,
-      "delta": -1.483,
+      "pair": "INSW / EOG",
+      "baseline": 0.709,
+      "recent": -0.893,
+      "delta": -1.602,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "TEN / DHT",
+      "baseline": 0.837,
+      "recent": -0.745,
+      "delta": -1.582,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "INSW / XOP",
+      "baseline": 0.702,
+      "recent": -0.879,
+      "delta": -1.581,
       "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "FRO / NRIX",
-      "baseline": 0.591,
-      "recent": -0.849,
-      "delta": -1.44,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "KNSA / PTGX",
-      "baseline": 0.417,
-      "recent": -0.975,
-      "delta": -1.392,
-      "n_base": 21,
-      "n_recent": 5
-    },
-    {
-      "pair": "ASND / KNSA",
-      "baseline": 0.389,
-      "recent": -0.993,
-      "delta": -1.382,
-      "n_base": 18,
-      "n_recent": 5
-    },
-    {
-      "pair": "TNK / PURR",
-      "baseline": 0.697,
-      "recent": -0.684,
-      "delta": -1.381,
-      "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "KNSA / PURR",
-      "baseline": 0.507,
-      "recent": -0.839,
-      "delta": -1.346,
-      "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "EXEL / KNSA",
-      "baseline": 0.326,
-      "recent": -0.983,
-      "delta": -1.309,
-      "n_base": 23,
       "n_recent": 5
     }
   ],
