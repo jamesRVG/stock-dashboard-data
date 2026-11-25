@@ -1,32 +1,14 @@
 {
   "date": "2026-11-25",
-  "refreshed": "2026-11-25 04:16",
+  "refreshed": "2026-11-25 22:07",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs 10Y yield",
       "baseline": 0.287,
-      "recent": -1.0,
-      "delta": -1.287,
-      "flip": false,
-      "n_base": 25,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs VIX",
-      "baseline": 0.054,
-      "recent": -1.0,
-      "delta": -1.054,
-      "flip": false,
-      "n_base": 25,
-      "n_recent": 5
-    },
-    {
-      "pair": "Oil vs S&P",
-      "baseline": 0.325,
-      "recent": -0.646,
-      "delta": -0.971,
+      "recent": -0.99,
+      "delta": -1.277,
       "flip": false,
       "n_base": 25,
       "n_recent": 5
@@ -34,8 +16,26 @@
     {
       "pair": "Gold vs Dollar",
       "baseline": -0.236,
-      "recent": 0.474,
-      "delta": 0.71,
+      "recent": 0.821,
+      "delta": 1.057,
+      "flip": false,
+      "n_base": 25,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs VIX",
+      "baseline": 0.054,
+      "recent": -0.985,
+      "delta": -1.039,
+      "flip": false,
+      "n_base": 25,
+      "n_recent": 5
+    },
+    {
+      "pair": "Oil vs S&P",
+      "baseline": 0.325,
+      "recent": -0.674,
+      "delta": -0.999,
       "flip": false,
       "n_base": 25,
       "n_recent": 5
@@ -51,7 +51,7 @@
       "n_recent": 5
     },
     {
-      "pair": "ECO / TEN",
+      "pair": "TEN / ECO",
       "baseline": 0.876,
       "recent": -0.957,
       "delta": -1.833,
@@ -83,7 +83,7 @@
       "n_recent": 5
     },
     {
-      "pair": "CMBT / DHT",
+      "pair": "DHT / CMBT",
       "baseline": 0.735,
       "recent": -1.0,
       "delta": -1.735,
@@ -99,20 +99,12 @@
       "n_recent": 5
     },
     {
-      "pair": "ECO / LPG",
+      "pair": "LPG / ECO",
       "baseline": 0.705,
       "recent": -0.994,
       "delta": -1.699,
       "n_base": 24,
       "n_recent": 5
-    },
-    {
-      "pair": "CMBT / EOG",
-      "baseline": 0.644,
-      "recent": -1.0,
-      "delta": -1.644,
-      "n_base": 18,
-      "n_recent": 4
     },
     {
       "pair": "STNG / ECO",
@@ -136,6 +128,14 @@
       "recent": -0.987,
       "delta": -1.552,
       "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "FRO / DHT",
+      "baseline": 0.943,
+      "recent": -0.597,
+      "delta": -1.54,
+      "n_base": 22,
       "n_recent": 5
     }
   ],
