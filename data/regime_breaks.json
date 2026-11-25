@@ -1,50 +1,41 @@
 {
-  "date": "2026-11-24",
-  "refreshed": "2026-11-24 22:53",
+  "date": "2026-11-25",
+  "refreshed": "2026-11-25 01:34",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
-      "pair": "Oil vs S&P",
-      "baseline": 0.416,
-      "recent": -0.769,
-      "delta": -1.185,
-      "flip": true,
+      "pair": "S&P vs 10Y yield",
+      "baseline": 0.287,
+      "recent": -1.0,
+      "delta": -1.287,
+      "flip": false,
       "n_base": 25,
       "n_recent": 5
     },
     {
       "pair": "S&P vs VIX",
-      "baseline": 0.144,
-      "recent": -0.935,
-      "delta": -1.079,
+      "baseline": 0.054,
+      "recent": -1.0,
+      "delta": -1.054,
+      "flip": false,
+      "n_base": 25,
+      "n_recent": 5
+    },
+    {
+      "pair": "Oil vs S&P",
+      "baseline": 0.325,
+      "recent": -0.646,
+      "delta": -0.971,
       "flip": false,
       "n_base": 25,
       "n_recent": 5
     },
     {
       "pair": "Gold vs Dollar",
-      "baseline": -0.359,
-      "recent": 0.596,
-      "delta": 0.955,
-      "flip": false,
-      "n_base": 25,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs 10Y yield",
-      "baseline": 0.269,
-      "recent": -0.652,
-      "delta": -0.921,
-      "flip": false,
-      "n_base": 25,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs Gold",
-      "baseline": -0.295,
-      "recent": 0.475,
-      "delta": 0.77,
+      "baseline": -0.236,
+      "recent": 0.579,
+      "delta": 0.815,
       "flip": false,
       "n_base": 25,
       "n_recent": 5
@@ -60,42 +51,10 @@
       "n_recent": 3
     },
     {
-      "pair": "LPG / DHT",
-      "baseline": 0.818,
-      "recent": -0.961,
-      "delta": -1.779,
-      "n_base": 22,
-      "n_recent": 5
-    },
-    {
       "pair": "ECO / TEN",
       "baseline": 0.889,
-      "recent": -0.881,
-      "delta": -1.77,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "ECO / TRMD",
-      "baseline": 0.826,
-      "recent": -0.912,
-      "delta": -1.738,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "ECO / LPG",
-      "baseline": 0.735,
-      "recent": -0.998,
-      "delta": -1.733,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "INSW / ECO",
-      "baseline": 0.772,
-      "recent": -0.958,
-      "delta": -1.73,
+      "recent": -0.857,
+      "delta": -1.746,
       "n_base": 24,
       "n_recent": 5
     },
@@ -108,35 +67,35 @@
       "n_recent": 3
     },
     {
-      "pair": "INSW / DHT",
-      "baseline": 0.827,
-      "recent": -0.868,
-      "delta": -1.695,
-      "n_base": 22,
+      "pair": "ECO / LPG",
+      "baseline": 0.735,
+      "recent": -0.993,
+      "delta": -1.728,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "ECO / TRMD",
+      "baseline": 0.826,
+      "recent": -0.879,
+      "delta": -1.705,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "INSW / ECO",
+      "baseline": 0.772,
+      "recent": -0.915,
+      "delta": -1.687,
+      "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "PURR / DHT",
       "baseline": 0.706,
-      "recent": -0.979,
-      "delta": -1.685,
+      "recent": -0.967,
+      "delta": -1.673,
       "n_base": 17,
-      "n_recent": 5
-    },
-    {
-      "pair": "CMBT / FCG",
-      "baseline": 0.656,
-      "recent": -1.0,
-      "delta": -1.656,
-      "n_base": 19,
-      "n_recent": 3
-    },
-    {
-      "pair": "TRMD / DHT",
-      "baseline": 0.861,
-      "recent": -0.79,
-      "delta": -1.651,
-      "n_base": 22,
       "n_recent": 5
     },
     {
@@ -146,6 +105,38 @@
       "delta": -1.645,
       "n_base": 19,
       "n_recent": 3
+    },
+    {
+      "pair": "LPG / DHT",
+      "baseline": 0.818,
+      "recent": -0.799,
+      "delta": -1.617,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "ECO / NRIX",
+      "baseline": 0.533,
+      "recent": -0.976,
+      "delta": -1.509,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "FRO / ECO",
+      "baseline": 0.955,
+      "recent": -0.545,
+      "delta": -1.5,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "LPG / EOG",
+      "baseline": 0.617,
+      "recent": -0.842,
+      "delta": -1.459,
+      "n_base": 22,
+      "n_recent": 5
     }
   ],
   "note": "5-day window against a 25-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
