@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "refreshed": "2026-11-25 01:34",
+  "refreshed": "2026-11-25 04:16",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -34,8 +34,8 @@
     {
       "pair": "Gold vs Dollar",
       "baseline": -0.236,
-      "recent": 0.579,
-      "delta": 0.815,
+      "recent": 0.474,
+      "delta": 0.71,
       "flip": false,
       "n_base": 25,
       "n_recent": 5
@@ -43,99 +43,99 @@
   ],
   "ticker_pairs": [
     {
-      "pair": "ECO / CMBT",
-      "baseline": 0.812,
-      "recent": -1.0,
-      "delta": -1.812,
-      "n_base": 19,
-      "n_recent": 3
+      "pair": "FRO / ECO",
+      "baseline": 0.959,
+      "recent": -0.949,
+      "delta": -1.908,
+      "n_base": 24,
+      "n_recent": 5
     },
     {
       "pair": "ECO / TEN",
-      "baseline": 0.889,
-      "recent": -0.857,
-      "delta": -1.746,
+      "baseline": 0.876,
+      "recent": -0.957,
+      "delta": -1.833,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "CMBT / DHT",
-      "baseline": 0.73,
+      "pair": "ECO / CMBT",
+      "baseline": 0.829,
       "recent": -1.0,
-      "delta": -1.73,
-      "n_base": 19,
-      "n_recent": 3
-    },
-    {
-      "pair": "ECO / LPG",
-      "baseline": 0.735,
-      "recent": -0.993,
-      "delta": -1.728,
-      "n_base": 24,
-      "n_recent": 5
+      "delta": -1.829,
+      "n_base": 18,
+      "n_recent": 4
     },
     {
       "pair": "ECO / TRMD",
-      "baseline": 0.826,
-      "recent": -0.879,
-      "delta": -1.705,
+      "baseline": 0.825,
+      "recent": -0.974,
+      "delta": -1.799,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "INSW / ECO",
-      "baseline": 0.772,
-      "recent": -0.915,
-      "delta": -1.687,
+      "baseline": 0.757,
+      "recent": -0.994,
+      "delta": -1.751,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "PURR / DHT",
-      "baseline": 0.706,
-      "recent": -0.967,
-      "delta": -1.673,
-      "n_base": 17,
+      "pair": "CMBT / DHT",
+      "baseline": 0.735,
+      "recent": -1.0,
+      "delta": -1.735,
+      "n_base": 18,
+      "n_recent": 4
+    },
+    {
+      "pair": "TNK / ECO",
+      "baseline": 0.857,
+      "recent": -0.851,
+      "delta": -1.708,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "ECO / LPG",
+      "baseline": 0.705,
+      "recent": -0.994,
+      "delta": -1.699,
+      "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "CMBT / EOG",
-      "baseline": 0.645,
+      "baseline": 0.644,
       "recent": -1.0,
-      "delta": -1.645,
-      "n_base": 19,
-      "n_recent": 3
+      "delta": -1.644,
+      "n_base": 18,
+      "n_recent": 4
     },
     {
-      "pair": "LPG / DHT",
-      "baseline": 0.818,
-      "recent": -0.799,
-      "delta": -1.617,
+      "pair": "STNG / ECO",
+      "baseline": 0.816,
+      "recent": -0.763,
+      "delta": -1.579,
+      "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "INSW / DHT",
+      "baseline": 0.816,
+      "recent": -0.749,
+      "delta": -1.565,
       "n_base": 22,
       "n_recent": 5
     },
     {
       "pair": "ECO / NRIX",
-      "baseline": 0.533,
-      "recent": -0.976,
-      "delta": -1.509,
+      "baseline": 0.565,
+      "recent": -0.987,
+      "delta": -1.552,
       "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "FRO / ECO",
-      "baseline": 0.955,
-      "recent": -0.545,
-      "delta": -1.5,
-      "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "LPG / EOG",
-      "baseline": 0.617,
-      "recent": -0.842,
-      "delta": -1.459,
-      "n_base": 22,
       "n_recent": 5
     }
   ],
