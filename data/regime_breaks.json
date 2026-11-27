@@ -1,14 +1,14 @@
 {
   "date": "2026-11-27",
-  "refreshed": "2026-11-27 03:39",
+  "refreshed": "2026-11-27 21:44",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs 10Y yield",
       "baseline": 0.296,
-      "recent": -0.99,
-      "delta": -1.286,
+      "recent": -0.985,
+      "delta": -1.281,
       "flip": false,
       "n_base": 25,
       "n_recent": 5
@@ -16,17 +16,8 @@
     {
       "pair": "Gold vs Dollar",
       "baseline": -0.239,
-      "recent": 0.826,
-      "delta": 1.065,
-      "flip": false,
-      "n_base": 25,
-      "n_recent": 5
-    },
-    {
-      "pair": "S&P vs VIX",
-      "baseline": 0.074,
-      "recent": -0.985,
-      "delta": -1.059,
+      "recent": 0.719,
+      "delta": 0.958,
       "flip": false,
       "n_base": 25,
       "n_recent": 5
@@ -34,8 +25,17 @@
     {
       "pair": "Oil vs S&P",
       "baseline": 0.332,
-      "recent": -0.627,
-      "delta": -0.959,
+      "recent": -0.543,
+      "delta": -0.875,
+      "flip": false,
+      "n_base": 25,
+      "n_recent": 5
+    },
+    {
+      "pair": "S&P vs VIX",
+      "baseline": 0.074,
+      "recent": -0.783,
+      "delta": -0.857,
       "flip": false,
       "n_base": 25,
       "n_recent": 5
@@ -83,11 +83,19 @@
       "n_recent": 5
     },
     {
-      "pair": "LPG / ECO",
+      "pair": "ECO / LPG",
       "baseline": 0.746,
       "recent": -0.962,
       "delta": -1.708,
       "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "ECO / REGN",
+      "baseline": 0.681,
+      "recent": -0.979,
+      "delta": -1.66,
+      "n_base": 19,
       "n_recent": 5
     },
     {
@@ -123,19 +131,11 @@
       "n_recent": 5
     },
     {
-      "pair": "TRMD / DHT",
+      "pair": "DHT / TRMD",
       "baseline": 0.848,
       "recent": -0.686,
       "delta": -1.534,
       "n_base": 22,
-      "n_recent": 5
-    },
-    {
-      "pair": "ECO / NRIX",
-      "baseline": 0.566,
-      "recent": -0.953,
-      "delta": -1.519,
-      "n_base": 24,
       "n_recent": 5
     }
   ],
