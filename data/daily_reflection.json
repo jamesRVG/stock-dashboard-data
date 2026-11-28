@@ -4,6 +4,46 @@
   "movers_down": [],
   "signal_changes": [
     {
+      "ticker": "FNV",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "AYA",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "RGLD",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "CGAU",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "OGC",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "EWZ",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "SCHY",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
+      "ticker": "EUFN",
+      "from": "Buy",
+      "to": "Hold"
+    },
+    {
       "ticker": "NEM",
       "from": "Buy",
       "to": "Hold"
@@ -12,17 +52,12 @@
       "ticker": "BTG",
       "from": "Buy",
       "to": "Hold"
-    },
-    {
-      "ticker": "EUFN",
-      "from": "Buy",
-      "to": "Hold"
     }
   ],
   "generated": "rule_based",
   "market_context": "Normal conditions",
   "bearish_tech_pct": 0.136,
   "market_pullback": false,
-  "resilient_hold_count": 197,
-  "short_reflection": "Signal changes: NEM (Buy to Hold), BTG (Buy to Hold), EUFN (Buy to Hold)."
+  "resilient_hold_count": 239,
+  "short_reflection": "Signal changes: FNV (Buy to Hold), AYA (Buy to Hold), RGLD (Buy to Hold), CGAU (Buy to Hold)."
 }

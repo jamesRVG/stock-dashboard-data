@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "refreshed": "2026-11-28 00:42",
+  "refreshed": "2026-11-28 03:25",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
@@ -35,18 +35,26 @@
   "ticker_pairs": [
     {
       "pair": "FRO / ECO",
-      "baseline": 0.965,
+      "baseline": 0.967,
       "recent": -0.933,
-      "delta": -1.898,
+      "delta": -1.9,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "TNK / ECO",
-      "baseline": 0.907,
+      "baseline": 0.908,
       "recent": -0.891,
-      "delta": -1.798,
+      "delta": -1.799,
       "n_base": 24,
+      "n_recent": 5
+    },
+    {
+      "pair": "ECO / CMBT",
+      "baseline": 0.866,
+      "recent": -0.917,
+      "delta": -1.783,
+      "n_base": 17,
       "n_recent": 5
     },
     {
@@ -58,14 +66,6 @@
       "n_recent": 5
     },
     {
-      "pair": "ECO / CMBT",
-      "baseline": 0.838,
-      "recent": -0.917,
-      "delta": -1.755,
-      "n_base": 17,
-      "n_recent": 5
-    },
-    {
       "pair": "ECO / LPG",
       "baseline": 0.746,
       "recent": -0.955,
@@ -74,26 +74,18 @@
       "n_recent": 5
     },
     {
-      "pair": "ECO / REGN",
-      "baseline": 0.681,
-      "recent": -0.981,
-      "delta": -1.662,
-      "n_base": 19,
-      "n_recent": 5
-    },
-    {
       "pair": "FRO / DHT",
-      "baseline": 0.948,
+      "baseline": 0.951,
       "recent": -0.711,
-      "delta": -1.659,
+      "delta": -1.662,
       "n_base": 22,
       "n_recent": 5
     },
     {
       "pair": "INSW / ECO",
-      "baseline": 0.788,
+      "baseline": 0.793,
       "recent": -0.856,
-      "delta": -1.644,
+      "delta": -1.649,
       "n_base": 24,
       "n_recent": 5
     },
@@ -107,9 +99,9 @@
     },
     {
       "pair": "STNG / ECO",
-      "baseline": 0.888,
+      "baseline": 0.913,
       "recent": -0.687,
-      "delta": -1.575,
+      "delta": -1.6,
       "n_base": 24,
       "n_recent": 5
     },
@@ -122,12 +114,20 @@
       "n_recent": 5
     },
     {
-      "pair": "XBI / NBIX",
-      "baseline": 0.799,
-      "recent": -0.753,
-      "delta": -1.552,
-      "n_base": 13,
-      "n_recent": 3
+      "pair": "TNK / DHT",
+      "baseline": 0.946,
+      "recent": -0.595,
+      "delta": -1.541,
+      "n_base": 22,
+      "n_recent": 5
+    },
+    {
+      "pair": "LPG / DHT",
+      "baseline": 0.776,
+      "recent": -0.741,
+      "delta": -1.517,
+      "n_base": 22,
+      "n_recent": 5
     }
   ],
   "note": "5-day window against a 26-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
