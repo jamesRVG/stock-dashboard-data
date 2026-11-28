@@ -1,43 +1,34 @@
 {
-  "date": "2026-11-27",
-  "refreshed": "2026-11-27 21:44",
+  "date": "2026-11-28",
+  "refreshed": "2026-11-28 00:42",
   "recent_days": 5,
   "min_delta": 0.6,
   "macro_pairs": [
     {
       "pair": "S&P vs 10Y yield",
-      "baseline": 0.296,
+      "baseline": 0.295,
       "recent": -0.985,
-      "delta": -1.281,
+      "delta": -1.28,
       "flip": false,
-      "n_base": 25,
-      "n_recent": 5
-    },
-    {
-      "pair": "Gold vs Dollar",
-      "baseline": -0.239,
-      "recent": 0.719,
-      "delta": 0.958,
-      "flip": false,
-      "n_base": 25,
-      "n_recent": 5
-    },
-    {
-      "pair": "Oil vs S&P",
-      "baseline": 0.332,
-      "recent": -0.543,
-      "delta": -0.875,
-      "flip": false,
-      "n_base": 25,
+      "n_base": 26,
       "n_recent": 5
     },
     {
       "pair": "S&P vs VIX",
-      "baseline": 0.074,
+      "baseline": 0.072,
       "recent": -0.783,
-      "delta": -0.857,
+      "delta": -0.855,
       "flip": false,
-      "n_base": 25,
+      "n_base": 26,
+      "n_recent": 5
+    },
+    {
+      "pair": "Oil vs S&P",
+      "baseline": 0.327,
+      "recent": -0.44,
+      "delta": -0.767,
+      "flip": false,
+      "n_base": 26,
       "n_recent": 5
     }
   ],
@@ -45,100 +36,100 @@
     {
       "pair": "FRO / ECO",
       "baseline": 0.965,
-      "recent": -0.948,
-      "delta": -1.913,
+      "recent": -0.933,
+      "delta": -1.898,
       "n_base": 24,
       "n_recent": 5
     },
     {
-      "pair": "XBI / NBIX",
-      "baseline": 0.799,
-      "recent": -1.0,
-      "delta": -1.799,
-      "n_base": 13,
-      "n_recent": 3
-    },
-    {
       "pair": "TNK / ECO",
       "baseline": 0.907,
-      "recent": -0.889,
-      "delta": -1.796,
+      "recent": -0.891,
+      "delta": -1.798,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "ECO / TRMD",
       "baseline": 0.803,
-      "recent": -0.96,
-      "delta": -1.763,
+      "recent": -0.961,
+      "delta": -1.764,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "ECO / CMBT",
       "baseline": 0.838,
-      "recent": -0.925,
-      "delta": -1.763,
+      "recent": -0.917,
+      "delta": -1.755,
       "n_base": 17,
       "n_recent": 5
     },
     {
       "pair": "ECO / LPG",
       "baseline": 0.746,
-      "recent": -0.962,
-      "delta": -1.708,
+      "recent": -0.955,
+      "delta": -1.701,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "ECO / REGN",
       "baseline": 0.681,
-      "recent": -0.979,
-      "delta": -1.66,
+      "recent": -0.981,
+      "delta": -1.662,
       "n_base": 19,
+      "n_recent": 5
+    },
+    {
+      "pair": "FRO / DHT",
+      "baseline": 0.948,
+      "recent": -0.711,
+      "delta": -1.659,
+      "n_base": 22,
       "n_recent": 5
     },
     {
       "pair": "INSW / ECO",
       "baseline": 0.788,
-      "recent": -0.87,
-      "delta": -1.658,
+      "recent": -0.856,
+      "delta": -1.644,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "TEN / ECO",
       "baseline": 0.897,
-      "recent": -0.741,
-      "delta": -1.638,
+      "recent": -0.717,
+      "delta": -1.614,
       "n_base": 24,
-      "n_recent": 5
-    },
-    {
-      "pair": "FRO / DHT",
-      "baseline": 0.948,
-      "recent": -0.656,
-      "delta": -1.604,
-      "n_base": 22,
       "n_recent": 5
     },
     {
       "pair": "STNG / ECO",
       "baseline": 0.888,
-      "recent": -0.688,
-      "delta": -1.576,
+      "recent": -0.687,
+      "delta": -1.575,
       "n_base": 24,
       "n_recent": 5
     },
     {
       "pair": "DHT / TRMD",
       "baseline": 0.848,
-      "recent": -0.686,
-      "delta": -1.534,
+      "recent": -0.709,
+      "delta": -1.557,
       "n_base": 22,
       "n_recent": 5
+    },
+    {
+      "pair": "XBI / NBIX",
+      "baseline": 0.799,
+      "recent": -0.753,
+      "delta": -1.552,
+      "n_base": 13,
+      "n_recent": 3
     }
   ],
-  "note": "5-day window against a 25-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
-  "baseline_days": 25
+  "note": "5-day window against a 26-day baseline. A short baseline makes correlation noisy; this is a prompt to look, not a signal to trade.",
+  "baseline_days": 26
 }
